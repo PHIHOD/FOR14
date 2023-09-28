@@ -1,0 +1,11137 @@
+
+
+## Chapter 1 Introduction
+
+The _Planckian_ model of gravity is a very general theory of gravity, and it is a very general theory of gravity. The _Planckian_ model of gravity is a very general theory of gravity.
+
+Fangehandboka
+
+7. utgave 2018
+
+(c) Jussbus
+
+Omslag: Christian Hovda Husan
+
+Grafisk produksjon: 07 Media - 07.no
+
+ISBN: 978-82-999245-2-8 
+
+**Fangehandboka**
+
+**Jussbuss' veiledning**
+
+**i fengelselssp$\acute{o}$rsmal**
+
+7. utgave
+
+# Forord til syvende utgave av Fangehandboka
+
+Fengselgsruppa pa
+
+Jussbuss ved:
+
+Anette H. Bergland
+
+Tore Moen
+
+Lara M. Wik
+
+Ingvid Heimland Henni
+
+Louise Sandaker Hannon
+
+Vilde Svendsrud
+
+Alexander S. Aarrestad
+
+Ingrid Sigstad Lie
+
+Kristina Davidsen
+
+Ingrid A. Keenan
+
+Marie Linga Sklke
+
+Karen Hjelmervik Nerbe
+
+Haakon Rann Stensaeth
+
+Kine Irgens
+
+Oslo, juni 2018
+
+Jussbuss har siden 1977 arbeident med fengselsrett, og en
+
+egen arbeidsgruppe er i dag viet til dette saksfeltet. I zpet av
+
+disse arene har vi opparbeident en spisskompetanse pa omradet
+
+gjennom faste saksmottak i en rekke fengseler i Norge, searlig pa
+
+Ostlandet. Vi har ogsa tett kontakt og samarbeid med det kriminalpolitische nettrekret i Norge.
+
+Siden 1987 har Fangehandboka blitt utgitt i seks utgaver. Det har
+
+vist seg a vaere et vedvarende og stort behov blant landets innsatte
+
+for en helheltig frenstilling av reglene som bergrer dem som
+
+gruppe. Det er derfor et klart mal for oss at Fangehandboka skal
+
+varee tilqjengelig i alle anstalter, og aller helst at den skal ligge pa
+
+hver celle. Vi erfarer ogsa at Kriminalomsorgen selv bruker boka i
+
+sitt arbeid, og at parreende synes boka kan vaere nyttig for a sette
+
+seg inn i nverdagen til familie eller venner i fengsel. Vi sender ut
+
+Fangehandboka pa foresparsel til alle som matte enske det.
+
+Grunnen til at vi ijen ser behovet for en revidering av Fangehandboka, er ferst og fremst at deler av boken har bilt utdatert.
+
+Louverket har jiennomgatt en del endringer siden sist og hele
+
+boken er derfor oppodtert. I tillegg har omfatende kapitler biltt
+
+delt opp for a gjare boka enklere a bruke, og teksten har blitt
+
+omskrevet for a gjare regelverket mer tilqjengelig og mulja a forsta
+
+for alle. Vi har forsakt ainta mer utfyllende informasion om regler
+
+der vi har opplevd stor ettersparsel fra inssatte, for eksempel
+
+om fottenkesoning og SS 12-soning. Vi har ogsa skrevet mer om
+
+soningsoverfering til utlandet, og tatt med informasjon om bruk av
+
+videosamtaler (skype).
+
+Arbeident med a revidere Fangehandboka startet opp hasten 2017.
+
+Medarbeiderne i Jussbuss har jobbet med oppodteringen ved siden
+
+av studier eller ordiner saksbeandling, sa det her vaert et hektisk
+
+og spennende ar. Det har vaert stor ettersparsel etter en oppodtert
+
+versjon, og vi er veldig stolte og glade over a kunne presentere den
+
+syvende, men sikkert ikke den siste, utgaven av Fangehandboka.
+
+Siden retttstilstanden stadig er i utvikling ma man vaere
+
+opperksom p a t endringer kan ha skjedd nar man leser boka.
+
+Allerede i skrivende stund er det varslet endringer som kan berere
+
+deler av bokas innhold. Hvis viktige endringer i regelverket trer i
+
+kraft, vi vi etter beste evne forsake a opplyse om dette pa saks-
+
+mottak, og ved henvendelse til oss.
+
+Denne utgaven av Fangehandboka vi ogsa foreligge pa engelsk.
+
+Fordi vi gir Fangehandboka gratis til fengslene og til alle andre
+
+som ensker det, er vi avhengige av akonomisk statte til utgi-
+
+velsen. Jussbus finnisieres hovedsakelig gjennom bevigninger
+
+fra det offentlige. Uten disse midene hadde vi ikke hatt anlendning
+
+til a lage Fangehandboka.
+
+Vi vi ogsa rette en spesiell takt til de som har bidratt med a skrive
+
+kapitler og syare pa juridiske spersmal i lpet av prosessen. Vi
+
+takker advokat Kirsten Vikesland Mehle, advokat Nora Hallen,
+
+advokatfullmektig Stina Hoel Jensen, samt advokat Marit
+
+Lomundal Ssetter. Videre vi vi takke Anders Lavlie, farsteamanu-
+
+ensis ved Institutt for offentlig rett ved Det juridiske fakultet i Oslo.
+
+Tusen takt til JURK for god hijelp med kapitlene som omhandler
+
+kvinner og barn. Ikke alle innspill er blitt tatt til falge, og eventuelle
+
+feil eller mangler i Fangehandboka ma settes pa fengselsgruppa
+
+sin regning.
+
+Videre retter vi en takk til de andre arbeidsgruppene i Jussbuss, som
+
+har bidratt med kapitler pa deres rettsormader, samt daglig leder
+
+Tonje Liaas Larsen for statte og veiledning gjennom prosessen.
+
+Vi er glade for at sa mange bruker Fangehandboka aktivt, og vi
+
+habper at boka vi vaere til nytte for deg! 
+
+## 1 Introduction
+
+The _Fangehandboka_ is a _Fangehandboka_.
+
+* [1] I margene i boka henviser vi ote til lover, forskriffer, retningslinjer og rundskriv. Dette er for at du skal vite hvor vi har hentet det vi skriver, og for at du skal kunne sla opp i regeleverket hvis du ensker utfylende informasion. Vi bruker noen ganger forkortelser av lovene. Pa starten av te kapittel star alltid naynet pa loven skrevet fullt ut med forkortelsen i parentes.
+
+Den viktigste loven for insnaste er straffejennomferingsloven. Under loven harer det til en forskrift. Til lov og forskrift finnes retningslinjer som utdyper og forklarer hvordan reglene skal forstas og anvendes. Kriminalomsorgsdirektroatet og departementene har ogsa mange rundskriv som forklarer og gir veiledning til tokning av regler. Det finnes ogsa <<husordensregler>> som varierer fra fengsel til fengsel. Dette er ikke rettsregler, men de ma varere i trad med rettsreglene som gjelder. Hvis du er redd for at fengselet gjer noe ulovlig, kan du kontakte Jussbuss.
+
+Det er viktig a huske pa at rettsregler endrer seg hele tiden. Fangehandboka er oppdataert i henhold til gieldende rett juni 2018. Nar du leser boka og eventuelt bruker henvisingene i margen, ma du derfor vaere klar over at reglene kan ha endret seg, og det kan hende at henvisingene ikke lenger er korrekte. Eksempler kan vaere at en forskriftsbestemmelse er opphevet, at et punkt i retningslinjene er fyttet til et annet sted, eller at en lovregel er endret.
+
+Hvis du lurer pa hvordan du skal forsta eller bruke boka, kan du kontakte oss. Fangehandboka inneholder ikke all informasjon som kan vaere nyttig nar man sitter i fengsel. Jussbuss jobber med fierre rettsomrader en de det er skrevet om i Fangehandboka. Noen eksempler er husleie, kommunal bolig, familiejgenforening, statsborgerskap og oppholdstilatelse. Hvis du har sparsmal om andre tema enn de som star om i boka, kan du kontakte oss. Dersom vi ikke kan hjelpe deg, vi vi alitd forske a sette deg i kontakt med noen som kan.
+
+ Innhold
+
+Kapittel1 Politiavher 27
+
+I. Innkalling til politiavher 27
+
+II. Forklaringen din 28
+
+III. Advokat og tolk 29
+
+Kapittel2 Arrestasionen 31
+
+I. Hvilken rett har politiet til a arrestere deg? 31
+
+1. Firetimersregelen 31
+
+2. Anholdelelse ut over fire timer 31
+
+II. Ting det er greit a vite i forbindelse med arrestasionen 32
+
+1. Selve arrestasionen 32
+
+2. Hva har du plikt til a oppgi og a f uite? 32
+
+3. Har du rett til a underrette andre hvis du blir arrestert? 32
+
+4. Ansvar for barn 33
+
+5. Eiendelene dine, ransaking m.m. 33
+
+6. Fingeravtryk, foto og DNA 34
+
+III. Rett til forsvarer 34
+
+IV. Maktmisbruk og feil fra politiets side 34
+
+Kapittel3 Fengslingsmate og varetekfsengsling 36
+
+I. Fengslingsmotet 37
+
+II. Vilkar for nar politiet kan kreve varetektsfengsling 37
+
+III. Multighetene for a slippe varetektsfengsling 38
+
+IV. Brev og besek 38
+
+V. Fullstendig og delvis isolasjon under varetekt 38
+
+1. Fullstendig isolasjon 39
+
+2. Delvis isolasjon 40
+
+3. Varetektsfradrag 41
+
+VI. Forsvareren din 42
+
+VII. Hvor lenge blur du sittende i varetekt? 42
+
+VIII. Klage (anke) 42
+
+IX. Varetektsfengsling av barn 43
+
+X. Erstatning ved frifinnelse 43 * [15] I. Rutiner i fengselet, fengselets ansatte **44**
+* [16] II. Varetektsopholdet **45**
+* [17] 1. Arbeid, opulgering, program og andre tiltak **45**
+* [18] 2. Fremstilling og permisjon **45**
+* [19] 3. Reaksion **45**
+* [20] 4. Klagerett **45**
+* [21] 5. Plassering av varetektsinnsatte **46**
+* [22] 6. Helse **46**
+* [23] 7. Brev og besok **47**
+* [24] 8. Bruk av egne penger **47**
+* [25] **III. Eiendeler og forpliktelser **48**
+* [26] 1. Eiendeler **48**
+* [27] 2. Utigfter **48**
+* [28] **IV. Barn**
+* [29] **Kapittel 5**
+* [30] **I. Politiets muligheter etter endt etterforskning **50**
+* [31] 1. Pataleunnlatelse **50**
+* [32] 2. Konflikrad **51**
+* [33] 3. Ungdomststraff og ungdomsoppfelging **51**
+* [34] 4. Informasjon til barnevernet **52**
+* [35] 5. Forelegg **52**
+* [36] 6. Foreklet forelegg **52**
+* [37] 7. Tingretten aviser tilstaelsesdom **53**
+* [38] 8. Hovedforhandling for tingretten eller lagmannsrett **53**
+* [39] **II. Hovedforhandling for tingretten **54**
+* [40] **1. Behandlingen i tingretten **54**
+* [41] **III. Anke**
+* [42] 1. Anke til lagmannsretten **56**
+* [43] 2. Anke til Hoyesterett **57**
+* [44] 3. Krav til begrunnelse for ankenektelser **57**
+* [45] 4. Den europeiske menneskeretitighetsdomstol **58**
+* [46] **Kapittel 6**
+* [47] **I. Nar tar soningen til?**
+* [48] **II. Soningsustsettelse**
+* [49] 1. Soningsustsettelse pa grun av soningsudyktighet **61**
+* [50] 2. Soningsustsettelse i andre ttfeller **61**
+* [51] 3. Saksgangen **62** * [15] M.
+
+ 
+
+[MISSING_PAGE_POST]
+
+ 2.2 Avskjed 100
+
+2.3 Fraver fra arbeidsplassen under soning 100
+
+II. **Akivitetsplik t fengselet** **101**
+
+**III. Arbeid i fengselet** **102**
+
+1. Arbeidstiden for innsatte 102
+
+2. Arbeidsmilja 102
+
+2.1 Verneombud og arbeidsmiljgutvalg 103
+
+**IV. Utdanning i fengsel** **103**
+
+1. Former for undervinsning 104
+
+1.1 Undervinsningsmaterialell 104
+
+2. Fag og emmer 104
+
+3. Skolens apningstider 105
+
+4. Eksamen og vitnemal 105
+
+5. Oppfelgingsklasser 105
+
+6. Serregler om datautstyr 105
+
+**V. Program i fengsel** **106**
+
+**VI. $\bullet$Andre titlak$\bullet$ i fengsel** **106**
+
+**VII. Dapgenger i fengsel** **107**
+
+1. Fastsettelse av dagpengesatsen 107
+
+2. Bruk av dagpenger og private midler 108
+
+**VIII. Frigang fra fengsel** **109**
+
+1. Nar kan du ske frigang? 109
+
+2. Momenter i vurderingen 109
+
+3. Kontroll under frigang 110
+
+4. Frigang til arbeid 110
+
+4.1 Arbeidsavtale under frigang 110
+
+4.2 Lenn under frigang 110
+
+5. Frigang til a ga pa skole 111
+
+5.1 Hvor leenge kan du fa frigang til a ga pa skole? 111
+
+6. Frigang for utenlandske insnatte 111
+
+**IX. Arbeid etter endt soning** **112**
+
+1. Arbeidsavtalens formkrav 112
+
+Kapittel 12
+
+**I. Frtiidsaktiviteter** **114**
+
+1. Baker og lesing 114
+
+2. Fysiske aktiviteter 114
+
+3. Hobbyarbeid 114
+
+4. TV, radio og internett 115
+
+**II. Hva kan du ha pa cella?** **115** * [13] I. Besek, 117
+* [14] I. Gjennomfaring av besek 117
+* [15] 1.1 Hvor dite og lenge kan du f a besek? 117
+* [16] 1.2. Regler under beseket 118
+* [17] 2. Hvem kan besake deg? 118
+* [18] 3. Kontroll 119
+* [19] 3.1 Hva er kontroll? 119
+* [20] 3.2 Nar kan besek kontrolleres? 120
+* [21] 3.3 Saerregler for bestemte personer 121
+* [22] 4. Tiffeuler der besek kan nektes 122
+* [23] 4. Brev 123
+* [24] 1. Kontroll 123
+* [25] 1.1 Nar kan brev kontrolleres? 123
+* [26] 1.2 Hvordan kan posten kontrolleres? 124
+* [27] 1.3 Tiffeller der kontroll ikke er tillatt 124
+* [28] 1.4 Beslag
+* [29] 2. Praktiske sparsmal 125
+* [30] 2. Telefon 126
+* [31] 1. Bruk av telefon 126
+* [32] 2. Ringetid 126
+* [33] 3. Kontroll 127
+* [34] 4. Utigter 128
+* [35] 5. Telefon til og fra utlandet 128
+* [36] 6. Velferdstelefon 128
+* [37] 7. Morsmalistelefon 129
+* [38] 1. Videosamtaler 130
+* [39] 2. Regler for videosamtale 130
+* [40] 3. Hypighet og varighet 131
+* [41] 3. Kontroll 131
+* [42] 5. Kostnad 131
+
+* [43] 1. Permision og fremstiling 132
+
+* [44] 1. Vilkar og brudd 132
+* sviktfarevurderingen 133
+* [46] 1.2 Vilkar under permisjon 133
+* [47] 1.3 Tilleggsvilkar under permisjon 133
+* [48] 1.4 Brudd pa permisjonsvilkar 134
+* [49] 2. De ulike formene for permisjon 134 
+
+[MISSING_PAGE_POST]
+
+ * [15] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **96** (2016) 092004, doi:10.1103/PhysRevD.96.092004, arXiv:1502.0301.
+* [16] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _JHEP_ **09** (2017) 012, doi:10.1007/JHEP09(2017)012, arXiv:1609.02491.
+* [17] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. Lett._ **107** (2011) 092001, doi:10.1103/PhysRevLett.107.092001, arXiv:1007.2581.
+* [18] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. Lett._ **107** (2010) 092001, doi:10.1103/PhysRevLett.107.092001, arXiv:1007.2581.
+* [19] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. Lett._ **107** (2011) 092001, doi:10.1103/PhysRevLett.107.092001, arXiv:1007.2581.
+* [20] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. Lett._ **107** (2011) 092001, doi:10.1103/PhysRevLett.107.092001, arXiv:1007.2581.
+* [21] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. Lett._ **107** (2011) 092001, doi:10.1103/PhysRevLett.107.092001, arXiv:1007.2581.
+* [22] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. Lett._ **107** (2011) 092001, doi:10.1103/PhysRevLett.107.092001, arXiv:1007.2581.
+* [23] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. Lett._ **107** (2011) 092001, doi:10.1103/PhysRevLett.107.092001, arXiv:1007.2581.
+* [24] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. Lett._ **107** (2011) 092001, doi:10.1103/PhysRevLett.107.092001, arXiv:1007.2581.
+* [25] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. Lett._ **107** (2011) 092001, doi:10.1103/PhysRevLett.107.092001, arXiv:1007.2581.
+* [26] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. Lett._ **107** (2011) 092001, doi:10.1103/PhysRevLett.107.092001, arXiv:1007.2581.
+* [27] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. Lett._ **107** (2011) 092001, doi:10.1103/PhysRevLett.107.092001, arXiv:1007.2581.
+* [28] CMS Collaboration, "Measurement of the 2.5 Fortlepende vurdering av utelukkelsesgrunnlaget
+3. Utelukkelsens varghet
+3.1 Tilsyn og forebygging
+4. Saerlige utelukkelsesgrunner
+4.1 Utelukkelse pa grunn av bygnings- eller
+
+bemanningsmessige forhold
+4.2 Utelukkelse etter eget onske
+4.3 Kollektiv utelukkelse
+163
+
+**IV. Tvangsmidler**
+
+1. Nar det kan benyttes tvangsmidler
+164
+
+2. Vilkar for bruk av tvangsmidler
+164
+
+3. Oversikt over tvangsmidler
+164
+
+3.1 Saerlig om sikkerhetscelle og sikkerhetsseng
+165
+
+**V. Klage**
+
+**Kapittel 18**
+
+**I. Overfaring til fengsel med samme sikkerhetsniva**
+
+**167**
+
+1. Overfaring fra fengsel med hayt sikkerhetsniva (lukket
+
+fengsel) til et annet fengsel med hayt sikkerhetsniva (167
+
+2. Overfaring fra fengsel med lavere sikkerhetsniva (apent
+
+fengsel) til annet fengsel med lavere sikkerhetsniva (168
+
+3. Vanlige avslagsgrunner
+168
+
+3.1 Klage pa avslag
+169
+
+**II. Overfaring til fengsel med lavere sikkerhetsniva**
+
+1. Overfaring fra fengsel med sserlig hayt sikkerhetsniva
+
+til fengsel med hayt sikkerhetsniva
+
+169
+
+2. Overfaring fra fengsel med hayt sikkerhetsniva
+
+til fengsel med hayt sikkerhetsniva
+
+169
+
+2. Overfaring fra fengsel med hayt sikkerhetsniva
+
+til fengsel med lavere sikkerhetsniva
+
+169
+
+2. Overfaring fra fengsel med hayt sikkerhetsniva
+
+169
+
+2. Overfaring fra fengsel med hayt sikkerhetsniva
+
+169
+
+2. Overfaring fra fengsel med hayt sikkerhetsniva
+
+til fengsel med lavere sikkerhetsniva
+
+169
+
+2.1 Vilkar
+
+3. Seknad om overfaring til fengsel med lavere
+
+sikkerhetsniva
+
+171
+
+**III. Overfaring til overgangsboligig**
+
+**IV. Overfaring mot din vilje (tvangsoverfering)**
+
+**1.** Generett om alle typer tvangsoverfanger
+
+1.1 Straffbare handlinger
+
+1.2 Unndragelse fra straffegjennomferingen
+
+1.3 Saerlig negativ innflytelse pa miljjeet i fengselet
+
+1.4 Ro, orden og sikkerhet
+
+1.5 Bygnings- og bemanningsmessige forhold
+
+1.6 Saksbehandling * [19] M. C. Cacciari, G. P. Salam, and G. Soyez, "The anti-jet clustering algorithm", _JHEP_ **04** (2008) 063, doi:10.1007/JHEP04(2008)063, arXiv:0802.1189.
+* [20] M. Cacciari, G. P. Salam, and G. Soyez, "The anti-jet clustering algorithm", _JHEP_ **04** (2008) 063, doi:10.1007/JHEP04(2008)063, arXiv:0802.1189.
+* [21] M. Cacciari, G. P. Salam, and G. Soyez, "The anti-jet clustering algorithm", _JHEP_ **04** (2008) 010, doi:10.1007/JHEP04(2008)010, arXiv:0802.1189.
+* [22] M. Cacciari, G. P. Salam, and G. Soyez, "The anti-jet clustering algorithm", _JHEP_ **04** (2008) 012, doi:10.1007/JHEP04(2008)012, arXiv:0802.1189.
+* [23] M. Cacciari, G. P. Salam, and G. Soyez, "The anti-jet clustering algorithm", _JHEP_ **04** (2008) 013, doi:10.1007/JHEP04(2008)013, arXiv:0802.1189.
+* [24] M. Cacciari, G. P. Salam, and G. Soyez, "The anti-jet clustering algorithm", _JHEP_ **04** (2008) 012, doi:10.1007/JHEP04(2008)012, arXiv:0802.1189.
+* [25] M. Cacciari, G. P. Salam, and G. Soyez, "The anti-jet clustering algorithm", _JHEP_ **04** (2008) 013, doi:10.1007/JHEP04(2008)013, arXiv:0802.1189.
+* [26] M. Cacciari, G. P. Salam, and G. Soyez, "The anti-jet clustering algorithm", _JHEP_ **04** (2008) 012, doi:10.1007/JHEP04(2008)012, arXiv:0802.1189.
+* [27] M. Cacciari, G. P. Salam, and G. Soyez, "The anti-jet clustering algorithm", _JHEP_ **04** (2008) 013, doi:10.1007/JHEP04(2008)013, arXiv:0802.1189.
+* [28] M. Cacciari, G. P. Salam, and G. Soyez, "The anti-jet clustering algorithm", _JHEP_ **04** (2008) 012, doi:10.1007/JHEP04(2008)012, arXiv:0802.1189.
+* [29] M. Cacciari, G. P. Salam, and G. Soyez, "The anti-jet clustering algorithm", _JHEP_ **04** (2008) 013, doi:10.1007/JHEP04(2008)013, arXiv:0802.1189.
+* [30] M. Cacciari, G. P. Salam, and G. Soyez, "The anti-jet clustering algorithm", _JHEP_ **04** (2008) 012, doi:10.1007/JHEP04(2008)012, arXiv:0802.1189.
+* [31] M. Cacciari, G. P. Salam, and G. Soyez, "The anti-jet clustering algorithm", _JHEP_ **04** (2008) 013, doi:10.1007/JHEP04(2008)013, arXiv:0802.1189.
+* [32] M. Cacciari, G. P. Salam, and G. Soyez, "The anti-jet clustering algorithm", _JHEP_ **04** (2008) 012, doi:10.1007/JHEP04(2008)012, arXiv:0802.1189.
+* [33] M. Cacciari, G. P. Salam, and G. Soyez, "The anti-jet clustering algorithm", _JHEP_ **04** (2008) 013, doi:10.1007/JHEP04(2008)013, arXiv:0802.1189.
+* [34] M. Cacciari, G. P. Salam, and G. Soyez, "The anti-jet clustering algorithm", _JHEP_ **04** (2008) 012 
+
+[MISSING_PAGE_POST]
+
+ * [15] M. C. C. C. Collins, _et al._, _Phys. Rev. D_ **72** (2005) 054004, doi:10.1103/PhysRevD.72.054004, arXiv:hep-ph/0503175.
+* [16] M. C. Cacciari, G. P. Salam, and G. Soyez, _Phys. Lett. B_ **626** (2006) 1, doi:10.1016/j.physletb.2006.02.021, arXiv:hep-ph/0609118.
+* [17] M. Cacciari, G. P. Salam, and G. Soyez, _Phys. Lett. B_ **626** (2006) 309, doi:10.1016/j.physletb.2006.09.026, arXiv:hep-ph/0609118.
+* [18] M. Cacciari, G. P. Salam, and G. Soyez, _Phys. Lett. B_ **626** (2006) 313, doi:10.1016/j.physletb.2006.02.021, arXiv:hep-ph/0609118.
+* [19] M. Cacciari, G. P. Salam, and G. Soyez, _Phys. Lett. B_ **626** (2006) 313, doi:10.1016/j.physletb.2006.02.021, arXiv:hep-ph/0609118.
+* [20] M. Cacciari, G. P. Salam, and G. Soyez, _Phys. Lett. B_ **626** (2006) 313, doi:10.1016/j.physletb.2006.02.021, arXiv:hep-ph/0609118.
+* [21] M. Cacciari, G. P. Salam, and G. Soyez, _Phys. Lett. B_ **626** (2006) 313, doi:10.1016/j.physletb.2006.02.021, arXiv:hep-ph/0609118.
+* [22] M. Cacciari, G. P. Salam, and G. Soyez, _Phys. Lett. B_ **626** (2006) 313, doi:10.1016/j.physletb.2006.02.021, arXiv:hep-ph/0609118.
+* [23] M. Cacciari, G. P. Salam, and G. Soyez, _Phys. Lett. B_ **626** (2006) 313, doi:10.1016/j.physletb.2006.02.021, arXiv:hep-ph/0609118.
+* [24] M. Cacciari, G. P. Salam, and G. Soyez, _Phys. Lett. B_ **626** (2006) 313, doi:10.1016/j.physletb.2006.02.021, arXiv:hep-ph/0609118.
+* [25] M. Cacciari, G. P. Salam, and G. Soyez, _Phys. Lett. B_ **626** (2006) 313, doi:10.1016/j.physletb.2006.02.021, arXiv:hep-ph/0609118.
+* [26] M. Cacciari, G. P. Salam, and G. Soyez, _Phys. Lett. B_ **626** (2006) 313, doi:10.1016/j.physletb.2006.02.021, arXiv:hep-ph/0609118.
+* [27] M. Cacciari, G. P. Salam, and G. Soyez, _Phys. Lett. B_ **626** (2006) 313, doi:10.1016/j.physletb.2006.02.021, arXiv:hep-ph/0609118.
+* [28] M. Cacciari, G. P. Salam, and G. Soyez, _Phys. Lett. B_ **626** (2006) 313, doi:10.1016/j.physletb.2006.02.021, arXiv:hep-ph/0609118.
+* [29] M. Cacciari, G. P. Salam, and G. Soyez, _Phys. Lett. B_ **626** (2006) 313, doi:10.1016/j.physletb.2006.02.021, arXiv:hep-ph/0609118.
+* [30] M. Cacciari, G. P. Salam, and G. Soyez, _Phys. Lett. B_ **626** (2006) 313, doi:10.1016/j.physletb.2006.02.021, arXiv:hep-ph/0609118.
+
+ 
+
+**VI. Arbeid, opplaring, program og andre tiltak** **227**
+
+**VII. Permisjon, straffavbrudd og fremstilling** **227**
+
+**VIII. Overfering** **227**
+
+**Kapittel 28**
+
+**Forberedelse til leslatelse** **229**
+
+**I. Kriminalomsorgens oppgaver** **229**
+
+**II. Reiseutgifter ved leslatelse** **230**
+
+**III. Klaer og annet utstyr til bruk ved leslatelsen** **230**
+
+**Kapittel 29**
+
+**Praveleslatelse og fremskutt leslatelse** **231**
+
+**I. Loslatelse pa 1/2-tid** **231**
+
+**II. Loslatelse mellom 1/2-tid og 2/3-tid** **232**
+
+**III. Loslatelse pa 2/3-tid** **232**
+
+**IV. Loslatelse kort tid for loslatelsen ellers skulle skje** **(fremskutt leslatelse)** **233**
+
+**V. Juleamnesti** **234**
+
+**VI. Loslatelse av linsatte med utenlandsk**
+
+**statsborgerskap** **234**
+
+**VII. Tilardelighetsvurderingen** **235**
+
+**VIII. Nar skal prevelaslatelse vurderes?** **236**
+
+**IX. Hva betyr det at loslatelsen er pa prove?** **236**
+
+**X. Brudd under prevelaslatelse** **237**
+
+**Kapittel 30**
+
+**Varsel til fornermede eller etterlatte** **238**
+
+**I. Generett om varsel** **238**
+
+**1. Viklar og vurdering** **239**
+
+**II. Hvem kan varsles** **240**
+
+**1. Fornermede og etterlatte under 18 ar**
+
+**III. Nar det kan varsles og varselets innhold** **241**
+
+**1. Frigang** **241**
+
+**2. Permsjon og straffavbrudd** **242**
+
+**3. Gjennomfering av straff utenfor fengsel (fotlenke**
+
+**og hjemmesoning)** **242**
+
+**4. Unndragesle av fengselstraff, forvaring og**
+
+**strafferettslige sazerreaksjoner** **243**
+
+**5. Loslatelse fra fengselstraff** **243**
+
+**6. Praveleslatelse av forvaringsdamte** **243**
+
+**IV. Klage pa beslutning om at varsel skal gis** **243*** [15] G.
+
+ 
+
+**III. Saksgangen i utvinsningssaker** **266**
+
+1. Naermere om frister **267**
+
+**IV. Hvordan svare pa forhandsvarsel** **268**
+
+**V. Hvordan skrive klage** **268**
+
+**VI. Videre klagemuligheter** **270**
+
+1. Omglaring **270**
+
+2. Klage til Sivilombudsmannen **270**
+
+3. Privat saksmal mot staten **270**
+
+**VII. Hvilken betydning har utvising for soningen?** **270**
+
+**Kapittel 34**
+
+**Rett til sosialstanad oq trygdeytelser (NAV)** **273**
+
+**I. Kriminalomsorgens plikt til a ivareta dine rettigheter** **273**
+
+**II. NAV** **273**
+
+1. Opbygningen i NAV **274**
+
+**III. Hvilke trygdeytelser har du krav pa under soningen?** **274**
+
+1. Huliket NAV-kontor har unsvaret for trygdeytelsene under soning?** **275**
+
+2. Dagpenger, sykepenger og arbeidsavklaringspenger **275**
+
+3. Pensjonsytelser **275**
+
+4. Ykresskade **275**
+
+5. Helsejenester **276**
+
+6. Melding til NAV **276**
+
+7. Klage **276**
+
+7.1 Krav til vedtaket **277**
+
+7.2 Hjelp under klageomgangen **277**
+
+**IV. Sosialstenad** **277**
+
+1. Generett om sosialstonad **277**
+
+1.1 Subsidiear ytelse **278**
+
+1.2 Individuel behandling **278**
+
+2. Huliket NAV-kontor har unsvar for sosialhijelp under soning?** **278**
+
+2.1 Mens man er innsatt og ved laslatelse **278**
+
+2.2 Etter laslatelse **278**
+
+3. Hulke ytelser kan du sake pa? **279**
+
+3.1 Stanad til livsophold **279**
+
+3.2 Stanad i searlige tifeller **279**
+
+3.3 Individuel plan **279**
+
+4. Stanadsformer for sosialstonad **279**
+
+5. Utgifter man kan sake sosialstonad for **280**
+
+5.1 Gjeld **280**
+
+5.2 Husleie, renter og avdrag pa boliglan **280**
+
+5.3 Klaer **281*** 5.4 Toalettarikler m.m. 281
+* 5.5 Harklip 281
+* 5.6 Nadvendig legehjelp og medisiner 281
+* 5.7 Tannbehandling 281
+* 5.8 Utigfilter til sports- og frtitsaktiviteter 282
+* 5.9 Utdanning 282
+* 5.10 Telefonutgifter 282
+* 5.11 Saerlige hjelpemidler 283
+* 5.12 Permisjoner og franstillinger 283
+* 5.13 Julle- og fadeselsdagsgaver 283
+* 6. Klage 283
+
+Kapittel 35 Handtering av gield 284
+
+**I. Gjeld i fengsel** **284**
+
+**II. Hvordan skaffe kontroll over gjeld** **285**
+
+1. Ferste steg: Informasjon om gjelden 285
+
+1.1 Foreldet gjeld 286
+
+2. Andre steg: Oversikt over gjelden 286
+
+3. Tredje steg: Kontroll over gjelden 286
+
+3.1 Krav du er uenig i: Bestridelse 287
+
+3.2 Krav du er enig i: Forhandling 287
+
+4. Ettergivelse/sletting av gjeld 289
+
+**III. Gjeldsordning** **290**
+
+1. Hva er en gjeldsordning? 290
+
+2. Vilkar for gjeldsordning 290
+
+2.1 Varig ute av stand 291
+
+2.2 Forhold som er til hinder for gjeldsordning 291
+
+2.3 Utenomrettslig gjeldsordning, <<eqet fors$\alpha$k>>
+
+3. Gjeldsforhandlinger 293
+
+3.1 Okonomiske forpliktesler under gjeldsforhandlingene 293
+
+4. Okonomiske forpliktesler i gjeldsordningsperioden 294
+
+4.1 Inntekt 294
+
+4.2 Bolig 294
+
+4.3 Endring av gjeldsordningen 294
+
+5. Etter gjeldsordningsperioden 295
+
+**IV. Maler** **296**
+
+Mal 1: Oversikt over gjeld 296
+
+Mal 2: Gjeldsoversikt 297
+
+Mal 3: Bestridelse 298
+
+Mal 4: Foresparsel om betalingsustettelse og rentefrys * [15] M.
+
+ 3.5 FNs barnekomite 316 Kapittel 37 Fenaselspolitikk 317 I. Hva er fengselspolitikk 317 II. Hvordan na politikk ut til samfunnet III. Hvordan arbeide rettspolitikk i fengselet IV. Hvordan arbeide rettspolitikk gjennom organisasjoner 319 Kapittel 38 Om Jussbuss 320 I. Hva er Jussbuss? 320 1. Hva jobber Jussbuss med? 320 1.1 Saksbehandling 320 1.2 Rettspolitikk og forkshing 320 2. Hvordan Jussbuss jobber med sakene 321 3. Gruppene - Invlke saker de kan hjelpe til med og hvordan 321 3.1 HOG: Hustiee og jelid 321 3.2 SAG: Sosial-, trygde- og arbeidsett 322 3.3 INNVA: Ulendingsrett 322 3.4 FEG: Fengselsrett 322 4. Kontakt med Jussbuss og andre rettshelpstitlak 324 4.1 Saksmottak og apningstider 324 4.2 Andre studentdrevenre rettshelpstitlak 324 Kapittel 39 Organisasioner 326 KROM - Norsk forening for kriminalreform 326 SON - Straffedes organisasjon i Norge 327 FFP - For Fangers Parreende 327 Rade Kors' visitortjenesete 327 Nettverk etter soning 328 WayBack 329 Stiftelsen Retretten 329 FRI-prosjektene ved Kirkens Bymisjon 330 Kontakinformassion 331 Stikkord 343 
+
+## Chapter 1 Introduction
+
+The _Planckian_ model of gravity is a very general theory of gravity, and it is a very general theory of gravity. The _Planckian_ model of gravity is a very general theory of gravity.
+
+* [14] M.
+
+ 
+
+## II. Forklaringen din
+
+Hvorvidt det er lurt av deg a forklare deg eller ikke, avhenger av hvorfor du er arrestert, hvordan politiet gar from under avharet og din rotle i saksfonholdet. Er du uskyldig vil det for din egen del som regel uten unntak veere lurt a gi forklaring. Dette er fordi din forklaring da jerne ferer til at saken henlegges.
+
+Hvis du finner det fornuftig a avgi forklaring under avhar, er det en delting det kan vaere greit a huske pa:
+
+* Tenk deg godt om fer du sier noe. Du bar ikke avgi en forklaring som du siden ma endre. Dette gielder ogsa om forholdt eller detaljer som ikke er direkte knyttet til det du er mistenkt for.
+* Ikke si at du er enig eller gi inntrykk av at du er enig, dersom du ikke er helt sikker pa at dette er iktig.
+* Si fra dersom du tror at du kanskje kan ha misforstatt noe av det politiet sier eller at du tror noe av det du har sagt kan misforstas.
+* Dersom politiet stresser deg till a avgi svar fer du har fatt tenkt deg godt om, ber du vente med a svare til du har fatt ryddet i tankene dine. Bruk den iden du trenger. Husk at du ikke har plikt til a forklare deg. Husk ogsa pa at det du sier i avhar kan brukes mot deg i en eventuell sak og at du alo vil bli konfrontert med det du har sagt.
+
+Hvis du blir silten eller av andre grunner har behov for en pause, sa be om det. Under lange avhar har du krav pa pauser.
+
+Selv om du blir lovet mildere behandling, eller a fa slippe arrestsion dersom du er samarbeidsvillig o genig med politiet under avhar, kan du ikke vaere sikker pa at leftene blir holdt. Husk at hvis saken kommer for retten vi ikke domstolen nadvendigvis ta hensyn til hva som eventuelt har blitt lovet av politiet. Skulle de likevel love deg noe, ber du sarge for a fa det skriftlig.
+
+* Hvis du tilstar under avhar, skal politiet sparre deg om du erkjenner straffeskyld. Straffeskyld betyr at du mener at du har forbrutt deg mot en lovbestemmelse og at det ikke er grunner som kan tale for a frikjenne deg. Hvis du eksempelvis mener at du ikke var tliregnelig i gjemingsayeblikket eller at det var selvforsvar, er det viktig at du svarer nei pa spersmalet om straffeskyld. Hvis du er usikker bar du ta betenkningstid.
+
+Dersom du velger a avgi forklaring, skal denne skrives ned av politiet i en avhrsraport. Forklaringen blir sa lest opp eller du kan lese den selv dersom du foretrekker det. Du blir deretter bedt om a undersrive avhrsraporten. Det er viktig at du leser naye gjennom det som er skrevet. Sjekk at det som star er det du mener a ha forklart. Hvis du er uenig i noe av det som star der eller mener at det er upresist, ma du si fra med en gang slik at dette skrives ned pa forklaringen.
+
+\begin{tabular}{l l} Strafleprosessloven & Det er igien grunn til a minne om at det du velger a si under \\ \$ 230 tredeg og femte ledd & avheret kan fa stor betydning for en eventuell rettssak. Dette \\ gjelder searlig det som star i den skreven forklaringen, men ogsa \\ annet du har sagt kan fa betydning. Selv om du ved eventuelle \\ senere avhar gdr bort fra den forste forklaringen, star alltid denne \\ sterkt. Du kan dermed risikere at den minst heldige forklaringen \\ er den som blir vektlagt. Dersom du endrer forklaring underveis, \\ eller det pa andre mater er touverenstsetmembleser mellom det du \\ sier i ulike avhar, kan dette ogsa fa en negativ betydning for din \\ troverdighet. Dersom du er usikker pa om du bar ga i avhrer kan \\ det veere lurt a snakke med en advokat. \\ \end{tabular}
+
+## III Advokat og tolk
+
+\begin{tabular}{l l} Strafleprosessloven & Du har rett til a ha med en advokat under politiavheret. Dersom \\ \$ 98 ferste ledd, & du er pagrepet og politiet planlegger a holde deg arrestert i over \\ \$ 100 annet ledd & 24 timer har du rett til advokat pa det offentliges regning. Dersom \\ du er under 18 ar, har du rett til offentlig betalt forsvarer nar det \\ er klart at du ikke vil bli lisatt innen 12 timer. Vedkommende vi \\ ogsa kunne bista deg ved et avhrer. l anre tifeller vi du kunne fa \\ dekket advokat gjennom det offentlige dersom sserlige grunner \\ taler for dette. Advokaten ma da sake om saeirg opprevning. \\ l alvorlige straffesaker vil man ote fa opprevnt forsvarer som \\ betales av det offentlige. Dette vil ogsa varee tiflelet i mindre alvorlige saker dysom det er sserlige forhold som taler for det. Hvis du er usikker kan du ta kontakt med en advokat for avharet. Hvis det \\ blir tatt ut tiltale og det blir hovedforhandling, skal du ha advokat \\ pa det offentliges regning. Det er imidlertid noen unntak ogsa her. \\ Se mer om retten til advokat i kapittel 7. \\ \end{tabular}
+
+\begin{tabular}{l l} Pataleinstruksen \$ 9-4 & Hvis du har sprakproblemer, har politiet plikt til a skaffe deg en \\ tolk. Tolken skal vaere en naytral part som bare oversetter politiets sporsmal og dine svar. Han eller hun skal altsa ikke selv ta \\ \end{tabular}
+
+ stilling til det som blir sagt under avheret. Det er politiets ansvar a innkalle tolk dersom det er behov for det.
+
+Hvis du p d toss av toklens hijp har problemer med a forsta det som sies i avheret, eller tolken ikke forstar dialekten du snakker, ber du sarge for at dette skrives med i forklaringen, eller be om en annen tolk. Dette er viktig slik at du ikke senere blir konfrontert med uttalelser som er avgitt uten at du har skjent helt hva du har blitt spurt om.
+
+ 
+
+## Kapitel 2 Arrestasjonen
+
+I. Hvilken rett har politiet til a arrestere deg?
+
+### 1. Firetimersregelen
+
+Politiloven SS 8 Politiet kan ta deg med inn til stasjonen og holde deg der i inntil 4 timer.
+
+Du behaver ikke vaere mistenkt for en forbrytelse. Det er listrekelig at de mener du har forstyrret den alminnelige ro og orden, nektet a fjeme deg fra et sted pa toss av at du har blitt bett om det, at de tviler pa at du har oppgitt dit kritige navn, fedselstadt, fedselsar, stilling eller bopel, eller at de finner deg i narheten av et sted hvor det nylig har vaert uftart en kriminell handling. De har imidertid ikke lov til a holde deg i mer enn 4 timer ether denne bestemmelsen. Tidsfristen begynner ikke a lope fer etter at du er registrett pa stasjonen. Oppholdet i politibilen regnes altsa ikke med. Politiet skal likevel ikke holde deg libake lenger enn ndvendig.
+
+### 2. Anholdelse ut over fire timer
+
+Hvis politiet skal kunne holde deg i mer enn 4 timer, ma det vaere basert pa at de mistenker deg for en bestemt forbrytelse eller forseelse. Den forbrytelsen de mistenker deg for, ma kunne fare til mer enn 6 manders fengsel. Det er imidlertid unntak fra dette, for eksempel hvis du tas pa fersk gjerning. Det er den maksimale tiden den aktuelle forbrytelsen kan gi som er av betydning, altsa den ave strafferamme, ikke hva du i det konkrete tiffelt kan komme til a fa av straff. Du har krav pa a fa vite hva de mistenker deg for.
+
+Nar du arresteres etter disse bestemmelsene, regnes du som siktet. Dette gjelder uansett om politiet bruker betengelsen siktet eller ikke. Nar du blir siktet, gir dette deg visse rettigheter.
+
+* [14] G.
+
+ * [15] M.
+
+ 
+
+## 6 Fingeravtrykk, foto og DNA
+
+Straffeprossessloven
+
+Hvis politiet mistakener deg for et forhold som kan medfare mer
+
+$\lx@sectionsign$ 160
+
+enn betestraff, kan de kreve a fa registrere deg ved a ta fingeravtrykk og fotografi.
+
+Straffeprossessloven gir i tillegg politiet adgang til a underkaste deg
+
+$\lx@sectionsign$ 157
+
+kroppsslog undersekelse, for eksempel ta blodpreve, dersom dette
+
+antas a vare av betydning for sakens opplysning ogt det ikke frem-
+
+star som et uforholdsmessig imgrep. Hvis du ikke samtykker skal
+
+politiet i utgangspunktet innnete kjennelse fra retten, men det
+
+er untak for de tiffeller der man mener at formaiet med undersekelsen vil ga tapt dersom man ma vente pa en slik kjennelse.
+
+Straffeprossessloven
+
+$\lx@sectionsign$ 158
+
+Politiet kan videre innhente biologisk materiale fra deg med skite
+
+pa a glennomfare en DNA-analyse.
+
+Politiregisterloven
+
+$\lx@sectionsign$ 12
+
+Politiregisterloven gir dessuten politiet adgang til a opprette
+
+et DNA-register over straffedamte personer. DNA-praver kan
+
+innhentes selv om personen ikke kan demmes, for eksempel fordi
+
+vedkommende var under den kriminelle lavalderen eller at han/
+
+hun ble erklaert sinnssyk i jerningsayeblikket.
+
+## 7 Rett til forvsarer
+
+Straffeprossessloven
+
+$\lx@sectionsign$ 98
+
+Dersom du er innbrakt av politiet pa grunnlag av firetimersregelen,
+
+har du ingen rett til a kontakte advokat. Er du mindreanig skal imidlertid dine foresatte varsles. Hvis du derimot er innbrakt som siktet
+
+for en straffbar handling, har du allidi rett til a fa snakke med en
+
+advokat ett eget valg. Politiet har plikt til a informere deg om din
+
+rett til advokat. Gratis advokat far du imidlertid ferst nar det er klart
+
+at du ikke vil laslates innen 24 timer efter pagripelsen. Dersom
+
+du er mindreanig gjelder det samme nar det er klart at du ikke vil laslates innen 12 timer.
+
+## 8 Mktmisbruk og feil fra politiets side
+
+Hvis du har veart i kontakt med politiet i forbindelse med inbrnigelse, avhar eller arrestajon, kan det hende at du mener at det er
+
+benvyttet unadvendig makt eller at det er begatt andre feil. Dersom
+
+du ansker a jgare noe med dette, ma du ingni en anmeldelse til
+
+det politikammeret du mener har jqort noe galt. Saken vil da bli
+
+[MISSING_PAGE_POST]
+
+ 
+
+## Kapittel 3 Fengslingsmate
+
+og varetektsfengsling
+
+Mange som blir arrestert, avhares og settes pa glattcelle, men slipper ut etter noen timer. Da er det ikke aktuelt med fengslingsmate. Om politiet $\mathfrak{ansker}$ a holde deg i varetekt, skal det som hovedregel avholdes et fengslingsmate innen 48 timer ether pagripelsen. Unntak fra 48-timersregelen kan i utgangspunktet bare gjeres dersom det foreligger sarlige omstendigheter. I praksis skjer dette likevel av og til. Hvis du for eksempel pagripes i eller fer helgen, kan det skje at du blir sittende til mandaguten at du har veert i fingretten, selv om det ogsa jennomfores fengslingsmater pa lerdager. Overfering fra glattcelle til ordinear fengselpass skal skje innen 48 timer, men ogsa her ser man i praksis at fristen oversittes fordi overfaringen som regel skjer farst etter fengslingsmatet. Du kan snakke mer om disse fristene med forsvareren din.
+
+Fengslingsmatet vil bli holdt i tingretten naer der du sitter i arrest. I fengslingsmatet vil kun sparsmalet om varetektsfengsling bli avgjort. Det vi like bli avgjort om du anses som skyldig i det du er Siktet for. Likevel kan det som blir sagt i fengslingsmatet hat stor betydning for hvordan det vi ga videre med saken din. For eksempel kan forklaringen din fra fengslingsmatet bli lest opp under hovedforhandlingen, dersom du der avgir en forklaring som avivker fra det du tidigere har sagt.
+
+Hvis du blir idemnt fengselsstraff, vil den tiden du har veert i varetekt bli trukket fra soningstiden. Dersom du blir arrestert i forbin-delse med forholdet du senere far fengselsstraff for, skal ogsa tiden fra pagripelse til du blir besluttet varetektsfengselt regnes med i soningstiden. Les mer i kapittel 29 om lesiatelsestidspunkt.
+
+Kapittel 3 - Fengslingsmate og varetektsfengsling
+
+I. Fengslingsmotet
+
+Hvordan matet gjennomfrees, kan variere noe fra sted til sted. I
+
+det falgende vil vi beskrive hvordan matet som regel vil forega.
+
+Politiet vil starte med a legge frem hva de mener du har gjort og
+
+$$ 90-93, 184 fig.
+
+hvilke lovbestemmelser de mener du har brutt. Deretter forklarer
+
+politiet hvorfor de mener du skal site i varetekt.
+
+Det er sa tid for utsparring av deg. Du vil ferst bli avhart av
+
+dommeren, deretter av politiet og til stutt av forsvareren din. Du
+
+har ikke noen pikt til a oppgi annet enn avn, fadeselstadto, stilling
+
+og adresse. I hvilken grad det vil lanne seg for deg a gi en videre
+
+forklaring, bar du diskutere med advokaten din i forkant av fengslingsmotet.
+
+## II. Vilkar for nar politiet kan kreve varetektsfengsling
+
+Politiet ma for det ferste ha skjellig grunn til a mistenke deg for
+
+$\$$$ 171-173, 184 fig.
+
+fa hajort en bestemt straffbar handling, for de krever varetektsfengsling. Med skjellig grunn menes at det foreignger sannysnlig-
+
+hetsoverekt for at du har begatt den straffbare handlingen.
+
+For det andre ma forholdet kunne fere til mer enn 6 maneders
+
+fengselsstraff. Dette utgjer de generelle vilkarene for varetektsfengsling. Videre ma det enten varee fare for at du vil flykte,
+
+adelegge bevis eller bega nye straffbare handlinger. Dersom du
+
+har tilstat en svaert alvorlig forbrytelse eller det foreligger svaert
+
+sterke bevis mot deg for dette, kan allmennhetens rettsfelse
+
+ogsa brukes som grunnlag for varetektsfengsling. Det holder at ett
+
+av disse tilleggsvikarene er oppft.
+
+Hvis politiet kommer til a reise forvaringssak eller sak om overfaring til tvungent psykisk helesvem som falge av det du er siktet for, kan ogsa dette begrunne varetekt. Disse betinglesene er skjonsmessige, og dete innebaerer at dommeren ma foreta en konkret
+
+helthetsvurdering for a avgjere om det er grunnlag for varetektsfengsling i dit tiffelle.
+
+Har politiet klare bevis mot deg, og det er grunn til a tro at du vil
+
+fa en streng ubetinget straff, vil du normalt bli varetektsfengslet.
+
+I praksis blir man varetektsfengslet from til politiet har hatt tid til
+
+a etterforske saken nermere, slik at faren for bevisforspilleles reduseres. Dersom fengslingen er begrunnet i gjentakelsesfare eller unundragelsesfare, vil politiet ofte begjaere deg varetekts-fenggliet helt from til hovedforhandlingen.
+
+## III Multighetene for a slippe varetektsfengsling
+
+Du kan untaksvis slippe varetekt, selv om vilkarene er oppytl. Dette er imidiertdi medeet uvanlig, men kan skje dersom retten mener at varetektstiden vi vare speiselt belastende for deg sammenlignet med andre. Eksempler pa dette kan vare at du har fast arbeid som du kan risikere a miste, at du ma avbryte en utdannelse, at du er under 18 ar eller er meget gammel, at du har familiaropliktesler, eller at du er alvorlig syk. Dette er forhold retten kan ta hensyn til, men det er ingen automatikk i at du slipper varetekt selv om en av disse grunnene er til stede. Et alternativ kan vere at varetektstiden settes kortee enn det politiet i utgangspunktet ensker.
+
+Straffprosessloven
+
+Om retten mener at bevis i saken kan bli adelagt hvis du far ha kontakt med noen utenfor fengselet, kan dommeren bestemme at du ikke far motta brev og/ eller besek. Selv om du har brev- eller beseksforbud, har du normalt rett til a se pa tv, here pa radio eller lese aviser. Retten kan imidiertdi nekte deg ogsa dette, samt bestemme at all kontakt gjennom besek, telefon og lignende skal gjennomfares under kontroll av politiet. Du har uansett krav pa kontrollert skrifflig og muntilg korrespondanse med din forsvarer. Les mer i kaptitel 4 om opphold i varetekt.
+
+## V Fullstendig og delvis isolasjon under varetekt
+
+\begin{tabular}{l l} Straffprosessloven & Det er gitt regler om delvis og fullstendig isolasjon i straffprosessloven. Reglene om varetekt i isolasjon skal dels skre en mer betryggende behandling av sparsmalet om hvorvidt varetektsinn-satte skal undergis fullstendig eller delvis isolasjon. \\ \end{tabular}
+
+ Fullstendig isolasjon vil si at den fengsfede utelukkes fra felle-skap med alle andre innsatte. Ved delvis isolasjon utelukkes den fengsfede fra samaver med bestemte andre innsatte. Det er gitt egre vilkar for fullstendig isolasjon som er strengere enn for delvis isolasjon, brev- og besaksforbud og andre forbud og restriksjoner. I tillegg er det gitt regler om varetektsfradrag ved fullstendig isolasjon, se nedenfor.
+
+### Fullstendig isolasjon
+
+Straffeprossesloven
+
+$ 186 a ferste led
+
+Ved fullstendig isolasjon skal den fengsfede utelukkes fra felles-skap med alle andre innsatte. Fullstendig isolasjon kan kan besulttes nar fengslingsgrunnen er bevisforspillesesfare. De avrige fengslingsgrunnene etter straffeprossesloven kan altsa ikke brukes for a oppna fullstendig isolasjon (se avnstitt Il overfor). I tillegg ma det veere en <<naerligende fare for at den siktede vil forspille bevis dersom han ikke holdes fullstendig isolert. Man kan med andre od like holdes fullstendig isolert hvis varetektsfengsling i seg selv er nok til a hindre bevisforspillese, eller hvis det er tilstrekkeling med delvis isolasjon.
+
+Straffeprossesloven
+
+$ 170 a
+
+Isolasjon skal kun benyttes nar alle lovens vilkar er oppfyt, og kan ikke benyttes dersom det etter sakens art og fornoldene ellers v'aere et uforholdsmessig innregp.
+
+Pa grunn av de kjente skadevirkningene ved isolasjon, skal fullstendig isolasjon ikke brukes mer enn strengt nedvendig. Bade patalemyrdighetene og retten har ansvar for at fullstendig isolasjon bare skal vare sa elenge det er tilstrekkelig grunn til det, og isolasjonen ikke ma anses for a veere et uforholdsmessig innregp. Det understrekes ogsa at det er saeirig viktig a hode rede pa hvordan isolasjonen vriker pa den siktede, om nedvendig ved hiepl av lege-undersekelse. Her har ogsa forsvareren din en viktig roule.
+
+Hvis du er under 18 ar kan du ikke underlegges fullstendig isolasjon.
+
+$ 186 a ferste led
+
+Straffeprossesloven
+
+$ 186 a andre led
+
+Retten skal alltid settle en bestemt tidsfrist for isolasjonen. Fristen skal vare sa kort som mulig, og ma, nar isolasjon besulttes ferate gang, ikke overstige 2 uker. Retten skal i hver sak vurdere om fristen skal settes kortete enn 2 uker, og lengstefristen pa 2 uker skal ikke virke som en automatisk frist.
+
+ Fristen som settes kan forlenges med intill 2 uker om gangen. Dersom etterforskningens art eller andre sarlige omstendigheter tilisier at fomyet praving etter 2 uker vil vaere uten betydning, kan retten ved forlengelse sette en lengre frist, men ikke lengere enn 4 uker av gangen. Ogsa her skal prinsippet om tofnoldsmessighet veie tungt. Retten kan derfor ikke beslutte isolasjon hvis det er grunt til a tro at isolasjon vi vaere en sa stor belastning at det blir etvofnoldsmessig innrep.
+
+\begin{tabular}{l l} Straffeprossessloven & Videre er det infnfert lengstefrister for hvor lenge isolasjonen kan \\ \$ 186 a trejed led & vare totalt som er knyttet til hwiken straffbar handling siktelsen \\ bokstav a & glieder. Nar sktelsen gielder en straffbar handling som kan \\ medfre straff av fengsel intill 6 ar, kan den siktede ikke holdes \\ isolert i et sammenhengende tidsrom pa mer enn 6 uker. Dersom \\ sktelsen gielder flere stratfbare handlinger som samlet kan fere \\ til en straff av mer enn 6 ars fengsel, og tungvieende hensyn gjer \\ det nadvendig, kan den fengselede likevel holdes fortsatt isolert \\ otover 6 uker. \\ Straffeprossessloven & Gjelder siktelsen en straffbar handling som kan medfrere hayere \\ \$ 186 a trejedle led & straff enn fengsel i 6 ar, kan den siktede ikke holdes isolert i et \\ bokstav b & sammenhengende tidsrom pa mer enn 12 uker. Dersom tungtweitende hensyn gjer det nadvendig, kan den fengselede likevel holdes isolert utover 12 uker. \\ \end{tabular}
+
+## 2 Delvis isolasjon skal innsatte utelukkes fra samvaer med
+
+\begin{tabular}{l l} Straffeprossessloven & Delvis isolasjon er regulert i straffeprossessloven \$ 186. Det er \\ \$ 186 andre led & imidiertid ikke gitt egene vilkar for bruk av delvis isolasjon. Dermed \\ gjelder de samme vilkar som for forbud og restriksjoner for ovrig \\ etter straffeprossessloven \$ 186a ferste led, hvor det falger at \\ hensynet til etterforskningen kan tilsi bruk av delvis isolasjon. \\ Straffeprossessloven & Delvis isolasjon skal brukes med varsomhet, og skal kun besluttes \\ \$ 170 a & nar det er tilstrekeleig grunn til det. Bruk av isolasjon vil dermed \\ bare vaere praktisk nar noen er fengselt pa grunn av bevisforspilles, og varetektsfengsling i seg selv ike er tilstrekeleig til a hindre \\ den siktede i a forspille bevis. Videre kan isolasjonen ikke vaere et \\ ufornoldsmessig innrep. Ved denne vurderingen ma man se pa \\ bade den totale bruken av forbud og restriksjoner etter straffeprossessloven \$ 186, og pa hvor lenge den delvise isolasjonen har vart. \\ \end{tabular}
+
+ I denne sammenheng er det av betydning hvilket omfang isolasjonen har og hvilken belastning den innebaerer for den sktede.
+
+Det vil kunne variere hvor mange man nektes samvaer med.
+
+Yitterpunktene kan varet at man nektes samvaer med en person,
+
+for eksempel en medisktet i samme sak, eller at man bare gis rett til samvaer med en eller noen fa personer. Retten kan overlate til
+
+patalemymdighetene a bestemme hvilke innsatte den fengslede
+
+skal utelukkes fra samvaer med.
+
+### Varetektsfradrag
+
+Damte personer som har vert undergit frihetsbervelse i forbin-
+
+delse med saken sin, skal ha et fradrag i straffen som tilsvaer
+
+antallet dager de har vert frihetsberevet. Det skal gis et eekstra
+
+fradrag i straffen i de sakene hvor den sktede har vaert underlagt
+
+frihetsberevelse i fullstendig isolasjon. Opphold i politiarrest gir
+
+fradrag tilsvarende fullstendig isolasjon. Den domfelte har et absolut krav pa fradraget - spersmalet er ikke overlatt til retlens skjonn.
+
+Med fullstendig isolasjon sixkes det ferst og fremst til isolasjon
+
+eter straffprossessloven SS 186 a (se oventor under punk V 1.)
+
+Innsettelse i politiarrest innebaerer ogsa ofte i praksis at den
+
+siktede blir holdt fullstendig isolert. I silke tifeller skal ogsa isolasjonen gi krav pa ekstra fradrag.
+
+Straffeloven SS 83
+
+Tilleggsfradraget for fullstendig isolasjon skal tilsvare 1 dag for
+
+hvert pabegynte tidsrom av 2 dogn som den domfelte har vaert
+
+isolert. En domfelt som har vaert isolert i 14 dager under etterforskningen, har altsa krav pa et eekstra fradrag i straffen pa 7 dager.
+
+isolasjonen ma ikke ha vart hele det siste dagnet i todagersperi-
+
+oden for a gi et eekstra fradrag. Det er tistlekelsig at dette dagnet
+
+er pabegynt. Beregningen starter fra det klokkeslettet isolasjonen
+
+startet, ikke fra midnatt det akteule dagnet. Det er i tilleg vekt-
+
+lagt at det ma legges opp nutuner som sikrer at klokkeslettet gar
+
+nayaktig frem av saksdokumentene. Fradraget pa grunn av
+
+isolasjon kommer i tillegg til tradraget etter straffeloven SS 83 ferste ledd. Etter straffeloven SS 83 ferste ledd skal man fa varetektsfradrag for hele den tiden man har sittet i varetekt. Den som leslates
+
+etter 14 dager i fullstendig isolasjon, har dermed krav pa et samlet
+
+fradrag pa 21 dager. Ved delvis isolasjon gis det ikke en automatisk rett til fradrag, men retten vil ved straffutmalingen kunne ta
+
+hensyn til at den sktede har vaert underlagt delvis isolasjon.
+
+ 
+## VI Forsvareren din
+
+Straffeprossessloven
+
+I fengglingsmmetet har du rett pa en forsvaer (advokat) som blir betalt av det offentlige. Forsvarerens oppgave er a ivareta dine interesser og fremheve forhold som taler for at du bar leslates. Om du ensker en spesiell advokat, kan du fa det dersom vedkommende har anledning. Advokaten du far i forbindelse med fengslingsmetet, beholder du sa lenge du sitter i varetekt, om du da ikke $\operatorname{\textsl{ansker}}$ a byte advokat. Far fengslingsmmetet bar du insistere pa a fa en lengre samtale med forsvareren din. Som regel vli du i praksis kun fa noen minutter far fengslingsmmetet beginner.
+
+Om advokaten din glemmer a si noe under matet, har du selv muligheten til si det. Men rent taktisk kan det vaere lurt a la advokaten din snakke for deg eller eventuelt be advokaten si det for deg.
+
+## VII Hvor lenge blir du sittende i varetekt?
+
+\begin{tabular}{p{142.3pt}} Straffeprossessloven $\lx@sectionsign$ 185 & Du vi normalt ikke bli varetektsfengslet for mer enn 4 uker av gangen. Blir du ikke loslatt, eller saken din ikke kommer opp for retten innen 4 uker, vil det bli holdt et nytt fengslingsmmete om forlengelse av varetekten. I enklette saker mener politiet at de trenger mer enn fire uker, og da kan dommeren avgajere a sette en lengre frist. Dette gjelder spesielt de mer alvorlige forbrytelsene, hvor det kreves en mer omfatende etterforskning, eller hvor det foreligger saearlige omstendigheter som tisier at fornyet praving etter fire uker vi varet uten betydning. \\ Straffeprossessloven $\lx@sectionsign$ 170 a & Ved hvert fengslingsmmete skal det vurderes og avgajeres om betinglesene for a holde deg i varetekt fremdeles er til stede. \\ Det finnes ingen regel om hvor mange ganger fengslingen kan besluttes forlenget, og i de met alvorlige, kompliserte sakene forekommer det at man sitter i varetekt i mer enn 1 ar. \\ Dersom politiet mener at de ikke har noen grunn til a holde pa deg, skal de beslutta a slippe deg ut fra varetekten. \\ \end{tabular}
+
+## VIII Klage (anke)
+
+\begin{tabular}{p{142.3pt}} Straffeprossessloven $\lx@sectionsign$ 184 andre ledd $\lx@sectionsign$ for det stratfbare forholdet. Det skal ogsa ga frem av kjennelsen at retten har vurdert at fengslingen ikke er et uforholdsmessig inngre overfor deg. Om du mener det er feil at du skal varetekts-fengsles, har du rett till a paklage kjennelsen. Dette ma du gjere fer det har gatt to uker fra avgjerelsen ble meddelt deg, om ikke en annen tidsfrist er satt. Det er lurt a snakke med forsvareren din fer du avgjer om du skal anke fengslingen.
+
+Uftaringen av anken bar du be advokaten din hjelpe deg med. Anken avgjares av lagmannsretten, og du ma sitte i varetekt til denne er avgjort. l ytterst fa tiffeller kan du kreve a legge frem varetektssparsmalet for Hayesterett, men i praksis skjer dette svaert sijelden. Hvis det opprinnelig ble vedtatt at du skulle leslates, kan politiet paklage kjennelsen. Politiet wil som regel be om at du skal sitte i varetekt i perioden fra politiet fremsetter anken til avgjerelsen er tatt (oppsettende virkning). Det er opp til retten a vurdere om politiet skal fa dette invniget.
+
+## IX Varetektsfengsling av barn
+
+\begin{tabular}{l l} Straffeprosssloven \$ 183 & Hvis du er mindrearig, altsa under 18 ar, er fristene og vilkarene \\ annet og tredie led, & for a varetektsfengsle deg strengere enn dersom du er voksen. \\ \$ 184 annet led, & Du skal fremstiles for retten senest dagen etter pagripelsen. \\ \$ 185 annet led, & Dersom du er pagrepet i helgen eller pa en helligdag kan fristen \\ \$ 186 annet led, & forlenges med en dag. Barnevernet skal varsles om, og skal som \\ \$ 186 a ferste led. & hovedregel mate i, fengslingsmetet. Du skal som mindrearig heller \\ ikke varetektsfengsles med mindre det er e tvingende nadvendig. \\ \end{tabular}
+
+\begin{tabular}{l l} Straffeprosssloven & \$ 183 & Hvis du er mindrearig, altsa under 18 ar, er fristene og vilkarene \\ annet og tredie led, & for a varetektsfengsle deg strengere enn dersom du er voksen. \\ \$ 184 annet led, & Du skal fremstiles for retten senest dagen etter pagripelsen. \\ \$ 185 annet led, & Dersom du er pagrepet i helgen eller pa en helligdag kan fristen \\ \$ 186 annet led, & forlenges med en dag. Barnevernet skal varsles om, og skal som \\ \$ 186 a ferste led. & hovedregel mate i, fengslingsmetet. Du skal som mindrearig heller \\ ikke varetektsfengsles med mindre det er e tvingende nadvendig. \\ \end{tabular}
+
+\begin{tabular}{l l} Straffeprosssloven & \$ 184 & \\ \$ 185 annet led, & Dersom du er pagrepet i helgen eller pa en helligdag kan fristen \\ \$ 186 annet led, & forlenges med en dag. Barnevernet skal varsles om, og skal som \\ \$ 186 a ferste led. & hovedregel mate i, fengslingsmetet. Du skal som mindrearig heller \\ \$ 186 varetektsfengsles med mindre det er e tvingende nadvendig.
+
+ 
+
+## Kapitel 4 Opphold i varetekt
+
+Selv om du varetektsfengsles er det ikke avgjort om du regnes som skydig i den straffbare handlingen. Varetekt blir ikke betegnet som straff, men for manage er det likevel en av de verste delene av fengselsopholdet. En viktig grunn til dette er all usikkerheten rundt din eigen fremid. Du vet ikke hvor lenge du blir sittende, hva som skjer ute eller hvordan fengselet fungerer.
+
+Dersom du skulle bli damt til fengselsstraff, vl tiden du har sittet i varetekt trekkes fra dommen din. Du kan lese mer om dette i kapitel 3.
+
+## I. Rutiner i fengselet, fengselets ansatte
+
+Fengselet er et isolert samfunn med sine heht spesielle regler og rutiner. Rutinene kan variere fra fengsel til fengsel, men alle fengslene er i utgangspunktet undertagt de samme reglene om straffegjennomfaring. Disse reglene fremgar av straffegjennomfaringsloven, forskriftene til loven og retningslinjene.
+
+\begin{tabular}{l l} Straffegjennomfaringsloven (strgift) \$ 46 & Det star lite om det enkette fengselets rutiner i selve lovverket. \\ Imidlertid har det enkette fengsel tatwheidet egen instruckser om \\ Retningslinjene til g 46 & sine bestemte rutiner. Her er det for eksempel beskrevet nar det er mat og nar det er adgang til a dusje. Du kan sporre betjentene om \\ innholdet av disse instruksene. Du kan ogsa for eksempel be om \\ toalettasker, om du ikke har fatt det ved innsettelse i cella. Det er \\ ogsa lurt a finne ut nar ferste handledag er, og hwilke rutiner det er \\ for klesvask og sengetayskift. \\ Som varetektsinnsatt har du rett til a snakke med fengselets \\ ansatte pa lik linje med de som sitter pa dom, og fengselet skal \\ ved behov vurdere om du skal fa en kontaktbetjent. Les mer i \\ kapitel 8 om kontaktbetjent. \\ \end{tabular}
+
+
+## II Varetektsoppholdet
+
+Som varetektsinnsat m du rette deg etter fengselets regler, slik vanlige domsinnsatte m. Sitter du i varetekt med restriksjoner, skal fengselet sserlig legge fonholdene til rette, slik at de skadelige virkningene av fengseloppholdet blir redusert i sterst mulig grad.
+
+### Arbeid, opplering, program og andre tiltak
+
+Du kan ikke palegges a delta i fellesaktiviteter. Hvis du er interessert, skal fengselet prove a filtertelegge det for deg. Sitter du i varetekt med restriksjoner har fengselet plikt til a legge til rette for aktiviteter som ikke omfattes av restriksjonen, for eksempel trening, spill, selvstudier og brevkurs.
+
+Det er ogsa mulighet for a ga pa skole i fengselet. Er du midt i utdanningen, eller du tror du kommer til a sitte i varetekt lenge, bor du la kontakt med skoleavdelingen for a soke pa skoleplas. Du har imidletrid ikke krav pa et skoletilbud mens du sitter varetekts-fengselet.
+
+### Premstilling og permision
+
+Som varetektsinnsatt wil du som regel ikke bli invliget frenstilling
+
+eller permisjon. Skulle det oppsta spesielle situasjoner, kan du likevel seke om frenstilling. Det er politiet (patalemyndigheten) som avgier om frenstilling skal invnivles. De har ansvaret for den praktiske gjennomfaringen. Les mer i kapittel 14 om permision og frenstilling.
+
+### Reaksion
+
+Selv om du sitter i varetekt, kan du bli ilagt reaksjoner etter de samme reglene som gjelder for domsinnsatte. Du kan for eksempel nektes samvaer med de andre innsatte, eller miste retten til TV for en periode. Varetektstiden din kan ikke forlenges som en reaksjon. Les mer i kapittel 16 om reaksjon og kapittel 17 om isolasjon.
+
+### Klagerett
+
+Som varetektsinnsatt har du full klagerett pa de vedtak som omfatter deg og dine forhold. Hvis du feler deg urettferdig behandlet, eller er usikker pa om fengselet har behandlet deg i * [15] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **96** (2016) 092004, doi:10.1103/PhysRevD.96.092004, arXiv:1502.0701.
+* [16] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **97** (2016) 092004, doi:10.1103/PhysRevD.97.092004, arXiv:1609.0201.
+* [17] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **98** (2017) 092004, doi:10.1103/PhysRevD.98.092004, arXiv:1609.0201.
+* [18] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **99** (2017) 092004, doi:10.1103/PhysRevD.99.092004, arXiv:1609.0201.
+* [19] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **99** (2017) 092004, doi:10.1103/PhysRevD.99.092004, arXiv:1609.0201.
+* [20] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **99** (2017) 092004, doi:10.1103/PhysRevD.99.092004, arXiv:1709.0201.
+* [21] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **99** (2017) 092004, doi:10.1103/PhysRevD.99.092004, arXiv:1709.0201.
+* [22] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **99** (2017) 092004, doi:10.1103/PhysRevD.99.092004, arXiv:1709.0201.
+* [23] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **99** (2017) 092004, doi:10.1103/PhysRevD.99.092004, arXiv:1709.0201.
+* [24] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **99** (2017) 092004, doi:10.1103/PhysRevD.99.092004, arXiv:1709.0201.
+* [25] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **99** (2017) 092004, doi:10.1103/PhysRevD.99.092004, arXiv:1709.0201.
+* [26] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **99** (2017) 092004, doi:10.1103/PhysRevD.99.092004, arXiv:1709.0201.
+* [27] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **99** (2017) 092004, doi:10.1103/PhysRevD.99.092004, arXiv:1709.0201.
+* [28] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ ** Kapittel 4 - Opphold i varetekt
+
+klage til fylkesmannen. Du kan ta kontakt med Jussbuss dersom du onsker mer informasjon om dette.
+
+**7. Brev og besek**
+
+Strgifl. $ 52
+
+Rentningslinjene til $ 52
+
+Nar du har brev- og besekskontroll, kan du normalt sende og motta brev. De vil midertid bli lest av politiet, som kan nekte a utlevere brev til og fra deg. Du kan ogsa bruke telefen, men politiet ma godkjenne de du vii ringe til. Telefonsamtalene vil ogsa kunne overheres av politiet. Du kan seke om a motta besok, og fengselet vil da kontakte politiet for a undersoke om besok kan jgennom- frees uten fare for etterforskningen. Det skal tas saeirig hensyn til om du har barn.
+
+Straffeprosessloven
+
+$ 186
+
+Det kan avgjeres at besoket skal skje pa bestemte vilkar, for eksempel at en politimann overvaerer besoket. Pa den maten kan politiet kontrollere hvilken informasjon som kommer ut eller inn i fengselet. Er du underlagt brev- og beseksforbud, vil du vereken kunne motta besok, eller sende og motta brev eller telefonsamtaler. Samtaler og besok av advokaten din har likevel ingen rett til a kontrollere (les mer i kapittel 13).
+
+Strgifl. $ 46
+
+Det kan vaere godt for deg a ha noen a prate med. Hvis du ikke Ratningslinjene til $ 46
+
+kan motta besok eller ringe til noen, kan du sake om a benyte punkt 46.4
+
+deg av visitorordningen. Dette er frivillige som besoker fengselet til bestemte tider, slik at du skal ha noen utenfor fengselet a snakke med. Ta kontakt med de ansatzte i fengselet om du er interessert i a skrive deg pa en slik visitorliste.
+
+**8. Bruk av egene penger**
+
+Strgifl. $ 50
+
+Du kan fa bruke egne penger fitt sa lenge det er forenlig med ro, orden og sikkerhet. Er du i fellesskap med andre innsatte, kan fengselet begrense din mulighet til a bruke egne midler om dette forsurer miljoet, for eksempel at pengene ferer til misunnelse, og dette ijgen gar ut over ro, orden og sikkerhet i fengselet.
+
+Pengene du skal bruke i fengselet ma settes inn pa en egen konto. Kontoinformasjon vil du kunne fa av de ansatte i fengselet.
+
+ 
+
+## III Eiendeler og forpliktelser
+
+### Eiendeler
+
+Hvis du har eiendeler utenfor fengselet som krever ettersyn, bar du preve a fa kontakt med kjente som kan ta seg av eiendelenelen mens du sitter i varetekt. Du kan eventuelt prove a formidle kontakt gjennom advokaten din. Fengselets sosialkonsulent kan ogsa brukes. Du kan dessuten sperre politiet om a fa ta noen telefoner for a fa git slik beskjed. Om du har tilsynfsrer ved Kriminalomsorgeni frihet, kan det hende at de kan ordne dette for deg.
+
+### Uteifter
+
+I utgangspunktet ma du dekke dine faste utgifter selv om du sitter fengslet.
+
+Situasjonen er annerledes for deg enn for de som sitter pa dom, da en varetekt kan komme uventet. Derfor kan du be om at fengselet hjelper deg med a opfylle forpliktelsene du har utenfor fengselet. Sosialkonsulenten kan for eksempel hjelpe deg med a fa kontakt med sosialkontoret pa ditt hjemsted for a sake om sosialstonad. Hvis soisialkontoret eller andre myndigheter kike dekker utgiftene dine, ma du regne med a bruke dine egene penger. Les mer i kapittel 34 om rett til sosialstanad.
+
+Du kan kontakte sosialkontoret pa hjemstedet ditt dersom du har sparsmal om a fa dekket husleie mens du sitter i varetekt. Dersom du ma leie ut boligen din, kan du ske om fremstiling for a fa ordnet det. Det kan varevanskeling a fa slik fremstiling. Far du ikke ordnet forpliktelser utenfor fengselet, kan du sparre om noen andre kan ordne det for deg, for eksempel familie og venner.
+
+### W. Barn
+
+Har du ansvar for barn, er det viktig at du selv straks kontakter noen som kan ta seg av barna mens du sitter i varetekt.
+
+Barnevern l'en k'an frata deg daglig om s'noy n'vis du blir fengslet over l'enge tid. Derfor er det viktig at du far noen i familien til a hjelpe deg dersom du har aleneomsorgen for barn. Fengslingen er i seg selv ikke t l'istrek'elig for at barnevernet girper inn, men det vi* [14] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **82** (2010) 094004, doi:10.1103/PhysRevD.82.094004, arXiv:1007.2581.
+* [15] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **83** (2011) 094004, doi:10.1103/PhysRevD.83.094004, arXiv:1007.2581.
+* [16] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **84** (2011) 094004, doi:10.1103/PhysRevD.84.094004, arXiv:1007.2581.
+* [17] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **85** (2012) 094004, doi:10.1103/PhysRevD.85.094004, arXiv:1110.5010.
+* [18] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **86** (2012) 094004, doi:10.1103/PhysRevD.86.094004, arXiv:1110.5010.
+* [19] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **87** (2013) 094004, doi:10.1103/PhysRevD.87.094004, arXiv:1302.2581.
+* [20] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **89** (2014) 094004, doi:10.1103/PhysRevD.89.094004, arXiv:1302.2581.
+* [21] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **89** (2014) 094004, doi:10.1103/PhysRevD.89.094004, arXiv:1302.2581.
+* [22] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **89** (2014) 094004, doi:10.1103/PhysRevD.89.094004, arXiv:1302.2581.
+* [23] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **89** (2014) 094004, doi:10.1103/PhysRevD.89.094004, arXiv:1302.2581.
+* [24] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **90** (2014) 094004, doi:10.1103/PhysRevD.90.094004, arXiv:1302.2581.
+* [25] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **91** (2015) 094004, doi:10.1103/PhysRevD.91.094004, arXiv:1502.0218.
+* [26] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **92** (2015) 094004, doi:10.1103/PhysRevD.92.094004, arXiv:1502.0218.
+* [27] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ ** 
+
+## Kapitel 5 Dom
+
+I. Politiets multibeter etter endt etterforskning
+
+Nar etterforskningen er ferdig, og det finnes et grunnlag for a reise straffesak, kan felgende ting skje:
+
+$\bullet$ pataleunnlatelse
+
+$\bullet$ konfliktrad
+
+$\bullet$ ungdomsmstraff og ungdomsoppfalging
+
+$\bullet$ informasjon til barnevernet
+
+$\bullet$ forelegg
+
+$\bullet$ forenklet forelegg
+
+$\bullet$ dom i tingretten (tilstaelsedom eller hovedforhandling)
+
+### Pataleunnlatelse
+
+Straffprosessloven SS 69
+
+Selv om du har tilstatt eller politiet har bevis for at du er skyldig, kan saken avgjares med pataleunnlatelse. Det betyr at du verken blir liagt forelegg, eller at det blir reist noen straffesak mot deg.
+
+Pataleunnlatelse gis i de tifelleene der patalemyndigheten mener at det foreligger sarlige forhold. Ofte er det <<fastergangsforbrylestlser som blir avgjort pa denne maten, men det finnes flere eksempler pa at det er gitt pataleunnlatelse for alvorligere saker hvor siktede har gitt opplyninger som medferer oppkaring av andre saker. Ogsa prosessakonomiske hensyn kan begrunne en pataleunnlatelse.
+
+Pataleunnlatelsen kan gis med vilkar som du m overholde en bestemt tid. Eksempler pa slike vilkar kan vere at du forplikter deg til a melde deg for politiet en periode, at du ikke drikker alkohol, eller at du betaler erstatning til den som er fornermet i saken.
+
+$\bullet$ Pataleunnlatelse skal som hovedregel ikke oppgis i ordinear politietest. Hvis du mener at du er uskyldig kan du kreve at det blir rettssak. Dette mA du kreve innen 1 maned etter at du fikk beskjed om pataleunnlatelsen.
+
+
+## 2 Konfliktrad
+
+Straffeprosessloven SS 71 a
+
+Jf. konfliktradsloven
+
+Konfliktradsloven SS SS 10,
+
+11 og 12
+
+Ved mindre alvorige forbrytelser hvor det foreignger en tilstaelse,
+
+kan saken overferes til konfliktradsbehanding. Det er sarlig
+
+saker som mindre tyverier eller skadeverk som blir behandlet
+
+i konfliktrad.
+
+Dersom politiet mener det er grunnlag for at saken kan behandles
+
+i konfliktradet, til de i avher sparre deg om du samtykker til dette.
+
+Hvis den formaermede ogsa samtykker, er det lagt opp slik at du
+
+mater den formaermede ansikt til ansikt, sammen med en konfliktradsmekler. Hvis du er under 18 ar, har vergen din ogsa rett til a
+
+vaere til stede.
+
+Konfliktradsloven SS 17,
+
+Formaliet med metet i konfliktradet er a finne en lsensing, slik at
+
+18 og 21
+
+skaden kan gjares opp ved en frivillig ordning mellom dere to.
+
+Dette kan for eksempel vere at du betaler erstatning til offered
+
+eller reparerer skaden. Saken er ferdig nar avtalen er oppgjort.
+
+Hvis ikke melligen mellom dere ferer frem, eller dersom du
+
+bryter avtalen, skal patalemyndigheten varles og ordiner straffesak kan reises. Saker som ordnes i konfliktradet havner ikke i
+
+strafferegisteret.
+
+## 3 Ungdomsstraff $\mathtt{og}$ ungdomsoppfelging
+
+I 2015 kom reaksjonsformene ungdomsstraff $\mathtt{og}$ ungdomsoppfelging inn som alternative straffereaksjoner til ungdom mellom
+
+15 og 18 ar. Formaliet med infarfeningen er a skire at ungdom som
+
+har begatt straffbare handinger far en merkbar reaksjon, men
+
+at bruken av fengelsstraff kun skal benyttes overfor barn der
+
+det er vurdert at det ikke er noen annen utvei. Ungdomsstraff $\mathtt{og}$ ungdomsoppfelging er reaksjonsformer som ligner pa hverandre,
+
+men omfanget og variheten skiller de to. _Ungdomsoppfelging_
+
+kan benyttes i de mindre alvorlige tifellene, mens _ungdomsstraff_
+
+er forbeholdt de som dammes for mer alvorlige straffbare forhold.
+
+Gjennomferingstolen er derfor lengre og innholdet mer omfattende
+
+dersom man idommes ungdomsstraff. Bade ungdomsoppfelging
+
+og ungdomsstraff innebarer at du ma delta pa et ungdoms-
+
+stormete i regi av Konfliktradet. Videre ma du vere med pa a
+
+ufforme og falge en ungdomsplan og fal goppfelging av et oppfelgingsteam. Ungdomsstraffen kan vare i alt fra 6 maneder til 3 ar
+
+avhengig av alvoret i de idemte lovbrudene. Gjennomfring av ungdomsonopflaging og ungdomsmstraff krever samtykke fra deg og dine foresatte.
+
+## 4 Informasion til barnevernet
+
+\begin{tabular}{p{142.3pt} p{142.3pt}} Straffeprosessloven $\lx@sectionsign$ 232 a & Hvis du er mellom 15 og 18 ar gammel, blir saken din etterforsket pa vanlig mate. Med mindre det Dreier seg om en bagatellmessig overtredelse, skal patalemyndigheten underrette barneverntjenesten, og instituionen din dersom du bor et slikt sted. Det er patalemyndigheten som avgjar om tittale skal reises mot deg, men bameveurmjenesten skal gis anledning til a uttale seg om tittale-sparsmalet. \\ \end{tabular}
+
+\begin{tabular}{p{142.3pt}} Straffeprosessloven $\lx@sectionsign$ 242 & Hvis du er mistenkt for en mindre alvorlig handling, kan politiet gi deg forelegg (bot og/eller indragning) i stedet for a reise sak. Det er opp til deg om du vil vedta et forelegg emler ikke. \\ \end{tabular}
+
+\begin{tabular}{p{142.3pt}} Rivas du vedtar forelegget, har det samme virkning som en dom. Du har krav pa betenkningstid, som vanligvis er fra 3 til 10 dager. Dette skal sta pa forelegget. Du har normalt rett til a se papirene i saken, men du har ikke rett til egen kopi av saksdokumentene. \\ \end{tabular}
+
+\begin{tabular}{p{142.3pt}} Rivas du ikke vedtar forelegget, kan politiet reise sak for domstolene. Du har i disse tilfeiler ikke rett til fri forsvarer. Unntaksvis kan retten likevel bestemme at du skal fa gratis advokat. Les mer i kapittel 7 om advokathjeip. \\ \end{tabular}
+
+\begin{tabular}{p{142.3pt}} Selv om du har vedtatt forelegget, kan du innen en viss frist bringe vedtakelsen inn for domstolene. Les mer om dette i avnstitet om anke og my behandling i punkt III. \\ \end{tabular}
+
+\begin{tabular}{p{142.3pt}} Vegtrafikdoven $\lx@sectionsign$ 31b & Forenklet forelegg er forelegg som vedtas pa stedet. Dette gis for trafikdforseelser og diverse tollsaker. Hvis du ikke vedtar, blir Politiregisterforskriften saken anneldt og far vanlig behandling for domstolene. Foren-klede forelegg fremgar ikke av uttermmede politiattest eller vandelsvurdering. \\ \end{tabular}
+
+ 
+## 7 Tingretten avsier tilstaelsesdom
+
+Straffeprosessloven
+
+S 248
+
+Dersom du gir en uforbeholden tilstaelse, patalemyndigheten
+
+begjaerer det og retten ikke finner det betenkelig, kan du fa tilstaelsedom hvis du gir ditt samtykke til det, forutsatt at saken din ikke
+
+har en strafferamme pa mer enn 10 ar. Du har krav pa forsvarer
+
+hvis du kan fa mer enn 6 maneders fengsel for det du har gjort,
+
+med untak av noen saker etter vegtrafikdoven. Du kan lese mer
+
+om advokathjejen i kaptitel 7.
+
+Tilstaelsessaker blir behandelt pa en enklere mate enn ved vanlig
+
+hovedforhandling i tingretten. Det vil kun vare en dommer, og det
+
+blir ikke fert vtiner for a bevise skyld. Du kan imidlertid be om a fa
+
+fore vitner som kan ha betydning for strafttmalingen (gjeme noen
+
+som kan si noe om at du har endret livsfarsel siden du begikk den
+
+straffbare handlingen).
+
+Dommeren vil ha tilgang pa sakens dokumenter og har i realiteten
+
+kun som oppaye a kontrollere at vikarene for padmemlese er til
+
+stede, og a fastsette en passende straff.
+
+Som hovedregel skal tilstaelsedom gi deg en mildere straff. Dette
+
+er begrunnet med at du skal ha nee ijigen for a tista, samt at du
+
+sparer samfunnet for penger ved den enklere behandlingen for
+
+politi og domstol. Nar en straffesak er genet for tilstaelsedom,
+
+spar politiet i politiavher den siktede om vedkommende samtykker
+
+til a fa saken pademt pa denne maten.
+
+## 8 Hovedforhandling for tingretten eller laamannsrett
+
+Straffeprosessloven $ 5
+
+Ale stratfesaker som ikke avgjeres pa en av m antene nevnt ovenfor,
+
+skal behandles i tingretten.
+
+Rettsmatet der domstolen avsjer om du er skyldig, og eventuelt
+
+hva slags straff du skal ha, kalles hovedforhandlingen. Det er dette
+
+Straffeprosessloven
+
+som er selve rettssaken. Hovedforhandlingen er muntig. Det vil si
+
+at reten bare skal ta hensyn til det som sies og legges from under
+
+hovedforhandlingen.
+
+Som tiltalt har du meteplikt, men ingen plikt til a forklare deg.
+
+Grunnen til dette er at du skal slippe a vele mellom a tilsta og a
+
+Straffeloven $ 221
+
+jve. Hvis du lyver, er dette ikke straffbart. Som regel vil det vaere
+
+annet ledd
+
+en fordel for deg a avgi forklaring. Du bar benytte den anledning du har til a gi dommeren ditt syn pa saken. Dette er s aerlig viktig hvis aktor, vitner eller etterforskerne fra politiet sier noe som du mener er galt.
+
+Straffeprossesloven
+
+$\lx@sectionsign$ 290
+
+Hvis du i retten har endret forklaringen din fra hva du sa under politiavharene, vi alktor som regel konfrontere deg med din tidli-gere forklaring, og lese opp denne i retten. Derfor er det viktig a veare naye med hva du sier og hva som blir skrevet ned nar du avgir forklaring til politiet eller i fengslingsmatet. Les mer i kapitlene 1 till 3 om politiavher, arrestasjon, fengslingsmate og varetektsfengsling.
+
+Du har rett til a bruke forsvarer under hele saken. Dette skal du fa beskjeed om. Du har imidlettid ikke alltid rett til gratis forsvarer. Les mer i kapittel 7 om advokathjelp.
+
+## II. Hovedofhandling for tingretten
+
+\begin{tabular}{l l} Straffeprossesloven & I hovedofhandling for tingretten er det i utgangspunktet en \\ kapittel 22 og 5 & fagdommer og to meddommere. Meddommere skal representere \\ Domstoloven kapittel 5 & $\lx@sectionsign$mannen i gata$\Rightarrow$, og de vi vanligvis ikke vaere jurister. \\ \end{tabular}
+
+\begin{tabular}{l l} Fagdommeren og de to meddommerne avgjar skyldspersmalet \\ sammen. Avgjareelsen las etter vanlig fierfallsbeslutting. Hvis to \\ dommere mener at du ikke er skyldig, frifinnes du. \\ Straffeprossesloven & Hvis saken din er s aerlig omfattende eller andre s aerlige grunner \\ $\lx@sectionsign$ 276 annet ledt & ttisier det, kan domstolens leder bestemme at retten skal besta \\ av to dommere og tre meddommere. Saerlige grunner kan for \\ eksempel vare at saken din er spesielt komplisert eller at den har \\ vakt stor offentlig interesse. \\ \end{tabular}
+
+\begin{tabular}{l l} Straffeprossesloven & Aktor leser opp tiltalebesluttingen. Titalebesluttingen skal blant \\ $\lx@sectionsign$ 252 og $\lx@sectionsign$ 289 & annet inneholde opplynsniger om hvulke paragrafer patalemyndigheten mener du har brutt, og hvorn, nar og hvordan dette skal ha \\ skjedd. Etter a ha lest opp denne, spar den av dommerne som er \\ rettens leder deg om du erkjenner deg skydig. \\ \end{tabular}
+
+\begin{tabular}{l l} Nar du har swart p a dette, holder aklor er innledningsforedrag. Da forklarer han hva som er grunnen til at du er tiltalt, og hvilke bevis \\ som vil bli fert. \\ \end{tabular}
+
+ Safreprosessloven
+
+S a er det din tur til a forklare deg dersom du ansker det. Hvis
+
+fonzermede i saken har fatt oppenvnt bistandsadvkat, snus rekkefalgen slik at fonzermede forklarer seg fer deg. Eiterpa blir vitnene
+
+og eventuelt sakkyrndige avhart. Etter hvert vitne og skritflig bevis har
+
+du anledning til a uttale deg. Bevisferselen avluttes med opplesning av eventuelle dokumentbevis, fer en eventuell gjennomgang av
+
+reelle bevismilder, dvs. videoavspilling, fremvising av beslaglagste
+
+jenstander og lignende. Nar bevisforselen er ferdig, far first aktor,
+
+og sa forsvareren din ordet til prosedyre. Prosedyrene oppsummerer
+
+saken pa bakgrunn av de forklaringer som er gitt og eventuelle dokumentbevis, slik et er kommet frem i retten. Forsvarerens oppgave
+
+er a fa frem att som tater til din fordel. Nar aktor og forsvarer er
+
+ferdige, far du mulighet til a komme med en avlutende bemerkning.
+
+Deretter trekker dommerne seg tibake for a diskutere hva slags
+
+dom som skal avsies. Nar dommerne har kommet frem til en
+
+avgjerelse, forkynnes dommen for deg. Dette kan enten skje ved
+
+en <<domsavsigeles>> i en nyt rettsmate (vanligvis etter noen fa
+
+dager), eller ved <<fremmeteforkynnelse>> pa retten s kontor. Det er
+
+viktig a huske pa at dersom du ikke mater opp til domsavsigelsen
+
+eller fremmeteforkynnelse, vil ankefristen likevel begynne a lope
+
+fra det fastsatte forkynnelsestidpunkt. I noen tifeller kan du ogsa
+
+risikere a bli pagrepet om du ikke mater opp.
+
+Dommen skal inneholde
+
+en kort fremstilling av hva saken dreier seg om og de krav som
+
+er gjort gjeldende
+
+hvilke saksforhold retten har funnet bevist
+
+hvilken bestemmelse i straffeloven du dommes etter, dersom
+
+du finnes skyldig
+
+hvilke vilkar for stratfeskyld som mangler, dersom du frifnnes
+
+grunnlaget for den straff retten kommer frem til
+
+om dommen er enstemmig
+
+Nar du far dommen forkynt for deg, far du tre alternativer:
+
+du kan vedta dommen
+
+du kan anke dommen pa stedet
+
+du kan ta 14 dagers betenkningstid
+
+Det vil offe veare lurt a ta betenkningstid, slik at du kan radfere deg
+
+med forsvareren din seller andre. Forsvareren din vil kunne gi deg
+
+rad om dommen var mild eller streng, og om du har noe a vinne
+
+eller tape ved a anke den.
+
+ 
+## III Anke
+
+Straffeprossessloven kapitel 23
+
+Hvis du er misformayd med dommen, kan du preve a fa den overprevd. Du kan da enten anke den, kreve ny behandling eller forsake a fa saken gjenopptatt. Hvilken fremgangsmate du ma velege vii avhenge av om dommen er rettskraftig, og hvilken del av avgjareelsen du vii preve om ijgen.
+
+### Anke til lagmannsreten
+
+Dommene til tingretten kan ankes til lagmannsreten. Det er et vikar for a anke at dommen enna ikke er rettskraftig avgjort. I dette titlelet betyr det at du ikke har vedtatt dommen eller at anke-fristen ikke har gatt ut.
+
+\begin{tabular}{l l} Straffeprossessloven & Ankefristen er 2 uker. Fristen loper fra den dagen dommen blir forkynt. \\ Straffeprossessloven & l ankeerklaeringen ma du spesifisere hva du anker over. Du kan for eksempel mene at du er uskyldig damt, at det er begatt saksbehandlingsfeil under saken, at loven er brukt uriktig, at du har fatt for streng straff eller gal type straff eller at du uriktig er \\ idamt forvaring. Det er viktig at du far med alt du mener er feil med dommen, eilers riskerer du ikke a fa pravet viktige ankegrunner for lagmannsreten. \\ Straffeprossessloven & Det er lagmannsrettens ankeutvalg som bestemmer om en anke skal behandles av lagmannsreten. Ankeutvalget vurderer om det er noen mulighet for at saken vil fa et annet resultat ved behandling i lagmannsreten. Hvis de finner at det klart ikke vil fore til noe annet resultat, nektes anken fremmet. \\ Dersom tiltalen gjelder en forbrytelse med en strafferamme pa over 6 ar, har du imilderti som regel krav pa a fa ny behandling av saken i lagmannsreten. \\ Lagmannsreten settes som utgangspunkt med tre fagdommere og fire meddommere. \\ Straffeprossessloven & For forbrytelser med strafferamme over 6 ar, settes lagmannsreten med to fagdommere og fem meddommere. Rettens leder kan bestemme at ett eller flere varamedlemmer skal fglge ankeforhandlingene. Rettens leder kan ogsa bestemme at to av meddom mere skal vare fagkyndige. Denne ordningen er ny fra 1. januar 2018 og erstatter lagretteordningen, eller det vi gjerne kaller juryordningen. For var det en jury pa 10 vanilige personer som avgjorde skydsparsmalet ved a svare vajar eller enie pa om den tiltatle var skyldig etter tiltatlen. Etter den nye ordningen avgijer alle rettens medemmer bade skydspersmalet og eventuelt straffe-sparsmalet i fellesskap.
+
+Fra og med 1. januar 2018 ble altsa juryordningen aviklet i
+
+Norge. En overgangsordning frerer til at saker med straffearmme pa over 6 ar som ble anket inn far denne tid, kan gjennomfares som lagrettesak (jurysak) dersom ankesaken kommer opp i lepet av 2018. Fra og med 1. januar 2019 vil alle saker som tidigere fat im under juryordningen bli behandlet med 2 fagdommere og 5 meddommere.
+
+## 2 Anke til Heyvesteret
+
+Saker som er avgjort av lagmannsreitten kan ankes til Hayessterett. I noen spesiele tiffeller kan en avgjerelse fra tingretten ankes direkte inn til Hayesterett. Dette kan skje med saker som omhandler svaert prinsipiele temaer ogeller hvor det er svaert viktig at man far en rask avgjerelse. Direkte anke til Hayesterett skjer veldig sjeldent.
+
+\begin{tabular}{l l} Straffeprosessloven & Det er Hayesteretts ankeutvalg som avgjer om en anke skal \\ $\lx@sectionsign$ 323 & kunne fremnes for Hayesterett. Ankeutvalgets avgjerlese skal \\ bare dreie seg om du far lov til a fare saken for Hayesterett eller \\ ikke. Det er i hovedsak prinsipiele saker som kommer gjennom til \\ behandling i Hayesterett. & Desom du mener du er uskyldig damt, kan du ikke anke til \\ Hayesterett. Begrunnelsen for dette er at Hayesterett ikke kan \\ prave bevisene for din skyld/uskyld. Denne siden av sken anses \\ endelig avgjort ved tingretten eller lagmannsreten. \\ \end{tabular}
+
+## 3 Krav til begrunnelse for ankenketlser
+
+\begin{tabular}{l l} FNs konvensjon om & Dersom du far nektet saken din tatt opp til ankebehandling, har \\ swile og poltiske rettigt & du krav pa a fa en begrunnelse for dette. Slik har det ikke vaert \\ heter artikkel 14 nr. 5 & tidligere, men Hayesterett avgjorde i to saker i 2008 og 2009 at \\ alle som far nektet ankebehandling av en straffesak har krav pa \\ a fa vite begrunnelsen for nektelsen. Hayesterett har bestemt at \\ \end{tabular}
+
+ dette er nadvendig blant annet for a sixre rettssikkerheten til strafefedamte og for a oppflyle forpliktelsene Norge har etter internasjonele regler.
+
+Hvis du har fatt en ubegrunnet ankenektelse og ansker saken gjenapnet, ma du fersst henvende deg til Gjenoptakelseskommi-sjonen. Den underseker om vilkarene som Heyesteret har stilt opp er oppflyt, far de tar vurderer om anken skal preves pa ny.
+
+Hvis Gjenoptakelseskommisjonen kommer til at saken ikke kan gjenapnes, ma dette begrunnes. Hvis saken gjenapnes, blir saken offset behandlet i lagmannsretten. Du kan lese om gjenapning i kapittel 31.
+
+Dersom du har fatt behandlet saken din i Heyesterett, eller Hayestett har avivist den, kan du klage saken inn for Den europeiske menneskeretitighetsdomstol (EMD) i Strasbourg. Du ma altsa ha vaert gjennom alle domstolsnivaer her i landet. Menneskeretitighetsdomstolen tar ikke stilling til skyd og spersmal om straffutmaling; den tar kun stilling til om behandlingen du har fatt i norske domstoler er i trad med menenskeretitighetene. Dette gjelder de rettighetene Norge har forpliktet seg til a falge etter Den europeiske menneskeretitighetskonvensjonen (EMK). Klage til EMD er altsa aktuelt hvis du mener at myndighetene har brutt noen av disse bestemmelsene. Klage til denne domstolen hindrer ikke at den norske dommen din blir rettskraftig. Den utsetter for eksempel ikke soningsstart. Du kan klage til EMD mens du sitter pa soning. Frist for insendelse av klage er seks maneder etter at dommen din er blitt rettskraftig. Se ogsa kapittel 36 for mer informasjon.
+
+ * [14] M.
+
+ * [52] H.
+
+ 
+## 1 Soningsustetelse pa grunn av soningsudyktighet
+
+Hvis du ikke er i stand til a gjennomfere straffen pa grunn av egen helestitstand, kan du sake om utsettelse av soningen. Du kan da bli erklaert soningsudyktig.
+
+For a bli erklaert soningsudyktig ma man enten ha blitt erklaert alvorlig sinssliedende eller sa ma helestitstanden din gjere full- byrding utilradelig. Disse to vilkarene er veldig strenge, og det er nadvendig a ga til psyklaeter, psykolog eller lege for a farekering fra disse. Det er Kriminalomsorgen som vurderer om du er sooningsudyktig. Hvis helespersonell har erklaert des soningsudyktig, kan det vaere et tungteviende moment i vurderingen.
+
+Videre skal fullbyrdingen utsettes hvis du er gravid eller har fedt for mindre enn 6 uker siden, med mindre du selv ensker a sone. Dette gjelder ogsa hvis du ammer, og det ikke har gatt mer enn 9 maneder siden barnet ble fedt.
+
+Straffeprosessloven SS 458
+
+Dersom du har sekt om benadning kan fullbyrdingen utsettes i noen tifeller. Du kan lese mer om benadning i kapittel 32.
+
+Har du allerede pabegynt straffen, gjelder ikke denne regelen for deg. Hvis du mener at du har sa store helsemessige problemer at videre soning er utilradelig, vil du kunne sake om straffavbrudd, leslatelse pa halufeld eller benadning. Se kapittel 23 om straffavbrudd og kapittel 29 om leslatelse.
+
+## 2 Soningsustetelse i andre tifeller
+
+Straffeprosssloven
+
+$\lx@sectionsign$ 459 annet ledd
+
+I enkele tifeller kan det ramme deg spesieht hardt at du skal sone dommen du har fatt. Du kan sake om vsettelse av fengelsstraff eller samfunnnsstraff nar vektige grunners taler for det.
+
+<<Vektige grunners kan for eksempel vaere forverring av okonomien eller sykdom i familiaren. Ogsa skolegang og arbeid kan vaere grunner du kan anfere.
+
+Soningsustettelse i disse tifellene er ikke noe du har krav pa. Det vurderes i hvert enkelt tifelle om utsettelse skal gis. Erfaringss messig skal det svaert mye til fer man invlges soningsustettelse.
+
+ 
+## 3 Saksgangen
+
+Forskrift om innkalling og utsettelse ved fulbryding av straft $ 7
+
+Det er som hovedregel den lokale enhet (fengsel eller friomsorgskontor) som har fatt myndighet til det, som skal avgjere om vikarene for soningsutsettelse er til stede. Hvis du har sakt om utsettelse lenger enn 6 maneder pa grunn av avandre vektige grunnern enn soningsudyktighet, er det regionen som skal avgjere ssknaden. Du skal uansett sende seknaden til fengselet eller insttusjonen som innkalte deg til soning.
+
+Straffeprosessloven $ 455
+
+Avgjarelser av seknad om soningsutsettelse skal beginunes. Det ma opplyes om klageadgang, klagefrist og fremgangsmate. En eventuell klage sendes til fengselet eller regionen som avgjorde ssknaden.
+
+## 3 Hvor skal du gjennomfere straffen?
+
+Straffeigennomfaringsloven $ 10
+
+I Norge kan man gjennomfere fengselstraff pa ulike sikkerhetsniva. Dette er henholdsvis fengsel med hayt sikkerhetsniva, fengsel med lavt sikkerhetsniva og overgangsbolig. Du kan ogsa bli passert i avdeling med saearlig hayt sikkerhetsniva. Les mer om saearlig heyt sikkerhetsniva i kapittel 27.
+
+I saearlige tifeller er det anledning til a gjennomfere straff utentorf fengsel, og i noen tifeller kan straffen gjennomferes i insitusjon eller pa sykehus. Les mer i kapittel 20 om soning utentorf fengsel, og i kapittel 21 om soning i insitusjon.
+
+Forskriften til straffeigennomfaringsloven $ 3-4 tredje ledd
+
+Hvis du er utenlandsk, er det mulig a sake om overfaring til straffegjennomferingi hjemplandet ditt. Du skal bli informert om dette ved iminsetelsen. Du kan lese mer om soningsoverfering til utlandet i kapittel 19.
+
+Straffeigennomfaringsloven $ 11 ferste ledd
+
+Du skal som hovedregel settes inn i fengsel i naerheten av hjernstedt ditt. Det skal searlig legges vekt p om hensynet til barn ttisier en slik plassering. Behovet for naerhet til hjemstedet ditt kan likevel vurderes opp mot andre hensyn, for eksempel hensynet til rehabilitering, helsetistand eller andre grunner.
+
+Straffeigennomfaringsloven $ 11 fjorde ledd
+
+Dersom du er damt til fengselstraff pa mindre enn 2 ar, skal Kriminalomsorgen vurdere om du kan setttes inn i fengsel med lavere sikkerhetsniva. Selv om hensynet til sikkerheten ikke er til hinder for dette, kan du likevel bli passert i fengsel med hayt * [15] S.
+
+ * [14] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **86** (2012) 094004, doi:10.1103/PhysRevD.86.094004, arXiv:1207.4071.
+* [15] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **87** (2013) 094014, doi:10.1103/PhysRevD.87.094014, arXiv:1207.4071.
+* [16] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **88** (2013) 094014, doi:10.1103/PhysRevD.88.094014, arXiv:1302.2581.
+* [17] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **89** (2014) 094014, doi:10.1103/PhysRevD.89.094014, arXiv:1302.2581.
+* [18] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **89** (2014) 094014, doi:10.1103/PhysRevD.89.094014, arXiv:1302.2581.
+* [19] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **90** (2014) 094014, doi:10.1103/PhysRevD.90.094014, arXiv:1302.2581.
+* [20] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **91** (2015) 094014, doi:10.1103/PhysRevD.91.094014, arXiv:1503.0218.
+* [21] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **92** (2015) 094014, doi:10.1103/PhysRevD.92.094014, arXiv:1503.0218.
+* [22] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **93** (2016) 094014, doi:10.1103/PhysRevD.93.094014, arXiv:1602.0218.
+* [23] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **94** (2016) 094014, doi:10.1103/PhysRevD.94.094014, arXiv:1503.0218.
+* [24] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **95** (2017) 094014, doi:10.1103/PhysRevD.95.094014, arXiv:1602.0218.
+* [25] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **96** (2017) 094014, doi:10.1103/PhysRevD.96.094014, arXiv:1602.0218.
+* [26] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **97** (2016) 094014, doi:10.1103/PhysRevD.97.094014, arXiv:1602.0218.
+* [27] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ ** * [15] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **96** (2016) 092004, doi:10.1103/PhysRevD.96.092004, arXiv:1502.0701.
+* [16] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **97** (2016) 092004, doi:10.1103/PhysRevD.97.092004, arXiv:1609.0002.
+* [17] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **98** (2017) 092004, doi:10.1103/PhysRevD.98.092004, arXiv:1609.0002.
+* [18] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **99** (2017) 092004, doi:10.1103/PhysRevD.99.092004, arXiv:1609.0002.
+* [19] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **99** (2017) 092004, doi:10.1103/PhysRevD.99.092004, arXiv:1709.0002.
+* [20] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **99** (2017) 092004, doi:10.1103/PhysRevD.99.092004, arXiv:1709.0002.
+* [21] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **99** (2017) 092004, doi:10.1103/PhysRevD.99.092004, arXiv:1709.0002.
+* [22] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **99** (2017) 092004, doi:10.1103/PhysRevD.99.092004, arXiv:1709.0002.
+* [23] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **99** (2017) 092004, doi:10.1103/PhysRevD.99.092004, arXiv:1709.0002.
+* [24] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **99** (2017) 092004, doi:10.1103/PhysRevD.99.092004, arXiv:1709.0002.
+* [25] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **99** (2017) 092004, doi:10.1103/PhysRevD.99.092004, arXiv:1709.0002.
+* [26] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **99** (2017) 092004, doi:10.1103/PhysRevD.99.092004, arXiv:1709.0002.
+* [27] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **99** (2017) 092004, doi:10.1103/PhysRevD.99.092004, arXiv:1709.0002.
+* [28] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ ** 
+## 2 Saker i tingretten, lagmannsretten og Heyesterett
+
+\begin{tabular}{l l} Straffeprossessloven & Den store hovedregelen er at du som tiltalt har krav pa advokaten \\ SS 96 & betalt av det offentige. Dette gjelder bade i strafesaker som gar \\  & foringretten, lagmannsretten og Hayesterett. Det er gjort noen \\  & unntak for saker som blir behandlet av tingretten. Dette er i: \\  & $\bullet$ Promillesaker \\  & $\bullet$ Saker om kjaring uten fererkort \\  & $\bullet$ Saker om forelegg \\  & $\bullet$ Saker om indragning, for eksempel pengebelep \\  & $\bullet$ Saker der du listar, og patalemyndigheten har imnstilt pa \\  & kortere staff enn 6 manneder \\  & $\bullet$ & \\ \end{tabular}
+
+## 3 Tlistaelsessaker
+
+\begin{tabular}{l l} Enkelete saker kan i visse tifeller avgjeres som tlistaelsessak. Du \\  & kan lese mer om dette i kapittel 5. \\  & $\bullet$ \\ \end{tabular}
+
+\begin{tabular}{l l} Straffeprossessloven & Hvis det kan bli aktuelt a gi deg dom pa ubetinget fengsel i mer \\  & $\bullet$ 6 manneder, skal det offentige betale advokaten din i strafesaken, med unntak av visse brudd pa veitrafikloven eller der \\  & hvor retten finner det ubetenkelig at du ikke har advokat. \\  & $\bullet$ \\ \end{tabular}
+
+\begin{tabular}{l l} Blir det ikke klargjort om du har krav pa gratis advokat under \\  & forhandlingene i retten skal saken utsettes. Dommeren skal alltid \\  & vurdere om du har krav pa gratis advokat. Det er dommeren som \\  & skal gjere deg oppmerksom pa dine rettigheter. \\  & $\bullet$ \\ \end{tabular}
+
+## 4 Andre tifeller
+
+\begin{tabular}{l l} Straffeprossessloven & Utenom de grunner som er nevnt foran, kan du fa dekket utgiftene \\  & $\bullet$ & $\bullet$ \\ $\bullet$ * [15] M.
+
+ 
+
+Straffeprossessloven
+
+En formaermet har krav pa bistandsadvokat dekket av det offentige
+
+$\lx@sectionsign$ 107 a
+
+dersom vedkommende er utsatt for:
+
+Brudd pa opophols- eller kontaktforbud
+
+Tvangesekteskap
+
+Menneskehandel
+
+Mishandling i neere relasjoner
+
+Kjannslemletselse
+
+Volttekt
+
+Mishruk av overmarkstforhold o.l.
+
+Seksuell omgang med innsatte mv. i institusjon
+
+Seksuell omgang med barn mellom 14 og 16 ar
+
+Seksuell handling med barn under 16 ar
+
+Inceset eller seksuell omgang mellom andre nerstaende
+
+I saker hvor fomermende trolig far betydelig skade pa kropp
+
+eller helse som falge av handlingen
+
+I saker hvor forsvarer oppnevnes for a delta i ungdoms-
+
+stormete
+
+Etteriatte i saker hvor en person under 18 ar er dad som falge
+
+av en straffbar handling
+
+Retten kan oppnevne bistandsadvokat i andre tiffeller der sakens
+
+art og alvor, hensynet til de berarte eller andre ssertige forhold
+
+tisier at det er behov for det.
+
+## II Advokathjelp i andre saker enn straffesaker
+
+Du har rett til a bruke advokat i alle saker du ferer mot mymdigneter
+
+eller privatpersoner, ogsa i andre saker enn straffesaker. Hvis du har en advokat i en sivil sak (ike i straffesaken din), gjelder de
+
+samme reglene om kommunikasjon som med forsvareren i straffesaken din. Det betyr at du skal kunne ringe advokaten utenom den ordineere fingeiden din, og at brev og telefon ikke skal kontrolleres.
+
+Les mer i kapittel 13 om eBrev, besak og telefon>>.
+
+Som regel ma man selv betale hva det koster a benytle advokat,
+
+men i visse tiffeller og pa visse vilkar skal det offentige betale
+
+tugifene.
+
+Rettshjeplsoven
+
+Fri rettshjeplp kan omfate radgivning sa vel som mer omfat-
+
+tende hjelp fra advokat. Dette kalles fritt rettsrad og fri sakforsel.
+
+Problemet ma vaere konkret, fordi det ikke gis fri rettshjeplp til gene rell radgivning. Fri rettshjelp kan gis i forbindelse med partsrepresentasjon overfor myndigheter eller privatpersoner. Det kan ogsa gis i forbindelse med en aktuell rettssak.
+
+I tilegg til advokatatugiftene kan du ogsa fa dekket andre nadvendige utgifter du selv har hat, for eksempel reiseutgifter og gebyr til fortiksfadet. l enkette tifelle kan fri rettshjelp ogsa dekke utgifter til sakkyndig som har uttalt seg. Det blir da vurdert hvor stor betydning det har at slik hjelp gis.
+
+Fri rettshjelp gis ferst og fremst for saker som behandles av norsk domstol eller forvatningsorgan. Du kan likevel seke om fri rettshjelp selv om saken din behandles i utlandet. Det stilles ikke noe krav om at du ma vere norsk statsborger. Uflendinger har dermed samme rett til fri rettshjelp som nordmenn. Hvis du vil vite mer om dette, kan du henvende deg til Jussussuss, en advokat, Fylksmannen i ditt fylke eller Justisdepartementet. Se bakerst i boken for kontakinformasjon til disse.
+
+Fri rettshjelp omfatter ikke idamte sakosmkostninger, disse blir du selv okonomisk ansvarlig for.
+
+### 1. Fritt rettsrad med behovspreving
+
+Fritt rettsrad med behovspreving betyr at du far gratis bistand fra advokat hvis innetkten din ligger under en bestemt grense, se nedenfor. Slik rettshjelp er begrenset til visse typer saker. Disse er:
+
+Klage pa vedtak etter folkettyggloven
+
+Oppsigeles- og avskjedigelsessaker i arbeidsforhold (kun for arbeidstaker)
+
+Oppsigeles eller utkastelse fra bolig som leietaker bor i (kun for leietaker)
+
+Enketle etkeskaps- og familiesaker som skifte ved separasjon og skilsmisse, skifte eller opplosning av samboerforhold, forel-dreansvar, daglig omsorg o samvaersrett
+
+Erstatningssaker for skadee og etterlatte ved personskade eller tap av forserger
+
+Voldsoffererstatningssaker for den skade 
+## 2 Fri sakforsel med behovspreving
+
+Rettshjepsloven
+
+$\lx@sectionsign$ 16 annet led
+
+Fri sakforsel med behovspreving betyr at du far gratis advokat til a
+
+bista deg dersom du har inntekt og formue under visse greenser, se
+
+nedenfor. Fri sakforsel med behovspreving kan du fa i:
+
+* Saker om foreldreansvar, hvor bamet skal bo fast, samvaersrett
+* registningssaker for skadede og etterlatte ved personskade
+* seller tap av forserger
+* Saker om oppsigelse og utkastelse fra leid bolig (kun for
+
+leietaker)
+* Saker om oppsigelse og avskjed fra arbeidsforhold (kun for
+
+arbelstaker)
+* Bamebortfaringssaker hvor bamet er bortfert i Norge
+* Trygdesaker som blir anket til Trygdereften
+
+Du kan ogsa fa fr rettshjepl uptenom disse tifellene, men da silles
+
+$\lx@sectionsign$ 16 trede led
+
+$\lx@sectionsign$ 11 trede led
+
+$\lx@sectionsign$ 16 tredie led
+
+$\lx@sectionsign$ 11 tredie led
+
+$\lx@sectionsign$ 11 tredie led
+ inshatte ikke by pa noe problem. Men har du en formue pa mer
+
+enn kr 100.000, - vi du atsta i utgangspunktet ikke kunne fa fri
+
+rettshjelp. Ettersom det er snakk om nettoformue, ma du huske a
+
+trekke fra den gjelden du har. Ved innvilgelse av fri rettshjelp sees
+
+det i praksis i de fleste tiffeller bort fra eiendom som man benytter
+
+til bolig ved beregningen.
+
+Hvis du er gift, vil den samlede innetketen og formuen til
+
+husstanden legges til grunn for vurderingen av om innetkts- og
+
+formuesgrensen er overskredet. Du kan likevel bli vurdert uten
+
+ektefellen hvis problemet hovsedakelig er aktuelt for deg, eller hvis
+
+det dreier seg om en twist mellom deg ogin eketefelle.
+
+Det kan gjrees unntak fra reglene om innetkts- og formuesgrener.
+
+For deg som soner og trenger fri rettshjelp, vil det derfor vere
+
+verdt et forsak a seke om fri rettshjelp sev om din innetketl eller
+
+formue overstiger gensen. Imidertid ma det ikke ligge mye over
+
+grensen om det skal vere neo hap. Dispensasjon fra de okono-
+
+miske vilkarene vil bare vere aktulet i saker hvor det blir betyde-
+
+lige utgitter til avdovkat. Utigitene ma veere ufonholdsmessig store
+
+sammenlignet med din okonomiske situasjon far det blir aktuelt a
+
+dispensere. Jo starre innetkts- og formuesoverskridelsen er, desto
+
+starre ma utgittene vere fer det er aktuelt a invnivige fri rettshjelp.
+
+For personer som forsarger barn er det adgang til a dispensere fra
+
+en innetktsoverskridelse pa inntil kr. 20 000. Innetktsoverskridelser
+
+over kr. 20 000 vil bare helt unntaksvis kunne dispensere fra. l
+
+saker om fritt rettsrad forutsettes det at det er behov for omfattende
+
+jurdiisk bistand, dvs. minimum 30 timer. l fri skaforselsaker ma det
+
+sannsynliggjares at saken vil medfare kostnader klart utover en
+
+giennomsnittssak for domstoen pa det aktuelle saksfeltet.
+
+### Egenandel
+
+Rettshjelpsloven SS 3 og SS 9
+
+Persom du far inviliget behovspravd fri rettshjelp, ma du betale
+
+en egenandel av tugitfene til bistand. Egenandelen beregnes ut fra
+
+en grunndel tilsvarende den offentlige salaersatsen. Den offentlige
+
+salaersatsen er pr. 1. januar 2018 kr. 1020,-.
+
+Ved fritt rettsrad skal du betale en egenandel som tilsvarer gunn-
+
+delen. Ved fri sakforsel skal det betales en egenandel pa 25 %
+
+av tugitfene, men ikke mer enn 8 ganger grunndelen. Dersom du
+
+har en aflig bruttoinntekt pa kr. 100 000,- eller mindre skal du ikke
+
+betale egenandel.
+
+  * Saker om erstatning for urettmessig straffeorfelgning
+* Voldsofre i erstatiningsak mot gjerningspersonen
+* Vernepiliktige i ferstegangstjeneste i saker som ellers har behovspraving
+* Vurdering av forhold av betydning for anmeldelse i sak hvor man i tilsvarende straffesak hadde hatt krav pa bistands- advokat (se over om bistandsadvokat)
+* Personer som har vext utsatt for (forsek pa) tvangsektkeskap som ikke er anmeldt
+
+### 5. Fri rettshielp i fengelssaker
+
+Normalt vil det ikke bli gitt fri rettshjelp i saker om fullbyrdelse av fengelsstraft. Dette betyr at du normalt ikke far fri rettshjelp nar det gjelder fengelsrettslige problemer som seknad om permisjon, prevelslatelse osv.
+
+Fylkesmannen kan gjere unntak fra dette i enkeltsaker. Det gjelder kun unntaksvis, men det er verdt et forsek. Om du trenger hjelp i forbindelse med slike saker, kan du hevende deg til advokat, Jussbuss eller andre rettshjelpstiltak.
+
+ 
+
+## Kapitel 8 Fengelssystemets opphygning, organisering og samarbeid
+
+I. Fengelssystemets opphygning
+
+Straflegenomtfringsloven
+
+(strgifl.) SSS 1, 2 og 5
+
+Griminalomsorgens oppgave er a gjennomfare varetektsfengsling
+
+og straffereaksjoner pa en mate som er betryggende for samfunnet
+
+og som motivrker straffbare handlinger. Kriminalomsorgen er delt
+
+inn i tre nvaer: Kriminalomsorgsdirektoratet, regionalt niva (regionene) og lokalt niva (de enkeltte fengslene og friomsorgskonto-
+
+rene). Disse nvaene er den faglige og administrative delen av
+
+fengelssystemet, og vil jennomgas nermere under.
+
+Stortinget, Regjeringen og Justisdepartementet er de overste
+
+poltiske myndighetene for kriminalomsorgen. Disse organene
+
+bestemmer hulike lover og regler som gjelder i fengsel og
+
+friomsorgen. Stortinget har vedtatt straffegjennomfringsloven og
+
+andre lover som styrer fengelsoppholdet. Kriminalomsorgsavde-
+
+lingen i Justisdepartementet har lager forskriftene til loven, mens
+
+kriminalomsorgsdirektoratet har lager retningslinjene til loven.
+
+**1. Kriminalomsorgsdirektoratet (KDI)**
+
+Kriminalomsorgsdirektoratet har ansvaret for den faglige og administrative ledelsen av kriminalomsorgen som hehet.
+
+**2. Kriminalomsorgens regionale niva**
+
+Landet er delt im i fem kriminalomsorgsregioner etter fylker:
+
+* Region nord (Trandelag, Nordland, Troms og Finnmark)
+* Region ast (Oslo og Akershus, Ostfold, Hedmark og Oppland)
+* Region sar (Buskerud, Vestfold og Telemark)
+* Region servest (Rogaland, Vest-Agder og Aust-Agder)
+* Region vest (Hordaland, Sogn og Fjordane, og Mere og
+
+Romsdal)Kapittel 8 - Fongselssystemets oppbygning, organisering 75 og samarbeid
+
+Disse regionene har overordnet ansvar for kriminalomsorgen innenfor sitt omrade.
+
+## 3 Kriminalomsorgens lokale niva
+
+Lokalt niva bestar av samtige fengsler, overgangsboliger og friomsorgskontorer. Det er disse som har ansvaret for den daglige driften. Lederen av lokalt niva er fengselsleder og friomsorgsleder.
+
+## 4 Hvem tar avgjorelesene?
+
+Det kan varere av betydning hvern som fatter en avgjoreles, fordi personer pa ulike niva har forskjeilig overskit og erfaringgsrunlag. Vi wil derfor ga jennom hvern som skal treffe de ulike avgjorelesene. Uansett hvern som skal ta avgjorelesen, kan du sende seknaden eller klagen til fengselslederen. Hvis noen har tatt en avgjorelese uten at de har myndighet til detet eter bestemmelsene nedenfor, kan vedtaket kjennes ugyldig. Dette betyr at avgjorelesen ma fattes pa nytt av riktig intans. Jussbuss kan hjelpe deg med dette. Du kan lese mer om seknader og klager i kapittel 9.
+
+### Lokalt niva tar avgjorelesene
+
+Strgfl. SS 6 forste ledd Som hovedregel er det lokalt niva som skal ta avgjoreleser etter straffejennomfringsloven. Det wil si at det er lederen av fengselt eller friomsorgskontoret som er ansatzrig for de avgjoreleser som blir fattet. Derfor skal lederen av lokalt niva, eller noen han eller hun bestemmer, ta avgjoreleser i enkeltsker. Ofte gir fengselslederen andre ansatte myndighet til a ta slike avgjoreleser. I noen tifeller kan regionen bestemme at andre enn lederen av lokalt niva skal ha myndighet til a treffe avgjoreleser, for eksempel nestleder eller farstebetjent. Far du avslag pa en seknad, kan du klage pa avgjorelesen til regionen.
+
+### Regionen tar avgjorelesene
+
+Strgfl. SS 6 andre ledd I noen tifeller er det regionen som tar avgjorelesene i ferste 
+
+[MISSING_PAGE_POST]
+
+ * utelukkelse av alle eller en gruppe innsatte fra fellesskapet over 3 dagn, jf. SS 37 attende ledd. Regionen kan her gi fortengelse pa inntil 3 dagn
+* bruk av sikkerhetstseng over 24 timer, jf. SS 38 fjerde ledd
+* bruk av sikkerhetscelle over 3 dagn, jf. SS 38 fentre ledd
+* a bringe saker inn for tingretten ved fortsstt brudd pa provelselstelsevilkar, jf. SS 44 annet ledd
+* a bringe saker inn for retten ved nytt brudd pa vilkarene for samfunnstraft, jf. SS 58 andre ledd
+
+Hvis du er idamt fengelsstaff pa mer enn 10 ar eller er damt til forvaring, treffer regionen avgjarelser ogsa i disse sakeen:
+
+* gjenomfaring av straft i institujson, jf. SS 12
+* gjenomfaring av straft i sykehus, jf. SS 13
+* overfaring mellom gjenomfrangsformer, jf. SS 14
+* overfaring til mindre restriktivt fengsel, jf. SS 15
+* gjenomfring av straft utenfor fengsel, jf. SS 16
+* frigang, jf. SS 20
+* permisjon, jf. SS 33
+* strafkvbrud, jf. SS 35
+* fastsetelse av vilkar ved permisjon og stratfavbrudd, jf. SS 36
+* laslatelse, jf. SS 42
+* fastsetelse og endring av vilkar ved pravelselatelse, jf. SS 43
+* avgjorelser ved brudd pa provelselatelesvilkar, jf. SS 44
+
+Forskriften til
+
+Lokalt niva kan likevel fatte avgjarelser i noen av disse sakene.
+
+straffejenomfrangsloven
+
+Lokalt niva er gitt myndighet til a avsla seknader etter straffejenomfrangsloven SSS 12, 13, 20, 33 0g 42. Lokalt niva kan
+
+Retningst injeen til SS 6
+
+ogsa avgjere en seknad om permisjon nar regionen eller Krimi-nalomsorgdistrektoratet tidligere har innilvigt permisjon og denne permisjonen er blitt gjenommfert uten svikt, og det ikke er bestemt at permisjonsseknaader skal avgjorels av overordnet niva.
+
+Til slutt er lokalt niva ogsa gitt myndighet til a invnilge seknader etter straffejennomfrangsloven SSS 12, 13, 20, 33 og 35 fra domfelte som er idamt fengelsstaff i mer enn 10 ar, men som ikke er idamt forvaring, og som er overfert til fengsel med lavere sikkerhetsniva.
+
+Dersom det utenom kontortid ma tas avgjarelser i saker som skulle vaert avgjort av regionen, kan leder av lokalt niva treffe midertidig vedtak. Avgjarelsen skal da fortest mulig legges fram for direktar pa regionen som skal treffe endelig vedtak.
+
+ 
+
+## 5 Anstaltrad
+
+Det er ikke gitt bestemmelser om dette i loven, men mange
+
+fengsler har et anstaltrad eller et tilsvarende radgivende organ
+
+som frobereder enkeltsaker. Her varierer praksis fra fengsel til
+
+fengsel. Radenes oppgave er a komme med radgivende uttalesler
+
+i forbindelse med sparsmal som har stor betydning for deg, for
+
+eksempel ssknader om permisjon, prevelslatelse eller lignende.
+
+Det er ikke radene som har den endelige avgjerelsen i saken, men
+
+de kan komme med rad til de som skal avgjere saken.
+
+## 6 Tilsynsradet
+
+Det skal varee et tilsynsrad i tilkyntring til hver region. Medlemmene av radet oppnevnes av Justisdepartementet etter forslag fra
+
+Fylkesmannen. Radet skal besta av leder, nestleder, medemmer
+
+og varamedlemmer fra samtige fylker som den enkele region
+
+omfatter. Minst ett av medlemmene bar vaere eller ha vaert
+
+dommer.
+
+Tilsynsradet skal kontrollere at den behandlingen du blir utsatt
+
+for i fengselet skjer slik lov, forskrift og avrige bestemmelser
+
+fastsetter. Dette skal de gjere ved a besake fengselet eller
+
+friomsorgskontoret anneldt eller unameldt. De kan ogsa snakke
+
+med innsante og fa innsyn i alle saksdokumenter, hvis den innsante
+
+samtykker til det. Ett eller fhere radsmedlemmer foretar hver
+
+maned minimum ett besok i en av regionens enheter.
+
+Dersom du _ansker_ a komme i kontakt med tilsynsradet utenom
+
+de fastsatte besokene, kan du ta kontakt per telefon eller brev. Du
+
+kan fa telefonnummeret av fengselet. Samtalen skal ikke avlytles.
+
+Forskriften $ 2-3
+
+Retningslinjene til SS 9
+
+ansatte i fengselet er til stede. De har taushetsplikt om det du
+
+forteller dem. Mener du at du er blitt uriktig behandlet i fengsel
+
+eller at forbiddene er for darlige, kan du be om en samtale med et
+
+av medlemmene i radet og legge from saken for medlemmet.
+
+Tilsynsradet har ikke noen avgjerelesmyndighet i fengselet. De
+
+skal prove a lesse problemer som matte oppsta i fengselet ved
+
+a ta dem opp med fengselseledelsen. Gjer ikke ledelsen noe for
+
+a forandre det som blir bemerket, kan radet ta saken opp med
+
+regionsdirektoren. Tilsynsradet skal hvert ar lage en arsmelding,- Fengselssystemets opppygning, organisering
+* [79] med referat fra de metene de har hatt. Denne arsmeddingen skal sendes til regionen. Regionen kommer med en uttalelse, og sender dette videre til Kriminalomsorgsdirektoratet. Arsmeddingen skal varee offentlig ttigjengelig, sa du kan be om a fa se den hvis du _ansker_.
+
+## 7 Andre ansatte
+
+### Sosialkonsulenten
+
+I mange fengsler er det en sosialtijneste med en eller flee sosialkonsulenter. Sosialkonsulenten skal hijepe deg med problemer av sosial karakter. Det kan vare hijep til a kontakte NAV, sake om okonomisk statte eller hjep til a ordne opp i problemer du har utenfor fengselet. Sosialkonsulenten kan ogsa hjelpe til med seknader om for eksempel overflyting til et annet fengsel eller prevelaslatelse, og skal samarbeide med triomsorgen slik at du skal sta best mulig rustet nar du leslates. Du kan ogsa henvende deg til andre ansatte om slik hjep.
+
+De fleste fengslene har for fa sosialkonsulenter. Dette betyr at de som jobber der ikke har mulighet til a gi den hjeppen som behaves til alle. _O_nsker du hjep, vil dette ofte ta tid. Det er viktig ikke a gi opp. Vent pa din tur, og legg sa frem saken for din sosialkonsulent. F eller du at dette tar for lang tid, kan saken tag opp med fengsel Kapittel 8 - Fongselssystemets oppbygning, organisering 79 og samarbeid
+
+### Kontaktbetienten
+
+Retningslinene til $ 3 Alle innsatte skal i utgangspunktet tilbys en kontaktbetient.
+
+Kontaktbetienten har ansvaret for at du far informasion om fengselet og om dine rettigheter og plikter. Vedkommende skal ogsa hjeplee deg i arbeidet med a lage en framtidsplan. Kontaktbetienten skal varet e bindeledd mellom deg og fengselet for avrig. Dersom du skal hevende deg til instanser utenfor fengselet, for eksempel sosialkontor, arbeidskontor eller skolemymdigheter, skal kontaktbetienten hielpe deg med dette. Vedkommende kan ogsa gi deg rad og hielpe deg med a skrive skknader. Erfaringsmessig er det ikke alle innsatte som far en kontaktbetient, og skulle dette vaere tiflelet for deg, ma du be om a fa det.
+
+Dersom fengselet har et anstaltrad eller lignende, vi som regel kontaktbetienten mate der nar saker som angar deg skal behandles. Kontaktbetienten har en dobbeltrole. Han eller hun skal hijlepe deg, sam tidig som betjenten har oppgaver knyttet til den tradisjonelle evokterrollen. Hvis det oppstar en konflikt mellom deg og kontaktbetienten, kan du sake om a fa skitte kontaktbetient. Du ma da ta kontakt med ferstebetienten eller fengselselederen.
+
+## 8 Samarbeid med andre offentiige instanser
+
+Strgifl. $ 4 Kriminalomsorgen skal samarbeide med andre offentiige etater for a legge forholdene til rette for at innsatte far de jeneseter som lovgivningen gir dem krav pa. Samarbeidet skal bidra til a fremme din tipasning til samfunnet. Innsatte har samme rett til jeneseter og tilbud og har de samme forpliktelsene og ansvar som alle andre i samfunnet. Helstejenester, sosialtijnenester, opplearing, arbeids-markestitlak og kulturtiblud er eksempel pa ienester som ytes av det offentiige, og som det skal samarbeides om. Fengselet skal i samarbeid med deg sake a kartlegeg om du har behov for bistand fra andre etater. De skal ogsa hielpe deg med a formide disse behovene. Ofte vil andre etaters kompetanse vaere viktig, og fengselet b$\bar{a}$ derfor seke samarbeid allerede under kartleggingen av behovene dine.
+
+ Kapittel 8 - Fengselssystemets oppbygning, organisering
+
+og samarbeid
+
+Strgift. SS 25
+
+Dersom du og de andre inssate ensker det, bar fengselet starte samarbeidsorganer med representanter for inssate og ansatte. Dette gjelder ogsa i ressursavdelinger og avdelinger med serlig hayt skikerhetsniva nar skikerhetsmessige grunner ikke taler mot det. Det foruestetes at silke samarbeidsorganer blir etablert dersom et fiertall av de inssate _ansker_ det.
+
+### 1. Samarbeid med fengselsiedelsen
+
+Samarbeidet med ledelsen kan skje pa fleere mater. Det kan foreksempel organiseres slik at dere veiger representanter for de innsatte som deltar i mater med ledelsen og de ansatte. En annen mulighet er at dere veiger representanter som skal vaere med i fengselets forskjellige utvalg. Dere kan ikke selv avgjere hvilken samarbeidsform som skal praktiseres. Dette bestemmer fengselselederen. Unssett hvordan det skjer er silke ordninger en fin mate a ta opp problemer med ledelsen pa. I noen fengsler fungerer dessverre dette samarbeidet darlig. Hvis dette gjelder fengselet du sitter i kan dere forsake a fa i gang en bedre dialog med fengselseledelsen. Som offest er det mer a tjene pa og diskutere problemene enn like a gjere det.
+
+### 2. Hva slags spersmal kan dere ta opp?
+
+Det er bare adgang til a behandle saker som angar det daglige livet i fengselet. Eksempler pa dette kan vaere arbeidsmilijsaker eller fritidsaktiviteter. Dette er bare ment som eksempler, og det finnes naturligvis en rekke andre saker som ogsa kan tas opp med fengselsledelsen. Regelen om at bare daglige problemer kan tas opp, betyr at problemet ma ramme fleere av dere og at det oppstar ofe. Det er ogsa en del andre begrensninger for hva dere kan ta opp som gruppe. Forhold om organisering av skkerheten og konflikter mellom inssatte og en enkelt ansatt, er saker dere er avskaret fra a opp som gruppe. Dette ma du ta opp individulet.
+
+ 
+
+## 3 Om samarbeidet
+
+Selv om ledelsen vl samarbeide betyr ikke det at dere far ta avgierelsene selv, men at dere far mulighet til a si hva dere mener. Hvis dere synes at samarbeidet med fengselet er darlig, kan dere kontakte tilsysnradet, regionen eller ga frem pa en annen mate. Dere kan for eksempel kontakte en organisasjon for fanger. Kontaktinformasjonen til noen silke organisasjoner star bak i denne boka. Du kan ogsa lese mer om ulike organisasjoner i kapittel 39.
+
+
+
+## Kapittel 9 Saknader og klager
+
+Jussbuss mener at det er viktig at du utrytter de mulighetene du har til a sake og a klage. To saker er aldri het like. Selv om du har har hart at saker som ligner pa din er avlatt, kan det vare espeiselle forhold i ditt tifelle som gjer at resultatet blir annerledes for deg. Har du tidli- gere fat avslag pa for eksempel en saknad om permision, kan det ha skjedd forandringer siden den forrige saknaden ble behandlet. Forandringene kan gjere at utfallet blir et annet. For eksempel kan fengselets praksis ha forandret seg, eller du kan ha opparbeidet deg sterre tillt hos fengselet siden den forrige seknaden.
+
+I dette kapittelet finner du tips til nvordan du kan skrive saknad og klage. Du kan ogsa lese om hvike regler kriminalomsorgen ma forholde seg til nar de behandler saken din.
+
+Selv om eksempleen i dette kapittelet gjelder fengselssaker, er fere av reglene like for alle forvalthingsorganer. Det vil si at soknadsprosessene kan vere like nar du skal seke om ting fra andre instanser. Et forvalthingsorgan er ettwert organ for stat og kommune. NAV, UDI og kriminalomsorgen er noen eksempler pa forvalthingsorganer.
+
+### I. Seknadens og klagens form
+
+Det er ikke et krav om at du ma levere seknader skriftig. Vi nabefler likevel at du gjer dette. Det vil vare lettere a huske pa alt som ber varee med i seknaden. I tillegg kan det vere lettere a fa frem det du mener pa en tydelig mate. Dersom du seker muntlig, bar du be om en skriftig bekreftelse pa at fengselet har mottatt og vil behandle seknaden din.
+
+En klage skal eformot alltid leveres skriftig. Se under punkt Il dersom du trenger hjelp til a skrive en seknad eller klage.
+
+Det er viktig at du selv beholder en kopi av soknaden eller klagen. Skulle det senere oppsta en diskusjon om hva som sto i seknaden eller nar den ble sendt, kan du vise til kopien.
+
+I ferste avnsitt forklarer du hva du seker om eller hvilket vedtak du klager pa. l andre avnsitt skriver du hvorfor du mener at du bar fa innvilget seknaden eller klagen din. Nar du beginunner seknaden, ber du fokusere pa vilkarene for a invnivige det du seker om. For eksempel star det i loven at det skal foreligge sarlige og vektige grunner for at velferdspermijn invnilges, og at skikerhetsmes-sige grunner ikke skal tale imot det (ogsa kalt sviktarevurde-ringen). Hva som kreves for a fa invnilget ulike seknader, kan du lese mer om i de enkele kapitene.
+
+I vart eksempel er de saerlige og vektige grunnene morens 50-arsdag og farens sykdom. l sviktarevurderingen viser vi til at sokeren har hatt fleere permisjoner tidligere, at han selv matte til sonsning, og at han ikke har blitt liagt noen reaksjoner eller har hatt noen positive unipraver under soningen.
+
+Hvis du kan dokumentere det du skriver, er det viktig at denne dokumentasjonen legges ved seknaden. Det kan for eksempel vaere en uttalelse fra en lege, kontaktbetjent eller andre som anbe-faler at du far det du seker om.
+
+Du kan skrive nesten alle soknader og klager med dette opposttet. Enkele seknader kan du skrive pa standardskjemaer. Disse skjemaene far du av ansatte i fengselet. Jussuss har ogsa maler (seknadsguider) som viser hvordan man kan sake.
+
+## II. Hjelp til a soke
+
+Hvis du trenger hjelp til a skrive en seknad eller klage, kan du sperre sosialkonsulenten, kontaktbetjenten din eller noen av de andre ansatte i fengselet. Du kan ogsa forhere deg med familie, venner eller andre innastte.
+
+Hvis du vil ha hjelp fra advokat ma du som regel betale for dette selv. Et alternativ til advokat er a la kontakt med et gratis retts- hjelpstitlak. Jussuss er et eksempel pa et slikt tiltak. Bakerst i boken finner du en liste med telefonnumre og adresse til forskjelige gratis rettshjelpstitlak.
+
+### 1. Hvis en annen person seker for deg (fullmektig)
+
+Fvd. SS 12A ha en fullmektig betyr at noen skriver soknaden eller klagen pa vegne av deg, men skriver under med sitt eget navn. Det er helt * [145] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **86** (2012) 094004, doi:10.1103/PhysRevD.86.094004, arXiv:1207.4018.
+* [146] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **87** (2013) 094004, doi:10.1103/PhysRevD.87.094004, arXiv:1302.2581.
+* [147] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **88** (2013) 094004, doi:10.1103/PhysRevD.88.094004, arXiv:1302.2581.
+* [148] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **89** (2014) 094004, doi:10.1103/PhysRevD.89.094004, arXiv:1302.2581.
+* [149] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **89** (2014) 094004, doi:10.1103/PhysRevD.89.094004, arXiv:1302.2581.
+* [150] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **89** (2014) 094004, doi:10.1103/PhysRevD.89.094004, arXiv:1302.2581.
+* [151] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **90** (2014) 094004, doi:10.1103/PhysRevD.90.094004, arXiv:1302.2581.
+* [152] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **91** (2015) 094004, doi:10.1103/PhysRevD.91.094004, arXiv:1503.0218.
+* [153] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **92** (2015) 094004, doi:10.1103/PhysRevD.92.094004, arXiv:1503.0218.
+* [154] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **93** (2016) 094004, doi:10.1103/PhysRevD.93.094004, arXiv:1602.0218.
+* [155] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **94** (2016) 094004, doi:10.1103/PhysRevD.94.094004, arXiv:1602.0218.
+* [156] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **94** (2016) 094004, doi:10.1103/PhysRevD.94.094004, arXiv:1602.0218.
+* [157] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7$ TeV", _Phys. Rev. D_ **95** (2017) 094004, doi:10.1103/PhysRevD.95.094004, arXiv:1602.0218.
+* [158] CMS Collaboration, "Measurement of the $\tau$-lepton production cross section in pp collisions at $\sqrt{s}=7\ 
+Ful. $ 11
+
+Veliedning til
+
+$ 7 punkt 3.1
+
+Ful. $ 27 ferde led
+
+bokstav b
+
+Kriminalomsorgen har som en del av forvattningen en veiledningsplikt. Det betyr at alle som jobber i fengselet skal kunne gi deg
+
+veiledning om regeleverk, ruinter og praksis for det fengselet du
+
+soner i. Nar kriminalomsorgen fatter vedtak som angar deg, bar de
+
+ogsa opplyse om veiledningsplikten i vedtaket.
+
+Det vi variere hvor omflattene veiledning du har krav pa. Forvalltningsorganet vil lipasse veiledningen ut fra ditt behov, sakens vanske-
+
+lightestgrad, og kriminalomsorgens kapsatifet. For utenlandske imsatte
+
+vil kriminalomsorgen ofte ha en mer omflattene veiledningsplikt.
+
+Hvis du ikke far den veiledningen du mener du har krav pa, kan du
+
+klage dette im tli regionen fengselet du soner i tilharer. Se kapittel
+
+8 for oversikt over de ulike regionene.
+
+## III Hvem skal ha saknaden eller klagen
+
+### Seknader
+
+Strojfl.$ 6 ferste ledd
+
+Hovedregelen er at du levereer de aller fleste seknader til fengselselederen i ditt fengsel. Se eksempelet under punkt l over. Er du
+
+usikker pa hvor seknaden skal sendes, kan du se i det kapitlelet
+
+som onhandler det du seker om.
+
+### Klaeger
+
+Ful. $ 28 ferste ledd jf.
+
+En klage skal avgières av det organet som er overordnet det
+
+organet som traff den avgiarelsen du klager pa. Hvis for eksempel
+
+fengselet har avslatt en seknad, ma du klage til regionen. Klaegen
+
+sendes til lederen i fengselet, selv om det er regionen som skal
+
+avgiere klagen. Fengselselederen sender klagen videre til regionen.
+
+Ful. $ 33 andre ledd
+
+og fente ledd
+
+Det er flere grunner til at det er det organet som har avgiort
+
+seknaden som skal ha klagen. For det ferste skal organet som har
+
+avgiort seknaden selv h mulighet til a omgjere vedtaket, dersom
+
+den finner at det ferste avslaget var feil. For det andre skal det
+
+forberede saken for klageorganet.
+
+Klagen din skal behandles selv om du sender den til feil sted. Det
+
+vil imidiertid ga raskere dersom du sender den til riktig organ i
+
+ferste omgang.
+
+ 
+
+[MISSING_PAGE_POST]
+
+ Hvis du mottar et muntlig vedtak, bar du be om a fa det bekreftet skriftlig, slik at du far se begrunnelsen for vedtaket. Fengselet skal kunne gi deg dette. Vedtaket inneholder fleere opplysninger som det kan vaere greit a ha skriftlig, for eksempel informasion om hvordan du klager.
+
+## VI. Krav om beginnnelse
+
+### 1. Nar skal vedtaket begrunnes?
+
+Ful. SS 24 Strgill. SS 7 ferste ledd bokstav c og d
+
+I noen tiffeller trenger ikke forvaltningen a gi begrunnelse:
+
+* Dersom det ikke er grunn til a tro at du vil bli misfornayd med vedtaket. Dette kan for eksempel vaere hvis du har fatt innvliget en seknad om permisjon. Hvis du likevel onsker beginnnelse, kan du kreve a fa det. l sa fall ma du be om begrunnelse fer klagefristen gar ut. Dette untaket gjelder ikke klagesaker, disse ma alltid begrunnes.
+* Hvis begrunnelsen ikke kan gis uten a rape opplysninger som er taushetsbelagte. Opplysninger kan for eksempel vaere taushetsbelagte av hensyn til etterforskning av straffbare forhold, sikkerhetsmessige hensyn, eller fordi de handler om andre personer.
+* Hvis begrunnelsen inneholder opplysninger som det av hensyn til din heles ikke er forsvarlig at du far.
+* Hvis begrunnelsen inneholder opplysninger som vil kunne adelegege ditt forhold til personer som du har en narer relasjon til, for eksempel familie.
+* I saker om bendning gis det ikke beginnnelse, men du kan be om det.
+
+### 2. Hva skal sta i begrunnelsen?
+
+Ful. SS 25 Begrunnelsen skal fortelle hvilke regler forvaltningen har brukt nar de har avajort saken din. Er regelen vanskelig a forsta, skal den forklares naermere. l begrunnelsen skal det ogsa stalt im on de faktiske forhold som har vavert avgjerende for resultatet.
+
+Det vil variere fra sak til sak hvor grundig begrunnelse kriminalomsorgen ma gi. Momenter som har belydning for hvor grundig begrunnelse du har krav på, er for eksempel hvor innripende 
+Auslaget er for deg, og om du selv ber ha kjennskap til hvorfor du ikke far invilget seknaden eller klagen.
+
+Du bar klage hvis det er fattet et vedtak mot deg som er mangelfultt begrunnet eller ikke begrunnet i det hele tatt.
+
+## VII Retten til a klage
+
+Du har alltid rett til a klage, men du kan kun klage en gang. Klagen ma leveres innen en gitt frist. Har du allerede brukt opp klagemu-ligheten din eller fristen for a klage har gatt ut, kan du be om at vedtaket omgajres, se punk lx under. Du kan ogsa be om a fa en ny klagefrist.
+
+### Klagefrist
+
+Fvl. $ 29
+
+I fengelselssaker er klagefristen vanligvis 7 dager fra den dagen du ble informert om svaret i vedtaket. I saker om reaksjon pa brudd er klagefristen bare 48 timer. Klagefristen regnes fra den timen du fikk kjennskap til avslaget nar klagefristen er 48 timer.
+
+Fvl. $ 29 andre ledd
+
+Forvalntingslovforskritten
+
+$ 41
+
+Dersom du far en utvidet eller ny begrunnelse etter at vedtaket er truffet, vil klagefristen starte fra det tidspunktet du mottar begrunnelsen. I saker hvor du ikke har fatt en begrunnelse kan du altsa falen legnre klagefrist hvis du ber om en begrunnelse.
+
+Fvl. $ 31 ferste ledd
+
+Hvis du klager etter at fristen har gatt ut, ma ikke klageorganet behandle klagen din. Derfor er det viktig a levere klage til fengselet fer klagefristen gar ut. Hvis fristen har gatt ut, er det viktig at du likevel klager sa fort som mulig. Klageorganet kan behandle klagen din hvis de onsker det selv om fristen har gatt ut.
+
+Har du fatt svar pa en seknad av andre enn fengselet, for eksempel NAV eller UDI (Ultendingsdirektoratet), er klagefristen vanligvis 3 uker. Sjekk likevel alltid vedtaket noye. Der skal det sta hvor lang klagefristen er.
+
+ 
+## 2. Fristavbrytende klage
+
+Du kan be fengselet om en lengre klagefrist, hvis du har behov for det. En slik melding kalles gjerne en fristavbrytende klage. Meningen er at den opprinnelige fristen avbrytes, og du far lengre tidi tli a klage. I en fristavbrytende klage bar du skrive at du snsker a klage, og at begrunnelsen for klagen kommer senere. Du bar ogsa forklare hvorfor du trenger lengre frist. Kanskje har du behov for a skaffe dokumentasion som statter saken din, eller du trenger hjelp til a skrive en god begrunnelse pa hvorfor du klager. Det er ogsa lurt a sparre om du har fatt utvidet frist, og hvor lang tid du har fer du ma levere begrunnelse. Fengselet ma ikke gi deg lengre frist, men vanilgvis gjer de det.
+
+Nedenfor falger et eksempel pa en fristavbrytende klage.
+
+Navnet ditt ogstedt du - Ola Nordmann - Sted, dd.mm.aa
+
+Rlager fra - Postboks 1 - O0000 Sted
+
+Organet som skal motta - Celleborg fengsel den fristavbrytende klagen - V/ Fengselsleder - (vanilgvis fengselet) - O0000 Sted
+
+FRISTAVBRYTENDE Klage PA AVSLAG PA SOKNAd
+
+OM VELFERDSPERMISJON FOR OLA NORDMANN,
+
+FODT 11.11.71
+
+Jeg gansker med dette a klage pa fengselets avslag pa seknad - on velfredspermisjon datert dd.mm.aa.
+
+Jeg wil komme med beginnnelse for klagen om kort tid. Jeg venter pa dokumentasjon jeg skal legge ved klagen.
+
+Dette er a betrakte som en fristavbrytende klage. Dersom jeg far invnigt ny frist, vil jeg gjerne vite hvor lang tid jeg har pa meg til a levere begrunnelse for klagen.
+
+Med vennlig hilsen
+
+Ota Tredmundum Kapittel 9 - Seknader og klager
+
+## VIII. Hvor lenge ma du vente pa svar?
+
+Fvd. $ 11a
+
+Kriminalomsorgen skal forberede og avgijere saken sa raskt som
+
+Veiledning til $ 7 punkt 3.2
+
+praktisk mulig. Det er ingen absolutt grense i loven for hvor lang
+
+og 3.3
+
+tid de kan bruke pa a avgijere en sak. Det er ote lang saksbehandlingstid og ulike saker som haster. Vi anbedaler derloff alitdi a
+
+vaere tidlig ute nar du seker om noe.
+
+Hvis det ter uforholdsmessig lang tid a besvare saknaden eller
+
+klagen din, skal du fa en meding om hvorfor den ikke kan
+
+behandles tidligere, og beskjed om nar du kan forvente et endelig
+
+svar. En sik meiding kalles et forelapig svar. Du skal fa en slik
+
+melding dersom din seknad eller klage ikke besvares innen en
+
+mande.
+
+Hva som regnes som uforholdsmessig lang tid, vil variere med
+
+hva slags saknad eller klage du sender og hvem som skal ta
+
+avgijerelsen. For eksempel vi en benadningsseknad ta lengre tid a
+
+behandle enn es seknad om permisjon. Hvor stor arbeidsmengde
+
+forvaltningsorganet har for eyelhiket vil ogsa spille inn.
+
+Dersom du ikke far forelepig svar eller ma vente svaert lenge pa a
+
+fa saken din avgjort, bar du klage pa lang saksbehandlingstid. Du kan ogsa ta kontakt med Jussbuss.
+
+## IX. Andre muligheter for a fa endret en avgjorelse
+
+### 1. Omigering
+
+At et vedtak blir omgjort betyr at forvaltningen endrer eller
+
+Gpphever et tidligere vedtak. Pa visse vilkar kan kriminalomsorgen
+
+bokstav g
+
+Veiledning til $ 7 punkt 6
+
+Du kan ogsa be forvaltningen om om amgjere resultatet i saken
+
+din. Dette er aktuelt dersom klagefristen har gatt ut, eller nar du
+
+har fatt avslag pa en klage, og derlof ikke kan klage saken videre.
+
+Du ma begrunne hvorfor du mener at kriminalomsorgen skal
+
+omgjere vedtaket. Det kan hende at det har kommet til nye viktige
+
+momenter som ikke tidligere er blitt vurdert, eller at du mener at
+
+forvaltningen har gjort en feil i behandlingen av saken din.
+
+ En melding om omgjering ma leveres til de som sist behandlet klagen. Forvalthingen bestemmer selv om de $\mathfrak{ansker}$ a behandle omgjeringen. Offe vil det vaere lettere a levere en heelt ny $\mathfrak{sknad}$.
+
+## 2 Klage til Sivilombudsmannen (SOM)
+
+Sivilombudsmannen er et uavhengg organ som behandler klager pa forvalthingen. Hvis du mener at det er truffet et uriktig vedtak, skjedd en saksbehandlingsfeil, eller at du har blitt urettferdig behandlet, kan du klage til Sivilombudsmannen. Sivilombudsmannen underseker saken og velger selv om de skal behandle den.
+
+Sivilombudsmannsloven $\lx@sectionsign$ 6 Du ma ikke ha et vedtak i saken for a klage til Sivilombudsmannen. Hvis saken gjelder et vedtak, ma alle klagemuligheter i forvalthingen vaere brukt ferst. Fristen for a klage til Sivilombudsmannen er et ar fra vedtakets dato, eller fra da hendelsen skjedde.
+
+Sivlombudsmannsloven $\lx@sectionsign$ 32 Du kan kontakte Sivilombudsmannen per brev og telefon. Telefonsamtler til Sivilombudsmannen kan ikke avlytes eller tas opp $\lx@sectionsign$ 6 av fengselet. Hvis du sender en klage med brev, skal ikke fengselet lese dette. Husk a legge ved alt du har av dokumentasjon og skriv sa tydelig som mulig hva og hvem saken gjelder. Det er gratis a klage, men Sivilombudsmannen bruker ofte lang tid pa a behandle klager. Jussuss har erfart at en klage til Sivilombudsmannen ofte klage ferer frem. En klage til Sivilombudsmannen er imiderti en mulighet til a fin en uavhengig vurdering av ditt mate med forvalthingen.
+
+Sivilombudsmannen mener at forvalthingen har gjort en feil i behandlingen av deg eller saken din, kan hn kriisere forvalthingen, og be dem rette felien. Han kan ogsa komme med endringsforslag silk at feilen ikke skjer iglen. Forvalthingen har ingen plikt til a falge Sivilombudsmannen sine rad, men ofe harer de pa radene.
+
+ * [10] Taushetsplikt, insynsret
+
+og tilgang til regelverket
+
+For a lvareta Sikkerheten i fengselet best mulig, trenger Kriminalomsorgen informasjon. Derfor har fengselet mange opplyninger om deg og dine private forbold. Det kan vaere forhold som gjelder straflesaken din, soningsprogresjon, din psykiske og fysiske helse og mye mer.
+
+Forvaltningsloven (ft.)
+
+Nar det er sagt, har Kriminalomsorgen taushetsplikt, og de kan
+
+ikke dele informasjonen de har om deg med andre som ikke skal
+
+ha kjenskap til den. Nedenfor star det mer om taushetsplikten.
+
+De opplynsingene fengselet har om deg kan fa stor betydning
+
+for deg og dine soningsforhold. Opplynsinger om deg kan blant
+
+annet pavirke dine muligheter til a fa permisjoner og andre goder.
+
+Du har mulighet til a fa innsyn i noe av informasjonen fengselet
+
+har om deg. Under kan du lese mer om hvilke dokumenter du har
+
+rett pa innsyn i.
+
+Flere av reglene i dette kapittelet gjelder for alle forvaltningsorgan.
+
+Et forvaltningsorgan er ethvert organ for stat og kommune. Kriminalomsorgsdirektoratet (KDI), NAV og UDI er noen eksempler pa
+
+forvaltningsorganer.
+
+## I. Taushetsplikt
+
+Taushetsplikten er en plikt til a hindre at andre far adgang eller
+
+kjennskap til visse opplynsinger om deg.
+
+### 1. Hvem gjelder taushetsplikten for
+
+Fvl. SS 13
+
+ferste og trede ledd
+
+Alle som er ansatzt i Kriminalomsorgen eller som utferer en tjeneste
+
+for Kriminalomsorgen har taushetsplikt. Taushetsplikten gjelder ogsa
+
+utenom arbeidsiden og etter at vedkommende har slutteri jobben.
+
+ 
+Ful. $ 13
+
+Hovedregelen er at de ansatte i Kriminalomsorgen ikke har lov til a videreformide opplynsninger om deg og dine personlige forhold. Dette betyr at de ikke kan fortelle noen pa utsiden at du sitter i fengsel. De ansatte kan heller ikke fortelle andre innsatte om for eksempel familiesituaisjonen din eller hva du er straffet for.
+
+Stefafegienomfaringsloven
+
+De ansatte har ogsa en streng plikt til ikke a fortelle andre om forhold som gjelder sikkerheten i fengselet og jennomfering av straffet untenfor fengselet.
+
+I tillegg har ansatte i Kriminalomsorgen som hovedregel taushetsplikt overfor hverandre. Det vii si at en fengselsbetient som leser gjennom et brev du har mottatt, ikke uten videre kan fortelle en annen betjem om innholdet i brevet.
+
+Ful.$ 13a jf. $ 18
+
+Taushetsplikten vil ikke hindre deg i a fa informasjon som angar deg sekv. Hvis fengselet nekter deg silk informasjon, se punkt II om insnsrsrett.
+
+## 3 Unntak fra taushetsplikten
+
+Ful. $ 13b
+
+Hovedregelen om taushetsplikt har flere unntak. For ansatte i Kriminalomsorgen vil det viktigste unntaket vare hensynet til ro, orden og sikkerhet i fengselet. Slike opplynsninger har de ansatte ofte en plikt til a videreformide. I eksempelet over viel betienten som leste brevet ha plikt til a fortelle om innholdet i brevet til andre ansatte, dersom det blir oppdaget at du praver a ramme eller smuple inn narkotika.
+
+I tillegg til a informere om ulike brudd, kan de ha plikt til a si ifra om forhold som relaterer seg til din heles- og soningssituasjon.
+
+Taushetsplikten er heller ikke til hinder for at betjentene snakker seg imellom om andre ting som har betydning for den daglige driften pa avdelingen.
+
+Strgifl. $ 7 bokstav i
+
+Fengselet kan ogsa informere eventuelle fornaermede eller etterlatte i straffesaken din dersom du for eksempel skal ut pa permisjon, frigang, gjennomfare straff uttenfor fengsel, eller fa pravelostalesle. Du kan lese mer om varsel til formaermede i kapittel 30.
+
+ Kapitte10-Taushetsplikt, innsynsrettogtilgangtilregelverket95
+
+Du kan frivillig samtykke til at opphysisninger om deg blir delt. I s a fall kan det varek lurt a skrive ned hviliken informasjon du synes det er greit at deles, sa det ikke blir noe tvil om hva betjenten kan si.
+
+## II. Innsynsrett
+
+Fvd. SS 18 ferste ledd
+
+Din rett til a fa se dokumenter kaller vi for din rett til innsyn eller
+
+#innsynsretten>. Hovedregelen er at du kan kreve a fa innsyn i
+
+dokumenter som gjelder deg. De dokumentene du _ansker_ a se ma
+
+varek knyttet til en bestemt sak.
+
+Du ma be om innsyn hvis du _ansker_ a se dokumenter. Du ma
+
+ogsa klargjere hvilke type dokumenter du _ansker_ a se. Det kan
+
+varek lurt a be om innsyn ved a levere en skriftlig seknad til feng-
+
+selet. Du kan klage hvis du far avslag pa seknaden. Jussbuss kan
+
+hjeple deg med det.
+
+## 1. Unntak fra innsynsrett
+
+Fra hovedregelen om insynsrett er det fleere unntak. Vi skiller mellom begrensninger i insnsynsretten som er beginnnet i forvantiingens interne saksbehanding og begrensninger som har med selve innholdet i dokumentet a gjare.
+
+### 1.1 Unntak fordi dokumentet er internt
+
+Fvd. SS 18a og SS 18b
+
+Interne dokumenter er de dokumenter som er utarbeidet for feng-
+
+selets interne saksbehanding.
+
+Tanken bak dette unntaket er at fengselet skal ha en god og
+
+effektiv avgjarelesprossen. Noen samtaler og vurderinger ma
+
+Kriminalomsorgen kunne ta uten at de trenger a si det til deg.
+
+Det kan varevanskelig a forsta hva som er interne dokumenter
+
+og hva som ikke er det. Et vedtak vi for eksempel ikke varee et
+
+internt dokument. En rapport, et notat, utkast eller lignende vil ote
+
+vaere et intent dokument. Det er innholdet i dokumentet og ikke
+
+hva fengselet velger a kalle det, som avgjier om et dokument er
+
+internt eller ikke.
+
+Fvd. SS 18c
+
+De delene som beskriver hva som faktisk har skjed i saken, har
+
+du alltid rett til a se. Selv om et dokument er internt og unntatt * [10] F. G. de Gennes, _et al.
+
+ 
+## III Tilgang til regelverket
+
+Retiningslinier til straffe-
+
+Som insnatt skal du ha tilgang til de lover og regler som gjelder for
+
+deg. Det vil i all hovedsak varere straffejennomfringsloven med
+
+"Tligang til regelverket
+
+m.v."
+
+Som insnatt skal du ha tilgang til de lover og regler som gjelder for
+
+deg. Det vil i all hovedsak varere straffejennomfringsloven med
+
+tilherende forskrifter og rettingslinjer. Mye av det som star i denne
+
+boken er hentet fra disse kildene. Informasjonen skal vere tilgjen
+
+gelig pa avoleingen din eller ved ditt fromsorgskontor. Dersom du
+
+har tilgang til internett, kan du kan ogsa finne regelverket pa www.
+
+kriminalomsorgen.no.
+
+Det finnes ogsa en engelsk utgave av straffejennomfringsloven
+
+og forskriften til loven samt ugaver pa andre sprak. Ogsa disse
+
+skal vaere lett tilgjengelig. For utenlandske innsate som ikke kan
+
+bruke den norske eller engelske utgaven, har fengselet en spesiell
+
+veiledningsplikt. Les mer om veiledningsplikt i kapittel 9 om
+
+sknader og klager.
+
+Hvis du _ansker informasjon og veiledning om andre lover og
+
+regler, kan du be fengselet om dette. Det kan vaere vanskelig a
+
+forsta hvilke rettigheter du har kun gjennom a lese loven. Ta gjeme
+
+kontakt med advokat, Jussbuss eller andre rettshjeplstitak dersom
+
+du har spersmal om lover og regler. Bakerst i boken finner du en
+
+liste med telefonnumre og adresser til tilike rettshjeplstitak.
+
+ 
+
+[MISSING_PAGE_POST]
+
+ 
+
+[MISSING_PAGE_POST]
+
+ 
+### Aviskied
+
+Ved avskjed oppharer arbeidsforholdet umiddelbart, og du som arbeidstaker ma forlate arbeledet med eyeblikkelig virkning. I disse titifellene har du ikke krav pa a jobbe i en oppsigelssetti. Du har heller ikke krav pa lann etter avskjeden. Det skal derfor mye mer til for at arbeidsgiver kan gi en avskjed fremfor en oppsigelse. Du ma ha jgort deg skyldig i <<grovt pliktrudd's eller <<aanet vesentilg mislaghdav arbeidsavtalen. Eksempler pa dette kan veere vold eller tyveri fra jobben.
+
+### Fravzer fra arbeidsplassen under soning
+
+Som nevnt overfor har du som arbeidstaker en plikt til a mate opp pa jobb til avalt tid og sted. Denne plikten er vanskelig a oppylle nar du sitter i varetekt eller soner en dom. Spersmalet blir da nar silkt fraveer gir god nok grunn til oppsigelse eller avskjed. Videre i dette kapittelet wil kun oppsigelse draftes. Det er fordi det er dette som brukes mest i praksis.
+
+#### 2.3.1 Varetekt
+
+Nar du sitter i varetekt kan det varere vanskelig a fa gitt beskjed til arbeidsgiver om at du kommer til a veere borte fra arbeidet. Jussuss anbedaler derfor at du tar kontakt med arbeidsgiver med en gang du har anledning til dette, slik at du far forkdar situasjonen og eventuekt hvor leenge fraveret kommer til a vare.
+
+Arbeidsmiljoloven SS 15-7 Du kan ikke sies opp uten at det er <<saklig begrunnet i virksomhetens, arbeidsgivers eller arbeidstakers forholds>>. Dette er kan konkret vurdering som ma gajres i hvert enket tifelle. Fraver fra jobb kan vaere en saklig grunn til oppsigelse. Det kan derfor vaere lurt allerede i forbindelse med pagripelsen a be forsvareren din kontakte arbeidsgiver og informere om fraver sa tidlig som mulig. Det kan redusere riskoen for oppsigelse eller avskjed.
+
+#### 2.3.2 Domfelt
+
+Utgangspunktet er at du ikke har rett til a la vaere a mate opp pa arbeidsplassen fordi du skal inn til soning. Dersom du ikke meter pa jobb fordi du skal sone, kan arbeidsgiver ha saklig grunn til a si deg opp. Om du blir sagt opp pa grunn av slikt fravear kommer an pa om arbeidsgiveren aksepterer fravaeret. Det lanner seg derfor a snakke med arbeidsgiver sa tidlig som mulig for eventuelt a kunne komme til en lasning. Det er viktig a merke seg at du kke har rett til permision fra arbeidet uten lann nar du skal inn til soning.
+
+Ved korte fravaer kan saken stille seg annerledes. Det vil bero pa en konkret vurdering om silke soningsfravaer girunn til oppsigelse. Her vil fhere ulke momenter spille inn. Forst og fernst legges det vekt pa soningens lengde. Et annet moment som tillegges vekt er hvor hardt bedriften rammes av fravaeret. Hvis bedriften for eksempel far akonomiske problemer hvis den ikke sier deg opp, eller hvis bedriften ikke har mulighet til a skaffe en vikar for den tiden du soner, vil det som regel vaere grunnlag for a si deg opp. Hvis silke problemstillinger kan oppsta, vil det vaere lurt om du forsoker a begrense ulempene for bedriften, ved a foreksempel tidlig si i fra om dommen din og nar du skal inn a sone. Et tredije moment er hensynet til a fa innsatte tilbake til arbeids- og samfunnisivet.
+
+#### 2.3.3 Bestride oppsigelsen
+
+Bir du sagt opp fordi du soner eller skal sone en dom, har du rett til a bestride oppsigelsen. Dette betyr at du sier deg uenig med arbeidsgiver i at han kan si deg opp. Det leper ulke frister fra oppsigelesstdSpunktet. Fristen for a kreve forhandlingsmate er 14 dager fra oppsigelsen er mottatt. Dette er den korteste og ofte den viktigste fristen. Jussbuss rader alle som ansker a bestride en oppsigelse om a umiddeldart la kontakt med et av de student-drevne rettshjelpsititakene, som Jussbuss, eller kontakte en advokat sik at du idsnok kan fa veieldning i saksgangen videre. Du vii visse tifeller kunne da dekket utgiftene dine til jurdisk bistand i oppsigeles- og avskjedsaker gjennom ordningen med fri rettshjelp. Du finner telefonnummeret til de ulike rettshjelpsitka-kene bakersti beoken. Du kan lese mer om fri rettshjelp i kaptitel 7.
+
+## II. Aktivitetsplikt i fengsel
+
+Som domfelt har du normalt plikt til a delta i aktiviteter pa dagtid (aktivitetsplikt). Dette kan vaere arbeid, opplaring, program eller andre tiltak. Dersom du sitter pa dom og ikke deltar i annen
+
+aktivitet pa dagtid, kan fengselet vanligvis palege deg a jobbe.
+
+Fengselet kan ikke vinge deg til a delta i utdanning, programmer og lignende. Fengselet har en plikt til a legge forholdene til rette for at alle som onsker det far jobbe.
+
+ * [102] Kettingslinjene til strgill. I spesilele tifteller kan du fa fritak fra aktivitetsplikten fordi du er syk eller ufer. Du ma vanligvis ha dokumentasjon fra lege for a fa dette. Det er heller ikke slik at aktivitetsplikten din automatisk faller bort fordi du er ufer eller for syk til a jobbe. Fengselet ber prave a finne andre aktiviteter som du kan gjennomfere, og de kan be om uttalelser fra helespersonell nar de vurderer om du skal fa fritak.
+
+Straffegienomfaringsloven
+
+For innsatte i varetekt er reglene litt annerledes enn for innsatte som soner en dom. Varetektsinnstate har ingen aktivitetsplikt.
+
+Fengselet kan likevel kreve at du skal bidra til renhold og husarbeid. Hvis du ansker arheide menus du sitter i varetekt skal fengselet prioritere a finne arbeid til deg. Du kan lese mer om varetekt i kaptitet 4.
+
+## 3 Arbeid i fengsel
+
+Hva slags arbeid du kan fa varierer fra fengsel til fengsel. Arbeids-oppgavene kan for eksempel vare i verkstedtdrift, kjakkentjeneste og renhold. De store fengselene har vanligvis mer a tilby enn de sma. Arbeidstilbudet skal bidra til utdanning og samvaer med andre innsatte og ansatte. Arbeidsdritten skal omfatte det arbeid som er nadvendig for fengselets drift og verolikehold. Arbeidet ber bidra til a gjere det mulig for deg a fa jobb etter loslatelsen - dette gjelder spesieft for unge innsatte. Med dette onsker fengselet a forberede deg til du skal ut i samfunnet tigien. Fengselet skal ta hensyn til dine evner og ferdigheter.
+
+Arbeidsdnijeloven gjelder i utgangspunktet ikke for innsatte i forse fengsel. Bestemmelsene om helese, milijg og skkerhet gjelder likevel nar du jobber i fengselet. Arbeidsmijaet skal vaere forsvarlig og arbeidet ma ikke vaere helseskadelig. I tilegg til dette skal arbeidet vaere forenlig med orden og skikerhet.
+
+ Kapitte11 - Arbeid, utdanning, dagpenger og frigang
+
+Straftejennomferingsloven
+
+$ 17
+
+Sa langt der er praktisk mulig, skal du ha mulighet for fellesskap
+
+med andre innsatte under arbeid, i utdanning og pa fritden.
+
+### Verneombud og arbeidsmiligutvalg
+
+Arbeidsmiliguloven
+
+kapittel 6 og 7
+
+Arbeidsplassen din i fengselet skal ha et verneombud. Verneombud er en valgt person pa arbeidsplassen som har til oppgave
+
+a ivareta arbeidstakernes interesser. Verneombudets oppagave er
+
+a se til at driften gjennomfrees pa en forsvarlig mate, og at hensen
+
+og velferden til de som arbeider i fengselet blir iuretatt.
+
+Arbeidsmiligutvalg er et samarbeidsutvalg med hensikt a bedre
+
+arbeidsmiliget pa en arbeidsplass. Her sitter det representanter
+
+fra bade arbeidsgiver- og arbeidstakersiden. Arbeidsmiligutvalgets oppagave er noe av det samme som for verneombudet, men
+
+utvalget jobber mer pa et generett plan og holder oppsyn med at
+
+planleggingien av virksomneten skjer pa en silk mate at arbeidsmiliget blir forsvarlig. I praksis er det nok ikke arbeidsmiligutvalg ved alle arbeidsplasser i norske fengsler.
+
+## IV. Utdanning i fengsel
+
+Forskriften $ 3-12
+
+Innsatte som er under utdanning oppfyler aktivitetsplikten sa
+
+Retningslijene til strgfl. SS 3
+
+lenge skoledagen varer like lengge som en vallig arbeidsdag i
+
+fengselet. Hvis dette ikke er tiflelet kan det hende at du ma delta
+
+i andre aktiviteter ved siden av undervisingnen for at aktivitetsplikten skal vaere oppytl. Ikke alle fengsler har et undervisingns-
+
+tilbud.
+
+Oppleringsloven
+
+Nar du soner har du, med noen fa unntak, de samme rettighetene
+
+til utdanning som resten av befolkningen. Det bety rogsa at hvis
+
+du ikke har rett til utdanning utenfor fengselet, er det ikke sikkert at
+
+du kan fa utdanning i fengselet. Utendandske innsatte kan ha rett
+
+pa utdanning i fengsel. Det gjelder ogsa utenlandske innsatte som
+
+ikke har lovlig opphold i Norge.
+
+Fengselet skal samarbeide med skolen for a avdekke behovet ditt
+
+for utdanning og bidra til at undervisingnstilbudet er tilpasset deg.
+
+Om skolegang utenfor fengsel, se punkt Vll om frigang.
+
+ 
+## 1 Former for undervising
+
+Oplleringsloven SS 2-8
+
+Oplleringsloven SS 3-12
+
+Oplleringsloven SS 2-8
+
+Oplleringsloven SS 2-8
+
+Oplleringsloven SS 3-12
+ 
+
+## 3 Skolens Apningstiider
+
+Undervinsing i fengselet foregar pa dagtid. Skolens apningstider falger for avrig skolens ferier og fridager. Dette betyr blant annet at skolen i de fieste fengsier er stengt 2 maneder om sommeren. I skolens ferier ma du vanligvis arbeide i fengselet.
+
+## 4 Eksamen og vitnemal
+
+Skolen i fengselet dekker alle eksamensutgifter i grunnskolen og i videregaende skole. Du vi fa kompetansebevis eller vitnemal for den utdamingen du jennomferer. Kompetansebeviset eller vitnemalet vil utstedes av skolen.
+
+## 5 Oppfelqingsklasser
+
+Som en del av libudet innenfor utdamning i Kriminalomsorgen er det opprettett 10 oppfelgingsklasser fordelt pa 10 ulike fylker i Norge. Oppfelgingsklassene ble etablert for a lette overgangen fra utdamning i fengselet til detkaleste i ordinear utdaming etter lesslatelse. Forutsatt at du har fulgt undervisingen under soning, kan du fortsette din undervising i en oppfelgingsklasse etter lesslatelse dersom de kan tilby din type utdamning. Dersom du ansker informasjon om eller kontakt med en oppfelgingsklasse, kan du be radgiver ved skolen i fengselet om hjelp. Dette bar du gjere i god tid fer en eventuell oppstart, slik at alt er klart innen du leslates.
+
+## 6 Searregler om datautstyr
+
+Retningslinjene til strgjfl.
+
+S 18 punkt 18.9
+
+regaende utdamning. Fengselet ber derfor gjere det mulig for deg a fa utdamning og praktisk trening i dataprogram og -utstyr. Du ma soke om a fa bruke datautstyr.
+
+Forskriften S 3-20
+
+Datautstyr og lignende kan bare benyttes til arbeid, undervising eller andre tiltak nar det er formalstienlig. Det kan heller ikke vare sikkerhetsgrunner som gjer at fengselet ber nekte deg a bruke datautstyr. I denne vurderingen har det betydning om du i sitter pa hay- eller lavsikkerhetsfengsel. Fengselet vl ogsa se pa oppferselen din og milijet i fengselet nar de skal vurdere om du far bruke datautstyr. Du far som hovedregel ikke bruke datautstyr som er koblet til internet.
+
+I fengsel med hayt sikkerhetsniva er hovedregelen at man ikke far bruke privat datautstyr. Du kan fa tiltateles til a bruke privat datautstyr dersom du har et spesielt behov for a bruke det i utdanningen. Dette mA skille seg fra det behovet andre innsatte har.
+
+Utsytret og programvaren du skal bruke skal godkjennes av fengselet. De kan sette begrensninger pa utstyr, lagringskapasittet, oppbevaring og bruksomrade for datautstyret. Bruk av minne-pinner, ekstern harddisk eller andre former for eksteme lagrings-medier kan bare skje etter samtykke fra fengselet.
+
+## V Program i fengsel
+
+Forskriften SS 3-12 Program i fengsel oppflyler aktivitetsplikten sa lenge programmet du detringslinjene til strgfl. SS 3 deltar i varer like lenge som en vanlig arbeidsdag i fengselet. Hvis dette ikke er tiflelet kan det hende at du ma delta i andre aktiviteter ved siden av programmet for at aktivitetsplikten skal vaere oppflyt.
+
+Program er en samlebetegnelse pa ulike tiltak i fengselet. Det kan vaere undervising, ferdighetistrening ogeller strukturetre samtaler. Programmene kan rette seg mot for eksempel utfordringer med rus, vold eller seksuel adferd, eller vaere til hieple for a utvikle enkelte ferdigheter. Eksempler pa programmer er sinnemestring, foreldekurs og rusmestringsprogrammer. Programtilbudet varierer fra fengsel til fengsel, og det er ikke alle fengsler som har rad til a ha programmer. Jussbus jobber rettspolitisk for at alle fengsler skal tilby programmer som er nyttige for de innsatte.
+
+Programmene skal vaere lagt opp slik at du kan felge dem ved siden av det daglige livet i fengselet. Ogsa varetektsinnsatte kan delta pa programmer i fengsel.
+
+## VI <<Andre tiltak> I fengsel
+
+Innsatte som deltar i eandre tiltak> oppflyler aktivitetsplikten.
+
+*Andre tiltak> et typisk tiltak som er av kortere varghet, og av den grunn kan du palegges d delta i andre aktiviteter ved siden av disse for a oppflyle aktivitetsplikten.
+
+*Andre tiltak> kan vaere kriminalitetsforebyggende tiltak som ikke regnes som programmer. Dette er tiltak som tilbys av fengselet seller samarbeidspartnere, og som det er hensiktsmessig at foregar pa dagtid. Felles for disse tiltakene er at de skal gjere innsatte i Kapitte1 11 - Arbeid, utdanning, dagpenger og frigang
+
+stand til a leve et liv uten kriminalittet, eller a redusere eventuelle skadevirkninger av a sitte i fengsel.
+
+Radgirung eller konsultasjon med sosialkonsulent, arbeidsgiver eller utdanningskonsulent som foregar pa dagtid, regnes som <<andre tiltak>>. Behandling hos lege eller psycholog som et ledd kriminalitetsforebyggingen regnes ogsa som andre tiltak. Det samme gjelder strukturetre samtaler, for eksempel framtidsplan-legging med kontakbetjefent.
+
+## VII. Dagpenger i fengsel
+
+### 1. Fastsettelse av dagpengesatsen
+
+Forskriften SS 3-13
+
+Dagpenger er det belepet du kan fa hvis du oppflyler aktivitetsplikten i fengselet. Stonadspenger er et mindre belep du kan fa hvis du ikke jobber folult. lenne delen gar vi gjennom nar du far de ulike belepene.
+
+Straftejennomferingsloven SS 19
+
+Satsene for dagpenger og stanadspenger blir fastsatt av Kriminalomsmsorsdirektoratet hvert ar. Du kan sparre fengselet hva som er belepet for dagpenger og stanadspenger, og du har krav pa a fa vite hvor mye du far.
+
+Retningslinjene til SS 19
+
+punkt 19.2
+
+Innsatte som oppflyler aktivitetsplikten skal fa dagpenger. Belepets starrelse er det samme uansett om du deltar i arbeid, utdanning, program eller andre tiltak, s a lenge du oppflyler aktivitetsplikten.
+
+Hvis du ikke er i aktivitet, men det ikke er din skyld, skal du ogsa fa dagpenger. Det kan for eksempel vaere at fengselet du soner i kke har et aktivitetsplikten il alle de innsatte som soner der. Du har rett pa dagpenger selv om du har spart opp penger for du startet soningen.
+
+Du far dagpenger for 5 dager i uken. Dersom du jobber ekstra i helgen eller gjer en jobb som er saeflig viktig for fengselet, kan du fa betalt for mer en 5 dager.
+
+Dersom heseltistanden eller arbeidsevenen din er sa darlig at du far fritak fra aktivitetsplikten, skal du fa stanadspenger. Dette gjelder selv om du egentlig vij bobe. Du ma vanligvis ha dokumentasjon pa at du er syk eller ufer fra helsepersonell for a fa fritak fra aktivitetsplikten. Det holder ikke at du selv mener at du ikke kan jobbe. Hvis du lar vaere a mate pa jobb uten at du har fatt fritak fra aktivitetsplikten, kan fengselet trekke deg i dagpenger.
+
+ Hvis du soner straffen din i institujson eller pa sykehus far du normalt stanadspenger. Du kan fa dagpenger hvis du soner pa institujson, men dette er noe Kriminalomsorgsdirektoratet bestemmer fra rt il ar. Du skal fa stanadspenger hvis du sitter isolert etter straffegjennomferingsloven SS 37 eller SS 39. Du kan ogsa fa stanadspenger dersom du sitter frivillig isolert. Det samme gjelder dersom du sitter pa varetekt og ikke vil jobbe.
+
+Pa bevegelige helligdager som faller pa normale virkedager, skal alle insatte som ikke detlar i vanlig arbeid eller som nekter a delta i aktiviteten der satt til, fa stanadspenger. Hvis du utferer ditt vanlige arbeid, skal du ha dagpenger som normalt.
+
+Dersom du utferer arbeidsoppgaver som blir ansett som spesielt viktige for fengselet, kan det bestemmes at du skal fa et eekstra tillegg til de vanlige dagpengene. Tillegget kan varee fra kroner 1,- og opp til et fastsatt maksimumsbelap.
+
+Du kan trekkes i dagpenger ved fravaer som ikke er avtalt og ved for darlig arbeidsinnsats. Hvis du ikke mater pa jobb eller nekter a dei den aktiviteten du er satt til, vil du ikke fa dagpenger eller stanadspenger for de dagene du ikke mater pa aktiviteten.
+
+Strigfl. SS 40 annet ledd Porskriften SS 3-37 Du kan ogsa tape dagpenger i en bestemt periode pa inntil 14 dager som en reaksjon pa brudd. Belepet som trekkes kan ikke vare mere enn 50 % av dagpengesatsen.
+
+## 2 Bruk av dagpenger og private midler
+
+Dagpengene skal inn pa en konto, fordi det ikke skal vaere penger i omlap i fengselet. Ved utgangen av hver maned skal du fa vite hvor mye som star pa kontoen din.
+
+Forskriften SS 3-23 Du har rett til a fa kjpe mat, tobakk, toalettartikler osv. for dageller stanadspengene dine minst en gang i uken.
+
+Forskriften SS 3-19 I utgangspunktet kan du ikke bruke private midler, det vil si penger som ikke er dagpenger eller stanadspenger, i fengselet. Fengselet kan gi illateles til bruk av private midler. Prakissen pa dette varierer fra fengsel til fengsel og mellom ulike situasjoner.
+
+Det gjelder egene regler for bruk av private midler nar man sitter i varetekt. Les mer om dette i kapittel 4.
+
+ Kapitte1 11 - Arbeid, utdanning, dagpenger og frigang
+
+VIII. Frigang fra fengsel
+
+Strgfl. SS 20 ferste led
+
+Frigang betyr at du far adgang til a ga pa skole, arbeide eller delta
+
+i andre tiltak utenfor fengselet.
+
+1. Nar kan du seke frigang?
+
+Forskriften SS 3-14
+
+Hovedregelen er at du kan fa frigang i opptill 1 ar. Du kan seke frigang etter at du har sittet i fengsel sammenhengende i minst 4 maneder. I tillegg ma du ha oppadd 1/3-tid. Hvis du skal fa frigang uten at disse tidskravene er opptytl, ma sserlige og
+
+tungtveiente grunner tale for det. Det betyr at situasjonen din ma vaere helt spesiell, og vanskeligere eller annerfeldes enn hva som er vanlig for innsatte generell. I tillegg bar du ha gjennomfert flere permisjoner uten brudd fer frigang innviges.
+
+Normalt kreves det at du soner i et fengsel med lavere sikkerhetsniva eller i en overgangsbolig for a fa frigang. Frigang fra fengsel med hay sikkerhet skjer kun unntaksvis.
+
+2. Momenter i vurderingen
+
+Strgfl. SS 20 forste led
+
+For at frigang skal kunne tillates, kan ikke sikkerhetsmessige
+
+grunner tale mot det. Det er dette som ogsa kalles svikftarevurderingen. Det betyr at fengselet ma se pa det som trygt og forsvarlig
+
+at du er pa frigang. Det kan heller ikke vaere grunn til a anta at du
+
+vil unndra deg straffern. Fengselet trenger ikke a vaere helt sikre
+
+eller a ha bevis for a nekte deg frigang. Det er tistrekkelig med en
+
+mistanke.
+
+Retningslinjene til SS 20
+
+Ved vurderingen av om du skal fa frigang, legges det blant annet
+
+vekt pa felgende:
+
+* I hvilken utstrekning du vi kunne nyttiggiere deg av og bygge
+
+videre pa tiltaket etter leslatelse
+* Multigheten for a fa arbeid eller skoleplass etter leslatelse
+* Oppfersel i fengselet
+* Faren for ramping og nye lovbrudd
+* Hvor leenge du har igien a sone
+* Alderen din, din forhistorie og hvor lenge du har sonet i fengsel
+* Hva du er damt for
+* Hvorfor det er viktig for deg med frigang
+* Rehabilitering og din situasjon generell 
+## 3 Controll under frigang
+
+Perswiften $ 3-14
+
+Dersom du far frigang skal fengselet serge for at du er klar over bestemmelsene om kontroll med frigang. Arbeidsgiver, skole eller lignende anbefales a varsle fengselet hvis det oppstar situa-
+
+sioner som kan betenges som misbruk av frigangen. Det kan for eksempel vare grunn til a varsle hvis du ikke mater til avtalt tid eller viser darlig oppfersel.
+
+Fengselet kan foreta stikkprevekontroll med uanneldte besak der du har frigang. Fengselsbetientene som foretar kontrollen skal sa vidt mulig ha pa seg sivle klear.
+
+## 4 Frigang til arbeid
+
+Forskriften $ 3-14
+
+Du kan ikke fa frigang til a arbeide i egen eller naere pararerendes
+
+virksomhet. Det betyr at du ikke kan jobbe hos naer familie eller
+
+naere venner.
+
+### Arbeidsavtale under frigang
+
+Forskriften $ 3-15
+
+Du og arbeidsgiveren din skal inga en arbeidsavtale under frigang. Fengselet skal passe pa at dette blur gjort pa riktig mate. Arbeidsgiver skal vite at du sitter i fengsel, og skal varsle fengselet
+
+dersom det oppstar brudd pa vilkarene for frigang.
+
+#### 4.1.1 Begrensinger i arbeidsavtalen
+
+I frigangsavtalen ma man ogsa vare forberedt pa at Kriminalomsorgen kan sette noen begrensninger i de rettigheter som du vanligvis ville hat i arbeidsforholdet etter arbeidsmiljgloven. Det betyr at reglene er litt annerledes nar du arbeider under frigang, enn de ville vaert dersom du ikke satt i fengsel.
+
+Frigangstilatelsen kan ved mislighold nar som helst bli indratt av fengselet. Nar man arbeider pa frigang har man dermed ikke rett til den vanlige oppsigelestiden andre arbeidstakere har.
+
+### Lenn under frigang
+
+Strgift. $ 20 annet ledd
+
+Det er fengselet som far utbetalt lennen din etter at det er gjort
+
+lovbestemte trekk. Fengselet kan sa trekke for oppholdet ditt i
+
+fengselet. Hvor mye som trekkes avgaires av Kriminalomsorgsdi rektoratet. Dersom du selv star ansvarlig for innkjap og tiberedening av egen mat, kan ikke fengselet trekke deg for dette.
+
+Det som er ijgen av lannen etter disse trekkene, vil bli satt pa en konto. Du kan i noen tiffeller bruke penger fra denne kontoen hvis fengselet godkjenner det. Pengene skal ferst og fremst brukes til a dekke reiseutgitter, utgitter til boiling og eventuelle utgitter til a forsorge familie/bam. Nar du lesiates, far du fr tilgang til det belapet som er ijgen pa kontoen.
+
+Hvis du er pa frigang kan du ha rett pa sykepenger dersom du blir syk. Du kan sparre arbeidsgivenen din eller sosialkonsulenten i fengselet om dette.
+
+**5. Friigang til a ga pa skole**
+
+Onsker du a ga pa skole utenfor fengselet, ma du selv ske om optak. For a fa sknadsskjema kan du kontakte utdanningsavdelingen i den fylkeskommunen skolen ligger, eller henvende deg direkte til skolen du seker pa. Alt dette kan du sparre kontaktebetjenen, sosialkonsulenten eller skolen ved fengselet om a hijepe deg med.
+
+Utigiftene du har i forbindelse med frigang til skolegang skal i utgangspunktet dekkes av dagpengene dine.
+
+**5.1 Hvor lenge kan du fa frigang til a ga pa skole?**
+
+Forskriften SS 3-14
+
+andre ledk
+
+Hovedrefeelen er at du kan fa frigang i opptil 1 ar. I noen tiffeller kan du imidletti fa frigang til undervising i opptil 2 ar. Dette er typisk dersom undervisingen er et ledt i en samlet utdanningsplan, for eksempel ved en fierarig fagutdannelse.
+
+**6. Frigang for utenlandske innsatte**
+
+Retningslinjene til
+
+strgilt. SS 20 punkt 20.4,
+
+20.5 og 20.6
+
+Hvis dette gjelder deg kan du likevel sake om frigang. Hvis du seker om det, vil fengselet vurdere naye om det er sikkerhetsmessig forsvarlig a gi deg frigang. Det betyr at fengselet ma se pa om det er trygt at du er pa frigang. I denne vurderingen vil de legge vekt pa de samme momentene som for andre innssatte, se punklisten under punkt 2. I tillegg vil de ogsa se pa felgende momenter:
+
+* Faren for at du forlater landet under frigang. Dette momentet er speseitt tungtveiende
+* Din tilknyntning til landet gjennom eventuelle familiareforhold
+* Hvor lenge du har oppholdt deg i landet
+* Derson du ansker frigang til utdanning eller opplaring, ser de i tillegg pa om du kan fullfare utdanningen for lesiatelse, og om utdanningen vil gi kompetanse som du kan bruke i hjemplandet
+
+## IX Arbeid etter endt soning
+
+Dersom arbeidsforholdet du har hatt under frigang skal fortsette etter lesiatelsen, ordnes dette direkte mellom deg og arbeidsgiver. Det ma da utformes enny arbeidsavtale. Pa denne maten ingnas det et nytt arbeidsforhold. Her kommer litt informasjon om hvordan man inngar enny arbeidsavtale og hva den skal inneholde. Reglene gjelder ogsa nar du far en helt ny jobb etter lesiatelse.
+
+### Arbeidsavtalens formkray
+
+En arbeidsavtale skal inngas skriftlig. Skriftlighetskravet er vkitig for at begge parter skal ha et dokument som klart viser hva du og din arbeidsgiver har blitt enige om. I de tifeller dette ikke er gjort har arbeidsgiver bevisbyden for hva som er avtalt. Det betyr at det er arbeidsgiver som ma skaffe bevis for hva som er avtalt rundt arbeidsforholdet. Det er imidertid ikke garantert at du som arbeidstaker vil vnine fram uten dokumentasjon. Dorfor bar du passe pa at du har en skriftlig arbeidsavtale, slik at du har alt i orden dersom det skulle opspta en eventuell konflikt.
+
+Reglene om hva en arbeidsavtale skal inneholde star i arbeidsmiljoloven SS 14-6. I denne bestemmelsen star det at $\star$arbeidsavtalen skal inneholde oppsninger om forhold av vesentilg betynding i arbeidsforholdet. Dette innebaerer for eksempel arbeidstid, stillingsbeskrivelse og lann. I en del tifeller kan det tenkes a varere andre oppsninger som ogsa er av vesentilg betynding for arbeidsforholdet. I slike tifeller skal ogsa disse oppsningene tas med i arbeidsavtalen.
+
+ 
+
+## Kapitel 12
+
+Fritid og private eiendeler
+
+Straffegienomfringstoven
+
+(strgifil.) SS 21
+
+Retningslinjene til SS 21
+
+Fengselet har plikt til a titrettelegge fritidsaktiviteter tilpasset de
+
+insattes behov. Dette skal varere en integreert del av straffegjennomfringen. Formalet er a unnga isolasjon og skadene det kan
+
+medfare. Fritidstilbudet vi variere ut fra hvilket fengsel og hvilken
+
+avdeling du befinner deg i.
+
+### Beker og lesing
+
+Hvert fengsel skal ha et variert utvalg av beker. Du skal ha
+
+multighet til a lese boker, aviser, tidsskritter og liknende. Fengselet
+
+kan samarbeide med et bibliotek utenfor fengselet. Vanligvis skal
+
+du ogsa selv ha mulighet til a skaffe deg beker privat. Her gjelder
+
+det imidlertid en begrenning: Det er ikke lov til a ha noe som kan
+
+ha uheldig pavirkning pa deg selv eller andre.
+
+Du har rett til a ha Bibelen, salmebok, Koranen eller andre religigese skritter pa ditt eget sprak pa cella di.
+
+### Fysiske aktiviteter
+
+Fengselet skal legge til rette for at du kan delta i fysisk aktivitet.
+
+Hvike treningsmuligheter du har vii variere fra fengsel til fengsel.
+
+Fengselet skal saerlig oppmuntre unge innsatte til a drive med
+
+trening og idrett.
+
+### Hobbyarbeid
+
+Sa langt det er praktisk multi g skal det litertetlelegges for forskjellige typer hobbyarbeid. Det er ikke tillatt a drive hobbyarbeid som
+
+kan brukes til a bryte reglene i fengselet. Fengselets lokaler kan
+
+brukes til hobbyarbeid hvis en ansatzt er til stede. Du eier selv
+
+jenstander og annet som du lovlig har laget i frtiden din, etter at
+
+fengselslederen har godkjent dette. Du kan miste retten til a drive
+Strgifl. $ 40
+
+Forskrift til strgifl. $ 3-37
+
+med hobbyarbeid som reaksion pa regelbrudd. Les mer om dette i
+
+kapittel 16 om reaksjon pa brudd.
+
+## 4 TV. radio og internet
+
+Sa langt det er praktisk mulig skal du kunne fa se pa TV og hare
+
+pa radio. Det er som en hovedregel ikke lov a bruke data eller
+
+internett i fengsel. Data og internet brukes hovedsakelig i forbn-
+
+delse med undervising og arbeit. Dersom du mener at du har
+
+et spesieht behov for a h tilgang til datamaskin eller kommuni-
+
+kasion via data, kan du ske til fengselet om dette. Du kan miste
+
+tilateelsen til a se pa TV eller tilgang pa datautstyr som reaksjon
+
+pa regelbrudd.
+
+## II. Hva kan du ha pa cella?
+
+Fengselet har stor frihet til a bestemme hva som er lov a ha
+
+med seg i fengselet og hva du kan ha inne pa cella. Fengselet
+
+har en liste over dette som du skal fa informasjon om. Listene
+
+kan variere noe fra fengsel til fengsel. Visse ting kan du fa lov til
+
+a ha i fengselets effektlager, og noe kan du ha pa cella. Fengselet har begrenset lagringsplas. Det kan pavirke hvor mye du
+
+kan oppbevare i fengselet. I utgangspunktet er det ikke sa mye
+
+du kan ha inne pa cella. Hvis noe kan brukes som vapen, til a
+
+remme fra fengselet, eller vl vaere darlig for fengselsimijeet, skal
+
+det ikke tillates.
+
+Utgangspunktet er at du kan bruke dagpengene du har tjent
+
+under fengselopnoldet til a kjepe ting i fengselet. Det vi si at
+
+du normalt ikke kan bruke penger du tjente eller fikk for du kom
+
+i fengsel til dette. Det er heller ikke tillat a lane eller byte til seg
+
+ting fra andre innsatte uten tiltatelse fra fengselet.
+
+Fengselselederen kan gjere unntak fra reglene om hva som er tillatt
+
+a ha i fengselet og hva du kan kjepe. Hvis det er en pynttegjenstand, et bilde, en datamaskin eller andre ting du snsker a ha hos
+
+deg, ma du sake fengselet om a fa tiltatelse. Ved vurderingen kan
+
+fengselet se pa hvor lang tid oppholdet skal vare, din personlige
+
+situasjon, og ditt forhold til fengselet. Hovedgrunnene til a nekte
+
+deg a ha ting pa cella er hensynet til ro, orden og skkerhet, samt
+
+a forhindre at det blir stor forskjell mellom de innsatte.
+
+ Fengselet kan gi deg tillatelse til a ha domspapirer og andre saksdokumenter pa cella. Ved avgjareelsen vi lengselet ta stilling til om innholdet i dommen viel kunne skape uno i fengselet, eller utrygghet for deg ved at andre innsatte kan fa kunnskap om hva du er demt for. Det er ingen felles regler om har tillatelse kan gis. Hvis du har sparsmal om hva du kan ha p cella, eller har blitt nekket neoe du ensker, kan du ringe Jussbuss.
+
+ 
+
+## Kapitel 13 Besok, brev og telefon
+
+Dette kapittelet handler om besak og kommunikasjon til og fra
+
+fengsel. Vi skal gjennomga reglene for besak i fengsel i punkt I,
+
+brev i punkt Il og telefon i punkt III. I punkt IV skal vi se pa reglene
+
+for videosamtale (Skype) nar man sitter i fengsel.
+
+### I. Besok
+
+\begin{tabular}{l l} Straffejennomfraningsloven (strgifl.) \$ 31 & Du har som hovedregel rett til a f basek mens du sitter i fengsel. \\ Forskrit til strgifl. \$ 3-28 & Det gjelder mange regler for besaket, og i visse tifeller kan du bli \\ Strgifl. \$ 52 jf. & Reglene vi gjennomgar i dette kapittelet gjelder for domfelte. For \\ straffeprosessloven \$ 186 & varetektsfengslede gjelder i utgangspunktet de samme reglene \\ Retningslijene til & som for domfelte, men retten og politiet kan treffe bestimmelser \\ stgifl. \$ 52 & om besoksretskijoner. \\ \end{tabular}
+
+### 1.1 Hvor ofe og lenge kan du f basek?
+
+\begin{tabular}{l l} Retningslijene til & Du skal som utgangspunkt kunne fa minimum ett besek i uka. \\ Hvert besek skal som hovedregel kunne vare i minst en time. \\ Du kan sake fengselet om utvidet besakstid dersom du har behov \\ for det. Spesielle forhold som kan gi deg utvidet besakstid kan \\ for eksempel vaere at den besekende har lang reisevei, eller at \\ sykdom eller alderdom gjer at de ikke kan besake deg sa offe. Det \\ vurderes ofte ogsa hvor naert knyttet du er til den besekende, hvor \\ manage andre besak du far, og fengselets besokskapsattet. \\ \end{tabular}
+
+\begin{tabular}{l l} Strgifl. \$ 31 syvende ledt & Besok skal vanligvis skje i fritden din, men hvis det er vanskelig \\ for den besakende kan besak pa dagtid tillates. Fengselet kan \\ opsa bestimme at besak skal skje pa bestime dager. Besok ma \\ vanligvis skje pa saerskiltte besaksrom. Det er fengselet som fast- \\ setter de mer detajerte reglene om besak i det enkelte fengsel. \\ \end{tabular}
+
+Hvis du har barn, skal utvidet besekstid vurderes hvis besak er til bamets beste. Hvis det er praktisk mulig og til bamets beste, skal fengselet ogsa vurdere a tilitate besak ofere enn vanliq. Dette skal vurderes i samrad med bamets parerende, typisk den andre forelderen. Hvis du har barn, er det viktig at fengselet tilrettelegger for at besak kan skje pa en mate som iwaterar bamets beste. Les mer om besak fra barn i kaptitel 25.
+
+### Regler under beseket
+
+Forskriften SS 3-28 andre ledt
+
+Hovedregelen er at du ikke har lov til a motta gaver eller lignende fra den som beseker deg. Dette gjelder bade mat og ting som du vi ha pa cella.
+
+Etter spesiell tiltaletse kan det gjores untak fra denne regelen. Saerlig i forbindelse med bursdager, haytider og lignende kan du effte fiilatelse til a motta en mindre pakke kiaer, lesestoff, matvaer, frukt, tobakk og lignende fra besekende. Du kan ogsa sake om tiltaletse til a spise medbrakt mat eller ha med sigaretter eller lignende under beseket. Otte gis slik tiltaletse under forutsentning av at dette kike brings tilbake til avdelingen i etterkant.
+
+Strigfl SS 26 tredie ledt
+
+Dersom den som skal besake deg tar med seg noe som ikke er tilatt under besok, vi dette bli indratt. Dette blir vanligvis tibake-levert til den besekende ved averise, sa lenge gjenstanden elers er lovlig a ha.
+
+Strigfl. SS 31 sywende ledt
+
+Dersom du bryter disse reglene kan fengselet avbryte besaket, og senere nekte deg besak.
+
+## 2 Hvem kan beseke deg?
+
+Forskriften SS 3-28 Retningslijene til strigfl. SS 31 punkt 31.1
+
+Det er begrenset hvor mange ulike personer du kan fa besok av. Det kan maksimalt vare dine nermeste pararende og 3 andre, eller ingen av dine nermeste parerende og 4 andre. Alle dine nermeste parerende regnes som en person pa listen, og inkluderer foreldre, sesken, bestefedrelre, eketfele, samboer, registrert partner og barn. Andre personer som du mener star deg naer, men som ikke faller innenfor en av disse kategoriene, vil ikke bli regnet som nermeste parerende etter denne reglen. Andre familiarenderom per * [13] Personer som ikke star pa listen vil som hovedregel ikke fa besekstillatelse. Ved ankomst i fengselet kan du fere opp hvem du ansker a fa besek av. Disse kan byftes ut senere.
+* [14] Du behever ikke skrive opp din forsvarer, prosessfullmektig, beskende fra offentlig myndighet eller rettshjeplstitak som Jussbuss og JURK pa denne listen. Det samme gjelder visitortipenesten.
+* [15] Visitortipenesten er opprettet i regi av Rede Kors og er personer organismasjoner
+* [16] Strgfl. SS 27 femte ledt Retningslinjene til $ 31 punkt 31.2
+* [17] Retingslinjene til $ 31 punkt 31.1
+* [18] Retingslinjene til $ 31 punkt 31.1
+* [19] Hvis tillatelse blir gitt, sender fengselet en besekstillatelse til den som skal besake deg. Den besekende ma ta med besekstillatelsen og yddig legitimasjon ved alle besek.
+
+## 3 Kontroll
+
+### Hva er kontroll?
+
+#### 3.1.1 Kontroll under beseket
+
+\begin{tabular}{l l} Straffegjennomfringsloven \$ 31 trede ledt & Kontroll av besok kan skje i form av tilsyn under besek, overhoring av samtale, forbud mot fysisk kontak mellom deg og den besekende, samt ved bruk av glasswegg. Flere kontrollititak kan iverksettes samtdig, for eksempel kan samtalen bli overhornt i tillegg til at det foreigner forbud mot fysisk kontakt. Kontrollen skal ikke vaere strengere enn det som er nadvendig ut fra sikkerhets-messige hensyn. Hvis det er snakk om besek fra barn skal det tas hensyn til barnets beste. Ved brudd pa beseksrelease kan besekreves avsluttet.
+
+\begin{tabular}{l l} Retningslinjene til \$ 31 & Dersom kontrollititaket er tilsyn, betyr dette at en betjent skal overvake beseket. Betjenten skal passe pa at det ikke overleveres noe ulovlig, men skal ikke hare pa hva dere prater om, og heller ikke vaere til stede i beseksrommet. \\ \end{tabular}
+
+Hvis kontrollititaket er overhoring av samtalen, kan betjenten enten vaere sammen med dere i beseksrommet eller lyte via et anlegg. Betjenten skal kontrollere at dere ikke planlegger noe ulovlig, for eksempel raming. Fengselet kan kreve at dere snakker et sprak betjenten forstar. Dersom det er av stor betydning for deg a motta beseket, og det likee er mulig a fere samtalen pa et sprak betjenten forstar, skal fengselet vurdere om beseket kan gjennomfares med godkjent tok til stede. Innsatte i fengsler i Troms og Finmark har rett til a bruke samisk overfor hverandre og sine parerende.
+
+Hvis kontrollititaket er forbud mot fysisk kontakt, skal en ansatt varee til stede i beseksrommet for a passe pa at kontaktforbudet overholdes.
+
+I de tifellene fengselet krever at det skal benyttes glassegg, ma du og den beskende sitte i hvert deres rom med en glassegg mellom dere. Glassvegg benyttes nar det anses nadvendig for a hindre fysisk kontakt pa grunn av faren for overlevering av gjenstander, for eksempel beskjeder og narkotika.
+
+#### 3.1.2 Undersekelser fer og etter beseket
+
+I tillegg til kontroll av selve beseket, kan den beskende undersekes ved hjelp av hund og tekrisk utysty som metalloteektor nar han eller hun befinner seg pa fengselsomradet. Dette er for a forhindre at det tas med gjenstander som ikke er tillatt. Den beskende kan ogsa samykke til kroppsvisitasjon. Hvis undersakelsen paviser gjenstander som ikke er tillatt, hun markerer etter sek eller den beskende ikke medvirker, kan vedkommende avises eller holdes tibake.
+
+Fengselet kan ogsa beslutte ulike kontrollititak overfor deg, bade for og etter besek. Eksempler er kroppsvisitasjon, unimprove, blod-prave eller kontroll ved hjelp av hund og teknisk utysty. Silk undersakelse skal foretas pa en mate som virker minst mulig pinig eller nederdigende for deg, og den skal ikke vaere mer omfattende nandvendig. Du kan lese mer om dette i kapittel 15.
+
+### Nar kan besek kontrollleres?
+
+S tgrifl. SS 31 andre ledt Rentingslinjene til SS 31 punk 31.3
+
+Besak kan skje under kontroll hvis vilkarene for dette er oppft. Dette gjelder bade for domfelte og personer som sitter i varetekt. For noen typer personer gjelder det searregler, se punkt 3.3.
+
+ Besak ved avdelinger med saeflig hayt sikkerhetsniva skal alltid kontrolleres. Besak ved fengsler med hayt sikkerhetsniva skal som hovedregel kontrolleres, men det skal vurderes om kontroll kan unnates fordi sikkerhetsmessige grunner ikke taler mot det. Vurderingen er knyttet opp mot narkotikasituasjonen i fengselet, sammensetningen av innsatte, opplynsninger om deg, opplysninger om den besakende, samt andre opplysninger.
+
+Hvis du soner ved et fengsel med lavere sikkerhetsniva eller overgangsbolig, er hovedregelen at besak jennomfrees uten kontroll. Hvis fengselet skal kunne kontrollere, ma det vaere fordi sikkerhetsmessige grunner gjer det nadvendig.
+
+Straffejennomfringsloven
+
+Hvis den beskende er et barn, er fengselet forpliktet til a legge forholtene til rette slik at besaket kan gjennomfrees pa en skansom mate, ogsa med tanke pa eventuelle kontrollilitak. Det gjelder noen spesiele regler og prinsipper for besak av barn. Du kan lese mer om dette i kaptitel 25.
+
+Kontrolilitakene skal aldri vere mer omflattene enn det som er nadvendig for a forhindre ureglementert adferd i forbindelse med besket. Dersom du blir utsatt for kontrolilitak som du mener er unadvendige, kan du klage pa dette. Du kan kontakte Jussbuss hvis du trenger hijelp til a klage.
+
+Se kaptitel 9 om seknaeder
+
+Hvis du mener at fengselet oppter pa en kritikverdig mate, bar og klage pa dette. Ta kontakt med Jussbuss eller et av de andre rettshijelstitakene som er nevnt i adresselista bak i boka hvis du trenger hjelp til dette.
+
+3.3 Saerregler for bestemte personer
+
+Ved besak av advokat skal samtalen mellom dere ikke overhares, og kontfledi selt innhold i dokumenter og lignende skal ikke avsleres. Advokaten kan palegges a vise legitimasjon ved besak, og vandel kan sjekkes.
+
+I fengsler med hayt eller saeflig hayt sikkerhetsniva kan advokaten ogsa undersakes ved hjelp av teknisk utstyr og hund.
+
+Retningslinjene til $ 27
+
+Hvis advokaten ikke medvirker til undersekelse som er tillatt, kan advokaten avvises. Hvis undersekelsen gir postitv utslag, det Vil si hvis den paviser gjenstander som ikke er tillatt eller en hund markerer etter sek, skal den ulovlige gjenstanden beslaglegges. Besek skal deretter tillates, eventuelt med kontrollititak, for eksempel glassvegg.
+
+Advokater kan ogsa samtykke til visitasjon. Dette kan for eksempel vaere aktaulet dersom Kriminalomsorgen har mistanker om at de vil prave a smugle inn ulovlige gjenstander til deg. Hvis advokaten ikke samtykker til visitasjon, kan besaket ikke avvises, men det kan iverksettes kontrollititak under besaket.
+
+Samtalen mellom deg og advokaten kan ikke i noen tiffeller overhares.
+
+De samme regelene som gjelder for advokater gjelder ogsa for offentlig mymdighetsrepresentant, for eksempel representanter fra FNs menneskeretttsorganer, tilsynsradet eller Sivilombudsmannen, og representanter fra ditt lands ambassade eller konsulat.
+
+Ved besak av andre personer som besaker deg i kraft av sin silling, skal det bare iverksettes kontrollititak under besaket dersom fengselet har opbysninger som gir grunlag for mistanke om at adgangen til besek misbrukes. Eksempler pa skie personer er best, lege, psykologo eller representant fra studentrettshelpstitak, for eksempel Jussbuss. Grunnlag for mistanke bety at fengselet bert ha en konkret mistanke om at det vil forega noe ulovlig under besaket. Kontroll i form av hund, teknisk utstyr og lignende er allitd tillatt.
+
+## 4 Tiffeller der besek kan nektes
+
+Etter regelene ovenfer kan fengselet nekte at enklete personer far betningslinjeen til $ 31 besake deg, for eksempel venner uten besekstillatelse. Besek kan ogsa nektes dersom det er grunt til a anta at besaket vil bii misbrukt til planlegging eller gjennomfering av straffbar handling, unndragelse av straffejennomfaringen eller handlinger som vikunne forstyrre ro, orden og sikkerhet.
+
+Fengselet ma ha en konkret mistanke om at det vil skje noe ureglementert under besaket, dersom de skal kunne nekte deg besak. En las mistanke er ikke tilstrekkelig, men det er heller ikke noe krav om alminnelig sannysmlighetsoverekt (mer enn 50% sannysmlig). Hvis du blir nektet besak, kan bade du og den seknader og klager beskende klage pa dette. Du kan ogsa kontakte Jussbuss hvis du onsker veiledning.
+
+ Du vil som hovedregel ikke fa tillatelse til a motta besak av noen som tidligere er demt for en narkotiakforbytelse. Det samme gjelder andre innsatte, for eksempel en domfelt venn som har permisjon. Dette begrunnes i hensynet til ro, orden og sikkerhet, samt a hindre narkotiakbruk i fengselet. Unntak kan gjares hvis besaket er av serlig betydning. Dersom det er mer enn 5 ar siden domfeltelsen og den beskende ikke har vert innblandet i nye fornoldt etter dette, skal besak som hovedregel tillates.
+
+Fengselet kan ikke nekte besoksadgang pa grunn av andre arsaker en de ovennevnte. Fengselet skal vaere tibakenoldne med a nekte deg besak som er av stor betydning for deg. De ber i stedet veleg a jangsette nadvendige kontrollitiak.
+
+Besek kan ikke nektes pa grunn av for lav bemanning i fengselet. Dersom besket ikke kan gjennomfrees pa en sikkerhetsmessig forsvarlig mate, kan det utsettes, men ikke avlyses.
+
+Varetektsinnsette kan bli liagt beseksforbud under fengslingsmatet i tingretten. Varetektsinnsette uten restriksjoner eller palegg om isola- sjon, skal behandles pa lik linje med dominsmatte nar det gjelder besok. Les mer om besoksford under varetekt i kapittel 4.
+
+## II Brev
+
+\begin{tabular}{p{142.3pt} p{142.3pt}} Strgifl. \$ 30 Retningslinene til \$ 30 punkt 30.1 & Du har som utgangspunkt rett til bade a sende og a motta post i fengsel. Det finnes noen begrensninger til denne retten. Reglene gjelder bade vanlige postsendinger og elektronisk kommunikasjon. Dette inkluderer bade tekst, lyd og bilde. \\ Strpifl. \$ 186 & Hvis du sitter pa varetekt kan retten bestemme at du ikke far sende eller motta brev. \\ \end{tabular}
+
+\begin{tabular}{p{142.3pt} p{142.3pt}} Retningslinene til \$ 30 punkt 30.2 & I noen tifeller skal brevene du sender og mottar kontrolleres av fengselet. \\ \end{tabular}
+
+\begin{tabular}{p{142.3pt} p{142.3pt}}
+1.1 Nar kan brev kontrolleres? \\ \end{tabular}
+
+\begin{tabular}{p{142.3pt}} I fengsel med sserlig hayt sikkerhetsniva skal brev allti kontrolleres. Sitter du i et fengsel med hayt sikkerhetsniva, er utgangspunktet at brev alltid skal kontrolleres. \\ \end{tabular}
+
+ Arsaken til at fengselet kontrollerer brevene dine er sikkerhets-messige hensyn, for eksempel for a hinder straffbar handling.
+
+I fengsler med lavere sikkerhetsniva og i overgangsboliger er utgangspunktet at brev ikke skal kontrolleres. Posten kan kunktrolleres dersom det er nadvendig av sikkerhetsmessige grunner. Fengselet kan derfor kun lese gjennom brevene dine hvis de har en konkret grunn til det. Dette kan for eksempel vaere dersom fengselet mistakener at du planlegger a ramme eller smugle inn narkotika.
+
+Strgifl. SS 30 femte ledd
+
+Fengselet har ogsa anledning til a kontrollere post du allerede har mottatt.
+
+1.2 Hvordan kan posten kontrolleres?
+
+Strgifl. SS 30 tredie ledd
+
+Kontroll kan skje ved at fengselet apner og leser gjennom brevet.
+
+Rettningslijene til SS 30
+
+De har ogsa mulighet til a bruke hund eller annet teknisk utstyr. Pa avdelinger med saerlig heyt sikkerhetsniva kan det it illegg kreves at brevene er skrevet pa et sprak som ansatte i fengselet som skal kontrollere posten forstar.
+
+Etter at brevene er gjennomlest, skal du fa dem i apnet tilstand.
+
+Nar du selv skriver brev, skal disse ogsa i utgangspunktet leveres i apen tilstand for a gjere kontrollen lettere.
+
+Forskriften SS 3-27
+
+E-post kan unntaksvis tillates hvis det kan kontrolleres pa samme mate som vanilig post. Sendingen skal ikke innebaere ekstra utgitter for fengselet.
+
+1.3 Tifeller der kontroll ikke er tiltatt
+
+I noen tifeller har ikke fengselet adgang til a kontrollere brevene
+
+Rettningslijene til SS 30
+
+dine. Post til og fra advokaten din kan bare undersokes med
+
+punkt 30.9
+
+hund eller teknisk utstyr. Hvis det er nadvendig at brev til og fra
+
+advokaten din apnes, skal du alltid vare til stede nar dette skjer. Brevene skal aldri jennomleses.
+
+De samme reglene gjelder for post til og fra offentlig myndighets-representant. Eksempler pa slike personer er Sivilombudsmannen, tilsynradet og FNs menneskeretttighetsorganer.
+
+ 
+
+### 1.4 Beslag
+
+Fengselet kan stoppe og beslaglegge brev som inneholder opphysisninger om planlegging eller gjennomfaring av straffbar handling,
+
+eller undragesle av straffgejennomfaring. Det samme gjelder
+
+handlinger som vl forstytre ro, orden og sikkerhet. En sending kan
+
+derimot ikke stoppes kun fordi den inneholder opphysisninger eller
+
+uttaliser som generell sett kan virke stetende. Dette gjelder bade
+
+post du sender og post du mottar.
+
+Du er selv ansvarlag for innholdet i brev du skriver. Hvis det er
+
+snakk om en staffbar handling, for eksempel at brevet inneholder
+
+trusler, du forseker a kontakte noen du har kontaktforbud mot,
+
+eller det planlegges en staffbar handling, blir dette normalt politi-
+
+anmelt med mindre det er snakk om et bagatellmessig fornold.
+
+Hvis du vil sende et brev som inneholder noe som ikke er tillatt, kan du fa mulighet til a sende brevet likevel hvis du endrer den
+
+delen som gjorde at brevet ble stanset. Hvis de ulovlige opphysisninge utgjar en vesentilg del av brevet, kan hele brevet nektes sendt.
+
+Hvis du skal motta et brev, gjelder tilsvarende regler. Hvis det kun er deler av brevet som inneholder informasjon som medferer at
+
+fengselet holder det tilbake, ber dette leses ved at informasjonen
+
+sladdes fer brevet tuleveres til deg. Hvis de ulovlige opphysisgene utgjar vesentilige deler av brevet, kan det nektes utevert.
+
+Hvis du mener fengselet har beslaglagt noe uten grunn, kan du
+
+klage inn vedtaket til regionen. Du kan ogsa kontakte Jussbuss
+
+hvis du ensker veieldning.
+
+Retningslinjene til $ 30
+
+Fengselet skal serge for at du har skrivemateriell tiljengelig. Du
+
+punkt 30.1
+
+skal i utgangspunktet selv betale porto for a sende brev. l enkele
+
+tifeller kan du ogsa fa tilgang til PC, men det er veldig strenge
+
+vilkar for a fa ha PC pa cella.
+
+
+
+## III Telefon
+
+### Bruk av telefon
+
+Utigangspunktet er at du skal kunne bruke telefon i fengsel.
+
+Fengselet kan nekte deg a telefonere hvis de har mistanke om at du vi misbruke telefonadgangen til a planlegge eller giennomfere en straffbar handling eller handlinger som vil forstyrre ro, orden og sikkerhet, eller unndra deg straffegiennomferingen. Det kreves ikke alminnelig sannysnlighetsoverekt, altsa over 50% sannysnlighet for at du vil misbruke tligangen til telefon. Det ma likevevel foreligge konkrete og troverdige opypsinger eller omstendigheter som tlisier dette. En las mistanke er ikke nok. Mistanken trenger ikke a varek nyttet til en bestemt samtalepartner. Din egen oppfarsel kan varee et listrekkelig gunnlag for a nekte deg a finge en ubestemt krets av personer. Med cubestemt krets av menes en generell telefonnekt til for eksempel venner eller en eller fere offentileg instanser.
+
+Fengselet kan ikke nekte deg a finge fordi fengselet har lav benanning eller fordi prakiske fohold gjer det vanskelig a giennomfare nodvendige kontrolltitak. Samtalen kan i disse tifellene utsettes.
+
+Hvis misbruk av telefonsamtale kan motvirkes gjennom kontrolltitak, kan fengselet veleg a la deg gjennomfere samtaler med kontroll. Les mer om kontroll av samtaler i punkt III nr.3.
+
+Fengselet kan bestemme at du skal ring til en fasttelefon. Hvis
+
+du har en advokat som kun benytter mobilelefon, ma det i sa fall avtales av advokaten ringer deg tibake. Regelen skal likevevel ikke varee til hinder for at du far nedvendig kontakt med advokaten din nar du har krav pa det.
+
+Straffeprosessloven SS 186
+
+Hvis du sitter i varetekt og du har brev- og beseksforbud, far du ikke bruke telefon med mindre retten samtyker til det. Du skal likevevel alltid ha mulighet til a finge din forsvarer.
+
+### Ringetid
+
+Forskritten SS 3-29
+
+I fengsel med hayt sikkerhetsniva kan du ringe inntil 20 minutter per uke, sa lenge kapsaitetsmessige forblid ikke er til hinder for det. Denne tiden kan du fordele pa en eller fere samtaler. Hvis du* [127] Sitter i fengsel med lavt Sikkerhetsniva eller i en overgangsbolig, gjelder ikke denne tidsbegrensningen.
+* [128] Du kan fa utvidet telefontid dersom sarlige grunner taler for det, og fengselet har de nadvrendige ressursene til a gi deg det. Eksempler pa sarlige grunner kan vaere at du har barn som bor langl borte og har begrenset mulighet til a besoke deg. Andre eksempler kan vaere at soningen medferer en searlig belastning for deg eller din familie, eller dersom du ikke far permisjoner. Du bar kunne dokumentere at du eller dine nermeste har et searlig behov for kontakt utover det de andre innsatte har.
+* [129] Fengselet kan, etter en konkret vurdering, la telefon til ykresgrupper som lege, psykolog, prest eller lignende ga utenom ringekvoten din. Dette gjelder ogsa Jussbuss og de andre studentretts-hielpstiltakene som star nevnt i denne boken. Fengslene ma ikke gjere dette, men mange har valgt a ha det som fast praksis.
+
+## 3 Kontroll
+
+Strgifl. SS 32 andre ledd Hovedregelen i fengsel med hayt Sikkerhetsniva er at samtalene dine skal kontrolleres. Fengselet kan gjere unntak fra dette hvis skikerhetsmessige granuner ikke taler imot det. I fengsel med sarelig hayt Sikkerhetsniva skal samtalene dine alltid kontrolleres. I fengsel med lavt Sikkerhetsniva eller overgangsboliger er hovedregelen at samtalene dine ikke skal kontrolleres. Det kan gjere unntak hvis skikerhetsmessige granuner gjer det nadvrendig for fengselet a here pa samtalene dine.
+
+\begin{tabular}{l l} Retningslinjene til SS 32 & Kontroll skjer vanligvis ved at telefonsamtalen avlyttes av en betjent. Bade du og din samtalepartner skal fa vite om dette for samtalen. Betjenten kan avbyte samtalen hvis det oppstar mistanke om misbruk. Dette kan vaere at telefonen kobles over til en annen telefon, at andre samtalepartnere kommer inn i samtalen, eller hvis det kommuniseres gjennom koder. Fengselet kan ogsa bestemme at dere skal snakke pa et sprak som den ansatte som skal kontrollere samtalen forstar. I tillegg kan fengselet kontrollere identiteten til den du skal snakke med, for a forskire seg om at du snakker med riskig person. \\ Strgifl. SS 32 femte ledd Retningslinjene til SS 32 & Kontroll av en samtale kan ogsa skje ved at fengselet tar den opp pa band. For at dette skal skje ma det vaere samsynlig at du planlegger a unndra deg straffegjennomferingen. Det ma fore ligge over 50% sannysnylighet for at misbruk vil skje. Du og den du snakker med skal fa beskyled om dette pa forhand dersom fengselet $\mathsf{ansker}$ a topp samtalen. $\mathsf{Bandopptakene}$ skal slettes nar de ikke lenger anses a ha aktuell interesse, og senest ved lesla-telse etter endt tid.
+
+\begin{tabular}{l} Strgift. \$ 32 sjette ledd \\ Rettingslingene til \$ 32 \\ punk 32.6 \\ \end{tabular}
+
+Du har alltid rett pa $\mathsf{ukontrolert}$ samtale med din forsvarer. Disse samtalene vil heller ikke innga i de 20 minuttene du har til radighet $\mathsf{i}$ heysikkerhefstengsel hver $\mathsf{uke}$. Du kan sake om a fa snakke med advokat utentorf fengselets ordinarex telefontider. Du har i tillegg rett pa $\mathsf{ukontrolert}$ samtale med offentilog mymdighetspersoner. Eksempler pa silke personer er Sivilombudsmannen, tilsynsradet og FNs menneskeretttighetsorganer. Fengselet skal ikke avlytte disse samtalene, men de kan kontrollere at du snakker med riktig person.
+
+## 4 Uteiffer
+
+\begin{tabular}{l} Forskriften \$ 3-29 \\ femte ledd \\ \end{tabular}
+
+Du har som hovedregel ikke krav pa a fa dekket utgiftene til $\mathsf{telefon}$ av fengselet. I utgangspunktet ma du sev betale for a $\mathsf{ringe}$ ved hjelp av dagpengene dine. Nvdvendige samtaler med forsvarer, diplomatsk eller konsulaer representant eller $\mathsf{parrender}$, kan $\mathsf{ogsa}$ dekkes av andre egene midler hvis det vurderes som $\mathsf{nadvendig}$. Hvis du ikke har egene midler, skal fengselet dekke $\mathsf{sikke}$ nadvendige utgifter.
+
+Hvis du sitter pa varetekt, skal fengselet dekke utgiftene til $\mathsf{nadvendige}$ samtaler med din forsvarer.
+
+\begin{tabular}{l} Rettingslingene til \$ 32 \\ punk 32.9 \\ \end{tabular}
+
+Utenlandske innsatte kan bruke egene penger til dekning av utenrikssamtaler med sine nermeste $\mathsf{parrender}$, selv om samtalene $\mathsf{ikke}$ anses $\mathsf{nadvendige}$.
+
+\begin{tabular}{l} Rettingslingene til \$ 32 \\ punk 32.8 \\ \end{tabular}
+
+Telefoner som er veldig viktige for deg, for eksempel til NAV, kan $\mathsf{pukt}$ i noen tiffeller fa ta fra kontorer i fengselet. Samtaler som har $\mathsf{tikhrvthing}$ til prestens, sosialkonsulentens eller tibakeferingskorodinatorens yrkesutavelese kan omftates av reglene om $\mathsf{velferdstelefon}$.
+
+ 
+## 7 Morsmaistelefon
+
+Retningslinene til $ 32
+
+Som nevnt under punkt III nr. 3, kan fengselet bestemme at du og den du ringer skal snakke pa et sprak som den ansatte som skal kontrollere samtalen forstar. Hvis du ikke er norsk og du eller de du snsker a ringe ikke snakker norsk eller engelsk, betyr dette othe at du ikke vi kunne snakke med for eksempel familie som bor i hjemlandet ditt.
+
+Det er mulig a skefengselet om a fa snakke pa morsmalet ditt.
+
+Fengselet kan for det ferste oppheve palegg om a snakke pa et bestemt sprak. De kan for eksempel veleg a kontrollere samtalen pa annen mate selv om de ikke forstar det som blir sagt, for eksempel ved bare a kontrollere at du snakker med riktig person og at samtalen ikke kolles over til andre. En annen mulighet er at kontroll unlantes. Frivillig bandopptak er ogsa et alternativ til a palegge deg a snakke et bestemt sprak. Bandopptak er saefig aktuelt hvis du vi snakke med naere parerende som bare kan snakke morsmalet sitt. I alle disse tiffelene er det et vilkar at ordningen er sikkerhetsmessig forsvarlig. Du ber derfor forklare fengselet hvorfor det er trygt at dere far snakke morsmal.
+
+Hvis fengselet anser det som nadvendig a forsta hva som blir sagt, er det ogsa et alternativ at fengselet benytter folk ved avlyttingen. Dette er ressurskrevende, sa det er begrenset hvor ofte og med hvor mange du kan fa dette.
+
+Hvis du _ansker morsmaistelefon_ er det viktig at du forteller fengselet om hvorfor morsmal er nadvendig, og hvorfor telefonsamtalen er viktig for deg og de du vi snakke med. Fengselet ber saefig vurdere a tillate a snakke morsmal ved telefoner til dine naermeste parerende dersom du ikke mottar besek og for avrig har litten eller ingen kontakt med dine naermeste mens du sitter i fengsel. Dette er typisk hvis familien din ikke bor i Norge. Ogsa hvis det har oppstatt akutte problemer av velferdsmessig karakter ber fengselet vurdere a tillate morsmaistelefon. Et eksempel pa et akutt problem er hvis en i familien din plutselig blir alvorlig syk.
+
+Hvis du far avslag pa seknaden din, kan du klage. Ta kontakt med Jussbuss hvis du trenger hjelp.
+
+ 
+## IV Videosamtaler
+
+KDIs rundskriv 3/2017 Noen fengsler har tlibud om videosamtaler, som for eksempel gjennom Skype. Videosamtale er ikke ment som en erstatning for kontakt i form av breveksling, besok og telefen, men er ment som et tillegg til dette. Bruk av videosamtale er ikke en rettighet du har, og ikke alle fengsler har tlibud om dette. Det er lurt a snakke med kontaktbetienten din om mulighetene for a bruke videosamtale i fengselet, og hvordan man skal ga from for a seke om dette.
+
+### Malgruppe
+
+Malgruppen for videosamtale er innsatte som ikke far jevnlige besok i fengselet, for eksempel fordi de soner langt vekk fra sine narere pararende. Innsatte som er under 18 ar eller innsatte med omsorg for, eller regelmessig samvaer med sine barn er sarelig aktuelle for videosamtale.
+
+Varetektsinnsatte kan fa innvliget videosamtale hvis det er i samsvar med varetektkjennelsen. Patalemyndigheten ma ogsa gi samtykke hvis den varetektsinnsatte er underlagt noen restriksjoner.
+
+Du kan som hovedregel bare benytte videosamtale for a kontakte dine nare pararende. Naere pararende er din ektefelle, partner, samboer, dine barn, foreldre, sesken og bestefedre. I noen tifeller kan du ogsa fa snakke med andre personer enn disse, dette gjelder saerlig for insatte under 18 ar.
+
+Dersom det er sikkerhetsmessig forsvarlig kan du ogsa gis anledning til a gjennomfere videosamtale med en near pararende som av sikkerhetsmessige arsaker ikke kan komme pa besok i fengselet.
+
+### Rezler for videosamtale
+
+For a bruke videosamtale ma du vare i malgruppen for ordningen. Fengselet ma vurdere om det anses som sikkerhetsmessig forsvarlig at videokommuikasjon skjer mellom deg og den du vi snakke med, og hvilke kontrolltitak fengselet eventuelt skal benytte under samtalen.
+
+Fengselet kan nekte deg a benytte videosamtale. De ma ha konkrete og troverdige opplysninger eller grunner til a anta at samtalen vi bli misbrukt til planlegging eller gjennomfering av straightbar handling eller unndragesle av straffegjennomfaring. En annen grunn kan vaere at det vil forstryre ro, orden og sikkerhet.
+
+Hvis det er sserlig viktig for deg at du far bruke videosamtale, ber kontrollittalk beryttes fremfor a nekte deg videosamtale, sa lenge dette kan hindre det mulige misbruket.
+
+Fengselet kan ogsa nekte eller begrense din tilgang til a benytte videosamtale pa grunn av manglende kapsaitet og manglende ressparser.
+
+## 3 Hyppighet og varighet
+
+Hvor ofte og lenge du kan bruke videosamtaler vil avhenge av fengselets kapsaitet og ressparser. Hvis fengselet har begrenset kapsaitet, skal ditt behov for at samtalen gjennomfares vektlegges i fengselets vurdering. Dersom du er under 18 ar, har mindrearige barn, eller syke parerende, skal fengselet tillegge dette sserlig vekt i deres vurdering av hvor mye tligang du skal fa.
+
+Videosamtale skal gjennomfares pa et tidspunkt som er praktisk og gjennomfarbart for fengselet. Fengselet bar ta hensyn til deg og dine parerendes behov nar de bestemmer tidspunkt, hvis dette er mulig.
+
+## 4 Kontroll
+
+Stigfl. SS 32 Reglene for kontroll av telefonsamtaler gjelder sa langt de passer for kontroll av videosamtaler. Se punkt III om telefon. Fengselet kan ikke gjere opplak av videosamtaler.
+
+## 5 Kostnad
+
+Gjennomfaring av videosamtaler skal skje kostnadsfritt for den innsatte.
+
+ 132
+
+**Kapittel 14**
+
+Permision og frenstilling
+
+Straffegjennomferningsloven
+
+(strgjfl.) SSS 33 og 34
+
+Dette kapittelet gir en oversikt over reglene som gjelder for at du skal kunne fa permisjon og frenstilling. Permisjon betyr at du far reise ut av fengselet uten felge av ansatte. Fremstilling betyr at du reiser ut av fengselet sammen med ansatte i fengselet eller politiet.
+
+**I. Permisjon**
+
+Strgjfl. SS 33
+
+Permisjon innebaerer at du far lov til a reise ut av fengselet uten falge av noen ansatte. Vilkarene for dette er at skikerhetsmessige grunner ikke taler mot det og at det foreligger sarlige og vektige grunner eller anses formalstiennlig. Noen av disse vilkarene er generele, mens andre gjelder spesielt for en bestemt type permision. Permisjon er ikke en rettighet du har, men noe som fengselet kan gi deg. Fengselet kan ogsa trekke tilbake en permisjon som de har gitt deg.
+
+Du ma selv seke om a fa permisjon. Det finnes fhere ulike typer permisjon, som blir gjennomgatt i dette kapittelet. Den ferate delen av dette kapittelet handler om vilkar og brudd, som er felles for alle permisjonstypene. l den siste delen gar vi gjennom hva som skiller permisjonstypene fra hverandre.
+
+Du kan lese mer om hvordan du kan skrive en seknad, og hvordan du kan klage i kapittel 9. Hvis du har sparsmal til dette, kan du ogsa ta kontakt med Jussussuss eller noen av de andre rettshjelstiltakene.
+
+**1. Vilkar og brudd**
+
+I dette avnittet gar vi ferst gjennom vilkar som ma varee oppfyt for at du skal fa permisjon. Videre ser vi pa vilkar som gjelder under permisjonen din, inkudert tilleggsvilkar som fengselet kan gi deg under permisjonen.
+
+ Kapitte14-Permisjonogfremstilling133
+
+### Vilkarforafafereurderingen
+
+For a fa permision ma sikkerhetsmessigegrunnerikketale motdet. Dette betyratfengseletforsstjeraniskerhetsmessigvurderingavdegderderderderderderdertryststjeranigigdepermision.Duvilforeksempelikkefapermisiondersomdetergrunntilamataatduvilebgavrestraffbareforhold,remmellerbytrepermisionsvilkarerene.Fengselettengerikkeavereheftskireellerhamyebevis.Enlesmistankeerikkeitslitektkeitslitekkein,mendeterhelierikkenoekravomalminneligsamsynilighestsoverekt(merenn50%sannsynilig).Dennevurderingenkallesjernesviktfarevurderingen.
+
+I sviktfarevurderingenforetarfengseletenhelheltsvurderingavallinformasjonendeharomdeg.Devilblantametsepahvaduerdamftor,tildigeredommer,oppferselendinifengselet,disiplnaerbrudd,ogomdurharhatvelvellykedepermisjonerellerfremstillingertildigere.
+
+### Vilkarorderpermision
+
+Detkrevesatduoppholderdegpadenadressenduharoppittnarduerutepepemrision.Dettebetryatduforeksempelikkekanovermatteetannetstedennpadenadressenduharoppittdersomduharpermisionverferedogn.Fengseletkreveralltidatduikkereserdeglerdrikkeralkhoalmensduharpermisinjon.Hvisfengseletlurerpaomduharttaftvismidlerundermsjonen,kandetaenunipraveilerenutandingsprreveavdeg.Detkrevesalltidatdukommertilbakteilfengseletpaavtaltidspunkt.
+
+### Tilleggesvilkarunderpermision
+
+Strgifl. SS 36andreledhvisKriminalomsorgenetethathatforetattentsviktfarevurderingavdeglikeresiskerpaomdeneneratduberfapermision,skaldetvurderemsomdettekanavhijelpesvadesterefleerepermisionsvilikar.Dettebetyratdetsillesendastrengerekravtildegnarduharpermision.TypiskevilkarsonKriminalomsorgenkansetteer(enellerflereavdisse):
+
+Atdumaopspaskeenbestemtmyndighetellerperson(foreksempelsosialkontor)
+
+AtdumameldedegtilpolitietellerKriminalomsorgentiletbestemttidspunkt(meldeplikt) At du ma ta bestemte medisiner som du har fatt av legen (for eksempel antabus)
+
+At du ikke tester positivt pa unnprove eller utandingsprave for du reiser pa permisjon
+
+At du skal hentes og brings til fengselet av bestemte personer (dette kan ogsa vare en av dine parreende)
+
+At du er et bestemt sted eller at du ikke er et bestemt sted
+
+At du ikke snakker med eller omgas bestemte personer
+
+Kriminalomsorgen kan ogsa sende et varsel til formaermede i
+
+punk 33.11 og 33.12
+
+kran lese mer om varsel til formaermede og etterlatte i kapittel 30.
+
+Fengselet kan ogsa sende et varsel til politiet om at du har fatt permisjon.
+
+### Brudd pa permisjonsvilkar
+
+Retningslinjene til SS 36
+
+punkt 36.5
+
+Strgifl. SS 40
+
+Dersom du bryter noen av permisjonsvilkarene, kan dette fa konsekvenser for deg. Hvis fengselet far vite at du har brutt
+
+pernisionsvilkarene, kan fengselet kreve at du reiser tibake til fengselet. Dersom det er nadvendig vil fengselet be om at politiet
+
+pagriger deg og leverer deg tibake til fengselet. Hvis du bryter permisjonsvilkarene kan du ogsa f en reakjson. Du kan lese mer om reakjsoner som falge av brudd i kapittel 16.
+
+## 2 De ulike formene for permision
+
+Du kan fa ordiner permisjon, koridspernisjon og velferdspermisjon.
+
+### Ordiner permision
+
+Forskriften til strgifl. SS 3-30
+
+Ordinaer permisjon er den vanligste formen for permisjon. For detningslinjene til SS 33
+
+a fa ordinear permisjon ma grunnen til at du ensker permisjon
+
+punkt 33.6
+
+vare formalstijnelig for deg, eller det ma foreligge sserlige og vektige grunner. Dette betyr at permisjonen ma vaere bra for din rehabilitering og tiblakefring til samfunnet. Du kan for eksempel
+
+fa ordinaer permisjon for a oppretholde kontakten med familien
+
+din eller gjore andre forberedelser som er viktige for deg fur dus laslates. Slike forberedelser kan for eksempel vaere knyttet til skole, arbeid eller bolig.
+
+Det ma vaere sikkerhetsmessig forsvarlig a gi deg ordinear
+
+pernisjon. Kriminalomsorgen kan ogsa sette vilkar nar du er pa permisjon. Du kan lese mer om dette under punkt 1.4 <<Brudd pa permisjonsvikar>>.
+
+#### 2.1.1 Tidspunkt for nar du kan fa ordinarer permisjon
+
+Du kan tidligst fa ordinarer permisjon nar du har sonet 1/3 av straffen din. Du ma ogsa ha sonet minst 4 maneder. Dersom du har en kort straff silk at 1/3 tid er fer 4 maneder, kan du altsa ikke fa permisjon fer du har sonet 4 maneder. Dersom du har en straff som er pa 12 ar eller lengre kan du fa permisjon nar du har sonet 4 ar av dommen din. Dette betyr at dersom du har en dom pa 21 ar sa oppan du permisjonstid etter 4 ar.
+
+Permisjonstiden din regnes ut fra den tiden du har sittet sammen-hengende fengslet. Dette betyr dersom du ikke hadde noen tid i frihet mellom tiden du satti varetekt og idea du startet a sone dommen din, regnes varetekten med. Hvis du soner en kort dom og kun hadde et kort opphold mellom varetekt og sooning, kan det gjères unntak fra ravvet om sammenhengende fengsling.
+
+#### 2.1.2 Antall permisjoner og lengden pa disse
+
+Forskriften til strgift. SS 3-30 En vanlig ordinarer permisjonskvote er pa 18 dogn i aret. Aret regnes fra nar du gjennomfarer din ferste permisjon. Reisetid er ikke en del av permisjonskvoteen din. Dersom du for eksempel ma bruke noen timer pa a reise for a mate familien din, regnes disse timene ikke som en del av permisjonskvoteen din.
+
+Retningslinjene til SS 33 Dersom du far permisjon fra fengselet mellom 12 og 24 timer, punkt 33.3 regnes dette som att permisjonsdogn. Varer permisjonen under 12 timer regnes den i timer og ikke i dogn.
+
+Hvis det er spesiele grunner til at du har behov for mer permisjon, kan du fa en kvote pa opptil 30 dogn. Du ma kunne begrunne hvorfor du har et starre behov enn anndre insatte for a fa flere permisjonsdogn. Hvis det er aktuelt a gi deg flere permisjonsdogn enn 18, vil dette normalt skje ved en gradvis utvidelse av permisjonskvoten. Fengselet kan kreve at du beviser at permisjonen har blitt brukt til det formalet du oppga da du sakte om flere permisjonsdogn. Dersom det viser seg at du ikke har brukt permisjonen til det formalet du oppga, kan de ekstra dognene du har fatt over 18 dogn trekkes tilbake.
+
+ En spesiell grun for a fa flere enn 18 permisjonsdogn, kan vaere at du har barn under 18 ar. Det kreves da at du bruker disse ekstra dognene pa a vaere sammen med bamet ditt og at det er til bamets beste at dere er sammen. Kriminalomsorgen kan kreve at du dokumenterer dette. Det kan vaere uttalesler og brev fra bamehage, skole, barnevernet eller andre offentlige kontorer. Hvor mye og hva slags kontakt du har hat med bamet fer du ble satt i fengsel, blir ogsa vektlagt. Den personen som har den daglige omsorgen for bamet ditt, har ogsa en rett til a uttale seg i saken. En annen grunn til at du kan fa udviet permisjonskvote pa mer enn 18 dagn er dersom dette er saeflig viktig for deg i din tibakefring til samfunnet. Dette kan for eksempel vaere tiflelet dersom du har et starre behov for kontakt med offentlige myndigheter, skole eller behandlingsinstitusjoner fer loslatelsen din enn andre innsatte. Du ma ogsa ha hatt en positiv utwikling i fengselet og gjort en innsats for egen rehabilitering. Dersom grunnen til at du tenger permisjon, er at det kan hijepe deg a n malene i en plan for din soningsprogresjon og tibakefering til samfunnet, er dette noe som ogsa kan bli vektlagt. Det er en hay terskel for a fa flere permisjonsdogn pa dette grunnlaget.
+
+#### 2.1.3 Utivdict permisjonskvote
+
+Utivdict permisjonskvote betyr at du far mer permisjon enn det som retningslinjene til $33 30 dogn. Du kan lese mer om dette under punkt 2.1.2. Du kan fa utvidet permisjonskvote ogsa dersom du har fatt en kvote pa 30 dogn.
+
+Det ma foreligge saeerlige og tungteviende grunner for at du skal fa utvidet permisjonskvote. Dette betyr at det skal veldig mye til, og du ma kunne bevise at du har et starre behov for a fa mer permisjon enn andre innsatte.
+
+Dette kan vaere tiflelet hvis det er mye tyngre for deg a gjennom- fere straffen din sammenlignet med andre innsatte, for eksempel pa grunn saeflige helseproblemer. Dersom du har barn, kan saeerlige og tungteviende grunner for eksempel vaere at barna dine har helseproblemer, og derfor har et starre osmorgsbehov enn andre barn. Du ma ikke bare bevise at dette er tiflelet, du ma ogsa bevise at dete vil vaere viktig for bamet at du er mer til stede enn det som er mulig med en ordinear permisjonskvote. Relevant * [143] M. C. C.
+
+ 
+
+#### 2.2.2 Antall permisjoner og lengden pa disse
+
+Kortitidspermisjoner regnes ikke som en del av kvoten din for ordinaer permisjon. Hovedregelen er at du kan fa maks 2 kortitidspermisjoner i lepet av 1 maned. Dersom du for eksempel trenger jevnlig opfpalging av lege utenfor fengelekt kan du forske a sake om flere korttidspermisjoner.
+
+Normalt vi en kortitidspermisjon vare opptil 5 timer inkludert reisetid. Du kan likevel fa opptil 7 timer inkludert reisetid dersom du har lang reisevei.
+
+### 2.3 Velferdspermisjon
+
+Porskriften til strgjfl. SS 3-30
+
+Pul kan fa velferdspermisjon for du har oppadd permisjonstid.
+
+Velferdspermisjon er derfor kun aktuelt for deg som enda ikke kan fa ordinaer permisjon elker kortitidspermisjon. Dersom du har oppnadd permisjonstid og ikke har flere permisjonsdogn ijen av den ordinaere kvoten din, ma du sake om kortitidspermisjon eller utvidet permisjonskvote. Dette betyr ogsa at hvis du har hat velferdspermisjon kan denne ikke trekkes fra permisjonskvoten din har du oppnar permisjonstid. Du kan lese mer om har du oppnar permisjonstid under punkt 2.1.1.
+
+Du ma ha sierlige og vektige grunner for a fa velferdspermisjon. Dette betyr at det ma ha skjedd noe hetl spesietl som gjer at du trenger a reise ut av fengselet. Det er ikke nok at familiaren dinsker a se deg og at det hadde vaert godt for dem a mete deg. Saerlige og vektige grunner kan for eksempel vaere at noen i familiaren din er pa sykehus eller at du trenger a reise i en begravelse. Et annet eksempel er at det har skjedd noe aktut eller ekstraordinaert med barnet ditt og du kan sannsynnligjare at det vi vaere viktig for barnet ditt at du far permisjon.
+
+Du vil ikke fa velferdspermisjon dersom Kriminalomsorgen mener at andre titak kan avhijepe situasjonen. Dette betyr at de for eksempel alltid vi vurdere om du heller bar fa mer telefontid eller besakstid fremfor velferdspermisjon.
+
+Det ma vaere sikkerhetsmessig forsvarlig a gi deg velferdspermisjon. Kriminalomsorgen kan ogsa sette vilkar for deg nar du er pa permisjon. Du kan lese mer om dette under punkt 1.3 og 1.4.
+
+
+
+#### 2.3.1 Antall permisjoner og lengden pa disse
+
+Fordi vefferdspermisjon kun invulges unntaksvis dersom det foreignteger saztige grunner for det, er det hverken satt noen avre eller nedre greense pa antall og lengde pa vefferdspermisjon. Det skal en del til for a fa vefferdspermisjon.
+
+### Fremskutt permisjon
+
+Forskritten til strgifl. SS 3-31
+
+Fremskutt permisjon betyr at du far invulget permisjon for ordiner permisjonstl. Dette betyr ikke at du far fhere permisjonsdogn,
+
+punkt 33.7
+
+bare at du kan fa permisjon tidligere en det som er normalt. Du kan lese mer om tidspunktet for permisjonstid under punkt 2.1.1.
+
+Det ma foreligge saztige og tungtveiende grunner for at du skal fa fremskutt permisjon. Dette betyr at det skal veldig mye til, og du ma kunne bevise at du har et het spesielt bebov for permisjon pa dette tidspunktet som skiller seg fra det behovet andre innsatte har.
+
+Du kan sake om fremskutt permisjon dersom du har barn som er i en veldig vanskelig situasjon. Dette betyr at det ikke er nok at bamet ditt har det vondt fordi du sitter i fengsel, du ma kunne bevise at bamet ditt har det verre enn det som er normalt for barn som har en foreleder i fengsel. Du ma kunne dokumentere at bamet ditt har et spesielt behov for kontakt med deg og at dette kan lases ved at du tidligere far permisjon. Relevant dokumentasjon kan vaee uttaleseler fra barneveernet, barnehagen, skolen eller andre offentitige kontorer. Hvis du _ansker fremskutt permisjon av andre grunner enn at du har barn, kan du forske a sake. I alle tifeller er det en hay terskel._
+
+Kriminalomsorgen vil vurdere om situasjonen kan loses med andre tiltak, som for eksempel mer telefontid eller besuckstid.
+
+Det ma vare sikkerhetsmessig forsvarlig a gi deg fremskutt permisjon. Kriminalomsorgen kan ogsa sette vilkar nar du er pa permisjon.
+
+#### 2.4.1 Tidspunkt for nar du kan fa fremskutt permisjon
+
+Forskritten til strgifl. SS 3-31
+
+Fremskutt permisjon invulges kun unntaksvis dersom det foreigntieslinene til SS 33
+
+ligger saztige tungtveiende grunner, og det er ikke satt noen punkt 33.7
+
+grense for hvor tidlig du kan fa fremskutt permisjon.
+
+
+### Permision til uttandet
+
+Forskriften til strgill. SS 3-30
+
+Hetingslinjene til SS 33
+
+punkt 33.9
+
+Utgangspunktet er at du ikke kan fa permisjon til uttandet. Du kan i sserlige untakstiffeller fa permisjon til uttandet dersom det foreignliger helt ekstraordimeree velferdsprunner som gjer at permisjon er nodvendig og viktig. Det skal veldig mye mer til for a fa permisjon til uttandet sammenlignet med vanlig permisjon i Norge. Kriminalomsorgen vl foreta en sviktfarevurdering, denne er omtali punkt 1.1. Kriminalomsorgen vii denne vurderingen sserlig vurdere faren for at du remmer mens du er pa permisjon i uttandet.
+
+Hvis du kan dokumentere at du har ner familie som er blitt akutt syk, kan du forske a seke om permisjon til uttandet. Kriminalomsorgen vi vurdere om situasjonen kan lseses med andre titak, som for eksempel mer telefontid.
+
+### Permision til sserlige formal
+
+Retningslinjene til SS 33
+
+Du kan fa permisjon til a reise pa aktiviteter som kan knyttes til kriminalpolitisk arbeid eller verv. Dette kan for eksempel vere den arlige KROM-konferansen enller styreverv i KROM. Du kan lese mer om KROM i kapittel 39 om organisajoner. Du kan lese mer om livordan du kan engasjere deg politisk i kapittel 37.
+
+Denne typen permisjoner trekkes ikke fra permisjonskvoten din.
+
+Det ma vaere sikkerhetsmessig forsvarlig a gi deg permisjon til sserlige formal. Kriminalomsorgen kan ogsa sette vikar for deg nar du er pa permisjon. Du kan lese mer om dette under punkt 1. Du ma ha oppnadd permisjonstid, se punkt 2.1.1.
+
+#### Antall permisjoner og lengden pa disse
+
+Du kan fa permisjon til konferanser, silk som den arlige KROM-konferansen. Du far da permisjon for opptil hele konferansens lengde og reisetdi. Du kan fa oppti 12 kortlordspermisjoner per ar for deltakelse i styremeter, enller annen lignende aktiv deltakelse i organisajoner.
+
+### Utigfilter ved permisjon
+
+Forskriften til strgill. SS 3-30
+
+Retningslinjene til SS 33
+
+Retningslinjene til SS 33
+
+Retningslinjene til SS 33
+
+Du skal selv dekke kostnadene du har pa permisjon. Unntaksvis kan fengselet ved behov dekke reiseutgittene dine for opptil 4 permisjoner. De dekker i sa fall den billigste reisematen. Det er fengselet som avgjar om du har behov for a fa dekket reiseutgittene. Du kan ha et slikt behov hvis du ikke har penger selv, soner langt unna familie og venner, emel kanskje ikke har noen som kan hente deg i fengselet. Det skal mye til for a fa betalt reisen til og fra permisjoner, og ikke alle far det.
+
+Hvis du har et saeflig behov for a fa dekket reiseutgitter, kan fengselet dekke flere enn 4 permisjoner. Dette er et unntak og det skal mye til for a fa dekket flere enn 4 permisjoner. For a fa innvliget dette ma du ha et mye starre behov for a fa dekket reiseutgittene sammenlignet med andre insantte.
+
+Hvis du ikke har familie eller noen andre neare pargrende, kan du ogsa sake til fengselet eller sosialtjenensten om a fa dekket mat og oppholdssted under permisjonen. Du kan sparre sosialkonsulenten i fengselet om dette.
+
+## II. Fremstilling
+
+Fremstilling er nar du reiser fra fengselet sammen med ansatte 
+
+Forskrften til strgill. SS 3-32
+
+du far dette. Dette betyr at fengselet ma mene at det er trygt at du far fengselet. Du vil ikke fa fremstilling dersom det er grunn til a anta at du vil bega nye staffbare forbold eller ramme mens du er pa fremstilling. Fengselet trenger ikke a ha mye bevis. Denne vurderingen kalles jerne svikftarevurderingen.
+
+I svikftarevurderingen foretar Kriminalomsorgen en helhetsvurdering av all informasjonen de har om deg. De vil blant annet se pa hva du er damt for, tidligere dommer, oppferselen din i fengselet, disiplinearbrudd, og om du har hatt vellykkede permisjoner eller fremstillinger tidligere.
+
+### Kapasitet
+
+Fengselet vurderer ogsa om de har kapasittet til a gi deg fremstilling. Dette betyr at de vurderer bemanningen i fengselet og situasionen i fengselet for evrig. Dersom for eksempel fengselet av ulike arasaker har fa ansatte pa jobb eller hvis andre fanger har et sterre behov for fremstilling enen deg, sa kan fengselet bestemme at du ikke ffar fremstilling. Kapasiteten i fengselet kan endre seg mellom hver gang du seker fremstilling. Hvis du far avslag pa grunn av kapasitet, ber du forsake a seke pa nytl litt senere.
+
+### Behov
+
+Fengselet vi vurdere ditt behov for fremstilling. Hvis du seker om fremstilling fer du har oppnadd permisjonstid, ma du vise at du har et konkret og personlig behov for a reise ut av fengselet fer permissionisdien. Dersom du har oppnadd permisjonstid, men ikke fatt inviliget permisjon, kan det ote veare pa grunn av den sikkerhetsmessige vurderingen. Da kan du seke om fremstilling istedenfor. Selv om du har et behov for fremstilling, kan det hende at det ikke er sikkerhetsmessig forvarlig eller at fengselet ikke har kapasitet.
+
+## 2 Nar kan du fa fremstilling
+
+Fremstilling er aktuelt fer du har oppnadd ordinar permisjonstid. Fremstilling kan ogsa veare aktulet dersom du ikke far permisjon pa grunn av sikkerhetsmessige arasaker. Det ma likevel vaere siskerhetsmessig forvarlig at du reiser ut av fengselet i felge med ansatte. Dette betyr at det i din situasjon kan det vare arasaker som taler mot permisjon, men som likevel ikke er sakavorlige at fengselet mener det ikke er sikkerhetsmessig forsvarlig at du far fremstilling.
+
+### Antall fremstillinger og lengden pa disse
+
+Du far kun fremstilling for den tiden det tar a oppna formalet med fremstillingen. Det finnes ingen fast grense pa hvor ofte eller hvor mange ganger du kan fa fremstilling.
+
+ 
+
+## 3. Typer fremstilling
+
+Du kan fa fremstilling alene, eller sammen med andre innsattle.
+
+### Enkel fremstilling
+
+Retningslinjene til SS 34
+
+punkt 34.2
+
+Du kan fa enkel fremstilling er nar du reiser ut av fengselet som den
+
+eneste innsattle sammen med ansatte i fengselet.
+
+Du kan fa enkel fremstilling dersom det av spesiele grunner er
+
+vikig for deg a mate familien din, du trenger a reise til en lege
+
+utenfor fengselet, har behov for a besake et offentlig kontor eller
+
+lignende. Du kan ogsa fa enkel fremstilling dersom det er en del
+
+av et rehabiliteringspoplegg og det er viktig for din videre gjennomfering av straften. Dette kan for eksempel vare dersom det er
+
+veldig myve tyngre for deg ajennomfere soningen, sammenlignet
+
+med andre innsate. For eksempel dersom du har fysiske eller
+
+psykiske heselproblemer som gjer at det a sitte i fengsel er ekstra
+
+vanskelig for deg.
+
+Retningslinjene til SS 34
+
+Som hovedregel vi det vare to ansatte med deg ut av fengselet.
+
+punkt 34.3
+
+En av disse skal veere en del av fengselet sin sikkerhetsijeneste.
+
+Du skal alltid ha felge av to ansatte dersom straften din er pa mer
+
+enn 10 ar, du er damt til forvaring, eller du soner for narkotika,
+
+vold eller sedelighetsforbytelser av alvorlig karakter.
+
+Retningslinjene til SS 34
+
+Dersom du soner en dom og skal i rettsmate, er utgangspunktet
+
+punkt 34.5
+
+at ansatte fra fengselet skal fremstille deg. Dersom fengselet ikke
+
+har kapasittet til a jennomfere fremstillingen eller fengselet mener
+
+at sikkerhetsmessige hensyn taler mot, sa skal politiet fremstille
+
+deg til rettsmatet.
+
+Retningslinjene til SS 34
+
+Det er patalemyndigheten (politiet), og ikke fengselet, som har
+
+punkt 34.6
+
+ansvaret for fremstilling mens du sitter i varetekt. Du kan lese mer
+
+om rettighetene dine som varetektsinsnatt i kapittet 3 og 4.
+
+### 3.2 Felles fremstilling
+
+Retningslinjene til SS 34
+
+Flere innsatte kan fa fremstilling sammen for a delta pa fellesakti-
+
+punkt 34.3
+
+vitter tueron fengselet. Eksempler pa slike aktviteter kan vaere
+
+kino, kafebessek og friuftsurer. Som hovedregel skal det vaere
+
+minst to ansatte med pa en felles fremstilling, en av disse bar
+
+vaere en del av sikkerhetstieneset i fengselet.
+
+
+
+**Kapittel 15**
+
+Undersakelse av insante,
+
+rom og eiendeler. Undersakelse
+
+for a vadekke bruk av rusmidler
+
+I. Undersokelser i fengsel
+
+1. Generelt om undersakelser
+
+Straffegjennomfaringstoven
+
+(strgif.) SS 28
+
+Forskrift til
+
+straffejennomfaringstoven
+
+$ 3-25 annet ledd
+
+Fengselet kan undersake deg, rom du oppholder deg i og eiendeleine dine. Dette gjar de for a forebygge og kartlegge uorden eller
+
+straffbare handlinger. Du har ikke lov til a ha ting hos deg som
+
+straffegjennomfaringstoven
+
+kan fere til uorden eller som kan brukes til straffbare handlinger.
+
+$ 3-25 annet ledd
+
+Dersom fengselet har mistanke om at du pnuker eller besitter
+
+rusmidler, krever det en egen type undersakelse. Denne kommer
+
+vi tibake til senere i dette kapitlelet.
+
+Forskriften SS 3-25 trede og
+
+Fengselet trenger ikke varsle deg om undersakelsene pa forhand,
+
+og de kan skje nar som helst under straffegjennomfaringen. De
+
+kan skje ntuinemessig eller som stikkpraver. Fengselet trenger
+
+ikke a ha mistanke om uorden eller straffbare handlinger for a
+
+gjennomfare en undersakelse. Fengselet trenger heller ikke a
+
+begrunne undersakelser.
+
+Fengselet ma gjennomfare undersekelser pa en sa hensynstull
+
+mate som mulig. Under gjennomfaringen av undersekelser ma du
+
+forholde deg rolig, og rette deg etter de beskjedene som fengselet
+
+gir deg.
+
+**2. Undersokelse av person**
+
+Forskriften SS 3-25
+
+Undersakelse kan skje nar som helst i soningen, og fengselet
+
+trenger ikke noen grunn til a undersake deg. I noen tiffeller skal
+
+Retningslinjene til SS 28
+
+derimot fengselet undersake deg. Du skal undersakes dersom det
+
+punkt 28.3 er mistanke om at du besitter noe du ikke har tillatelse til. Sitter duKapittel 15 - Undersekelse av insnaste, rom og ejendeler. 145
+
+Undersekelse for a avdekke bruk av rusmider
+
+i fengsel med heyt eller lavt sikkerhetsniva, skal det som hovedregel foretas en undersekelse av deg ved ankomst, og fer og
+
+etter utganger. Dette kan kun unlates dersom sikkerhetsmessige
+
+grunner apenbart ikke taler mot det.
+
+Undersekelsen av deg skal skje pa en mate som er minst mulig
+
+pinlig og nedverdigende. Den kan ikke veere mer omfattende enn
+
+nadvendig.
+
+Fengselet kan ta i bruk ulike metoder nar de underseker deg:
+
+Teknisk utstyr som for eksempel metalletektor
+
+Visitasjon av kleer eller gjenstander du baerer eller oppbevarer
+
+kleer i
+
+Narkotikahund
+
+Kroppsvisitatsjon oppleves ofte som ubehagelig. Ved kroppsvisitatsjon vi en ansatt se pa kroppen din nar du er avkledd. De kan
+
+ogsa se pa haret ditt. Ved kroppsvisitatsjon kan det benyttes speil som gier det lettere for de ansatte a se. Du kan velege om det skal
+
+bentytes speil eller ikke. Kroppsvisitatsjon kan ogsa omfatte besiktigelse (visuell undersekelse) av kroppens hulrom. Undersakelse av kroppens hulrom utover besiktigelse reguleres av egne regler, se punkt III nummer 4.
+
+Kroppsvisitasjon bar utfrees av en ansatt som er av samme kjann
+
+som deg. Derson visitatsjonen ma gjennomfrees av en ansatt av
+
+motsatt kjann, skal en annen ansatzt veere til stede.
+
+**3. Undersekelse av rom**
+
+Retningslinjene til
+
+strgilt. SS 28 punkt 28.4
+
+Fengselet skal underseke cellen din og andre rom i fengselet
+
+jevnlig. Undersakelser kan gjews red hiepj av verktay, speil,
+
+kjemisk utstyr, teknisk utstyr som metallletektor, og narkotikahund. Fengselet sjekker om laser, derer, gitre, vinduer, hengsler,
+
+gulv, vegger eller tak er uskadde, og om du har skjult gjenstander
+
+du ikke har lov til a ha.
+
+Det skal gjennomfrees jevnlige ransakelser av alle rom hvor
+
+innsatte har adgang. Ved ransakelser gjennomfrees en naye
+
+kontroll av hele rommet.
+
+ - Undersekelse av insnante, rom og eiendeler.
+* [147] Undersekelse for a avdekke bruk av rusmider
+* [148] Fengselet har ikke lov til a overvake cellen din ved hjelp av video-kamera eller lignende. Fengselet har mulighet a bruke video og tv-overvaking og avlytting for a kontrollere fellesarealer, korri-dorer og lignende. Hvis fengselet gjennomferer slik overvakning, skal det informeres om gjennom oppslag eller pa amen mate gjares kjent for deg.
+* [149] Du skal vanligvis ikke vere til stede nar cellen eller andre rom i fengselet undersokes. Dersom fengselet har foretatt en undersekelse av rommet ditt, ber du fa beskjed i etterkant.
+
+## 4 Undersekelse av eiendeler
+
+* [148] Alle eiendeler du har i fengselet skal undersokes. Sitter du i frengsel med hayt eller lavt skikerhetsniva, skal det som hovedregel foretas en undersekelse av eiendelene dine ved ankomst, og fer og etter utganger. Dette kan tunnilates dersom sikkerhetsmessige grunner apenbart ikke taler mot det.
+* [149] Eiendeler du har andre steder enn pa cella, for eksempel pa lager, skal ogsa undersokes. Fengselet kan undersoke eiendelene dineuten at du er til stede.
+* [150] Hvis fengselet har foretatt en undersekelse av eiendelene dine, bar du fa beskjed i etterkant. Du skal informeres om eventuelle skader som falge av undersekelsen, og du skal ogsa fa oppsninger om erstatiningsordinger.
+
+## 5 H. Folger av at det blir gjort funn og nekting av undersekelse
+
+* [151] Hvis fengselet tar deg i a oppbevare neo du ikke har lov til, paviser at du har brukt rusmider, eller du nekter a la deg underseke, kan dette fa konsekvenser for deg. Fengselet kan palegge deg en disiplinearreaksjon, utelukke deg fra fellesskap, benytte tvangsmidler, begrense adgangen din til a sende eller motta postsending, begrense besksadgang og telefonsamtaler, eller overfere deg til et annet fengsel. Dersom dette skjer med deg kan du ta kontakt med Jussbuss. Vi kan hjelpe deg med a klage.
+* [152] Gjenstander eller stoff som blir pavist ved hjelp av teknisk eller kjemisk utstyr eller narkotikahund kan holdes tilbake for naermere undersekelse.
+
+ Kapittel 15 - Undersekelse av insnaste, rom og ejendeler. 147 Undersekelse for a avdekke bruk av rusmilder Dersom det blir funnet narkotiske stoffer, skal du fa beskjed, og stoffet vil oversendes til politiet. Du kan lese mer om reaksjoner i kapittel 16, om isolasjon i kapittel 17 og om overfaring til annet fengsel i kapittel 18. III. Undersekesfer for a avdekke bruk av rusmilder
+
+Strgifl. SS 29 ferste ledd Pou har ikke lov til a bruke alkohol og andre rusmilder mens du Forskriften SS 3-21 supprevatek tiler soner en dom. Du har heller ikke lov til a oppbevare eller bruke hormonpreparater, bedevelsesmider eller kjemiske stoffer som ikke er lovlig forskrevet fra lege. Hvis du soner i fengsel, overgangsbolig eller soner utenfor fengsel etter SS 16, kan fengselet bestemme at du skal medvirke til undersekleser som kan skje uten fare eller saearlig upehag. Du kan bli palagt a avgi urinpreve, utandingsprove eller blodpreve. Retningslinjene til SS 29 punkt 29.1
+
+Hentingslinjene til SS 29 Urinpreve, utandingsprove eller blodpreve kan las selv om det punkt 29.2
+
+Urinpreve, utandingsprove eller blodpreve kan las selv om det kike foreignger konkret mistanke om at du er ruset. Fengselet kan ogsa beslutte mindre inngripende undersekleser, som underseklese av spytt og svette. Du kan ikke velge hvilken kontrollform fengselet skal bruke. Fengselet kan rutinemessig og pa generett grunnlag kreve slike undersekleser. Du kan ogsa bil utstatt for tifeldige stikkpraver. Pravene kan las nar som helst pa dagnet. Du ma tale et vist ubehag, for eksempel stikksmerter nur du tar blodpreve. Du trenger ikke a akseptere et behag utover det som er vanlig. Urinprevekontroll skal skje pa en mate som virker minst mulig pinlig eller nedverdigende for deg. Undersekelsen skal ikke medfare saearlig ubehag. Med saerlig ubehag menes sjenanse utover det som er vanlig nar du avlegger urinpreve. Forskriften SS 3-26 Urinpreve kan gjenomfares pa to mater. Fengselet bar gi deg muligheten til a velege mellom disse to alternativee: * Du avgir praven mens to ansatte er til stede. De ansatte ber vaere av samme kjonn som deg. Krav til antall ansatte gjelder ikke dersom det er nadvendig a benytte helespersonell.
+* Du avgir prave i enerom, etter a ha kledd av deg foran to ansatte. De bar vaere av samme kjonn som deg. Hvis du skal avgi prave i rom uten tiltsyn, skal du tilbys klear fra fengselet under prevetakingen. Du skal ikke bil sittende over tid uten klarer.
+
+Retningslinjene til SS 29 punkt 29.2
+
+Hvis du har problemer med a avgi urinpreve skal det gis en frist pa minst 4 timer fer det anses som ordrenekt at du ikke har avgitt unpreve.
+
+Blodpreve brukes for a avdekke bruk av preparater som ikke lar seg pause ved urin- eller utandingsprever eller andre undersek lesser. Kun helespersonell kan ta blodpreve av deg.
+
+## 3 Specialtoalett oq radioloqisk underseklese
+
+Strgill. SS 29 annet ledt Strgill. SS 29 annet ledt Retningslinjene til SS 29 punkt 29.3
+
+pasialtoalett eller radiologisk underseklese kan brukes dersom Retningslinjene til SS 29 det er samnsynlig at du skijuler stoff i kroppen. Mistanken ma vaere begrunnet i konkrete opplysninger og omstendigheter. En les anta-gelse er ikke tilstrekleig, med mindre den stylkes av andre forhold.
+
+Far du plasseres pa enerom med spesialloalett skal du gis anledning til a snakke med en lege. Fengselet skal ta legens mediisnke rad med i vurderingen. Hvis du blir palagt a gjennomfore demne typen underseklese, skal du kontinuerlig fa tlsyn fra ansatte, og daglig tlsyn fra helespersonell. Dersom det anses nadvendig at du oppholder deg utover 3 dager pa rom med spesiatoalett, skal regionen ta stilling til dette.
+
+Dersom det er samnsynlig at du skijuler stoff i kroppen kan fengselet ogsa benytte radiologisk underseklese (rentgen) for a pause stoffet. Henvising til radiologisk underseklese skal besluttes av lege som har vurdert hvorvidt bruken av straling er berettiget.
+
+## 4 Kroppslig underseklese
+
+Strgill. SS 29 trede ledt Retningslinjene til SS 29 punkt 29.4
+
+Fengselet kan underseke munnhule, vagina, rektum og andre hulrom hvis det foreligger en konkret og begrunnet mistanke om at du skijuler rusmider i kroppen. Fengselet vil da vurdere om det foreligger skalt ekvalifisert samnsynlighestsoverekts. Det betyr at Kapittel 15 - Undersekelse av insnaste, rom og ejendeler. 149
+
+Undersekelse for a avdekke bruk av rusmider
+
+det ma vaere langt mer sannysnlig at du skjuler ulovlige rusmilder i kroppen enn at du ikke gjer det. Undersekelsen skal altlid foretas av hesepersonell.
+
+En lege skal uttale seg om hvorvidt det skal gjennomfares kroppslig undersekelse. Uftalelsen skal tillegges vekt i vurderingen. Regionalt niva skal samykke til den kroppslige undersekelsen pa forhand, med mindre dette er praktisk umulig. Forhandsamtykket er et vedtak du kan klage pa, men det betyr ikke at undersekelsen nadvendigvis blir utsatt mens klagen behandles. Hvis det blir funnet narkotiske stoffer, skal du ta beskjed, og stoffet vl oversedes til politiet. Det skal frees protokoll over undersekelsene.
+
+ 
+
+## Kapitel 16 Reaksjon pa brudd
+
+I. Generett om reaksjon pa brudd
+
+Under soningen gjelder det en rekke regler for ro, orden og disiplin som du ma feige. Du kan bli palagt a oppflyle ulike vilkar og forutsentinger som blir bestemt av fengselet. Dette kapittelet handler om hva som skjer dersom du bryter noen av disse reglene eller vilkarene.
+
+Ved brudd pa reglene vil du kunne fa en reaksjon. Fengselet har en vid adgang til a gi reaksjoner, men de ma feige lover og regler som setter greaser for bruken. I dette kapittelet vil du fa mer informasjon om hwike reaksjoner fengselet kan gi, hva som skal til for a gi reaksjoner, og hvilke muligheter du har til a klage pa vedtak om reaksjoner.
+
+Reaksjonene som gis skal ikke vaere mer ingnripende, altsa strengere, enn det som er nedvendig for at reaksjonen skal oppflyle sitt formal. Utilisketde virkninger av reaksjonen, som for eksempel skader, skal motvirkes.
+
+## II Former for reaksjoner
+
+Hvis du bryter reglene i fengsel, kalles dette for et brudd. Fengselet kan veleg hvilken type reaksjon de skal gi deg som falge av et brudd. Du kan ikke fa andre reaksjoner enn de som er listet opp nedenfor.
+
+Skriftlig irrettesettelse betyr at du far skriftlig beskjed om at du har glort neo galt. Denne type reaksjon kan gis for alle typer brudd, men det er typisk noe fengselet gir ved mindre overtredelser.
+
+Ved mindre alvorliger ferstegangsbrudd kan fengselet ogsa gi muntlig advarsel pa stedet.
+
+
+## 2 Tap av dagpenger
+
+Porskrift til strgift. SS 3-37
+
+Retningslinene til g 40
+
+punkt 40.8
+
+Du kan miste dagpenger for en periode pa opptil 14 dager. Fengselteningslinene til g 40
+
+selet kan da redusere det du far i dagpenger med intill 50 %.
+
+Dette gjelder kun dagpenger som ikke er opptient pa reaksjonstidspunktet. Det bety at fengselet ikke kan ta fra deg penger
+
+du allerede har tjent. Tap av dagpenger er en reaksjon som ote brukes hvis du har skadet eller adelagt noe.
+
+## 3 Tap av begunstigelse
+
+Forskriften SS 3-37
+
+Tap av begunstigelse betyr at du mister fordeler du har. Du kan miste muligheten til a se pa TV eller ha privat datautstyr pa
+
+cella, muligheten til a ha tilitsjobb, tiltatelse til a kjope annet enn nordvendige artikler, og tiltatelse til a drive hobbyvirksombnet. Du kan ikke miste andre begunstigelser ennt dette. Tapet kan ikke
+
+vare i mer enn 20 dager. Tap av tiltatelse til a ha en tilitsjobb kan
+
+vare lenger.
+
+## 4 Utelukkelse fra fritidsfellesskapet eller andre aktiviteter
+
+I fritiden
+
+Strgift. SS 40 andre ledd
+
+Reaksjonen kan gjelde utelukkelse fra en, fere eller alle fritids-
+
+aktiviteter, eller alle former for fellesskap med andre imsatte i
+
+fritiden. Blir du ilagt full utelukkelse fra fritidsfellesskap, bety ikke
+
+det at du automatisk skal ha individuell lufting. Du skal ogsa ha
+
+vanlig adgang til a kontakte de som jobber i fengselet. Utelukkelse
+
+som reaksjon pa brud skal ikke vare i mer enn 20 dager.
+
+## 5 Tap av adgang til permision
+
+Du kan miste muligheten til a fa innvilget permisjon i inntil 4
+
+maneder. Allerede invnivlet permisjon kan ogsa trekkes tibake.
+
+Du har mulighet til a sake om a fa en enkeltstaende permisjon i
+
+fremanedersperioden dersom det er sserlige og vektige grunner
+
+som taler for dette. Vilkarene for permisjon ma ellers vaere oppft.
+
+Det silles strenge krav for a fa invnivlet en permisjon under disse
+
+omstendighetene. Du kan lese mer om permisjon i kaptitel 14.
+
+ 
+
+## 6 Flere reaksioner
+
+Strgill. $ 40 fjerde ledd Du skal i utgangspunktet ikke fa mer en en reaksjon ved brudd. Dette gjelder bade nar du bare har begatt ett brudd, og nar du har begatt flere brudd pa reaksjonstidspunktet. Dette vil si atdet i utgangspunktet skal ilegges kun en reaksjon uavhengig av antall brudd. Reaksjonsformen etap av begunstigelese kan likevel kombineres med en av de andre reaksjonsformene, silk atfengselet i tillegg kan gi deg en annen reaksjon. Alternativ kan fengselet gi deg tap av to begunstigelser.
+
+Du kan for eksempel bade utleukkes fra fritidsfellesskapet og miste rett til a se TV pa cella, eller du kan miste tillatelsen til a drive hobbyviksombet og samtidig miste en tillitsjobb.
+
+## 1 Hrudd
+
+For at du skal kunne liegges en reaksjon, ma du ha brutt reglene for ro, orden og disiplin i fengselet. lillegg kan du fa en reaksjon hvis du bryter vilkar eller forutsetringer som fengselet har satt for deg individuelt.
+
+## 2 Nar kan reaksjon liegges
+
+\begin{tabular}{l l} Retningslinjene til \$ 40 & Du kan bli liagt en reaksjon for brudd nar du er i fengsel, og nar du har midlertidig fravaer fra fengsel. Midlertidig fravaer er \\  & for eksempel nar du er pa permisjon eller fremstilling, er ute av \\  & fengsel pa grunn av straffavbrudd, eller ved transport til eller fra \\  & frus du soner pa sykehus, skal du som hovedregel ikke ilegges en \\  & reaksjon ved brudd. Soner du pa institiusjon ($ 12-soning), skal du \\  & heller ikke ilegges reaksjon, men du kan vurderes overfert tibake \\  & til fengselet. \\  & \\ Strgift. \$ 40 trede ledd & Hvis du soner hjemme (hjemmesoning og soning med elektronisk \\  & kontroll) kan du fa en skriftig irretesettelse dersom du ikke skal \\  & overfrees til fengsel som falge av brudd. \\ \end{tabular}
+
+Kapitte16 - Reaksjon pa brudd 153
+
+### 3. Krav til skyld
+
+Strgfl. $ 40 farste ledd
+
+For a kunne gi deg en reaksjon, kreves det at du forsetttig eller
+
+Retningslinjene til $ 40
+
+uaktsomt har overtradt regler i fengselet. Dette betyr at reaksjon
+
+bare kan liegges der du med vijle bret reglene, eller der du matte
+
+eller burde forstatt at du brat reglene.
+
+### 4. Krav til sannysnlighet
+
+Det ma foreligge alminnelig sannysnlighestsovervekt for at du har
+
+overtradt reglene. Det vii si at det ma veere mer sannysnlig at du
+
+har begatt en handling som kan fare til reaksjon, enn at du ikke
+
+har det. Det er fengselet som er ansatzylig for a bevise at du har
+
+brutt reglene, og ikke du som ma bevise din uskyld. Fengselet
+
+skal bygge pa konkrete, objektive omstendigheter. I saker hvor
+
+det bare er pastand mot pastand, uten at fengselet har noe annet
+
+bevis, skal du ikke ilegges reaksjon.
+
+### 5. Rett til a uttale seq
+
+Forskriften $ 3-38
+
+For du ilegges en reaksjon skal du fa mulighet til a uttale deg
+
+om f forholdet far det skal skrives en avhersrapport. Dersom du
+
+mener at du ikke har brutt reglene, ber du gi din versjon av saken
+
+i avheret. Det kan offe veere lurt a uttale seg. Dersom du nekter a
+
+uttale deg, kan det tale mot din sak.
+
+### 6. Forsek og medvirkning
+
+Strgfl. $ 40 forste ledd
+
+Forskriten $ 3-38
+
+brudd. For at en handling skal regnes som et forsek pa brudd, ma
+
+bruddet vaere babegynt, men ikke fullfort. Det ma ikke vare noen
+
+tvil om at du har forsekt a gjennomf ter e regelbrudd. Forbere-
+
+desle til brudd, for eksempel planlegging, medferer ikke reaksjon.
+
+Medvirkning til regelbrudd kan ogsa fere til at du blir liagt en reaksjon. I denne vurderingen vil fengselet vektlegge hvor mye du har
+
+hjulpet til. Du kan ogsa fa en reaksjon for medvirkning hvis du ikke
+
+har jgort noe sekv, men bevisst pavirket andre til a bryte reglene.
+
+### 7. Bevis for bruk av rusmiddel
+
+Retningslinjene til $ 40
+
+punkt 40.2
+
+Det skal som hovedregel foreligge et analyseresultat fra urin-
+
+purek 40.2
+
+purek eller lignende far du gis en reaksjon for inntak av forbudte stoffer. Dersom det er nadvendig pa grunn av tid, kan du likevel ilegges en reaksjon selv om det ikke foreligger et analyseresultat. Da ma det vaere apenbart at du er ruset, og du ma ha kommet med en uforbeholden tlistaelse av forholdet. To ansatte ma ogsa, uavhengig av hverandre, ha sett at du har vaert ruset.
+
+## IV Vvrige bestemmelser om reaksjoner
+
+### Betinget reaksjon
+
+Fengselet kan gi deg en betinget reaksjon for brudd med en prevetid pa inntil 3 maneder. At reaksjonen er betinget betyr at gjennomfringen av reaksjonen utsettes i en preveperiode. Hvis du ikke begar noe nytt regelbrudd i denne perioden, vil du ikke matte gjennomfere reaksjonen. Begar du et nytt regelbrudd i praveetiden, vii fengselet gi deg en my felles reaksjon for bade det tidigere bruddet og det nye. En alleredee liagt reaksjon kan omgjares til en betinget reaksjon i sserlige tifeller.
+
+Det er fengselet som vurderer om reaksjonen skal gjares betinget. En betinget reaksjon kan brukes for eksempel hvis fengselet synes du skal fa en sjanse til a vise at bruddet var en mindre alvorlig engangshendelse som du ikke kommer til a gjenta, eller hvis saksbehandlingstiden har vaert veldig lang.
+
+Dersom det har gatt mer enn 3 maneder siden bruddet skjedde og det ikke er din skyld at saksbehandlingen har tatt lang tid, skal fengselet eller regionen vurdere om reaksjonen skal gjares betinget.
+
+### Avbrud av reaksjon
+
+Ent nabegynt reaksjon skal avbrytes dersom helsemessige eller andre sserlige grunner taler for det. Det er fengselet som vurderer hva som er eksearlige grunner. Det kan for eksempel vaere hvis bamet ditt er blitt alvorlig syk, og du ma gjennomfare en permision i den aktuelle perioden. Terskelen for hva som regnes som en sserlig grunn, er hay.
+
+### Registering av reaksjoner
+
+Retningslinjene til SS 40
+
+punkt 40.14
+
+Reaksjonene blir registtert av fengselet. Reaksjonene du har fatt gjennom straffegjennomfringen din kan ha betydning for permisionssosseknader, sknader om pravelslatelse, overferring til fengsel Lapitte16-Reaksjonpa brudd 155
+
+med lavere slikkerhetsniva etc. Dette er fordi de vil kunne ha en innvirkning pa sviktfarevurderingen. Nar fengselet vurderer sviktfaren ser de pa hvor sannsynnlig det er at du vil ramme eiler forske a unndra deg straffen. Hvis reaksjonen ligger langt tibake i tid, vil de ha mindre belydning nar fengselet vurderer seknadene dine.
+
+**4. Overforing til annet fengsel og tap av provelesistelse som**
+
+**felge av brudd**
+
+Retningslinene til $ 42
+
+punkt 42.10
+
+Overfaring til et annet fengsel etter straffegjennomferingsloven
+
+**Setting**
+
+Setting**
+ Besittelse, omsetting eller innsmugling av narkotika anmeldes i utgangspunktet til politiet. Hvis besittelsen gjelder en svaert liten mengde narkotika som apenbart er til personlig bruk, kan forholdet fere til en reaksjon istedenfor anmeldelse. Dersom du oppbevaer gjenstander som antas a ha vaert brukt som narkotikahajlepemiddel (sprayter, piper, sil o.l.) kan det fere til at du blir liagt reaksjon pa brudd.
+
+## 3 Searlig om unndragelse av straffeqiennomforingen
+
+Undragelse av straffejennomforaring betry at du forsaker a slippe unna straffen din, for eksempel ved a remme fra fengselet. Det a ikke mate opp til rett tid etter en permisjon eller a remme fra fremstilling regnes ogsa som unndragelse. Unndragelsen ma ha skjedd med forsett, altsa med vilje, eller ved at du har optradt grovt uaktsomt. Med grovt uaktsomt menes det at du matte eller burde forsta at unndragelsen ikke er tillatt, og at du er sterkt a bebeide for unndragelsen. Unndragelse kan straffes med bater eller fengsel i inntil 3 maneder. Det skal ikke ilegges reaksjon pa brudd i tilegg til dette, men du kan overfares til et fengsel med hayere sikkerhetsnua nar du kommer tibake. Unndragelse fra fengsel med lavere sikkerhetsniva eller overgangsbolig skal kun anmeldes dersom unnukelsen er av alvorlig karakter. Det samme gjelder hvis du ikke mater opp til rett tid etter permisjon. I vurderingen av om saken er av alvorlig karakter, skal det saeirig legges vekt pa fravaerets lengde, om du selv kom tlibake eller melde deg til politiet, og bakgrunnen for unndragelsen.
+
+## 4 Utelukkelse fra fellesskapet/isolasjon somb falge av brudd
+
+Utelukkelse fra fellesskapet/isolasjon behandles grundig i kapittel 17. Du bar lese dette kapittelet for mer tufyllende informasjon om isolasjon generell, og isolasjon som forebyggende tiltak. I dette kapittelet vil kun uttelukkelse fra fellesskapet/isolasjon som falge av brudd bli behandlet.
+
+ Kapitte16 - Reaksjon pa brudd 157
+
+Dersom fengselet finner det sannysnlig at du har begatt et brudd som kan fere til tap av begunstigelse, utelukkelse fra fritidstelles- skapet eller tap av adgang til permisjon, kan du utelukkes hett eller delvis fra felesksapet i inntil 24 timer.
+
+For a bli utelukket kreves det alminnelig sannysnlighestsover- vekt, det vi si at det ma vaere mer sannysnlig at du har begatt en handling som kan fere til reaksjon, enn at du ikke har det. Det ma foreligge konkrete omstendigheter som tilsier at du har begatt et brudd.
+
+Hvis du er under 18 ar, kan du ikke utelukkes umiddelbart fra fritidstellesskapet.
+
+Forskriften SS 3-36
+
+Dersom du blir liqst en umiddelbar utelukkelse, skal dette komme til fradrag hvis du far en etterfolgende reaksjon i form av tap av begunstigelse, utelukkelse fra fritidstellesskapet og andre fritidstiviteter eller tap av adgang til permisjon.
+
+## VII Klage og oppsettende virkning
+
+Vedtak om reaksjon pa brudd er et enkeltvedtak etter forvaltnings- loven. Du kan derfor klage pa en reaksjon du blir liqst. I saker som gjelder reaksjon pa brudd har du offe kort klagefrist. Klagefristen er normalt 48 timer et at du har mottatt reaksjonsbeslutningen.
+
+Forskriften SS 3-39
+
+Reaksjonen du har fatt skal som hovedregel ikke iverksettes fer klagefristen er tue. Dersom du klager, har klagen normalt en oppsettende virkning. Det betyr at reaksjonen ikke blir iverksatt sa lenge klagen behandles. Fengselet og regionen kan vedta unntak fra denne regelen. Reaksjonen vl da iverksettes likevel. Da ma fengselet gi en begrunnelse for iverksettelsen.
+
+Hvis du ensker a klage pa et vedtak, kan Jussbuss eller et annet rettshjelpstiltak hjelpe deg med dette.
+
+ 158
+
+**Kapittel 17**
+
+Utelukkelse fra
+
+fellesskapet (isolasjon)
+
+og bruk av tvangsmidler
+
+Dette kapitteleit handler om utelukkelse fra fellesskapet (isolasjon)
+
+og bruk av tvangsmidler. Disse tiltakene er alvorlige og iningripende. I dette kapittelet kan du lese om reglene fengselet ma
+
+forholde seg til ved bruk av utelukkelse og tvangsmidler.
+
+**I. Generell om utelukkelse fra fellesskapet (isolasjon)**
+
+Straffejenomfringstoven
+
+Nar du soner i fengsel har du i utgangspunktet rett til a omgas
+
+(strgjfl.) SS 17
+
+andre innsatte under arbeid, utdanning og fritid. I noen tifeller vil
+
+fengselet kunne innskrenke denne muligheten. Dette kalles utelukk
+
+kelse fra fellesskapet. Isolasjon er annet ord for dette. Uttrykene
+
+brukes om hverandre i dette kapittelet.
+
+Retningslinjene til
+
+strgjfl. SS 37 punkt 37.4
+
+Fengselet skiller mellom hel og delvis utelukkelse fra fellesskapet.
+
+Hel utelukkelse vil si at du overhodet ikke ffar ha noe fellesskap
+
+med andre innsatte i lepet av dagen.
+
+Delvis utelukkelse betyr at du ikke far delta pa deler av fellesskapet pa din avdeling. For eksempel at du far adgang til fellesskap mens du jobber, men ikke mulighet til a veere med i fritidsfelesskapet senere pa dagen.
+
+Man skiller mellom to hovedtyper av begrunnelser for utelukkelse:
+
+utelukkelse som falge av brudd, og utelukkelse som forebyggende
+
+titlak. Regelverket for de to typene av utelukkelse er forskjellig.
+
+Dette kapittelet omhandler i hovedsak utelukkelse som forebygende tiltak.
+
+Utelukkelse fra fellesskap (isolasjon) er et alvorlig titlak, og det
+
+oppleves ofte som svaert tungt a bli isolert. Norge er forpliktet til a Kapittel 17 - Utelukkelse fra fellesskapet (isolasjon) 169
+
+og bruk av tvangsmidler
+
+felge internasjonale regler om isolasjon, men har flere ganger blitt kritisert for isolasjonsprakissen. Hvis du mener du har blitt utsatt for isolasjon som du ikke skulle ha vaert utsatt for, ma du ikke nale med a kontakte Jussbus.
+
+## II Umiddelbar utelukkelse som felge av brudd
+
+Strgfl. SS 39
+
+Hvis fengselet finner det sannsynlig at du har begatt et brudd som kan fere til tap av begungtielse, utelukkelse fra fritidsfellesskapet eller tap av adgang til permisjon, kan du utelukkes hett eller delvis fra fellesskapet i inntil 24 timer. Hvis du er under 18 ar, kan du ikke utelukkes umiddelbart fra fritidsfellesskapet.
+
+Du kan lese om umiddelbar utelukkelse som felge av brudd i kapittel 16.
+
+## III Utelukkkelse fra fellesskap som forebyggende tiltak
+
+### Utelukkkelseargument
+
+Strgfl. SS 37 forste ledd
+
+For at fengselet skal kunne utelukke deg fra fellesskapet, ma de holde seg innnert reglene i straffegjennomfringsloven. I loven er det opplistet ulike grunner fengselet kan ha for a beslutte utelukkelse fra fellesskapet.
+
+Her falger en kort gjennomgang av de ulike grunnene fengselet kan vise til for a beslutte utelukkelse fra fellesskap. Fengselet kan ikke vise til andre grunner enn de som nevnes her, men se ogsa punkt 4 om searige utelukkelsegrurnner.
+
+### Utelukkelse for a shindre at innsatte fortsetter a pavirke milieuet
+
+I fengselet pa en sserliq neoativ mate?
+
+Hvis du opptrr truende, saboterende, eller pa andre mater oppferer deg pa en mate som virker negativt pa andre innsatte eller ansatte, vil fengselet kunne beslutte utelukkelse.
+
+For fengselet eventuelt beslutter utelukkelse pa grunn av afterden din, skal du fa en advarsel om at fengselet anser atferden din som negativ. Da vil du ha mulighet til a innrette deg etter advarselen, og unnga utelukkelse.
+
+ 160 Kapittef 17 - Utelukkelse fra fellesskapet (isolasjon)
+
+og bruk av twangsmidler
+
+1.2 Utelukkelse for a chindre innsatte i a skade seg selv eller eye.
+
+vold eller fremsette trusler mot andre?
+
+Ved selvskading, vold og trusler mot deg selv, andre innsatte, ansatteller andre personer, wil du kunne utelukkes fra felleskapet. Sultestereik vi il utgangspunktet ikke regnes som selvskading. Utelukkelse pa grunn av sutestereik er kun aktuelt hvis sultestereiken gjar at fengselet og helespersonell ma fore tilsyn med helsen din. l tillegg ma det at du er i fellesskap vare til hinder for tilsyn.
+
+1.3 Utelukkelse for a chindre betydeliq materiell skade?
+
+Fengselet kan utelukke deg fra fellesskapet hvis det er nodvendig for a hindre skadeverk. Skadeverk betyr skade som innebbaerer en redukjson av gjenstandens verdi. Tligrising av fellesarealer er ogsa omfattet av bestemmelsen og kan fere til utelukkelse.
+
+1.4 Utelukkelse for a chindre straffbare handlingers
+
+Utelukkelse fra fellesskapet kan bli aktuelt dersom det kan forhindre at det skjer handlinger som er straffbare etter lov. Eksempler pa dette er trusler og kroppskrenkelser. Kroppskrenkelser kan for eksempel vare fysisk formaermelse eller vold mot en annen.
+
+1.5 Utelukkelse for a coppretholde ro, orden og skikerhet?
+
+Utelukkelse etter denne bestemmelsen er ment a omfatte oppfersel som ikke er dekket av de andre utelukkelsegrunnene, og som heller ikke er a regne som straffbare etter straffeloven. Eksempler pa skise situasjoner er brak og skriking over tid.
+
+Utelukkelse fra fellesskapet for a oppretholde ro, orden og skikerhet kan omfatte mange ulike situasjoner. Det er likevel ikke silk at enhver type afterd kan fere til utelukkelse. Afterden det reageres mot, ma vaere omtrent like alvorlig som de andre utelukkelsegrunnene som er nevnt tidligere.
+
+ Kapitte17 - Uttelukkelse fra fellesskapet (isolasjon) 161
+
+og bruk av tvangsmidler
+
+### Vilkar for utleukkelse
+
+#### Nadvendiabet
+
+Strgifl. SS 37 ferste ledd
+
+I tillegg til at det ma foreligge en utleukkelsegrunn som neurnt
+
+Retningslinjene til
+
+ovenfor, ma fengselet anse det som nadvendig at du utleukkes.
+
+Hvrovidt der er nodvendig at du utleukkes, ma vurderes konkret
+
+i din sak. Hvorfor det er nadvendig med utleukkelse skal sta i
+
+vedtaket. Terskelen for at det er nadvendig a utleukke deg skal
+
+vare hey.
+
+### Forholdsmessiahet
+
+Fengselet ma vurdere om utleukelsen er egnet til a oppna det
+
+formalet som er angitt som grunn for utleukkelsen. Det ma ogsa
+
+vurderes om formalet med utleukkelsen veier opp for eventuelle
+
+ulemper ved at du utleukkes. Her ma det Tas hensyn til hvordan
+
+isolasjonen vil virke for deg i din situasjon.
+
+### Sannysnilighet
+
+Det ma vere en nerliggende og reell risiko for at de situasjonene
+
+fengselet ensker a forhnide, vil nintreffe hvis du ikke utleukkes.
+
+Dette er en lavere terskel enn alminnelig sannysnlighetsoverekt
+
+(at det er mer sannysnlig at du vil bega en handling, enn at du ikke
+
+vil det). Ved vurderingen av riskoen for uanskede hendelser, ses
+
+det pa din tidligere afterd, trusler eller andre forhold som tyder pa
+
+at det er fare for usnskede hendelser.
+
+### Vurdering av delvis utleukkelse
+
+Strgifl. SS 37 tredje ledd
+
+Fengselet ma vurdere om det er tilstrekkelig med delvis utleukkelse i stedet for hel utleukkelse. Da vurderes det om delvis
+
+utleukkelse et tilstrekkelig for a oppna formalet med utleukkelsen.
+
+For eksempel kan det hende at du er brakete og urolig med de
+
+andre innsatte du jobber med og ma utleukkes fra felleskap med
+
+dem, men fungerer godt med andre personer som du fortsatt kan
+
+fa mulighet til a omgas pa fritiden.
+
+ 
+Kapitte17 - Utelukkelse fra fellesskapet (isolasjon)
+
+og bruk av tvangsmidler
+
+### Fortlepende vurdering av utelukkelsegrunmlaget
+
+Strgifl. SS 37 fjerde ledd
+
+Fordi utelukkelse fra fellesskapet er stvaert inngripende titak, skal
+
+du ikke utelukkes hvis det ikke lenger er nadvendig. Fengselet
+
+skal hele tiden vurdere nadvendigheten av utelukkelsen.
+
+## 3 Utelukkelse s variabet
+
+Om du er underlagt hel utelukkelse fra felleskapet i mer enn
+
+14 dager, skal regionen vurdere om du fortsatt skal utelukkes.
+
+Hvis du er underlagt hel utelukkelse i mer enn 42 dager, skal
+
+dette meldes inn til Kriminalomsorgsdirektoratet. Hvis du er
+
+under 18 ar gjelder det egene regler for vurdering og kontroll av
+
+utelukkelse s variabet.
+
+Uu kan ikke utelukkes fra fellesskapet i mer enn 1 ar med mindre
+
+det er noe du selv ensker. Hvis du sitter isolert i 1 ar, skal du fa
+
+sjansen til a prave a veare pa fellesskapsavoleing. Dersom du jajen
+
+far vedak om utelukkelse, begynner en ny ettarsperiedoe a lepe.
+
+### Tlisyn og forebygogina
+
+Mange opplever utelukkelse fra fellesskap som svaert tyngende og
+
+belastende. Etter loven skal utelukkelse brukes med varsomhet,
+
+sik at du ikke pafares unadig skade eller lidelse. Ved hel utelukkelse skal du flere ganger daglig la ttisyn av ansatte i fengselet.
+
+Utgangspunktet er at du skal fa ttisyn en gang i imen pa dagtid.
+
+Hvis du er under 18 ar skal du ha kontinuerlig tlisyn.
+
+Forskirt til
+
+straffejennomfringisloven
+
+sgd som muig. Searlig ved langvarige utelukkelser skal fengelelet
+
+$\lx@sectionsign$ 3-35
+
+get de de kan for a forhindre negative virkninger av isolasjon.
+
+Dette kan for eksempel vaere utvidet adgang til tufting, samvaer
+
+med ansatte, utvidet adgang til besak eller utvidet adgang til fysisk
+
+aktivitet. Hvis det er sikkernetsmessig forsvarig, kan du ogsa gis
+
+et sysselsettingtstilbud pa celen.
+
+Retningslijene til
+
+Fengselslegen skal varsles om utelukkelsen sa fort som mulig.
+
+Hvis du ber om tilsyn fra lege eller helsepersonell, skal du fa dette.
+
+L ege kan ogsa se til deg dersom det er gunn til a tro at du har
+
+behov for tilsyn.
+
+ Kapitte17 - Uttelukkelse fra fellesskapet (isolasjon) 163
+
+og bruk av tvangsmidler
+
+## 4 Sarlige utelukkelsegrunner
+
+### Uttelukkelse pa qnunn av bygnings- eller
+
+bemanningsmessige forhold
+
+Selv om utelukkelse pa bakgrunn av bygnings- eller bemannings-
+
+message forhold skal holdes til et minimum, kan du utelukkes fra
+
+fellesskap hvis det er snakt om akutte forhold. Eksempler pa
+
+akutte forhold kan vaere brann, skader eller ufroutsett mangel pa
+
+ansatte. Varge resurs- eller bemanningsuttordringer gir ikke grunn
+
+til utelukkelse. For insatte under 18 ar gjelder det genre regler.
+
+Hvis du har sittet utelukket pa grunn av bygnings- eller bemanningsmessige forhold som har vart over lang tid, kan du ta kontakt
+
+med Jussbuss for nearmere veiledning.
+
+### Utelukkelse etter eeqt enske
+
+Dersom du _ansker utelukkelse fra fellesskapet, skal dette i
+
+utgangspunktet respekteres av fengselet. Hvis du _ansker utelukkelse_, ma du erkleere det skirtifig. Det kan ogsa gis muntig erklaering om _ansket utelukkelse_, som ma bevintes og attesteres av to
+
+ansatte. Du kan alltid trekke samtykke om utelukkelse tilbake.
+
+Du ma oppgi grunnene for hvorfor du _ansker utelukkelse_. Dette er
+
+for a kunne vurdere alternative tiltak. Nar fengselet skal vurdere
+
+om de aksepterer _ansket_ om utelukkelse, veies ditt _anske_ om
+
+utelukkelse opp mot ulemper ved utelukkelsen. Du kan ikke selv
+
+bestemme hvilke innsatte du skal ha fellesskap med.
+
+### Kolektiv utelukkelse
+
+Fengselet kan i noen tifeller bestemme at alle eller enkelete
+
+intensatte skal utelukkes fra fellesskapet. Dette gjelder hvis det er
+
+sannsynnlig at et ubestemt antall insnstate har begatt eller er i ferd
+
+med a bega en handling som er omfattet av en av de tidligere
+
+nevrte utelukkelsegrunnene i punkt l l n r. 1. Det ma veere mer
+
+sannsynnlig enn ikke at handlingen har intruffet eller wil intreffe
+
+enn at den ikke vil inntreffe. Kolektiv utelukkelse kan vaere aktueht
+
+hvis det er omstendigheter som truer sikkerheten i fengselet, som
+
+for eksempel opprar og sabotasjeaksjoner.
+
+ - Utelukkelse fra fellesskapet (isolasjon)
+* [165] og bruk av tvangsmidler
+
+Fengselet kan ogsa beslutte kollektiv uttelukkelse hvis akutte
+
+bygnings- eller bemanningsmessige forhold gjzr det nadvendig. Dette kan bli aktuelt ved for eksempel brann, vannskader eller
+
+lignende situasjoner hvor opphold pa fellesskapsarealer er
+
+uforsvarlig.
+
+Kollektiv uttelukkelse kan ikke vare lenger enn 3 dogn, med mindre
+
+regionalt niva forlenger tillaket. Regionen kan kan forlenge uttelukkelsen med ytterligere 3 dogn.
+
+## IV Ivangsmidler
+
+* [1] Nar det kan benyttes tvangsmidler
+* [1]
+ Kapittel 17 - Uttelukkelse fra fellesskapet (isolasjon) 165
+
+og bruk av tvangsmidler
+
+sikkerhetscelle og sikkerhetsseng
+
+gassboks
+
+3.1 Searliq om sikkerhetscelle og sikkerhetsseng
+
+Entingsliniene til
+
+En sikkerhetscelle er en celle uten mabler. En sikkerhetsseng er
+
+en seng hvor du festes med hand- og fortem.
+
+Sikkerhetscelle kan brukes for a:
+
+* hindre alvorig angrep eller skade pa person, for eksempel for a
+
+hindre at du skader deg selv
+* hindre iverksetlese av alvorige trusler eller betydelig skade pa
+
+eiendom, eller
+* hindre remning eller unruvielse fra fengsel.
+
+Hvis fengselet vurderer a bruke sikkerhetschelle eller sikkerhetsseng, skal lege kontaktes hvis det er praktisk mulig. Ellers skal
+
+lege varsles snarest for a gi rad om videre bruk av tiltaket.
+
+Sikkerhetscelle og sikkerhetsseng ma ikke brukes over lengre
+
+tidsrom en det som er absolut nadvendig. Ved bruk av sikkerhetsseng, skal du ha tisyn av ansatte minst
+
+en gang per time. Du skal i tillegg fa tisyn av heisepersonell minst
+
+en gang om dagen.
+
+Bruk av sikkerhetsseng som overstiger 24 timer, skal meldes
+
+fra om til regionen, og de vil ta stilling til om tiltaket skal oppret-
+
+holdes. Dette skal vurderes pa nytt etter nye 24 timer. Hvis bruken
+
+av sikkerhetsseng varer lenger en 3 dagn skal dette meldes fra
+
+om til Kriminalomsorgsdirektoratet.
+
+Bruk av sikkerhetscelle som overstiger 3 dagn, skal meldes til
+
+regional niva som tar stilling til om bruken skal opprettholdes.
+
+Hvis bruk av sikkerhetscelle varer lenger en 6 dagn, skal det
+
+meldes til Kriminalomsorgsdirektoratet.
+
+V. Klage
+
+Vedtak om uttelukkelse fra fellesskap som forebyggende tiltak og
+
+vedtak om bruk av tvangsmidler, er enkelvedtak etter forvaltnings-
+
+loven. Klagefristen er som offset 7 dager.
+
+ - Utelukkelse fra fellesskapet (isolasjon)
+* [167] og bruk av twangsmidler
+
+Ved kortvarig innlasing som varer inntil en time, som skjer i
+
+forbindelse med telling av insnate, vaktskiftte blant de ansatte,
+
+bespising og lignende, vil du ikke fa et vedtak som regnes som et enkelvredtak.
+
+Du kan lese om a klage i kapittel 9. Hvis du har sparsmal om
+
+klage eller bruk av isolasjon og tvangsmidler, kan du kontakte
+
+Jussbuss.
+
+ 
+
+## Kapitel 18 Overfaring mellom fengsler
+
+Straffejennomfaringsloven
+
+(strgift.) SS 14 og SS 15
+
+Dette kapittelet handler om forskjellige former for overfaringer mellom fengsler i Norge. Punkt l handler om overfaring til fengsel med samme sikkerhetsniva. Punkt Il handler om overfaring til lavere sikkerhetsniva. Punkt III gjelder overfaring til overgangs-bolig. I punkt IV kan du lese om overfaring mot din vilje.
+
+## I Overfaring til fengsel med samme sikkerhetsniva
+
+Du kan selv sake om a bli overfart til et annet fengsel. Det kan vaere mange grunner til at du ensker det. Det kan for eksempel hende at ennnet fengsel tilbyr en utdanning du ensker a ta, eller det kan bli lettere for familien din a komme pa besak hvis du soner i ent annet fengsel. Nedenfor star det forklart hva som skal til (vilkar) for at du skal fa overfaring til et annet fengsel nar du selv ensker det. Det star ogsa om avslag og hvordan fengselet kan begrunne et avslag.
+
+Overfaring fra fengsel med hoyt sikkerhetsniva (lukket fengsel) til et annet fengsel med hoyt sikkerhetsniva
+
+Strgift. SS 14 fjerde led
+
+Du kan overfares til et annet fengsel med samme sikkerhetsniva nar du selv ensker det. For at du skal bli overfart ma det vaere <<hensiktsmessig for den videre strafefejenomomfaring>>. Det betyr at det ma veere positivt for resten av soningen din at du overfares til et annet fengsel. Du har ikke krav pa a bli overfart selv om bade du og fengselet mener at det vi vaere hensiktsmessig. Fengselet kan avsla saknaden av andre grunner.
+
+Retningslinjene til strgift.
+
+Fengselet kan legge vekt pa mye forskjellig i vurderingen av om overfaring er hensiktsmessig. Noen momenter som kan vekt-legges er om overfaringen vi bedre rehabiliteringen din eller at du vil kunne fa bedre kontakt med familien.
+
+I en saknad er det viktig at du viser fengselet hvorforfaring til et annet fengsel er viktig for deg. Hvis du praver a bli overfart til etfengsel narmere der du bor, kan du for eksempel skrive at overfering vi glgere det lettere for deg a fa besok av familien din eller forberede deg til laslatelse. Det er ogsa vannig a seke overfering for a ta utdanning eller melde deg pa behandling som ikke finnes i fengselet der du er na. Enda en vanlig begrunnelse er at du synes det er vanskelig a tipasse deg foholdene i fengselet du sitter i.
+
+Hovedregelen er at det er fengselet du sker deg til som
+
+bestemmer om seknaden om overfaring skal innvigles. Hvis du er damt til mer enn 10 ar i fengsel, eller forvaring, avgijer regionen seknaden. Vanligvis vil fengselet du na sitter i komme med en uttalelse til seknaden. Fengselet du seker deg til vil vanligvis legge stor vekt pa denne uttalelsen.
+
+Det er et unntka fra denne hovedregelen. Fengselet du na sitter i kan gi avslag pa seknader som er apenbart grunnlose. Det betyr at fengselet ma h veldig goe grunner for a kunne gi avslag pa seknaden din selv. Et eksempel kan vaere at du nettopp har fatt avslag pa en het lik seknad. Hvis du mener at avgjerelsen er teil, bar du klage pa avslaget. Du kan kontakte Jussbus for hjep. Husk at det ofte er e nort klagefrist og at det er best ikke a vente for lenge med a ta kontakt. Du kan lese mer i kapittel 9 om seknad og klage.
+
+**2. Overfering fra fengsel med lavere sikkerhetsniva (apent fengsel) til annet fengsel med lavere sikkerhetsniva**
+
+Strigill. SS 14 fjerde ledd
+
+Hvis du sitter pa lavsikkerhet og vil overfares til et annet lavsikkerhetsfengsel, er vilkaret for overfaring at det er $\alpha$hensiktsmessig for den videre strafefejennomfering$\beta$. Det samme som star om overfaring mellom to fengsler med hayt sikkerhetsniva gjelder her, se derfor punkt 1 ovenfor.
+
+I en seknad om overfaring ber du forklare hvorfor det er hensiktsmessig for deg a bil overfert. Du kan forklare at du trenger overfaring pa grunn av forhold som naerhet til familie, spesielle programmer emler utdanningsmuligheter ved det andre fengselet og sa videre.
+
+**3. Vanlige avslaggrunner**
+
+Det er vanlig a fa avslag pa seknad om overfering pa grunn av plassmangel i det fengselet du sker deg til. Derfor kan det * [169] varee lurt a skrive i seknaden at du ensker a bli satt pa venteliste dersom ssknaden avslas pa grunn av plassmangel.
+* [170] Du kan ogsa fa avslag pa grunn av skikerhetssituasionen i fengselet du seker om a bli overfert til. Selv om fengselet du skker deg til har samme skikerhetsniva som der du sitter na, kan det vaere forskjeller i skikerhetsmessige forhold som begin runner avslag. Dette gjelder sserlig hvis du er damt for en alvorlig forbrytelse eller er damt til lang straff, og fengselet du seker deg til er et lite fengsel. Andre momenter som kan vaere relevante er om du kjenner andre imsatte som soner i fengselet du seker deg til eller at det er et narkotiakproblem i fengselet og du er damt for narkotiakriminalitet.
+
+### Klaage pa avslag
+
+Du har rett til a klage pa et avslag pa ssknad om overfaring. I klagen ber du skrive hvorfor det er viktig for akkurat deg a kunne sone i fengselet du seker deg til. I tillegg ber du forklare hvorfor du mener argumentene fengselet brukte i avslaget er feil.
+
+Du kan lese mer om ssknader og klager i kapittel 9.
+
+## II. Overfaring til fengsel med lavere sikkerhetsniva
+
+**1. Overfaring fra fengsel med saerlig heyt sikkerhetsniva til**
+
+**fengsel med hayt sikkerhetsniva**
+
+Informasjon om overfaring fra sserlig heyt sikkerhetsniva til hayt sikkerhetsniva finnes i kapittel 27 om szerlig hayt sikkerhetsniva.
+
+**2. Overfaring fra fengsel med hayt sikkerhetsniva til fengsel med lavere sikkerhetsniva**
+
+A sone i et fengsel med lavere sikkerhetsniva gir manage fordeler som man ikke far i et fengsel med hayt sikkerhetsniva. I fengsel med lavere sikkerhetsniva er det mindre strenge sikkerhetstiltak. Det er othe mulig a fa frigang til arbeid eller skole. Det er ogsa mer felleskap med andre insatte og lettere a fa besek av familie og venner.
+
+Strgifl. SS 15 annet ledd For a overfares fra fengsel med hayt sikkerhetsniva til fengsel med lavere sikkerhetsniva, er det et vikar at du har gjennom fort <<en delw av straffen. De andre vilkarene er at formalet med straffen eller sikkerhetsmessige grunner ikke ma tale mot overferning, og at det ikke ma veere grunn til a tro at du vi unndra deg jennomfaringen. Under punkt 2.1 forklarer vi de ulike vilkarene.
+
+Selv om du oppflyler vilkarene for a bli overfert til fengsel med lavere sikkerhent, har du ikke krav pa overferning. Det kan foreksempel hende at det ikke er plass i det apne fengselet du seker deg til. Det kan veere lurt a undersake de forskjellige fengselene pa forhand. Du ber finne ut om du passer inn i soningsopplegget fengselet har, og om det finnes noen ledige plasser for tiden. Dette kan du gjare ved a sperre kontaktbejenten din eller sosialkonsulenten i fengselet. Det er viktig at du ikke gir opp selv om du far etller fiere avslag. Det er ikke uvanlig a matte seke fere ganger eller sta pa venteliste i en periode fer man far godkjent overferning.
+
+### Vilkar
+
+#### En del av straffen
+
+Hovedregelen er at du ma ha sonet <<en delw av straffen fer du kan overfares til laviskkerhet. Det er vanskelig a si akkurat hvor lenge dette er i din sak. Som et utgangspunkt kan du ikke overfares til lavere sikkerhetsniva hvis du har mer enn 5 ar igien til 2/3-tid. Det kan likevel gjares unntak fra dette etter en konkret vurdering av din situajson. Fengselet skal se pa din evne til a ilpassse deg soning i fengsel med lavere sikkerhetsniva og din evne til a ta i bruk de mulighetene du far der. Saerlig kan og ber unge innsante overfares selv om de har lang tid jigen a sone. Andre relevante momenter kan vaere helesetistanden din, ditt behov for rehabilite-ring og din psykiske og fysiske helsetiststand.
+
+Hvis du er damt til fengselstraff i 2 ar eller mindre, bar fengselet fortlapende vurdere a overfare deg. Ogsa hvis du er damt til straff i mer enn 2 ar, og har mindre enn 2 ar igien a sone, bar fengselet vurdere a overfare deg.
+
+Du kan ogsa overfares til lavere sikkerhetsniva selv om du har mer enn 2 ar igien a sone, saerlig hvis du er i permisjonsrutine, hvis fengselet har god kjenniskap og tillit til deg, eller hvis det kan vaere hensiktsmessig ut fra progresjonen i soningen din. Dette viel henge naye sammen med svikfarevurderingen, som vi skal komme tilbake til.
+
+ 
+
+#### 2.1.2 Formalet med straffen
+
+At formalet med straffen ikke skal tale mot soning i fengsel med lavere sikkerhetsniva, betyr at allmennpreventive hensyn eller hensynet til den allmenne rettsfaelse kan gjare at du ikke blir overfert. Den allmenne rettsfaelse handler om hva folk fiest i samfunnet tenker om alvorligheten av det du er damt for. Dette kan for eksempel bety at hvis du er damt for en alvorlig forbrytelse vil mange i samfunnet reagere negativt pa at du far sone ved apent fengsel. Dette kan tale mot overfering til lavere sikkerhet, saearlig tidlig i soningen.
+
+#### 2.1.3 Sviktfare
+
+Overfaringen ma veere sikkerhetsmessig forsvarlig, og det ma ikke vere grun til a tro at du vil forske a unndra deg straffen. Fengselet gjar derfor en sakalt sviktfarevordering av deg. Dette er en vurdering der fengselet ser pa all kumtskap de har om deg. De kan blant annet legge vekt pa hvordan du har opptr deg pa frenstillinger og permisjoner, om du matte opp til soning selv, eventuelle reaksjoner du har fatt, positive unimproveresultater og din generelle oppfersel i fengselet. Fengselet kan ogsa se pa oppferselen din under tidligere soning, ogsa i andre fengsler, og om du begikh vre straffbare handlinger under tidligere prevalasitelser. Det kan ogsa ha betydning hvis du er voldsdamt og har deltatt pa sinnemestringskurs eller om du er sedelighetsdomt og har deltatt i sedelighetsprogram eller lignende. Det er positiv hvis du har vist fremgang og motivasion til a jobbe med arskene til kriminaliteten din. Hvis du er damt for et alvorlig fonhold vil sviktfarevurderingen vare saearlig naye.
+
+### 3. Seknad om overfering til fengsel med lavere sikkerhetsniva
+
+I en seknad om overfering til soning i fengsel med lavere sikkerhetsniva, er det viktig at du forklarer hvorfor vikarene vi har gjennomgatt ovenfor, er oppftv i din situasjon. Det er viktig at du viser at du er motivert for soning pa lavsikkerhet, og du per forklare hvorfor du vil ti akkurat det fengselet du seker deg til. Hvis du har undersokt arbeids- og utdanningsmuligheter hos fengselet du soker deg til, kan du vise til dette for a underbygge motivasjonen din. Helse eller andre viktige velferdsgrunner kan ogsa veere relevante, men dette bor vere dokumentert av lege eller lignende. Du kan snakke med kontakbetjenten eller kontakte Jussbuss hvis du frenger hjelp til a skrive saknaden. Les mer i kapittel 9 om seknader.
+
+
+
+## III Overfaring til overgangsbolig
+
+Overgangsboliger er ogsa fengsler, men de er mindre restriktive
+
+enn bade hay- og lavsikkerhetsfengsler. Overgangsboligen minner mer om en vanlig bolig du deler med andre. For eksempel lager de innsatte mat sammen, har frigang til arbeid eller skole, og har ofte lov til a bruke mobileteleon og PC.
+
+Strgifl. SS 15 trede ledd
+
+Reglene for overfaring til overgangsbolig er de samme som ved overfaring til fengsel med lavere sikkerhetsniva. I tilegg ma overfaringen vaere $\alpha$hensiktsmessig for a fremme en postiv tuvkling og for a motvirke ny kriminaliteb. Det betyri at fengselet vurderer om det vi vaere bra for deg a sone i overgangsbolig og om det vij gjere at du ikke bryter loven ijen. Grunner til a f ophold i overgangsbolig kan vaere at du frenger bo-, arbeids- eller sosialtrening, forberedelse til leslatelse, eller at du har andre behov som det er vanskeleigere a f dekket i et vanlig fengsel.
+
+Retingslinjene til strgifl.
+
+$\lx@sectionsign$ 15 punkt 15.3
+
+Hvis du oppfyller vilkarene, kan du bli overfert direkte fra fengsel med hayt sikkerhetsniva til overgangsbolig uten a vaere innom et fengsel med lavere sikkerhetsniva. Men er du damt til over 2 ars straff, ma du ferst ha sonet 1/3 av straffen, og du ma ha jennomfort permisjoner uten problemer. De samme vilkarene gjelder for deg som ble satt rett inn i fengsel med lavere sikkerhetsniva da du begynte a sone.
+
+Den store hovedregelen er at du bare kan fa overfaring til overgangsbolig mot slutten av soningen. Oppholdet skal vanligvis ikke vare lenger enn 1 ar, men unntak kan gjares, for eksempel for unge innsatte med spesielle behov.
+
+Hvilke overgangsboliger du kan seke deg til, vil variere etter hvor i landet du vil sone. $\beta$nsker du a seke om pass ved overgangsbolig, kan du kontakte sosialavdelingen ved det fengselet du soner, henvende deg til frionsorgen eller direkte til den overgangsboligen du $\alpha$nsker overfaring til. Du kan ogsa kontakte Jussussuss for informasjon om saknads- eller klageprosessen.
+
+Soknad om overfaring til overgangsbolig avgjares av lederen av den overgangsboligen du seker deg til. Hvis du har dom pa over 10 ar eller er idamt forvaring er det regionen overgangsboligen tiharer som avgjer seknaden. Les mer om seknader og klager i kapittel 9.
+
+
+
+## IV Overfaring mot din vilje (tvangsoverfering)
+
+### Generekt om alle tver tvangsoverferinger
+
+Strgifl. SS 14
+
+Fengselet har lov til a overfare deg mot din vilje, bade til fengsel med samme sikkerhetsniva som det du sitter pa, og til fengsel med hayere sikkerhetsniva. Det er likevel ikke lov a overfaree deg til en strengere form for jennomfaring ent d sem er nadvendig. Dette er et ganske strengt krav. Det finnes et unntak fra nadvendighetskravet som du kan lese om under punkt 1.5.
+
+Retningslinjene til SS 14
+
+Ourfaring mellom fengsler eller andre former for jennomfaring
+
+punkt 14.1
+
+strgifl. SS 40
+
+strgifl. SS 40
+
+selvstendig vurdering av din konkrete sak. Det bet betry ogsa at du kan fa en reaksjon i tillegg til overfaringen dysorm vilkarene for reaksjon er oppytlt. Du kan lese mer om reaksjoner i kapittel 16.
+
+Vil fengselet overfare deg pa grunn av forhold som har med deg selv a gjere, for eksempel disiplinearbrudd, skal fengselet ferst vurdere om det er nok a gi deg en advarsel, reaksjon eller utelukke deg fra fellesskap med andre fanger. Eksempler pa disiplinearbrudd er ordrenekt eller en postiv urinprove. Nar fengselet vurderer om overfaring skal skje, ber fengselet ogsa alltid ta hensyn til situasjonen din i fengselet der du er. De bar se om det finnes planlageleller allerede jennomferate tiltak overfor deg. En overfaring er for eksempel veldig uheldig hvis du holder pa med en utdanning eller fengselet har begyrt a forberede loslatelsen din.
+
+Nedenfor skal vi gjennomga hvilke begrunnelser fengselet kan gi for vedtak om overfaring mot din vilje. Fengselet kan ikke gi andre begrunnelser enn de vi neurner her.
+
+### Stragifl. SS 14 ferste led
+
+Hvis det er samnsynlig at du har begatt eller kommer til a bega en straffbar handling, kan du blir overfort til et annet fengsel. Hvis du sitter i overgangsbolig eller pa lav sikkerhet, er hovedregelen at du blir overfort til et haysikkerhetsfengsel i silke tifeller, med mindre forholdet er bagatellmessig. Det kreves alminnelig sannysnlighest-overvekt, altsa over 50 % samnsynlighet for at du har begatt den straffbare handlingen. Mistanken ma ha grunnlag i konkrete og troverdige opphysninger eller omstendigheters. Det er vanskeliga si nayaktig hvor mye som skal til for a bli overfert pa et slikt grunnlag, men 50 % sannsynnighet er ikke et veldig strength krav - det er for eksempel mye lavere enn bewiskravene i en straffesak.
+
+Les mer i kapittel 16 og kapittel 17
+
+Et eksempel pa en straffbar handling er bruk av narkotika. Hvis du blir tatt for bruk av narkotika kan det fere til at du blir overfert til et annet fengsel. Fengselet skal ikke veere strengere enn nadvendig.
+
+Fer overfering skjer, skal fengselet allitd vurdere om det er nok a gi deg en reakjson i stedet.
+
+1.2 Unndragesle fra straffegiennomfaringen
+
+Strgill. $ 14 ferste ledd bokstav b betry at du rammer eller forsoker a ramme fra fengselet, stikker av pa fremstilling eller lar vaere a komme tilbake fra permisjon,
+
+punkt 14.1 b)
+
+frigang eller soningsavbrudd. Du kan ogsa overfrees dersom
+
+fengselet har egrunn til a antav at du kommer til a unndra deg straffegiennomfaringen. Det kreves en konkret og aktuell mistanke om dette, som betry at mistaken ma dreie seg om akkurat deg pa dette tidspunktet og ikke en eller annen gang i fremtiden. En les antagelse er ikke nok.
+
+Sitter du i fengsel med lavere sikkerhetsniva eller overgangsbolig, kan du overfrees til hayt sikkerhetsniva hvis du unndrar deg jennomfaringen.
+
+Sitter du i fengsel med hayt sikkerhetsniva, vi olte fengselet gi deg en reakjson i stedet for overfaring. Unntaket er hvis du representerer en <<saerskilt ramningsfare>>. Dette betry at det er en ekstra stor risiko for at du skal forsoke a unndra deg straffen. Da kan du overfrees til saeir heayt sikkerhetsniva.
+
+1.3 Saerlig negativ innflytelse pa milieu i fengselet
+
+Det kan vaere at fengselet mener at du, alene eller sammen med andre, har en veldig negativ pavirkning pa milieu j fengselet, eller at du ikke klarer a tilpassse deg de andre innsatte. Hvis fengselet vurderer a overfere deg pa grunn av dette, skal du som hovedregel motta en skriftlig advarsel om situasjonen. Du skal bli kalt inn til samtale hvor du far mulighet til a forklare deg, og du far en advarsel om at overfaring kan skje hvis du ikke bedrer oppferselen din.
+
+ Hovedregelen ved slik overfaring er at du overfares til et fengsel med samme sikkerhetsniva som der du allerede sitter. Et unntak er hvis du sitter i overgangsbolig eller fengsel med lavere sikkerhetsniva og fengselet kommer from til at dine afterdsproblemer har vart sa lenge eller er sa alvorlige at du ikke passer for apen sooning. Da kan de overfare deg til soning i fengsel med hayt sikkerhetsniva. Jussbuss synes det ber vere en hay terskel for a overfare deg til hayere sikkerhet bare pa grunn av at du har vanskelig for a tipasse deg miljjeet i fengselet. Hvis dette skjer med deg, kan du ringe oss hvis du vil ha hjepl til a klage.
+
+### Ro, orden oga sikkerhet
+
+Fengselet kan overfare deg mot din vilie nar det er nadvrendig for a oppretholde ro, orden og sikkerhet i fengselet. Det er vanskelig a si nayaktig hvor mye som skal til for a bli rammet av dette. Det ber likevel ikke vere nok med bare noen fa tifeller av mindre alvrolige hendelser, for eksempel arbeidsnekt og at du kom for sent tlibake etter permision. Fengselet skal som nevnt allid vurdere om de heller kan gi deg andre reaksjoner. Hvis du byrter de samme reglene jigen og jigen eller bruddet er alvorlig, kan fengselet vurdere a overfare deg fra overgangsbolig eller fengsel med lavt sikkerhetsniva til hayt sikkerhetsniva.
+
+Jussbuss og andre kriminalpolitiske organisasjoner jobber mot at ro, orden og sikkerhet skal kunne brukes som en grunn for a overfare innsatte til andre fengsel, og saetifi fengsel med hayere sikkerhet. Vi mener bestemmelsen er for utkar og noen ganger misbrukes av Kriminalomsorgen. Hvis du blir tvangsoverfert etter denne regelen kan du ta kontakt med Jussbuss hvis du vil ha hjepl til a klage.
+
+### Bygnings- og bemanningsmessige forbid
+
+Strgfl. SS 14 forste ledd
+
+bokstav e
+
+Forskritt til strgfl. SS 3-7
+
+Retningslinjene til SS 14
+
+punkt 14.1 e)
+
+Du kan overfares til et annet fengsel hvis det er nadvrendig pa
+
+grunn av bygnings- eller bemanningsmessige forbid eller pass-
+
+mangel. Det kan for eksempel vaere at fengselet ma stenge en
+
+Retningslinjene til SS 14
+
+wodeling fordi de har lav bemanning eller skal pusse opp og er
+
+nadt til a fytte en del av fangene.
+
+Hvis tvangsoverfering skjer av en slik grunn, skal du vaniligvis
+
+overfares til et fengsel med samme sikkerhetsniva som det du
+
+soner ved fra for. Men det kan ogsa hende at du blir overfart til et fengsel med hayere sikkerhet enn det som faktisk er nadvendig. Dette bar vare midertidig, og fengselet skal gjere sa mye som mulig for a redusere de negative virkningene en slik tvangsoverfering har for deg.
+
+Du kan ogsa overfares til et fengsel med lavere sikkerhetsniva pa grunn av bygnings- eller bemanningsmessige forhold eller plassmangel, hvis du oppffler de avrige vilkarene for overfering til apent fengsel. Dette gjelder selv om du ikke har sonet en sa stor del av strafen som vanligvis kreves for slik overfering. Vilkarene kan du lese om under punk II 2.1.
+
+Stgifl. SS 11 Jussbuss mener at naerhetsprinsippet er viktig ogsa om fengselet ikke har plass eller tid til deg. Hvis du blur fyttet til et fengsel langt unna hjemstedet ditt, kan du klage pa vedtaket og skrive at det er i strid med naerhetsprinsippet. Naerhetsprinsippet sier at du skal sone sa naert hjemstedet ditt og familiaren din som mulig. Selv om fengselet du sitter i ma flyte deg, er det viktig at Kriminalom-sorsgen passer pa a flyte deg sa kort distanse som mulig.
+
+1.6 Saksbehanding
+
+Stregifl. SS 6 og SS 7 Ved overfering mot din vilje gjelder de samme saksbehandlings-retningslinjene til SS 6 reglene som ved overfering etter ditt eget enske, bortsett fra at det er fengselet du kommer fra som bestemmer om du skal overfares. Hvis du ferst blir overfert, er det vanskelig a gjere noe for a endre dette med en gang. Du kan klage pa avgijereisen. Hvis du tenger hjelp til a klage, kan du ta kontakt med Jussbuss.
+
+ 
+
+## Kapitel 19 Overfaring til utlandet
+
+Dette kapittelet handler om soningsoverfaring fra Norge til andre land. Pa slutten av kapittelet finnes informasjon for deg som soner i utlandet og til overfares til Norge.
+
+I. Generelt om overfaring til utlandet
+
+Uttgangspunktet er at man skal gjennomfre straffen i det landet man ble damt i. Norske regler og intemasjonale avtaler apner
+
+likevel for at man kan overfares til andre land for a sone straffen der.
+
+Prosessen for overfaring til utlandet varierer fra land til land. Det er der der der vanskelig a gi generell informasjon om overfaring til utlandet. Reglene om overfaring star i ulike lover og avtaler. I dette kapittelet ser vi hovedsakelig pa to avtaler Norge har med andre land - en mellom Norge og de andre nordiske landene og en som gjelder mellom Norge og de fleste europeiske land, samt en del land utenfor Europa. Norge har i tillegg egne avtaler med Latvia, Litauen, Romania o Thailand, og vi kommer ogsa til a ga gjennom noen av reglene som er spesielle for disse avtalene.
+
+Hvis du kommer fra et land som ikke dekkes av noen av disse avtalene, kan Norge likevel bli enig med det andre landet om a overfare degi en saerskilt avtale. Da ma det foreligge <<saerlige grunner> i din konkrete sak.
+
+Ta kontakt med fengselet hvis du er i tvil om hvilke regler som gjelder for overfering til et bestemt land. Jussussuss kan ogsa ofte gi deg veiledning tilpasset din overfaringssak hvis du tar direkte kontakt med oss.
+
+Overfares du til soning i utlandet, gjelder det andre landets soningsregler nar du kommer frem. Det bety at det kan vaere andre regler som gjelder for nar og hvordan man far prevelsala-telse, permisjon osv.
+
+
+## II Saksgang og klage
+
+Forskrit til
+
+straffejennomfaringsloven
+
+S 3-4
+
+Pengselet skal informere deg om muligheten for overfaring til
+
+soning i ijemlandet.
+
+Du kan soningsoverferes til hjemlandet ditt. I noen tifeller kan du
+
+ogsa overferes til andre land som du har en sterk tiknything til.
+
+Fengselet forbereder saken din. Du skal gis mulighet til a uttale deg
+
+om hvorvidt du snsker overfaring til det andre landet. Det at du kike
+
+ansker overfaring betyr ikke nadvendigvis at du kike til bli overfart.
+
+For at du skal kunne overferes til utlandet, ma Norge samarbeide
+
+med det landet du skal overfrees til. En egen saksbehandlingspro-
+
+sess vi farst forega i Norge. Nar Norge har sendt en foresparsel om
+
+overfaring til et annet land, ma saken behandies i det andre landet.
+
+Siden prosessen for overfaring til utlandet forutsetter samarbeid
+
+med det andre landet, er det ikke kun norske saksbehandlings-
+
+regler som gjelder. Det varierer fra land til land hvor lang tid
+
+proessen tar. Det er derfor vanskelig a si hvor lang tid det vi la
+
+for overfaring kan skje, men det tar ofte ganske lang tid.
+
+Hvis det er snakk om et annet land i Norden, er det som regel
+
+regionen som bestemmer om de vil be det andre landet om overfaring. Dereetter avgier det andre landet om du skal overfares. Du
+
+kan ikke klage pa et vedtak om overfaring innad i Norden. Hvis du
+
+er misfornayd med et slikt vedtak ma du preve det foringretten.
+
+Hvis det gjelder overfaring til land utenfor Norden, er det Kriminalomsorgsdirektoratet (KDI) som avgier saken. Forst forberedes saken. Dereetter sendes en ammodning om overfaring til det andre
+
+landet. Du skal fa informasjon har Norge sender en slik anmodning. Du har rett til a uttale deg om saken, enten skriftlig eller
+
+muntilg, men du kan ikke klage pa en anmodning. Hvis det andre
+
+landet sier ja til soningsoverfaring, ma kDI dereetter vedta soningsoverfaring. Dette vedtaket har du rett til a klage pa. Justisdepartementet er klageinstans dersom du vil klage pa vedtak om soningsoverfaring fra KDI. Hvis du klager pa overfaringsvedtaket, kan du
+
+be om at du ikke overfrees fer klagen er endelig behandlet.
+
+Det kan ta en del tid fra du far beskjed om at Norge har sendt en
+
+anmodning til det andre landet og til du far vedtak. Jo tidligere du
+
+tar kontakt med Jussbuss eller andre rettshjelpstiltak, jo bedre forbered til du vere pa a sende inn uttalelse og klage. Det er ekstra viktig at du uttaler deg tidlig hvis det er snakk om overfaring mot mot din viile. Ta kontakt hvis du snasker mer informasjon og hjelp. Kontaktinformasjon finner du bakerst i boken.
+
+## III Overfaring innad i Norden
+
+Lov om fullbryding av
+
+nordiske dommer
+
+De nordiske landene (Norge, Danmark, Finland, Island og
+
+Sverige) samarbeider om gjennomfering av straff. Vilkaret for a
+
+bli overfart til et av de andre nordiske landene hvis du er damt i
+
+Norge og soner her, er at du er statsborger eller har fast bopel i
+
+det andre nordiske landet. Du ma ha en rettskrattig dom fer du
+
+kan soningsoverferes. Det er ikke et vilkar at du samtykker i overferingen, men du skal fa uttale deg pa forhand om overferingen.
+
+Du kan ogsa selv seke om overfering.
+
+Lov om fullbryding av nordiske dommer gjelder ikke bare
+
+ubetinget fengselstraff, men ogsa gjennomfering av subsidiear
+
+m.v. kapittet 1 til 4
+
+fengselstraff, betestraff, samtunnstraff, betinget dom med tilsyn
+
+og tilsyn under prevetid.
+
+## IV Overfaring fra Norge til land utenfor Norden
+
+### Overfaring nar du selv ensker det
+
+Lov om overfaring
+
+av domfelte
+
+Den europeiske
+
+konvensjonen om
+
+vonverfaring av domfelte
+
+oge overfaringskonvensjonen. Hvis du lurer pa om landet du
+
+ansker deg overfant til er omfattet av dette regelverket, kan du
+
+sparre fengselet eller ringe Jussbuss.
+
+Vilkarene som ma vaere oppytt er:
+
+1. At du er borger av landet du seker deg til. Det er ikke likt i
+
+alle land hva som menes med a vaere aborger. Noen land
+
+definerer borger strengt, slik at du ma vaere statsborger av
+
+landet for a bli overfart dit. Andre land kan motta deg hvis du
+
+har nok tliknytning til landet, for eksempel hvis du har bodd der
+
+i mange ar.
+
+2. At dommen er rettskrattig. Du kan altsa ikke sake overfering
+
+fer du har blitt damt eller mens du venter pa behandling av
+
+anken din i Norge.
+
+ 3. At du har minst 6 maneder figien a sone, eller at du er damt til forvaring. Tiden regnes ut fra hvor lang soningstid du har fer det forventes at du leslates. Vanilgvis vil dette varee ved 2/3-tid. Altsa ma du ha mern ehn 6 maneder figien til 2/3-tid. Det kan gjares untntak fra dette kravet i saearlige tiffellers. Det beby at det ma vaere neo veldig spesiekt med din situasjon sammen-lignet med andres situasjon som gjer at du bar overfares til torss for at du har mindre enn 6 maneder figien a sone.
+4. At du selv $\mathsf{ansker}$ a bli overfert.
+5. At handlingene du er damt for i Norge ogsa er straffbare i landet du seker deg til.
+6. At begge laindene er enige om overfaringen. Selv om de andre vikarene er op optyfelt, kan statene si nei til overfering.
+
+Det finnes egene avtaler mellom Norge og Thailand, Latvia, Romania, og Litauen. Disse avtalene har andre vikar enn de som er beskrevet over. Hvis du vi overfares til et av disse landene, kan du la kontakt med fengselet eller Jussbuss for mer informasjon.
+
+## 2 Overfaring mot din vijie
+
+Hovedregelen er at soningsoverfaring krever ditt samtykke. Det er likevel enkele regler og avtaler som apner for soningsoverfaring mot din vije, som vi skal ga jennom nedenfor.
+
+Det er allitd ulvolig a sende deg fra Norge til et sted hvor det er grunn til a tro at du vil bli torturet eller drept. Ta kontakt med Jussbuss hvis du trot du star i fare for a bli overfert til et land der du vii oppleve tortur eller drapsforsek.
+
+### Overfaring der innsante er utvist
+
+\begin{tabular}{l l} Tilleggsprotokollen til den & Mange av landene som er tilsluttet overfaringskonvensjonen \\ europeiske konvensjonen & (se punk IV 1) har ogsa signert og rattisert eilleggsprotokollen & \\ om overfaring av domfette & kollen's. Tilleggsprotokollen apner for at du kan overfares mot \\ artikkel 3 & din vije hvis du er endelig utvist fra Norge, og det andre landet \\ samtykker til overfaringen. Norge og det andre landet ma altsa & \\ vare enige om overfaringen. Du skal allitd fa uttale deg om overfaringen ferrst. & \\ Det finnes egene avtaler om overfaring mellom Norge og Latvia, & \\ Romania og Litauen som ogsa apner for soningsoverfaring mot & \\ \end{tabular}
+
+ 
+#### Kapitte1 19 - Overfering til utlandet
+
+din vilje nar du er utvist. Ta kontakt med fengselet eller Jussbuss
+
+for mer informasjon om hvilke regler som gjelder for ulike land.
+
+Se kapitte1 33 for mer informasjon om utvising.
+
+### Overfering der innsante ikke er utvist
+
+Hvis du ikke er endelig utvist, kan du som hovedregel ikke overfares mot din vilje. Norge har imidiertid inngatt avtaler med noen enkeltland som gjer det mulig a overfere fanger mot sin vilje til
+
+soning i utlandet selv om det ikke foreigner et utvisingsvedtak. Per juni 2018 har Norge silke avtaler med Romania, Latvia og Litauen.
+
+Ettter disse avtalene er det ikke et krav at du er utvist for a bli overfert dersom du er borger av det andre landet, og bor i dette landet. Dette er altsa bade spersmal om du er borger i landet, og om du har tilkruything dit som om du bor der. Noen relevante momenter i vurderingen av om du bor i det anre landet vl varee om du har fast bolig, familie og jobb der. Har du ikke veart i Norge eller andre land enn det du skal overfrees til lengge, og bor du vanliguis i landet du skal overfrees til, skal det veldig mye til for at vilkaret om at du bor i overfaringslandet ikke anses oppfytl.
+
+Landet du vurderes overfert til kan nekte overfering. Et eksempel pa en situajon der det kan vare tiffellet er dersom du har mindre enn 6 maneder igien a sone.
+
+## V Overfering fra et annet land til Norge
+
+Hvis du soner i utlandet og vil eller skal overfares til Norge, er gelene for din overfering stort sett de samme som for de som skal overfares fra Norge til det landet du soner i. Ta kontakt med kriminalomsorgen i Norge eller landet du soner i hvis du vil ha informasjon tipasset din sak. Du kan ogsa finge Jussbuss.
+
+ 182
+
+**Kapittel 20**
+
+Soning utenfor fengsel
+
+Straffegjennomferingsloven
+
+(strgifl.) $ 16
+
+Forskrift til
+
+straffegjennomferingsloven
+
+$ 3-8
+
+Retningslijene til
+
+strgifl. $ 16
+
+Formalet med a sone utenfor fengsel er a styrke mulighetene
+
+dine til a kunne beholde det sosiale livet ditt og ivareta dine
+
+$\alpha$konomiske forpliktelser mens du soner straffen, som a kunne
+
+ga pa jobb eller vare med barna dine. Malet er ogsa & forhindre
+
+ny kriminalitet, a gjere det lettere for deg a komme tibake til
+
+samfunnet, og at du skal ha en god soningsprogresjon.
+
+Det er forskjellige vilkar for a fa soning med ogt ten fotlenke, og
+
+soningen jennomfrees pa ulike mater. For a fa sone hjemme
+
+uten fotlenke silles det hayere krav til en postiv utwikling enn for
+
+soning med fotlenke. Det er fordi hjemmesoning er mindre kontrolelert av Kriminalomsorgen enn fotlenkesoning. Man kan sake om a
+
+fa overfaring fra soning med fotlenke til hjemmesoning.
+
+### I. Soning med elektronisk kontroll (fotlenkesoning)
+
+Soning med elektronisk kontroll (EK-soning) er en mulighet til a
+
+gjennomfere straff utenfor fengsel eller institujson.
+
+Formalet bak soning med elektronisk kontroll er at du som domfelt
+
+skal ha mulighet til a leve et sa vanlig liv som mulig, med jobb,
+
+skole og familie. Ved at man far muligheten til ivareta egne okono-
+
+miske og sosiale forpliktesler, kan det veare mindre sjanese for
+
+tibakefall fordi hverdagen blir mer stabil.
+
+Den elektroniske kontrollen gar ut pa at du har en fotlenke med
+
+en sender rundt ankelen. Senderen kommuniserer med en
+
+mottaker som installleres hjemme hos deg. Motakeren er i kontakt
+
+med Kriminalomsorgens kontrollsentral. Senderen registreer om du befinner deg innenfor kontrollsonen pa rett tidspunkt. Kontrollsonen vi normalt vare huset eller leiligheten din (eller en del av huset eller leiligheten din). Teknologien som brukes ved elektronisk kontroll kan utvikle seg. Du skal fa oppdatert informasjon om hvordan fottenken fungerer av fengselet eller friomsorgen.
+
+Du skal ha fottenken pa deg hele tiden, og alarmen gar dersom den las av. Fottenken er liten og lett a skjule under klare. Den er vanntett, sa du kan dusje og bade som normalt.
+
+## 1 Tidskrav
+
+Strgill. SS 16 Dersom du er damt til en ubettinget fengselstraff pa 4 maneder eller mindre, kan du sake om a fa gjennomfere hele soningen med elektronisk kontroll - dette kalles helgjennomfaring.
+
+Du kan fa fottenkesoning selv om du allerede sitter i fengsel pa en dom som er lengre enn 4 maneder. Du ma ha sonet minst 1/3 av straffen og ha mindre enn 4 maneder ijen til forventet leslatelse f fortukensein. Forventet leslatelse er ofte 2/3-tid. Dette kalles delgjennomfaring. Du bar sake i god tid far det er aktuelt a overfare deg.
+
+## 2 Hvem kan fa fottenke
+
+Forskrften SS 7-1 og SS 7-2 Vanligvis vil du ikke fa sone med elektronisk kontroll hvis du er detningslinjene til damt for vold eller seksualforbrytelser, eller hvis du er siktet for nye straffbare forhold pa det tidspunktet du skal sake. Det samme gjelder dersom forbrytelsen du er damt for skjedde i ditt eget hjem. Det kan likevel vaere spesielle fonhold ved din situasjon som gjer at Kriminalomsorgen kan gjere unntak fra disse reglene. Du ber derfor preve a sake uansett eg vaere grundig med a begrunne hvrorfor de skal gjere et unntak i ditt tifelle. Hvis du er damt for volds- eller seksualforbrytelser mot noen du bor eller har bodd med kan du ikke fa fottenke.
+
+Du kan ikke sone med elektronisk kontroll dersom du er damt til forvaring eller botesoning. Hvis du er utvist fra Norge, er hovedregelen at du ikke kan sone med fottenke. Les mer i kapittel 33 om utvising.
+
+Nedenfor gar vi gjennom de ulike vilkarene som ma vaere oppftft for at du kan fa sone med fottenke.
+
+ 
+
+### 2.1 Hensiktsmessig
+
+For at du skal kunne sone med fottenke ma det vaere hensikts-messig for a sikre en positiv utvikling og motvirke ny kriminalittet. Det betyr at Kriminalomsorgen vil vurdere om det er bra for deg a sone utentorf fengselet og om det vij gare at du ikke kommer til a bega ny kriminalittet. De vil vurdere om behovet ditt for rehabilitering best blir ivarettatv at du soner utenfor fengsel.
+
+Det er mange momenter som kan vise at det er hensiktsmessig for deg a sone med fottenke. For eksempel kan det vaere at du har omsorg for barn og at det er viktig for deg a bo hjemme med dem. Et annet positiv moment kan vaere at du har et godt nertverk utentorf fengselet som ikke er knyttet til det du er damt for. Dersom det er vanskelig for deg a gjennomfare udanning i fengselet, eller hvis du har mulighet for jobb utenfor fengselet, kan fottenkesoning gj gode muligheter for en positiv utvikling og derfor vaere hensiktsmessig. Nar du seker om fottenke er det viktig at du trekker from alle fohold som viser at du har god motvasjon og gode muligheter for rehabilitering utenfor fengselet.
+
+### 2.2 Sikkerhetsmessig forsvarlig
+
+For a fa invilget saknad om soning med fottenke ma det vaere sikkerhetsmessig forsvarlig. Det betyr at Kriminalomsorgen ma mene at det er trygt a la deg sone utenfor fengselet. De vurderer samnsynligheten for at du vil ramme eller bega ny kriminalittet. I vurderingen legges det vekt pa hva du er damt for, om det er noen formaermede i saken, oppfarselen din i fengsel, om du er damt for og om du er anmeltt for nye kriminelle handlinger. Behovet for samfunsbeskyttese skal vaere en stor og viktig del av vurderingen.
+
+Nar du skal sake om soning med elektronisk kontroll ber du skrive hvorfor det er trygt at du soner utenfor fengselet. Momenter som kan tale for at det er trygt kan vaere at du ikke har hatt noen reaksjoner eller positive urinprever i fengselet. Andre momenter kan vaere vellykede permisjoner eller at du kommer godt overens med andre innsatte og ansatte. Dersom du er farstegangssoner kan dette ogsa telle positiv.
+
+
+
+### Bolig
+
+For a fa fottenkesoning ma du ha et fast sted a bo jennom hele sonsingen. Dette kan vaere din egen bolig, hos familie eller et annet sted. Telefon- og boligforholtene ma veere slik at det er mulig for Kriminalomsorgen a instalere det tekniske utstyret som trengs.
+
+Det betyr at Kriminalomsorgen ma undersake de tekniske multighetene for kontroll der du bor fer straffegjennomferingen med elektronisk kontroll settes i gang.
+
+Hvis du skal bo sammen med personer over 18 ar, ma de godkjenne at du far sore straffen. Det kan det vare vanskelig a fa godkjent for eksempel studentboliger eller hospits, fordi det er som regel stor utskifning av lwem som bor der. Hvis du skal bo med barn, vurderer Kriminalomsorgen om det er bra for barna at du soner med foltenke. Du ma godta at Kriminalomsorgen kommer pa uannelte besok der du bor.
+
+### Sysselsetting
+
+Hovedregelen er at du ma ha godkjent sysselsetting for a fa invniglet fottenkesoning. Dette kan vaere jobb, skole eller andre titlak. Andre titlak kan vaere at du er i behandling pa et dagsenter, at du detlar i NAV-program eller jobber i en frivillig organisasjon.
+
+Hvis du er selvstendig naeingsdrivende, kan du kunne jobbe i din egen bedrift, men det er viktig at arbediet ikke er knyttet til kriminal-nell virksomhet eller et kriminelt netwerk. Kriminalomsorgen vil ta en individuell vurdering av om du kan jobbe i din egen bedrift.
+
+Utgangspunktet er at sysselsettingen skal skje utenfor hjemmet, men det kan gjieres unntak i speiselle tifteller. Omsorg for barna dine eller slekthinger som trenger pleie kan for eksempel godkjennes som aktivitet.
+
+Du skal vaere sysselsatt mellom 20 og 45 timer per uke. Hvis du er sykemeldt, pensjonist eller har nedsatt funkjonsevne kan kravet vaere mindre enn 20 timer. Er du funkjonshemmet eller har en helt spesiell heseltistand som gjer det umulig for deg a vaere syselsatt, kan aktivitetskravet i noen tifeller fravikes.
+
+Hvis du ikke har noen form for aktivitet pa dagtid, kan Kriminalomsorgen gi deg rad om hvordan du kan preve a skaffe deg det.
+
+Det er opp til Kriminalomsorgen a godkienne aktiviteten som gyldig syssesletting. Kriminalomsorgen oppnevner en kontaktperson pa stedet der du er sysselsatt. Kontaktpersonen kan vaere arbeidsgiver eller en annen person som vet at du soner en dom og som har sagt seg willing til a vaere Kriminalomsorgen s kontakt. Kontaktpersonens oppgave er a gi Kriminalomsorgen beskjed dersom du ikke mater pa jobb eller du gjer noe du ikke har lov til under sysselesettingen. Ikke alle pa arbeidsplassen trenger a vite at du soner. Kriminalomsorgen kan komme pa uanmeltte kontrollbesek der du oppholder deg pa dagtid. De skal etterstebe a vaere diskre og hensynstulle.
+
+### 2.5 Forbud mot bruk av rusmider
+
+Det er et krav for fottenkesoning at du ikke bruker rusmider som alkohol, narkotika og dopingmider/hormonpreparater. Kriminalomsorgen kan ta urinpreve, utandingspreve (blasepreve) og blod-preva av deg etter reglene som gjelder for dette i fengsel. Les mer i kaptitel 15. Nar Kriminalomsorgen kommer pa besek hjemme hos deg, tar de blasepreve.
+
+### 2.6 Andre vilkar
+
+Kriminalomsorgen kan sette andre sserlige vilkar for soningen dersam det er nadvendig for sikkerheten. Vilkarene kan vaere at du skal deta i behandling eller at du skal t mediisin, for eksempel antabus. Kriminalomsorgen kan ogsa bestimme at du far forbud mot a mate bestemte personer eller oppholde deg pa bestemte stedet. Kriminalomsorgen vil kontrollere at du falger vilkarene. Vilkarene kan endres i lpet av soningen.
+
+## 3 Brudd pa vilkar
+
+Brudd pa vilkarene for fottenkesoning ferer ofte til at du overferes forskriften SS 7.7 felsgel for a sone resten av dommen der. Det samme gjelder hvis du begar nye staffbare handlinger. Hvilken reaksjon du far som felge av bruddet ma Kriminalomsorgen bestemme etter en helhetsurdering av hvor alvorig bruddet er og omstendighetene rundt bruddet. Kriminalomsorgen kan ogsa overfare deg til fengsel hvis du skader eller manipulerer fottenken din.
+
+Du kan overfrees tilbake til fengsel hvis betingelsene for fottenkesoning ikke lenger er til stede, for eksempel hvis du mister jobben eller boligen. Dette gjelder selv om det ikke er din skyld og du ikke har gjort nege gatt. Kriminalomsorgen kan ogsa trekke tilbake avgjerelsen om at du kan sone dommen med fottense hvis det tekniske rundt kontrollen svikter, for eksempel pa grunn av brann, langvarig stremstans eller lignende.
+
+## 4 Praktisk gienomforing
+
+Strgff. SS 16 Det er frionsorgen som har ansvaret for gjennomfaring av soning utentorf fengsel. Dersom du far godkjent fottenkesoning, vii frionsorgen lage en gjennomferingsplan sammen med deg, hvor punkt 16 (2) 5 Aktivitetsskjemaet er en nayaktig oversikt over tidspunkt for de avtalene som Kriminalomsorgen har gjort med deg. Hver uke ma du mate med frionsorgen etter nermere bestemt avale mellom dere. Det er vanlig med to meter i uken.
+
+Skjemaet viser for eksempel nar du ma dra pa jobb eller skole og nar du ma vere hjemme ijen. Metene med frionsorgen er ogsa satt opp pa skjemaet.
+
+Det er veldig viktig at du gjennomferer planen til punkt og prikke. Du ma alltid vaere press til avtaler og melde fra dersom det skulle oppsta forsinkelser. Dersom det blir endringer i arbeidstiden din eller lignende, ma dette forhandsgodkjennes av frionsorgen. Alle avvik vii bli registert, og du kan i verste fall bi overfert tlibake til fengsel, saefig hvis avvik fra avtalen skjer fere ganger.
+
+## 5 Permision pa fottenke
+
+\begin{tabular}{p{142.3pt} p{142.3pt}} Forskriften SS 7-6 Retningslinene til strgift. SS 16 punkt 16 (2) 7 maned nar du har delgjennomfering. Du kan ogsa fak korttids- og velferdspermisjon. Permisjonene skal normalt bare vaere mellom klokken 06:00 og 22:00. De vanlige vilkarene for permisjon gjelder - se kapittel 14. \\ \end{tabular}
+
+## 6 Seknadsprossessen
+
+Du ma selv seke om fottenkesoning. Hvis du ikke sitter i fengsel kan du ta kontakt med frionsorgskontoret i ditt fylke eller laste ned * [188] Seknadsskjemaet fra Kriminalomsorgens internetsider: www.kriminalomsorgen.no. Du kan ogsa kontakte Jussbuss for tips til hva du kan skrive i saknaden din.
+* [189] Hvis du sitter i fengsel kan du i tillegg sparre kontaktbetjenten din om hjep til a skrive en saknad. Det er fengselet der du soner som skal forberede seknaden din om overferring til fotlenkesoning. De sender den videre til friomsorgskontoret i det fylket der du ensker a sone. De legger ogsa ved opplynsinger om deg og soningen din sa langt og en uttalelse hvor de skriver om de mener du bar eller ikke bar sone med fotlenke.
+* [190] Friomsorgen vl deretter vurdere seknaden din og om du er egnet for elektronisk kontroll. Dersom du far avslag, kan du klage. Du kan lese mer om klager og seknader i kapittel 9. Ta kontakt med Jussbuss hus fuis du tenger hjep.
+
+## II SS 16-soning uten elektronisk kontroll (xhiemmesoning*)
+
+* [191] A sone hjemme uten elektronisk kontroll betyr at du soner straffen i hjemmet ditt. Det er en del krav som ma vaere oppyful for at du sk skal fa sone hjemme, og ikke alle domfelte kan fa det. Det er en hay terskel for a fa innivlget hjemmesoning. Det betyr at det skal mye til for a fa det.
+* [192] Malgruppen er innsatte som har vist vilje til a endre livsfersel, saeflig domfelte med lange straffer. Hvis du er forvaringsdamt kan du ikke overfares til hjemmesoning.
+
+For domfelte under 18 ar skal Kriminalomsorgen alltid vurdere hjemmesoning nar halutid er oppadd. Vilkarene for a fa hjemmesoning for mindrearige er ikke sa strenge som for innsatte over 18 ar. Nedenfor gar vi gjennom kravene (vilkar) som ma vaere oppyful for at du skal kunne fa hjemmesoning.
+
+ Kapitteel 20 - Soning utenfor fengsel 189
+
+### Vilkar
+
+#### Tidskrav
+
+Strgfl. $ 16 farste ledt
+
+Du ma ha gjennomfert minst halve straffen (ha oppnadd 1/2-tid)
+
+Rentingslinjene til $ 16
+
+parunk 16 (1) 2.4
+
+park 16 (1) 2.4
+
+Strgfl $ 16 farste ledt
+
+Overfaringen ma vaere hensiktsmessig for a skre en fortsatt
+
+saerlig positiv utkiking og motvike ny kriminalitet. Saerlig positiv
+
+utviking betyr at du ma ha vist even og vilje til a endre livs-
+
+forsel og at du er i gang med endringen av livsforsel. Vanlig god
+
+oppfersel er ikke nok. Fengselet ser pa utvikingen din fra da du
+
+startet a sone og hvordan du har endret deg.
+
+Nar du soker om hjemmesoning ma du vise fengselet en konkret
+
+og realistisk plan for livet ditt utenfor fengselet. Du ma ha en
+
+plan for jobb, akonomi, boiling og hvordan du skal ivareta forhold
+
+til familie og venner. Fengselet skal hijelpe deg med a utarbeide
+
+denne planen.
+
+I tilegg ma behovet ditt for rehabilitering best bli ivaretatt av at du soner utenfor fengsel. Du ma ote kunne vise til at du har et
+
+spesietl tibud om jobb eller lignende som du ikke kan gjennomfer fra fengselet. Hvis hjemmesoning ejer det mulig for deg a ha
+
+omsorgen for barna dine, kan dette vaere et moment for a fa hjemmesoning. Nar du seker ma du derfor forsake a forklare hvorfor
+
+det er spesielt viktig for deg a sone hjemme.
+
+Et annet moment som taler for at det er hensiktsmessig for deg a
+
+sone hjemme, kan vaere at det er spesielt skadelig for din positive
+
+utviking a sone i fengselet. Fengselet foretar en konkret vurdering
+
+i hver sak.
+
+#### Sikkerhetsmessig forsvarlig
+
+Strgfl. $ 16 farste ledt
+
+Du kan ikke fa overfaring til soning utenfor fengsel hvis formalet
+
+Retningslinjene til $ 16
+
+mel straffen eller hensynet til en sikkerhetsmessig forsvarlig gjennomfering taler mot det. Hvis man er damt for en veldig alvorlig
+
+forbytelse kan det vaere vanskeligere a fa sone hjemme.
+
+ Nar du seker om hjemmesoning, ma det vurderes om det er sikkerhetsmessig forsvarlig at du far invilget det. Det betyr at Kriminalomsorgen ma mene at det er trygt a la deg sone utenfor fengeselet. Fengselet vurderer samsynligheten for at du vil remmeller bega ny kriminalitet. I vurderingen legges det vekt pa hva du er demt for, hvor lengge det er siden det stratfbare forholdet ble begatt, oppfar-selen din i fengsel, hvor mange ganger du er demt fer, og om du er anmedt for nye kriminelle handlinger. Behovet for samfumsbeskyt-telse skal vaere en stor og viktig del av vurderingen.
+
+Nar du skal sake om hjemmesoning, bar du skrive hvorfort det er trygt at du soner utenfor fengeselet. Fordi hjemmesoning er sa lite kontrolert, stiiler fengselet spesielt haye krav til sikkerhetsvurderingen. Momenter som kan tale for at det er trygt kan vaere at du ikke har noen reaksjoner eller positive urinprever. Du kan ogsa vise til vellykkede permisjoner eller at du kommer godt overens med andre innsatte og ansatte.
+
+### Bolig
+
+For a kunne sone hjemme, ma du ha en fast bolig som Kriminalomsorgen godkjenner som genet. Et viktig moment i vurderingen av om boigen er genet er hvorvidt Kriminalomsorgen tror at de kan gjennomofare effektiv kontroli boligen din. Du kan be fengselet om hjep til a kontakte NAV eller frivillige organisasjoner som kan hjeple deg med a skaffe bolig.
+
+Hvis du skal bo sammen med anre ma personene vaere godkjent av Kriminalomsorgen jennom samtale med fengselet. Det kan vaere vanskelig a fa godkjent for eksempel studentboliger eller hospits, fordi det som regel er stor utskiftning av hvem som bor der. De du skal bo med ma godkjenne at du soner hjemme. Hvis du skal bo med barn, vurderer Kriminalomsorgen om det er bra for bara at du soner hjemme.
+
+Kriminalomsorgen bestemmer nar du skal oppholde deg hjemme, ofte er det mellom klokken 21:00 og 06:00.
+
+### Sysselsetting
+
+Strigfl. SS 16 trede ledd Det er ogsa et krav at du har godkjent sysselsetting pa dagtid.
+
+Retningslinjene til SS 16
+
+Dette kan vaere jobb, skole eller andre titak. Andre titak kan for eksempel vaere at du er i behandling pa et dagsenter, at du deltar i NAV-programm eller jobber i en frivillig organisasjon.
+
+Du ma som hovedregel vaere i aktivitet mellom 20 og 45 timer i uken. Stedet du er pa dagtid ma godkjenne at du er under soning. Hvis du $\mathfrak{ansker}$ a sone hjemme uten a vare i aktivitet, for eksempel pa grunn av funkjsonshemming eller helseitlstand, godkjennes dette bare i hefl spesileitletller.
+
+Hvis du er selvstendig neringsdrivende, kan Kriminalomsorgen godkjenne at du jobber i din egen bedrift, men det er viktig at arbeideit ikke er knyttet til kriminell virkomhet eller et kriminelt nettwerk. Kriminalomsorgen vil ta en individuell vurdering av om du kan jobbe i din egen bedrift.
+
+Kriminalomsorgen oppnevner en kontaktperson pa stedet der du er syselsatt. Konatkpersonen kan vaere arbeidsgiver eller en annen person som vet at du soner en dom og som har sagt seg villing til a vaere Kriminalomsorgens kontakt. Konatkpersonens oppgave er a gi Kriminalomsorgen beskjed hvis du ikke meter pa jobb eller om du gjer noe du ikke har lov til. Ikke alle pa arbeids-plassen trenger a vite at du soner. Hvis du har ureglementert fravaer, for eksempel hvis du er syk, ma du si Ifra til kontaktpersonen din.
+
+### 1.6 Forbud mot bruk av rusmidler
+
+Strgifl. $ 16 trede ledd
+
+Retningslinjene til $ 16
+
+punkt 16 (1) 9
+
+Du kan ikke bruke rusmidler, som alkohol, narkotika og dopingmider/hormonpreparater mens du soner hjemme. Kriminalomsorgen punkt 16 (1) 9
+
+deg etter reglene som gjelder for dette i fengsel. Les mer i kapittel 15.
+
+### 1.7 Andre vilkar
+
+Strgifl. $ 16 fjerde og
+
+Kriminalomsorgen kan sette andre sserlige vilkar for soningen
+
+femte ledd
+
+dersom det er nadvendig for sikkerheten. Vilkarene kan for
+
+Retningslinjene til $ 16
+
+eksempel vaere at du skal delta i behandling eller at du skal ta
+
+punkt 16 (1) 8 og 16 (1) 9
+
+medisin, for eksempel antabus. Kriminalomsorgen kan ogsa
+
+bestemme at du far forbud mot a mete bestemte personer eller
+
+oppholde deg pa bestemte steder.
+
+ 
+## 2 Permision
+
+Retningslinjene til $ 16
+
+Du kan sake om permision for 1 dagn i maneden hvis vilkarene for permision er oppytft. Permisionen ma bidra til a statte rehabilite-ringen din og tibakeferingen til samfunnet. Det er viktig at du sier hvortor permisionen er viktig for dette nar du seker.
+
+Du kan ogsa fa kortfolts- og velferdspermisjon. Permisionstider er normalt bare mellom kolokken 06.00 eg 22.00. De vanlige vilkarene for permisionj gjelder utover dette - se kaptitel 14.
+
+## 3 Kontroll og brudd av vilkar
+
+Kriminalomsorgen vil kontrollere at du folger vilkarene. Vilkarene kan endres i lepet av soningen.
+
+Kriminalomsorgen kan komme pa kontrollbesek i boligen din og der du jobber eller oppholder deg pa dagtid. Otte kommer de minst en gang i uken. Som regel vil du ogsa matte mate for Kriminalomsorgen eller en person de har utpekt ukentlig.
+
+Brudd pa vilkarene farer offe til at du overferes tibake til fengsel. Det samme gjelder hvis du begar nye straftbare handlinger eller praver a rammre. Hvis bruddet er veldig lite alvorlig, kan fengselet gj deg en annen reaksjon enn overfaring til fengsel.
+
+## 4 Praktisk giennomforring
+
+Fengselet skal i samarbeid med friomsorgskontoret lage en plan for gjennomfaring av straff utentorfengsel. Planen som lages skal vise hvilke vilkar og andre krav som gjelder for soningen din, hvilke kontrolltitak som kan gjennomfares og konsekvensene av brudd pa vilkar og andre krav. Planen skal ogsa vise hvilke samarbeidspartnere som er involvert i soningen din, for eksempel skole, arbelagsiver og behandlingsinstitusjon, samt hvilken rolle disse har. For eksempel kan de ha plikt til a gi melding til friomsorgskontoret om at du folger planen. Nar du undertegner planen, betyr dette at du aksepterer innholdet i den og at det kan fa konsekvenser hvis du bryter avtalen.
+
+ 
+
+## Kapitel 21 Overfaring fra fengsel
+
+til behalfingsinstitusjon
+
+Dette kapittelet handler om overfaring til institusjon og sykehus.
+
+Soning pa institujson kalles gjerne $ 12-soning. Nar vi omtaler
+
+overfaring til sykehus er bade psykisk og fysisk (somatisk) sykdom omfattet.
+
+Del l omhandler overfaring til institujson ($ 12), og del Il om overfaring til sykehus.
+
+## I Overfaring til institujson ($ 12)
+
+Straffejennomferingsloven
+
+(strgjft). $ 12
+
+A bli overfort etter strafgejennomferingsloven $ 12 vii si at du skal
+
+sone straffen din i en behandlingsinstitusjon hvor du ma vaere
+
+dagpnasient. Det betyr at du bor pa institujson istedenfor i fengselet. Det kan vaere et kortvarg opphold eller for hele straffen.
+
+Retningslinene til strgjft.
+
+$ 12 punkt 12.3
+
+$ 12-soning er aktuelt for deg som ikke far ivreattt behovene
+
+dine gjennom tlibud fra fengselet. Eksempler kan vaere at du har
+
+rusproblemer, lettere psychiske problemer, afterdstforsfyrrelser eller
+
+tilpassningsproblemer, som har medvirket til de forbrytelsene du har
+
+gjort.
+
+Forskriften $ 3-5
+
+Det er ingen krav til hvor lang tid av dommen din du ma ha sonet
+
+fer du kan overfrees til soning i institujson. Du kan med andre ord
+
+sone hele eller deler av dommen din der.
+
+Retningslinene til $ 12
+
+Det mest praktiske er at du far inviliget $ 12 pa slutten av
+
+punkt 12.8 og 12.9
+
+soningen. Vanligvis far du ikke sone i institujson i mer een 1 ar.
+
+Det kan gjères unntak fra dette i searlige tifteller. Oppholdet skal
+
+heler ikke vaere sa kort at du ikke vi fa noen behandlingsmessig
+
+effekt av a vaere der.
+
+Unntakvis kan du fa sone hele straffen din i institujson etter SS 12. Da ma det foreligige <<aserigg og tungteviende grunner>>. Det er et veldig strengt t krav. Et eksempel pa dette kan vaere at du allerede er pa institujsonen nar soningen skal starter og det vi vaere svaert uheldig for deg om behandlingen blir avbrutt, eller hvis du er sterkt og akut behandlingstrengende.
+
+## 2 Institusionen og behandlingsopplegget
+
+Retningslinjene til SS 12
+
+punkt 12.7
+
+Fengselet vurderer om institusionen du ensker a sone ved har et behandlingstilbud som er egnet til a behandle problemene dine. Du bar derfort fa heiseavoleingen eller sosiakonsulenten i fengselet til a hjelpe deg med a finne en passende institujson.
+
+Fengselet stiller krav til institujsonen du skal sone i. En del av kravene gar pa sikkerhet. For eksempel ma institujsonen ha betruggende kontrollutiner som er vurdert og godkjent av Kriminalomsorgen. I tillegg ma institujsonen vaere dognbemannet. Kriminalomsorgen kan ikkereve av institujsonen at de skal vaere like strenge med kontroll som fengselet er.
+
+Retningslinjene punkt
+
+12.23
+
+Hvis institujsonopholdet varer utover tidspunktet for forventet leslatelse, skal fengselet hjelpe deg med a soke finansiering av institujsonopholdet fra en annen offentig mmidighet. Finansiering med egne, private midler er dessverre ikke mulig.
+
+## 3 Vilkar ved opphold
+
+Retningslinjene punkt
+
+12.13 og 12.20
+
+Kriminalomsorgen setter vilkar for oppholdet ditt i institujsonen.
+
+Vilkarene vil som regel vaere de samme som under ordinzer soning i fengsel. Itvis du bryter vilkarene, riskerer du a bli overfert til
+
+videre soning i fengsel. Intsitusjonen har ansvar for a passe pa at
+
+du overholder vilkarene. De ansatte ved institujsonen har et tett
+
+samarbeid med fengselet. Institusjonen har en plikt til a melde fra
+
+til fengselet dersom du bryter vilkarene for soning.
+
+### 4.1 Tilsaqn
+
+Retningslinjene punkt 12.3
+
+Fer Kriminalomsorgen kan ta stilling til en seknad om SS 12-soning, ma du allerede ha fatt t tibud om en plass fra den aktuelle institujsonen. Dette kalles gjerne a fa tilsagn. Fengselet kan ikke kreve at en institujson skal ta deg imot, sa det er der forv kitig at du ferst tar kontakt med institujsonen du snsker behandling ved og far tilsagn om plass der. Et tilsagn trenger ikke vare et lefte fra institujsonen om a gi deg class, men institujsonen ma h agit uttrykk for at det finnes plass og at du er en aktuell kandidat til en ledig plass. Det er mange som sacker om plassene pa SS 12-institusjoenene, sa det er lurt a underseke om det er plass andre steder enn ferstevalget ditt.
+
+Du kan kontakte Jussbus hvis du har sparsmal om a fa tilsagn hos en institujson, men vi kan ikke anbetale en institution for deg. Hvilke institujsoner som finnes og hva slags tibud de har, kan du finne ut aved a snakke sosialkonsulenten eller helesavdelingen i fengselet.
+
+### Serlige tifeller
+
+Overfaring til song i institujson kan bare skje i <<sserlige tifeller>>.
+
+Det betyr at du ma befinne deg i en spesieil situasjon som skiller seg fra den situasjonen alle innsatte er i nar de er i fengsel.
+
+Et typisk tifelle er hvis du har problemer som er knyttet til, eller har medvirket til forbrytelsene du har begatt. Slike problemer kan varere nusavhengighet, alkoholmishruk, letere psychiske problemer, tilpassnigproblemer, afterdsproblemer eiler en kombinasjon av disse. I hell spesiele tifeller, hvis tungteviende grunner taler for det, kan du overfares til aldershjem, pleieihem, omsorgsinstitujson eller lignende.
+
+Behov for botrening og sosial tlipasning kan varee en del av behandlingsopplegget. Det er en hovedregel for overfaring at fengselet du soner i ikke har et tibud som dekker behovet ditt for rehabilitering. Fengselet vurderer din egen motivasjon for a sone ved institujson og motta behandling for problemene dine.
+
+### Forebygge kriminalitet
+
+Det er ogsa et vilkar at en overfering til institujson ma varee nadvendig for a bedre din evne til a fungere i samfunnet uten a bega kriminalitet. Det vii si at behandlingen i institujson ber bidra til a forebygge ny kriminalitet nar du lesalates.
+
+ 
+### 4.4 Sikkerhetsvurdering
+
+Sikkerhetsmessige grunner ma ikke tale mot at du soner i instituison. Fengselet vi foreta en konkret sviktfarevurdering. Det betyr at hvis fengselet mistakener at du vifonseke a ramme, bega ny kriminalittet eller pa andre mater forsake a unndra deg straffen, vil de ikke innivleg SS 12-soning. Fengselet ma ikke vare het sikre pa at deet er fare for unndragelse for at de kan nekte deg overfering. Det holder at de har en mistanke om at unndragelse vil skje.
+
+Nar fengselet skal vurdere om det er skikerhetsmessig forsvarlig at du soner i institution, legger de vekt pa all informasjonen de har om deg. Eksempler kan vare straffesaken din, oppforselen din under soning, hvor mange ganger du har sonet tidligere, om du har hatt vellykkede permisjoner, resultater pa unipraver eller om du er anneldt for nye straffbare forhold. Nar det gleider SS 12-opphold for domfette med rusproblemer, kan fengselet legge lift mindre vekt pa faren for inntak av rusmider. Hvis du er skitet for nye straffbare forhold, er det en hovedregel at du ikke kan sone pa SS 12.
+
+Fengselet vil ogsa se pa hvordan instituisonen er, og hvor strengt kontrollregimet er. De skal ogsa vurdere om du vil kunne tilpasse deg de vikar som settes og de regler som gjelder ved kondmende institujson.
+
+## 5. Hva du bar skrive i en seknad
+
+Nar du skal sake om SS 12-soning bar du skrive hvorfor det er viktig for deg a fa behandling for problemene dine. Du bar skrive om falgende:
+
+* Din motivasjon for a fa behandling for problemene dine og for a leve et liv uten kriminalittet.
+* At behandling er bra for rehabiliteringen din og tibakerforing til samftunnet.
+* Hvis du er ung bar du nevne det. Det kan tale for at det er ekstra viktig at du far hjelp til a ta tak i problemene dine.
+* Hvis du har anbefalinger fra fagfolk, for eksempel lege, psykolog, psykiater eller sosialkonsulent.
+* Hvis du har vaert i behandling tidligere, og du kan vise at du kan ha utbyte av det.
+* Hvis dommen din anbefaler at du soner pa SS 12.
+
+ Nar du skriver seknaden, ber du forklare hvorfor det er trygt at du soner i institujson. Du kan bruke eksempleen i forrige avsnitt for a underbygge at det er Sikkerhetsmessig forsvarlig. Du kan lese mer om hvordan du skriver seknader og klager i kapittel 9. Jussbuss kan gi deg veiledning i hvordan du kan skrive en SS 12-seknad.
+
+## II Overforing til sykehus
+
+\begin{tabular}{l l} Strgifl. SS 13 & Det er mulig a gjennomfere deler av straffen i et sykehus. Du kan \\ Forskritt til strgifl. SS 3-6 & bili overfert til sykehus bade for sykdommer av fysisik art (soma- \\ Retningslinjene til SS 13 & tiske sykdommer) og psychiske sykdommer av en annen art enn de \\ punk 13.1 fig. & som kan behandles under SS 12-soning. I tillegg ma helestistanden \\ din gjere heldegns innleggelse nadvendig. \\ \end{tabular} For a bli overfert til sykehus, ma det vaere nadvendig for behandling av sykdommen. Du kan ikke overferes til sykehus hvis \\ behandlingen kan utsettes til etter du har sonet ferdig. Det ma \\ heller ikke veere mulig a fa tilsvarende behandling i fengselet. \\ \end{tabular} Hvis du blir overfert til et sykehus, vi liden du er innlagl bli regnet \\ som vanilig soning. Hvis du selv har pafert deg en skade eller \\ du har latt som om du er alvorlig syk, silk at du blir overfert til \\ sykehus, kan Kriminalomsorgen bestimme at liden du oppholder \\ deg pa sykehuset ikke blir regnet som soningstid. Fengselet \\ vurderer dette konkret i hver enkelt situajon. \\ \end{tabular} Det er lege som avgier om det er nadvendig a legge deg inn \\ pa sykehus. Dette vi i praksis ofte vaere fengsellegen. Hvis du \\ trenger jevnlig oppfelging pa sykehus, for eksempel som dagpassient, men daggninmleggelse ikke er nadvendig, vi du ikke kunne \\ overfares til sykehus. Du kan ikke pa forhand seke om a sone \\ hele straffen i sykehus. Du kan istedenfor seke om soningsutsettlese eller straffavbrudd. Du kan lese mer om utsettlese og \\ avbrudt i kapittel 6 om soning og kapittel 23 om straffavbrudd. \\ \end{tabular} Hvis Kriminalomsorgen av skikerhetsmessige gunner finner \\ \end{tabular} det nadvendig, skal de _sarge_ for vakthold pa sykehuset. Dette \\ gjelder sykehus med somatisk (fysisik) sykdom. En beslutning om \\ vakthold blur tatt pa bakgrunn av en konkret, sikkerhetsmessig \\ vurdering. Det betyr at det er flere ting som blir vurdert. Oppfersel \\  i fengselet, hvordan tidligere permisjoner har gatt, nye straffbare \\ \end{tabular}
+
+ forhold og lignende er forhold fengselet ser pa. Vi har skrevet om sviktfarevurderingen tidligere i dette kapittelet, se punkt 4.4.
+
+Hvis du er innlagt pa insitusjon under psykisk helesvern, er det overlegen som har det skkerhetsmessige ansvaret for deg.
+
+Overfaring til sykehus skiller seg fra SS 12-soning ved at overfaring til sykehus bare skal vare i begrenest tid. Nar sykdommen ikke lenger gjar det nedvendig at du er pa sykehus, skal du overfares tibake til fengsel. Har du begatt disiplinaerbud under oppholdet pa sykehuset, kan fengselet gi deg en reaksjon pa dette. De kan ogsa overfare deg til et fengsel med strengere sikkerhetsniva enn du satt pa fer du ble innlagt pa sykehus. Da gjelder de samme reglene for overfring som hvis du hade blitt overfert fra et fengsel til et annet. Du kan lese mer om disse reglene i kapittet 18 om overfaring og kapittet 16 om brudd.
+
+Retningslinjene punkt 13.5 Utigitene ved et sykehusopphold skal dekkes pa samme mate som for personer som ikke soner en straff.
+
+Hvis du har sparsmal om hvordan det praktiske lases ved innleggelse pa sykehus under soning, kan du for eksempel snakke med helesavdelingen i fengselet. Jussbus kan ogsa veilede deg hvis du har sparsmal om reglene om overfaring til sykehus.
+
+ 
+
+## Kapitel 22
+
+Helsehielp i fengsel
+
+Pasient- og
+
+brukeretitighetsloven (pbrl.)
+
+$$ 1-2 og 2-1 a
+
+Helse- og
+
+omsorgtieneseteloven (hol.)
+
+$ 3-1 if. $ 3-9
+
+Straflegiennomfaringsloven (strgift.) $ 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if. $ 23 nr. 4
+
+Helsepersonelloven (hol.)
+
+$ 22 if.
+
+
+## II Rett til undersekelse og behandling
+
+Helsedirektoratets veleeder
+
+om helese- og
+
+omsorgsipenester til
+
+imsatte i fengsel
+
+Hvis det er noe som tyder pa at du er syk, eller du ber om helesheijp,
+
+skal fengselet serge for at du far snakke med helestejenesten. Du har
+
+ertt til a fa se lege imen imen imenig tid hvis du ber om dete i
+
+imsatte i fengsel
+
+fengselet skal tikalle helestejenesten sa snart som mulig etter inssetelsen i fengselet, silk at du kan fa en helesundersekelse.
+
+Strgifl. SS 13
+
+Hvis du blur syk slik at det ikke er mulig a gi deg behandling
+
+i fengselet, og en slik behandling er nadvendig, kan straffen
+
+gjennomfares pa sykehus. Les mer om dete i kapitel 21 om
+
+overfaring til behandlingsinstitusjon.
+
+Forskrit til strgifl. SS 3-17
+
+Trenger du medisiner, kan bade ansatte ved helestejenesten og
+
+fengselsbetjenter gi deg dete. Respetbelagte medisiner kan bare
+
+dosere av ansatte i helestejenesten, men kan deretter utdeles av
+
+betienter. Det er helestejenesten i fengselet som vurderer hvilke
+
+medisiner du eventuelt skal ha. Det kan hende at medisiner du fikk
+
+utskrevet av din fastlege ikke blir gitt av helestejenesten i fengselet.
+
+Hva slags helesheijel op medisiner du far skal vurderees ut fra hva
+
+som er nadvendig helesheijelp.
+
+## III Rett til a bruke en annen lege enn fengselslegen
+
+Hvis du sitter pa dom, skal du i utgangspunktet forblde deg til
+
+fengselslegen. Fengselslegen skal oppflyle rollen en fastlege
+
+ellers har. Fengselet kan ogsa sambeide med fastlege utenfor
+
+fengselet, men du har ikke krav pa a fa behandling av en annen
+
+lege i stedet.
+
+Det kan vaere mange grunner til at du synes det er bedre a bruke
+
+en annen lege. Kanskje har du brukt samme lege over lang tid,
+
+eller kanskje du har et darlig forhold til fengselslegen. Hvis du far
+
+en permisjon, er dette uproblematisk. Da kan du oppsake legen
+
+under permisjonen din. Er du derimot avhengig av en fremstilling,
+
+blir situajonen en annen. Det kan vaere vanskeleja a fa fremstilling
+
+til legebesek sa lenge det finnes en lege i fengselet. Du kan lese
+
+om fremstilling i kapittel 14.
+
+Hvis du mener at fengselslegen ikke gir deg den hjelpen du
+
+trenger, kan du seke om a fa behandling av en annen lege. Du
+
+bar forklare hvorfor du ansker a bruke annen lege enn fengselslegen. Hvis fengselslegen henviser deg til en spesialist, skal du fa multighet til a oppsake denne. Dersom det er i trad med frihetsbe- ravelsen, har du rett til fritt valg av spesialisthelsetjenesete.
+
+Helselovgivningen gir rett pa fomyet vurdering hvis man er misfornayd med vurderinger en lege har tut. Du har rett til a fa en formyet vurdering av en annen lege ann fengselselegen, etter hemvising. Den nye vurderingen ma gjelde den samme helsettistanden som allerede har blitt vurdert. Du kan kan fu a en formyet vurdering av en listand dekket av helsetjeneseten. I utgangspunktet kan du velge hvilken annen lege du vil ga til, men fengselet kan innskrenke valgretten hvis den ikke er forenlig med frihetsberevelsen og ikke kan skje innenfor de rammer som et fengselsopphold sefter.
+
+Det er viktig a understreke at hvis du gar til en annen lege ma du selv betale egenandelen og eventuelt andre kostnader, safemt du ikke er henvist til denne legen fra fengselselegen.
+
+Sitter du i varetekt, har du rett til a bruke din egen lege dersom det er limelige grunner for det. Legen ma oppsake deg i fengselet, eller du ma ske politiet om fremstiling. Hvis du er varetektsfengslet med restriksjoner vil politiet avgjare hvem du kan fa besok av i fengselet. Du har rett til helseheijelp fra helsetjeneset i fengselet ogsa under varetekt.
+
+Jussbuss har erfart at fengselselgeens uttaleser veier spesielt tungt.
+
+Det star mer informasjon om dekning av helserelaterte utgifter i kapittel 34 om sosialstonad og trygdeytelser.
+
+## IV Klage
+
+Dersom du mener at du ikke far den helsehjelpen du har krav pa, kan du klage. Fylkesmannen er klageinstans. Klagen ma vaere skriftlig og leveres til hestejeneseten i fengselet. Klagefristen er 4 uker.
+
+Innsatte kan ogsa be Fylkesmannen vurdere om det er begatt sakalte pliktbrudd. Det vii si at han vurderer om helsepersonell har brutt pliktene sine etter loven. Pliktbrudd kan ogsa omfatte systemfeil, for eksempel manglende eller darlig organisering. Det kan gjelde brudd pa helsepersonelloven, spesialisthelsetjeneset- loven, helse- og omsorgstjeneseteloven eller tannhelsetjeneset loven. Det er ingen frist for a fremsette en anmodning om vurdering av pliktbrudd. En slik anmodning sendes direkte til Fylkesmannen i det fylket hvor fengselet befinner seg. Dersom Fylkesmannen mener at noen i helestiepensten har opptradt pa en sa kritikverdig mate at det kan vaere aktuelt a liegge en administativ reaksjon, wil saken bli sendt videre til Statens Helsetitsyn for avgjareles. Pasient- og brukertetighetsloven kontakte Pasient- og brukerrombudet (POBO). Du tenger ikke a vise til et vedtak for a kontakte POBO, og kan komme med generelle hevendelser og spersmal. Henvendelsen kan vaere anonym. Du finner kontakinformmasjon til POBO-kontoret du harer til bakerst i boken. Pasientskadeloven SS 2 Hvis du har opplevd at behandling, manglende behandling eller andre forhold ved helessystemet har fert til et ekonomisk tap for deg, kan du seke om erstatning. Da ma du hevende deg til Norsk pasientskadeerstatning. Endelig kan man klage fengsellegen inn for Radet for legeetik, dersom man mener at legen har brutt eller overtradt noen av sine moraletiske forpliktelser, som for eksempel ved et brudd pa taushetsplikten. Hvis du har spersmal om heleseretitigheter i fengsel, kan du ogsa kontakte Jussbuss.
+
+ 
+
+## Kapitel 23 Straffavbrudd
+
+I. Generelt om straffavbrudd
+
+Straffeyienomferingsloven
+
+Ved straffavbrudd avbrytes soningen. Et straffavbrudd kan vaere
+
+(strgifl.) SS 35
+
+ktuelt dersom du har behov for et lengre avbrudd i straffen, og
+
+betningslinjene til SS 35
+
+behovet ikke kan dekkes ved for eksempel permisjon, fremskutt
+
+permisjonstid, utvidet permisjonskvote, utvidet telefontid eller
+
+fremstilling.
+
+Straffavbrudd er ikke noe du har krav pA, men noe du kan fa
+
+invliget hvis du oppflyler vilkarene og Kriminalomsorgen vurderer
+
+det som sikkerhetsmessig forsvarlig. Det skal likevel mye til for a
+
+fa straffavbrudd. I dette kapittelet vil vi ga jennom vilkarene for a
+
+fa straffavbrudd.
+
+## II. Tid og varighet
+
+Forskriften til strgifl.
+
+Avbruddet gis som hovedregel i en bestemt periode pa inntil
+
+4 uker. Avbruddet kan forlenges med inntil 4 uker en gang. I helt
+
+spesiele tiffeller kan avbrudd bli innvilget for en ubestemt periode,
+
+men dette er svaert vanskelig a fa.
+
+Retningslinjene til
+
+strgifl. SS 35 punkt 35.6
+
+punktet for laslatelse blir derfor forskjavet. Antall dogn eller uker
+
+avbrudd legges derfor til opprinnelig beregnet jjenstahende straffe-
+
+giennomferingstid.
+
+Du kan seke om straffavbrudd nar som helst under straffegjenomorfaringen, men det er et vilkar at du ma ha pabegynt jennomferingen. Dersom du ikke har pabegynt soningen ma du seke om soningsutsettelse. Du kan lese om soningsutsettelse i kapittel 6.
+
+
+## III Sviktfarevvordering
+
+Soker du om straflavbrudd, vil Kriminalomsorgen vurdere om det
+
+Retningslinjene til
+
+strgil. SS 35 punkt 35.2
+
+Dersom Kriminalomsorgen mener det er en fare for at du vil bega en straffbar handling under straflavbrudd, vil det tale sterkt imot at du far avbrudd invniget. Det samme vl vaere tifelle dersom de tror du ikke vil mate opp etter endt avbrudd, misbruke avbruddet
+
+eller bryte eventuelle vilkar for avbruddet (se punkt Vl under).
+
+Dersom avbrudd er aktuelt av helsemessige arsker, ma hensynet til din helse veies opp mot hensynet til vern av samfunnet. I vurderingen er det relevant hva slags straffbare handlinger Kriminalomsorgen mener det er en fare for at du bega.
+
+Kriminalomsorgen kan avsla ssknaden din selv om for eksempel helsemessige grunner tlisier at saknaden ber invniges.
+
+Ogsa andre forhold kan ha betydning i vurderingen: hva du soner for, om du har hatt vellykkede permisjonen, hvor lenge du har iglen av soningen og andre lignende momenter. l seknaden ber du skrive om alt som taler for at du skal fa straffavbrudd.
+
+## IV. Grunnvilkar for straflavbrudd
+
+Strgil. SS 35
+
+I hvert enkelt tifelle skal det bli vurdert om problemene dine kan
+
+lases pa en annen mate enn ved avbrudd. Kriminalomsorgen
+
+vil legge stor vekt pa dette. Er det deksempel slik at fremskutt
+
+permisjonstid kan lese situasjonen, er det svaert vanskelig a fa
+
+invilget straflavbrudd.
+
+Vilkarene for a fa invniget straflavbrudd er enten at
+
+1. domfetles helseitstand tlisier det,
+
+eller
+
+2. at det foreligger searlig tungtveiende grunner som ikke kan
+
+avhjelpes pa annen mate.
+
+ Kapitteel 23 - Straffavbrudd
+
+## 1 Domfeltes helsetitstand
+
+Retningslinjene til $ 35
+
+parkul 35.4
+
+Les mer i kapitteel 18 om
+
+verfering
+
+For det gis avbrudd pa grunn av din helsetitstand, skal Kriminalom-
+
+sorgen alltid vurdere om overfering til annet fengsel, til sykehus eller
+
+til institutionsion wil kunne avhijepe problemene dine. Hvis du kan fa
+
+tifredstilende behandling i fengselet, wil du ikke fa straffavbrudd.
+
+Helsemessige grunner kan vaere bade fysiske og psychiske plager.
+
+Straffavbrudd av helsemessige grunner kan for eksempel vaere
+
+aktuelt hvis du har ligget pa sykehus og er utskrevet, men trenger
+
+trening, rekreasjon eller annen behandling som fengselet ikke kan
+
+gi deg.
+
+Hvis du soker av helsemessige grunner, wil fengsellegen komme
+
+med en uttalelse. Ofe tillegges den stor vekt. Er du uenig i fengsellegens uttalelse ber du ha en legeattest fra en annen lege
+
+som stetter saken din. Sorg for at alle relevante uttalesler legges
+
+ved seknaden.
+
+Les mer i kapitteel 29
+
+om pravelselastelse og
+
+fremskutt lastalelse.
+
+Les mer i kapitteel 32 om
+
+benadning
+
+Hvis den listanden du beginner seknaden med er varig og dine
+
+helsemessige problemer er sa store at et straffavbrud ikke vi
+
+hjepe pa situasjonen, kan du seke om proveloslatelse, fremskutt
+
+leslatelse eller benadning.
+
+**2. Searlig tungtveiende grunner som ikke kan avhijepes pa**
+
+annen mate
+
+Det er flere situasjoner som kan anses som ssaerig tungtveiende
+
+grunner. Under vii v envne noen eksempler som kan vaere slike
+
+grunner. Det er viktig at du kan dokumentere araskene til hvorfor
+
+du seker.
+
+Alvorlig sykdom i naer familie er et eksempel pa en ssaerig tungtveiende grunn. Dette gjelder spesiekt ved akutte sykdommer. Ved
+
+lengre tids sykdom i familiaren skal det ordinaere hijelepaparatet
+
+utentorf fengselet tre i kraft. Dette betyr at soningsavbrudd for
+
+vanlig pleie og tilsyn av familiaremedlemmer ikke bir gitt.
+
+Hvis det oppstar akutte problemer, eller svaert nodvendige
+
+gjeremal dukker opp mens du er i fengsel, kan du fa straffavbrudd.
+
+Det vil bil vurdert om familie, venner, kolleger eller andre kan
+
+hjeplee deg med problemene. Dersom det er tifelle vil du ikke fa
+
+straffavbrudd. Det samme gjelder dersom offentige eller kommu nale instanser, for eksempel NAV, kan hjelpe deg. Avbrudt gis normalt heller ikke for a ivareta egen forretningsvirksomhet.
+
+Har du barn, skal hensynet til barnas beste tillegges stor vekt i vurderingen. Du kan lese om forholdet til barn i kapittel 25.
+
+V. Soknaden
+
+Nar du seker om straffavbrudd, ma du levere en skriftlig ssknad
+
+til fengselet. Dersom det er aktuelt med avbrudd i mer enn 8 uker,
+
+blir seknaden behandlet av overordnet niva (vanligvis regionen).
+
+Uansett hvern som skal avgjere seknaden din, skal den leveres
+
+til fengseelslederen. Dersom det er andre enn denne som skal avgjere ssknaden, vil fengseelslederen levere seknaden til riktig instans.
+
+Viktige ting a huske pa nar du skriver en seknad om straffavbrudd er:
+
+* egen helse/ saerlig tungtveiende grunner
+* dokumentasjon (attester fra lege, psykolog osv.)
+* situasjonen ma kunne avhjelpes ved et straffavbrudd
+* andre ordninger kan ikke lese situasjonen
+* det ma vaere sikkerhetsmessig forsvarlig
+
+Soknaden ma begrunnes godt. Det skal mye til for a fin invnijet en soknad om straflawbrudd. Det er derfor avgjerende at du far
+
+frem hva det vi bety for deg og dine parerende at du far avbrudd
+
+fra soningen na.
+
+Dersom du far avslag og vi klage, er det som regel regionen som
+
+skal avgjere klagen. Uansett skal du allti levere klagen til fengselet, som skal gi sin uttalelse for den videresendes.
+
+Dersom du trenger hjelp med a klage, kan du ta kontakt med
+
+Jussbuss.
+
+ Kapittel 23 - Straffavbrudd
+
+## VI Begrensninger i friheten under avbruddet
+
+### Brudd pa vilkarene
+
+Strgifl. SS 36, SS 40
+
+Forskritten SS 3-34
+
+Hvis du far straffavbrudd, vi folgende grunnvilkar (betingelser)
+
+allitd gjelde: Du ma ikke bega ny kriminalitet, du ma oppholde deg
+
+pat fastsatt adresse, du ma komme tibake til fengselet i upavikret
+
+tilstand til fastsatt tid, og du ma overholde eventuelle tileggsvilkar.
+
+Fengselet bestemmer ofte at det skal gjelde visse tileggsvilkar
+
+under soningsavbruddet.
+
+Hvis du bryter noen av vilkarene, skal fengselet pa bakgrunn av
+
+det som har skjedd vurdere om du ma tibake til fengselet tigen
+
+fer avbruddstiden er over. I skike tilfeller bor du fa anledning til a
+
+forklare deg.
+
+Strgifl. SS 40 syvende ledd
+
+Dersom du ikke mater etter endt avbrudd eller ikke overholder vilkarene, kan du bli pagrepet av politiet. Unnlatt oppmate er straffbart.
+
+Retningslinjene til strgifl.
+
+$\lx@sectionsign$ 35 punkt 35.8
+
+Det er normalt ikke lov a reise utenlands under et straffavbrudd,
+
+men det kan tillates dersom situasjonen er ekstraordinaer og utenlandsopholdet er sv exert nadvrendig og viktig.
+
+### Parsing til formaermede
+
+Strgifl. SS 36 tredje ledd
+
+Dersom det er av betydning for formaermede i straffesaken eller
+
+dennes eteftarlate a fa kjennskap til tidspunktet for straffavbruddet,
+
+skal Kriminalomsorgen varsle formaermede eller etterlatte om at du
+
+far avbrudd. Du har mulighet til a klage pa beslutning om at varsel
+
+skal gis. Du kan lese om varsel til formaermede i kapittel 30.
+
+ 
+
+## Kapitel 24
+
+Kvinner i fengsel
+
+Det finnes ingen spesielle regler for kvinnelige innsatte. Alt som er tatt opp i denne boka vil derfor ogsa gleide deg som er kvinnelig insatt. I dette kapittelet vi vi likevel se naarmere pa spersmal som kan vaere av spesiell interesse for kvinner i fengsel, og hvordan disse lases i praksis. Bakersti denne boka finner du ogsa en liste over andre organisasjoner og institujsoner som jobber med kvinnelige innsatte.
+
+## I Kvinners soningsforhold
+
+Straffejennomfringsloven
+
+Kvinner utgjar omtrent 5 % av norske fanger. At det er sa mange
+
+flere menn enn kvinner i fengsel pavirker soningstilbudet for
+
+kvinner. Nar du skal sone i fengsel, skal du i utgangspunktet
+
+sone i et fengsel som er i nzethen av hjemstedet sitt sa langt
+
+det er praktisk mulig. Fordi det finnes farere fengsel som tar imot
+
+kvinner, kan det hende at du ma sone lenger borte fra hjemstedet
+
+ditt. I noen fengsel seren kvinner og menn sammen. I fengsel der kvinner og menn somer sammen er det varierende hvor mye
+
+kontakt det er mellom kvinner og menn. Dersom du ensker a soke
+
+om overfaring til et annet fengsel, kan beliggenhet og fangessam-
+
+mensetting vaere noe a tenke pa. Du kan sparre kontaktbeitjenten
+
+din om hvilke fengsel som tar imot kvinner, og om det ogsa soner
+
+menn der. Se kapittel 18 om overfaring til annet fengsel.
+
+Fordi kvinner er en minoritet i norske fengsel, er de ogsa i starre
+
+grad utsatt for diskriminering pa grunnlag av kjonn. Diskriminering er det samme som usaklig forskjellsbehandling, og gjar at
+
+du ikke far de samme rettighetene og mulighetene som andre.
+
+Et eksempel pa dette kan vaere at du som kvinne i et fengsel
+
+med bade kvinner og menn opplever a f mindre permisjon enn menn som soner der. Dersom du mener du har blitt utsatt for
+
+ulovlig forskjellsbehandling eller diskriminering, kan du kontakte
+
+Likestillings- og diskrimineringsombudet (LDO).
+
+Kapitte1 24 - Kvinner i fengsel 209
+
+## II. Kontroll
+
+Strgfl. SS 28 og SS 29
+
+Retningslinjene til SS 28
+
+Retningslinjene til SS 29
+
+Fengselet kan kroppsvisitere deg for a forebygge uorden eller
+
+stratflbare handlinger. Dette kan skje til enhver tid, for eksempel i
+
+forbindelse med utgang eller besak. Dersom du blir kroppsvisitert,
+
+ber dette utfares av en person av samme kjnm som deg. Dersom
+
+visitasjonen likevel ma utfares av en person av mostatt kjnm, skal
+
+en annen ansatzt ogsa veere til stede ved visitasjonen. Dersom du
+
+ma avgi urinpreve og blir plassert i enerom med spesiultoalett eller
+
+lignende, er regelen at undersekelsen helst bar foretas av ansatte
+
+av samme kjnm som den insnatte. Du kan lese mer om dette i
+
+kapitte1 15.
+
+## III. Helsetjenester
+
+Forskriften til strgfl. SS 3-16
+
+Hvis du trenger legeheijp i fengselet, skal de ansatte i fengselet ta
+
+kontakt med helestejensten for deg. Du har ikke krav pa at helespersonellet som skal hijepe deg er av samme kjnm som deg, men
+
+du kan preve a be om dette. Hvis du likevel ma bruke mannlig
+
+helsepersonell, kan du be om at en kvinnelig ansatt er til stede i
+
+rommet sammen med deg. Dette er heller ikke noe du har krav pa.
+
+Du kan lese mer om dette i kapitte1 22.
+
+## IV. Graviditet
+
+Forskriften til strgfl. SS 3-1
+
+Dersom du blir gravid far eller under soning er det fere ting som
+
+kan gjere situasjonen lettere for deg. Jussuss kan hjelpe deg
+
+mend dette.
+
+Forskrift om fullbyrding av
+
+straft SS 6
+
+Blir du gravid far soningen pabegynnes, vil du som regel bli sett
+
+pa som midiertidig soningsudyktig. Du vil da ha krav pa a fa
+
+utsatt soningen. Det samme gjelder om du har fadt for mindre
+
+enn 6 uker siden, eller hvis du ammer et barn som er vngre enn 9
+
+maneder. Bekrefelse fra lege ma legges frem for stratfejennom-
+
+faringen begynner, eller sa snart som mulig etter at den er pabeg
+
+gynt. Du kan lese mer om soningsutsettelse i kapitte1 6.
+
+## 2. Overforing til institution for gravide
+
+Strgfl. SS 12
+
+Retningslinjene til SS 12
+
+Graviditet kan vaere en grunn som kan tale forverfering til institu-
+
+sjon. Dersom du blir gravid under soningen, kan det vaere aktuelt a sake om overfering til et familiesenter eller lignende institusjon.
+
+Sosialkonsulenten i fengselet kan hjelpe deg med a finne en passende institusjon. Du kan ogsa henvende deg til kommunen der du beginner deg, for eksempel barne- og familieetaten eller
+
+tilsvarende. Overfering til institusjon etter SS 12 er ogsa aktuelt
+
+dersom du har andre sserlige behov. Les naermere om dette i
+
+kapittel 21 og 25.
+
+**3. Straffavbrudd**
+
+Strgifl. SS 35
+
+Dersom du blir gravid under fengelssopholdet, kan du sake om
+
+straffavbrudd. Det vii si at straffen midertidig avbrytes. Fer du far
+
+innvliget straffavbrudd, skal det vurderes om du kan bli overfert
+
+til annet egnet fengsel eller om du kan sone i institusjon. Det skal
+
+som regel mye til for a fa stratfavbrudd. Du kan lese mer om straffavbrudd i kapittel 23.
+
+ 
+
+## Kapitel 25
+
+Hvis du har barn
+
+Straffejennomfaringsloven Straffejennomfaringsloven sier at det skal legges saerlig vekt pa
+
+(strgift.) SS 3
+
+barns rett til samvaer med sine foreldere under gjennomfaringen
+
+av straffen. Det betyr at hensynet til barn alltid vi veare et viktig
+
+moment som du kan ta med i ulike seknader og klager. I dette
+
+kapittelet skal vi gjennomga noen typiske tiffeller der fengselet skal
+
+ta hensyn til barn. Nar vi skriver om barn i dette kapittelet skiter vi
+
+til barn under 18 ar.
+
+Ale fengsler skal ha en barneansvarlig som skal serge for at dette
+
+blir fulgt opp. Organisasjonen For Fangers Parrenende (FFP) har
+
+mye kunnskap om situasjonen for barn som har forelder i fengsel.
+
+Deres kontaktinfo finner du bakerst i denne boka.
+
+Barn har rett til a uttale seg om saker som angar dem direkte. Det
+
+Retningslinjene til strgift.
+
+betry at fengselet skal hare pa barnets mening dersom det ensker
+
+$\lx@sectionsign$ 31 punkt 31.13
+
+a uttale seg, og at fengselet i noen tiffeller bar sparre barnet om
+
+deres mening om saken. Barnets mening skal tillegges vekt i
+
+avgjerelser fengselet tar.
+
+### I. Soning med barn
+
+Barn kan ikke bo i fengsel sammen med sine forelder. Begrunnelsen er at et fengsel ikke er et egnet sted for barn a bo.
+
+### II. Besok
+
+Fengselet skal legge forholdene til rette for at barn skal kunne
+
+komme pa besek, og at beseket kan gjennomfares pa en skansom
+
+mate. Med det menes at besek av barn skal gjennomfares i barne-
+
+vennlige besoksrom eller andre egnede lokaler. Under bamets
+
+besek ber det blant annet vaere tibud om spill og leker som passer
+
+til bamets alder. De ansatte som tar imot barn skal legge forholdene
+
+til rette slik at det blir en nest mulig postiv opplevelse for bama a
+
+vaere pa besek i fengsel. De skal ogsa optre pa en diskre mate
+
+i forbindelse med interne rutiner, f.eks. inn- og utlasing. Dersombesaket skal kontrolleres, bar kontrollen gjennomfares pa en sa diskre mate som mulig. Fengselet skal gi beskjed pa forhand om hvilke kontrollittalk som skal beryttes ved beseket.
+
+### 1. Tid oq varighet
+
+RetningsInjene til $ 31
+
+Punk 31.10
+
+Hovedregelen er at du kan fa besek minst 1 time en gang i uka. Dette gjelder alle besek du far (ikke bare av barn), men kun hvis det er praktisk mulig. Ved besak av barn kan du seke om utvidet besek dersom dette er til barnets beste. Da wil hvert besek vare lengre. Hvis det er praktisk mulig skal fengselet ogsa vurdere hyppigere besak enn vanlig. Barnets parerende skal da uttale seg, og deres uttalelse vi bety mye.
+
+### 2. Besoksleiligheter
+
+RetningsInjene til $ 31
+
+I noen fengsler finnes det egne besoksleiligheter der innsatte kan ta imot besok. Hvis du har barn kan du seke om a fa bruke besoksleilighet. Besak skal bare skje hvis det er til barnets beste og det er skikerhetsmessig forsvarlig. Som en hovedregel ma man ogsa ha gjennomfort vieldering om foreldreollen for a fa bruke besoksleilighet, men det kan gjares unntak fra dette.
+
+Du kan fa lov til a motta besok i besoksleilighet hvis du er mor eller far og har samvaersrett med bamet. Dersom du er steforelder eller fosterforelder kan du ogsa i noen tiffeller innvliges besok i besoksleilighet av ditt stebam eller fosterbarn. Dette kan skje etter en konkret vurdering av saken, der blant annet tilknytningen mellom innsatte og barnet skal vektlegges.
+
+## III. Permisjon
+
+Du kan sake om permisjon for a vaere sammen med barna dine. Da gjelder de generelle vilkarene for a fa permisjon. Dette kan du lese mer om i kapittel 14. Under vii vi gjennomga noen serregler som gjelder dersom du seker om permisjon for a vaere sammen med barn.
+
+### 1. Utvidet permisjonskvote
+
+Forskriften $ 3-30
+
+RetningsInjene til strgift.
+
+dogn hvis den ekstra kvoten benvttes til samvaer med bamet og $ 33 punkt 33.2
+
+dette er til barnets beste. Det kan vaere lurt a skaffe dokumen * [15] M.
+
+ Isslatelse etter disse bestemmelsene. Les mer om dette i kapittel 29 om proveleslatelse og kapittel 32 om benadning.
+
+## VI Hvis du far barn under soningen
+
+Hvis du selv blir gravid kan du lese om kvinner i fengsel i kapittel 24. Dersom du blir far, har du ikke automatisk krav pa a varee til stede under eller etter fadeselen. Det er derimot mulig a soke om dette. Bade straffavbrudd, permisjon og fremstiling kan varek aktuelt. Det er viktig a soke i god tid, selv om det er vanskelig a vite alkurat nar fadeselen skal skje. Les mer om dette i kapittel 14 (permisjon og fremstiling) og kapittel 23 (strafavbrudd).
+
+ 
+
+## Kapitel 26 Forvaring og andre
+
+serreaksjoner
+
+I. Forvaring
+
+Forvaring er en fengselstraff som brukes overfor personer man mener samfunnet ma beskyttes mot, i tilegg til at det ma vaere begatt alvorlig kriminalitet. Den storste forskjellen pa ordinarer fengselstraff op forvaringsstraff, er at forvaring er en straff pa ubestemt tid. Ved ordinarer fengselstraff dammes du for eksempel till 3 ars fengsel. Ved forvaringsstraff dammes man derimot til en minstetid pa for eksempel 5 ar. Etter at minstetiden er oppnadd, kan den domfelte begjare seg prevelaslatt. Det blur da foretatt en vurdering av om du har endret livstersel op tankesett pa en slik mate at det vil vaere sikkerhetsmessig forsvarlig at du blir leslatt. En forvaringsdom har i tilegg en tidsramme. Naer lengestestraffen naermer seg ferdig sonet, kan forvaringen forlenges med inntil 5 ar av gangen. Domstolen har i tilegg muligheten til a liege fleere ar med forvaringsstraff enn det man i ferste omgang blir damt til a sone.
+
+\begin{tabular}{l l} Straffeloven kapitel 7 & Det er f lire vikar som ma vaere oppfyt for a bli damt til forvaringsstraff. Hovedvilkaret er at en ordinarer fengselstraff ikke anses tilstrekkeling for a veme samfunnet mot forbytreren. Videre ma lovbruddet veare innenfer en av kategoriene voldslovbrudd, seksullovbrudd, frihetsbervelse, idspasettelse elter et annet lovbrudd som krenket andres liv, helese eller frihet, eller utstatte disse rettsgodene for fare. \\ \end{tabular}
+
+I tilegg ma straffeloven SS 40 andre eller trede ledt vaere oppfyt for at lovbryteren skal kunne idommes forvaring.
+
+Ettter straffeloven SS 40 andre ledd ma lovbryteren ha begatt eller forsokt a bega et alvorlig lovburudt innerfor en av kategoriene nevnt ovenfor, og det ma vaere enaerligende fare* for at han eller hun pa nytt wil bega et lovburudd av samme kategori. Med dette menes at det ma vaere en re reell fare for gjentagelse pa domstidspunktet.
+
+Dersom lovbruuddet var mindre alvorlig, stiles det i straffeloven SS 40 tredije ledd fiere tillggsvilkar for at forvaring skal kunne idemmes. Det er fortsatt krav om at lovbruuddet er innenfor en av kategoriene nevnt overfor. I tillegg stilles det krav om at lovbryteren ogsa tidigere har begatt eller forsokt a bega en slik forbrytelse og at det er naer sammenheng mellom disse forbrytelsene, samt at det er en <<searlig nearligende fare* for gjentagelse.
+
+For a fastsla om disse vilkarene er oppytl, skal det foretas personundersekelse av tiltalte i saken. Vanligvis blir det foretatt en rettspsykiatrisk undersokelse av siktede.
+
+## 2 Hvor lang straff har jeg fatt?
+
+Som nevnt er forvaring en tidsubestemt straff, fordi den stadig kan forlenges. Vanligvis skal en forvaringsdom ikke ha en tidsramme pa elenger enn 15 ar, men loven gir mulinghet til a idemme forvaring i 21 ar. For serskitle lovbruud med strafferamme pa 30 ar kan retten fastsette en tidsramme pa inntil 30 ar.
+
+Hvis patalemyndigheten ber om det, kan forvaringsstraffen forlenges med inntil 5 ar av gangen. Dette m ajeres senest 3 maneder for forvaringstiden eller sitle utlept. En slik straffetorlengelse ma gjeres ved dom iingretten, men du kan anke avgja-relsen til lagmannsretten. Videre kan du anke til Heyesteretts ankeutvalg, som tar stilling til om Hayesterett vl behandle saken din.
+
+Vanligvis blir det satt en minstetid for forvaringsstraffen. Minstetiden skal i utgangspunktet ikke overstige 10 ar. Dersom retten har satt en tidsramme pa mer enn 15 ar, kan minstetiden settes opptil 14 ar. Hvis retten har satt en tidsramme pa mer enn 21 ar, kan minstetiden settes opptil 20 ar. Tidspunktet for minstetiden din er forste mulige tidspunkt for iverksettelse av en eventuell prevelaslatelse av deg. Se mer om prevelaslatelse nedenfor under punkt 7.
+
+ 
+
+## 3 Hvor skal jeg sone forvaringsstraffen?
+
+### Innsettelse
+
+Forskrift om gjennomfaring
+
+Ale personer som idommes forvaring wil starte soningen pa avde-
+
+av sserreaksjonen forvaring som er litertelagt for domfelte med sserlige behov, som regel
+
+i en forvaringsanstalt. Hovedregelen er at fanger som er idamt
+
+forvaring ikke skal sone sammen med fanger som soner ordinear
+
+fengelsstraff.
+
+### Overfaring
+
+3.2.1 Overfaring til annet fengsel med heyt sikkerhetsniva
+
+Du kan sake overfaring til annet fengsel med heyt sikkerhets-
+
+niva. En slik overfaring kan skje hvis det er grunn til a tro at dine
+
+sserskite bechov best blir juaretatt slik, sikkerhetsmessige hensyn
+
+ikke taler mot det og fengselet ikke har grunn til a tro at du vil
+
+unndra deg gjennomfaringen.
+
+#### 3.2.2 Overfaring til fengsel med lavere sikkerhetsniva, overgangs-
+
+bolig eller institusjon
+
+Du kan ogsa sake deg over til fengsel med lavere sikkerhetsniva
+
+eller overgangsbolig. Slik overfaring kan ikke finne sted fer du har sonet minst to tredjedeler av minsteiden som er fastsatt. Vanligvis kan du ikke tibringe mer eenn et af av straffen i overgangsbolig.
+
+Regionen kan innivige dette nar det er et ledd i en planiagt progresjon fram mot laslatelse. Hvis sikkerhetsmessige hensyn taler mot det eller fengselet har grunn til a tro at du vil unndra deg straffe-
+
+gjennomfaringen (for eksempel ramme), vi du ikke fa invnivget slik overfaring.
+
+Fanger idamt forvaring kan ikke sake om soning uttenfor fengsel, sakalt hjemmesoning. Du kan lese mer om hjemmesoning i
+
+kapittel 20.
+
+Forskriften $ 10
+
+Du kan sake om overfaring til heldegnsinstitusjoner. Dette kan
+
+for eksempel vaere institusjoner som kan hjelpe deg med a bli
+
+rusfri, eller andre typer institusjoner. Regionen kan innivige dette
+
+derson vilkarene i straffegjennomfaringslowens $ 12 er oppft/t, og
+
+sikkerhetsmessige grunner ikke taler mot det. Vanligvis vi el instit-
+
+tusjonsopphold kunne vare i 1 ar, men dette kan utvides dersomdine sserlige behov for behandlings- og rehabiliteringstiltak tilsier at det er nadvendig.
+
+Les mer om overfaring fra fengsel til behandlingsinstitusjon, ogsa kalt <<$ 12-soning>>, i kapittel 21.
+
+#### 3.2.3 Overfaring uten samtykke fra deg
+
+Forskriften SS 8
+
+Fengselet kan i spesielle tifeller overfare deg til annet fengsel eller en ananen avdeling, selv om du kike har samtykket til dette. Det kan bare skie nar sserlig tungtveiende sikkerhetsmessige grunner taler for det, eller nar akutte bygnings- eller bemannings- messige fonhold eller blassmangel tilsier det. l disse tifellene skal overfaringen helst veere midertidig, og fengselet skal soke a legge fonholdene best mulig til rette for deg, silk at ulempene ved overfaringen blir minst mulig.
+
+Les mer om overfaringer i kapittel 18 og om hva som ber med i en saknad om overfaring i kapittel 9. Du kan ogsa sparre kontaktebetjenten din eller Jussbuss om a hjelpe deg.
+
+## 4 Hva slags behandling har ieg rett pa under fengselsophopholdet?
+
+Forskriften SS 3
+
+I forvaringstorskriften star det at forvaringen eskkal ta utgangs- punkt i domfeltes kriminalitlet og tilpasses den enkeltes sserlige forutsetinger og behovn. l dette ligger det at du som innsatt kan forvente at du far tilbud om arbeid, utdanning og/eller ulike former for behandling eller terapi som passer deg. Eksempler pa tiltak kan vaere samtaler med psycholog eller psykiater, program, samta- legrupper, kurs osv. Malet med disse titikene skal vaere a endre din aafred, samt gi deg mulighet til atwikle deg og motivrike ny kriminalittet. Et viktig moment her er at fengselet skal legge til rette for at du far en gradvis progresjon i soningen. For eksempel kan dette vaere at du etter en tid i fengsel pa hayere sikkerhetsniva kan overflyttes til et fengsel pa lavere sikkerhetsniva, hvis fengselet finner at vilkarene for dette er oppfytl.
+
+Som forvaringsdamt skal du fa en reell mulighet til a utvikle deg. Endringsarbeidel skal gi deg mulighet til a oppna for eksempel permisjon, overfaring til lavere sikkerhetsniva, eller prevelesslatles. Dette innebarer ogsa at dersom du ikke viser en endring eller postitiv utvikling, kan fengselet bruke det som en begrunnelse for a nekte permision og overfaring til lavere sikkerhetsniva, eller for ikke a anbefale prevelaslatelse.
+
+## 5 Hvilke reaksjoner kan jeg fa i fengselet?
+
+### De uilike reaksionene
+
+Hvis du bryter reglene for ro, orden og disiplin i fengselet, eller regler etter straffegjennomfaringsloven, kan fengselet liegge deg reaksjon for dette. Det gjelder ogsa hvis du bryter regler eller vilkar under permision eller lignende. Silke reaksjoner kan vaere alt fra skriftig irettesettelse til utelukkelse fra fellesskapet, og videre tap av adgang til permision i nntli 4 maneder. De uilike reaksjonene du kan liegges som forvaringstfange, er i all hovedsak like reaksjonene du kan fa som fange idamt ordinear fengselstraff. Les mer om dette i kapittel 16.
+
+Det som skiller forvaring fra ordinear fengselstraff, er adgangen fengselet har til a ttelukke deg fra fellesskapet som forebyygende tiltak. Det er imidlertid viktig a papeke at dette ikke skal vaere en reaksjon, men kun et tiltak fengselet kan iverksette dersom det mener det er behov for det. Det er altsa ikke krav om at du har brutt en regel i fengselet, fer Kriminalomsorgen kan utelukke deg fra fellesskapet.
+
+### Utelukkelse som forebyygende tiltak
+
+Som hovedregel skal du ha adgang til fellesskap i avdelingen
+
+Forskrit om gjennomfering
+
+under arbeid, oppleering, program eller andre titlak og i fritden.
+
+Av sserreaksjonen
+
+Kriminalomsorgen kan imidiertid begrense adgangen din til
+
+fellesskap hett eller delvis. Dette kan gjferes dersom Kriminalom-
+
+sorgen begrunner det i hensynet til ro, orden og sikkerhet, eller at hensynet til deg eller andre innsante tilsier det. Efter forskrift om gjennomfering av sserreaksjonen forvaring skal dette ikke vaere et uforholdsmessig stort inngrep i din friet, sammenlignet med hensynene bak det a utelukke deg fra fellesskapet. En slik utelukkelse skal kompenseres med forsterket kontakt med ansante ved fengselet, og tilbud om aktiviteter under utelukkelsen. Lege skal ogsa varses om fullstendig utelukkelse med en gang.
+
+Hvis et vedtak om fullstendig utelukkelse strekker seg over 14 dager skal et slikt vedtak treffes av regionen. Hvis utelukkelsen gar over 42 dager skal Kriminalomsorgsdirektoratet ha melding om det. Delvis utelukkelse fra fellesskapet som strekker seg over 30 dager, skal meddeles til regionen. Som hovedregel skal en utelukkelse fra fellesskapet av alle innsatte i fengselet eller en gruppe innsatte, ikke vare i mer enn 3 dagn. Utelukkelsen kan imidertid fortenges med inntil 3 dagn dersom seerlige grunner tilsier det. Et slikt vedtak kan treffes av fengselet, men hvis utelukkelsen strekker seg utover 3 dagn er det regionen som ma treffe vedtaket. Les mer om de ulike reaksjonsformene i kapittel 16 og 17.
+
+## 6 Kan jeg fa permision under fengselsoppholdet?
+
+### Permision
+
+\begin{tabular}{p{142.3pt} p{142.3pt}} Strgill. \$ 33 & Det finnes ulike typer permisjoner. De som kan varee aktuelle ved forvaring er ordineer permisjon, velferdspermisjon og \$ 11 & Ent grumleggende fortustenting for a fa permisjon er at det er sikkerheitsmessig forsvarlig, fordi det viktigste hensynet bak forvaringstaffen er a beskytte samfunnet. Det er generell vanskeligere a fa permisjon ved forvaring enn ved soning av ordiner fengselstraff. Fengselet foretar en individuell vurdering der de vurderer det straftbare forholdets art, hvor lang forvaringsdom man har og hvordan man har opgfort seg sa langt i soningen. Fengselet kan ogsa ta kontakt med politi/patalemyndighet for a se om det finnes opplysninger av belydoning for permisjonssparsmalet. Et annet krav som stiles for a fa permision er at den alminnelige rettsoppfatting ikke er til hinder for det. Kriminalomsorgen vi her ta hensyn til om du er damt for et alvorlig straffbart forhold. Det blir ogsa vurdert om en eventuell permisjon ville virke statende, saurlig overfor eventuelle fornaermede eller pararerende. Dette kan tale mot en permisjon, spesiett tidlig i soningen. Imidlerti skal dette kun varee et av fhere momenter i en konkret helhetsvurdering. Dersom du er damt til forvaring, innvilges permisjon senere i soningen enn under soning av ordinear dom. Hvis retten har fastsatt en minstetid for forvaringen, kan ordinear permisjon og korttidspermisjon bare innvilges dersom minst to trejededeler av minstetiden er utholdt. Er minstetid ikke fastsatt, kan permisjon bare invilges nar en del av straffen er gjennomfort. Permisjon ma ogsa anses hensiktsmessig og fornuftig for a oppna progresjon i soningen.
+
+Dersom vilkarene nevnt ovenfor er oppytl, kan du ogsa fa invnilget velferdspermisjon, fremskutt permisjonstid og i unntakstilfeller utvidet permisjonskvote. Permisjon til utlandet er ikke tillatt. Du kan lese mer om permisjon i kapittet 14.
+
+### Soningsavbrudd
+
+Forskriften SS 11
+
+Innsatte kan ikke invnilges soningsavbrud i gjennomfaringen av forvaring. Det er fordi avbrudd ses pa som en midertidig leslatelse, og fordi det ikke er forenlig med formalet med forvaringsordningen. Skulle det oppsta problemer, ma disse heller leses pa annen mate. Ved alvorlig sykdom er opphold pa institujson eller sykheus et alternativ. Det kan ogsa veere aktuel a skee om prevelslatelse hvis vilkarene for dette or oppytl. Er man soningsudyktig og soningsudyktigheten er av varg karakter, kan man fer minseteiden er utholdt ske om benadning. Du kan lese mer om soningsavbrud i kapittet 23.
+
+### Frigang
+
+Forskriften SS 12
+
+Som insnatt pa forvaring kan du fa frigang til arbeid, opplaering, program eller andre tillak utenfor fengsel dersom det wil hjepe deg med en gradvis tilpassing til samfunnet. Foruesteningen for dette er at det er sikkerhetsmessig forsvarlig. Det innebarer at du normalt ikke invnilges frigang fer du har gjennomfort permisjoner og er overfert til et fengsel med lavere sikkerhetsniva eller mindre restriktive gjennomfaringsformer. Dersom retten har fastsatt en minstetid for forvaringen, kan frigang farst pabegynnes nar minst 2/3 av tiden er utholdt. Hvis minstetid ikke er fastsatt, kan frigang invnilges mot slutten av gjennomfaringstiden nar det anses hensiktsmessig for din tlipasningsevne og rehabilitering. Les mer om frigang i kapittet 11.
+
+### Nar kan jeg lostates?
+
+Forskriften
+
+Du kan ske om prevelaslatelse for tidsrammen for forvaringsdommen har utlept. En slik saknad om prevelaslatelse fremsettes overfor Kriminalomsorgen, som kommer med en instilling til patalemyndigheten. Dersom patalemyndigheten samtykker til det, kan regionen vedta at du leslates pa preve, dersom den anser at vilkarene er til stede.
+
+Dersom patalemyndigheten ikke samtykker til prevelaslatelse, skal patalemyndigheten ta saken inn for tingretten, som avgjer ved dom om du kan fa prevelslatelse eller ikke. Slike saker skal paskyndes, slik at det ikke tar for lang tid fer du far vite om prevelslatelse invnilges eller ikke.
+
+Straffeloven SS 44 ferde leddDersom du far avslag pa prevelaslatelse, ma du vente 1 ar fra rettskraftig dom fer du kan seke om dete ijgen.
+
+Prevelaslatelse kan tidligst iverksettes nar minstetiden er utholdt. Prevetiden settes fra 1 til 5 ar.
+
+Under pravelaslatelsen kan det settes strenge vilkar. For eksempel kan det bestemmes at du skal ha en bestemt adresse, innetid, sysselsetting, behandling, rusfrihet, besok fra Kriminalomsorgen og jevnlige mater med Kriminalomsorgen. Det kan ogsa settes som vilkar at du skal bo pa institujson eller kommunal boenhet under pravetiden.
+
+Dersom du i pravetiden alvorlig eller gjentdate ganger bryter de fastsatte vilkar, eller begar en straffbar handling, kan tingretten beslutte a gleininsette deg i fengsel. Dom pa gieninnsettelse ma vaere braid inn for retten innen 3 maneder etter utapet av pravetiden.
+
+Hvis spersmalet om provelaslatelse ma behandles av tingretten, har du rett pa forsvarer. Dette skal du ikke betale for. Tingrettens avgjerles kan ankes til lagmannsretten, og til Hayesterett dersom ankeutvalget tillater det.
+
+## II. Tvunget psykisk helesvern og tvungen omsorg
+
+Dersom du erkleares psykotisk eller bevisstlas i jerningsayeblikket, skal du ikke idammes straff. Det samme gjelder deg som er psychisk utwikingshemmet i hay grad. Imidlertid vil du kunne idammes overfaring til tvunget psykisk helesvern eller til tvungen omsorg. Du ma ha begatt eller forsekt a bega forbrytelse av den art som er nevent under punktet om forvaring, og det ma anses a vaere behov for a verne samfunnet.
+
+ 
+
+## Kapitel 27
+
+Avdealing med
+
+searlig hayt sikkerhetsniva
+
+Dette kapittelet gir en oversikt over de sarergler som gjelder for deg som sitter pa avdeling med sazerlig hayt sikkerhetsniva. P a
+
+mange omrader er reglene de samme som i fengsel med hayt
+
+sikkerhetsniva. For a fa en full oversikt over reglene som gjelder ber du ogsa lese det som er skrevet i de andre kapittene.
+
+I. Vilkar
+
+For at du skal kunne bli satt pa avdeling med sazerlig hayt sikkerhetsniva, ma det forelioge sazerlig ramningsfare, fare for at noen
+
+utenfra vil hjelpe deg a rammare, fare for gissettaking eller fare for
+
+ny, sazerlig alvorlig kriminalitet. Dette kan blant annet varee aktaelt
+
+hvis fengselet tror du tilhrer en organisert kriminell gruppering,
+
+et terromettverk eller en ekstrom politisk eller religigas gruppe.
+
+Lovbruddet du er damt for, dommens lengde, tidligere oppfarsel i
+
+fengsel og andre opplysninger politiet eller Kriminalomsorgen har
+
+om deg, kan tas med i vurderingen.
+
+Du kan ogsa setttes pa sazerlig hayt sikkerhetsniva hvis du flere
+
+ganger har oppratd voldelig eller sazerlig truende under soning, og
+
+fengselet mener at andre sikkerhetststilk ikke er listrekkelige.
+
+Selv om du ikke tilhrer noen av gruppene nevnt overfor, kan du
+
+likevel overferes til sazerlig hayt sikkerhetsniva hvis det er gode
+
+grunner for det. Regionen kan legge vekt pa andre momenter har
+
+de vurderer dette.
+
+## II Avgjorelesemyndighet
+
+Forskriften SS 6-1
+
+Forskriften SS 6-1
+
+serlig hayt sikkerhetsniva. Det finnes ingen avre grense for hvor
+
+lenge du kan sitte pa en avdeling med sazerlig hayt sikkerhetsniva,men regionen ma ta en ny vurdering av om du skal bli der hver 6. maned. Regionens besluttinger om innsettelse og forlengelse av opphold pa sarelig hayt sikkerhetsniva er vedtak som du kan du klage pa. Du kan ringe Jussbus hvis du har spersmal om dette. Les mer om klage i kapittel 9.
+
+## III. Fellesskap med andre
+
+Forskriften SS 6-3 Nar du sitter pa avdeling med saerlig hayt sikkerhetsniva, kan du ikke ha fellesskap med innsatte pa andre avdelinger. Det er fengselet som bestemmer om du kan ha fellesskap med de andre innsatte pa din avdeling. Innsatte pa avdeling med saerlig hayt sikkerhetsniva kan uttelukkes fra fellesskap pa ubegrenset tid, sa lenge utelukkelsen ikke anses uftorholdsmessig. Les mer om utelukkelse fra fellesskap i kapittel 17.
+
+## IV. Undersokelse
+
+Forskriften SS 6-8 Nar du kommer til avdeling med saerlig hayt sikkerhetsniva, vil bade du og eiendelene dine bli undersekt. Det samme gjelder for ogtet opphold utenfor avdeling, for eksempel hvis du har vertt que pa fremstiling.
+
+Forskriften SS 6-9 Hvis du skal fa besek, ma den besekende sjekkes opp mot det sentrale strafferegisteret pa fohland. Dette gjeres minst hver 6. maned. I tillegg kan fengselet innhente opplyninger fra politiet. Alle som skal pa besek i avdeling med saerlig hayt sikkerhetsniva ma passere en metalldetektor. De kan ogsa kontrolleres pa andre mater, for eksempel med tekniske hjelpemidler eller hund. Dette gjelder ogsa hvis du far besek av advokaten din eller en offentilg mymdighetsperson.
+
+Det er ikke lov a ta med gjenstander inn eller ut av avdeling med saerlig hayt sikkerhetsniva uten saerskilt tillatelse. Dersom du eller den besekende far slik tillatelse, blir gjenstanden undersekt naye. Det gjelder ogsa gjenstander som advokater og offentilige mymdighetspersoner har med seg, men fengselet kan ikke kontrollere gjenstandene til skike personer pa en mate som gjar at konfiden-sielle dokumenter blir avslert eller adelagt. Les mer om undersekles i kapittel 15.
+
+ 
+V. Besok, brev og telefon
+
+### Besok
+
+Retringstinjene til strgjfl.
+
+$ 10 punkt 10 (2) 13
+
+Forskriften $ 6-10
+
+Skal du ha besok, ma fengselet godkjenne det pa fonhand. Besok
+
+$ 10 punkt 10 (2) 13
+
+vil normalt skje med glassvegg og avlytting, eller med en ansatzt i
+
+fengselet til stede. Samtalene skal foreign pa engelsk, norsk eller
+
+et annet sprak den som skal kontrollere samtalen forstar. Dersom
+
+du eller den som beseker deg snakker et sprak den ansatte ikke
+
+forstar, kan samtalen avvrytes umiddelbart.
+
+Besok av advokat eller offentlig myndighestrepresentant skal
+
+skje med glassvegg. Slike samtaler skal ikke avlyttes, og det kan
+
+heller ikke plasseres en fengselasantsatt i rommet. Fengselet kan
+
+bestemme at en ansatzt kan se pa samtalen fra et annet rom.
+
+Pabudet om a snakke norsk eller engelsk ajelder ikke ved besok
+
+fra advokat eller offentlig myndighestsperson.
+
+Forskriften $ 6-5
+
+Samtaler med prest, religigies forstander, sjelesarger eller tilsvarcende personer, skal nommat skje under de samme kontroltitlak
+
+som ved andre besok.
+
+### Post
+
+Post du sender og mottar skal kontrolleres for utlevering eller
+
+sending. Dette kan skje ved gjennomlysing (eller lignende) og jennomlesing. Sendinger kan ogsa helt eller delvis inndras.
+
+I tilegg kan posten din bli kontrollert ogsa eiter at du har fatt
+
+den utlevert. Posten du sender og mottar ma vaere skrevet pa
+
+norsk eller engelsk, eller et annet sprak den som skal kontrollere
+
+posten behersker.
+
+Post til og fra advokat eller offentlig myndighestrepresentant skal
+
+undersokes for eksempel ved gjennomlysing. Ved mistanke kan
+
+fengselet ogsa apne post menus du er til stede. Fengselet har
+
+likevel ikke rett til a lese gjennom slik post, og kontrollen kan heller
+
+ikke foreign pa en skik mate at konfidensisell informasjon i sendingen
+
+kan bli adelagt eller avlsert. Les mer om post i kapittel 13.
+
+### Telefonsamtaler
+
+Forskriften $ 6-12
+
+Alle telefonsamtaler ma godkjennes pa fonhand av fengselet.
+
+Samtalen skal avlyttes. Du og den du snakker med ma snakke norsk, engelsk eller et annet sprak den som kontrollerer samtalen forstar. Hvis dere snakker et annet sprak, eller hvis det er mistanke om at telefonsamtalen blir misbrukt, kan samtalen bli avbrutt.
+
+I tilegg til a avytte samtalen kan fengselet velge a ta opp samtalen dersom det er mistanke om at du planlegger a remme.
+
+Fengselet kan ikke ta opp eller avytte telefonsamtaler du har med advokat eller offentilg myndighestrepresentant. De kan imidletid avbrytte samtalen for a jsekke identiteten til den du snakker med, og dette kan gjeres uavhengig av hvem du snakker med.
+
+## VI Arbeid, opplaring, program og andre tiltak
+
+Som insatt pa avdeling med saerlig hayt sikkerhetsniva har du mindre fellesskap med andre insnate. Dette skal du fa kompensert ved utvidelt kontakt med ansatte i fengselet, og mer tildredssti lende arbeid, utdanning og andre aktivitetsarbeld og fritidsysler. Det varierer fra fengsel til fengsel hvilke tibud du far. Les mer om arbeid ogtudanning i kaptitel 11.
+
+## VII Permisjon, straffavbrudd og fremstilling
+
+Det er ingen egre regler om permision og straffavbrudd for deg som sitter pa avdeling med saerlig hayt sikkerhetsniva. Det er ikke noe i veien for a seke om det, men det skal svert mye til for a fa invnijet dette. Vilkaret for a fa invnijet permision eller straffavbrudd er at det ikke er sikkerhetsmessige grunner som taler mot at du er utenfor fengsel. Siden du sitter pa avdeling med saerlig hayt sikkerhetsniva, skal det mye til for at fengselet mener det er sikkerhetsmessig forsvralig a invnije seknadene. Jussbuss kan hijepe deg med a klage hvis du far avslag pa seknader.
+
+Forskriften SS 6-13Fremstilling pa avdeling med saerlig hayt sikkerhetsniva gis bare i ekstraordiniere tifeller ved helesbehandling. Du kan lese om permisjon og fremstilling i kaptitel 14.
+
+## VIII Overforing
+
+Stgifl. SS 14Du kan bli overfert til et annet fengsel med samme sikkerhetsniva. Siden det finnes fa fengsler med saerlig hayt sikkerhetsniva, kan det vare prektisk vanskelig a fa overfering. Regionen kan bestemme at du skal overferes for a hindre at du blir for godt kjent med sikker * [228] hetsrutinene der du soner. Ellers gjelder de samme vilkarene som for overfaring mellom avdelinger med hayt sikkerhetsniva.
+* [229] Det er mulig a seke overfaring til fengsel med hayt sikkerhetsniva. Vilkaret er at en silk overfaring anses sikkerhetsmessig forsvarlig, og at det ikke er gunn til a tro at du vil prove a ramme. Kriminalomsorgen skal vurdere overfaring til avdeling med hayt sikkerhetsniva fra avdeling med sazerlig heyt sikkerhetsniva med maks 6 maneders mellomom.
+* [230] Du kan lese mer om overfaring mellom fengsler i kapittel 18.
+
+ 
+
+## Kapitel 28 Forberedelse til laslatelse
+
+### I. Kriminalomsorgens oppgaver
+
+Straffejennomferingsloven
+
+(strgjfl.) SS 41
+
+Kriminalomsorgen skal i god tid forberede deg og bidra til hjelp ved laslatelse. Reglene gjelder uansett om du loslates fer fulltid eller ikke. Ogsa hvis du soner en kort straff skal Kriminalomsorgen sa godt som mulig hjelpe til med a forberede deg for laslatelse.
+
+Retningslinene til SS 41
+
+punkt 41.1 og 41.2
+
+Hvis det er nadvendig, skal fengselet hjelpe deg med a kontakte offentlige mynndigheter, organisasjoner eller privatpersoner som kan bidra i loslatelesprosessen. For eksempel kan sosialkonsulenten hjelpe deg i kontakt med navr for a skaffe deg bolig eller jobb. De kan ogsa sette deg i kontakt med organisasjoner som WayBack eller andre som kan hjelpe deg pa veien mot et liv uten kriminalitet.
+
+Fengselet skal hjelpe deg from mot leslatelsen, men du har ogsa et ansvar selv. Malet er at fengselet skal bidra til at du ved egen innsats blir best mulig forberedt pa et lovydig liv. Friomsorgen skal ogsa veare med i forberedelsene.
+
+Hvis det er behov for det, skal fengselet lage en plan for laslatelsen din. Fengselet skal spesielt preve a bidra til at du har et sted a bo og at du har jobb, tar utdannelse eller har et annet opplearingstilbud. Dersom du ikke har et sted a bo, skal fengselet kontakte sosialtipenesten (NAV) skit at de kan hjelpe deg med a skaffe bolig.
+
+Hvis det er nyttig for a forberede til iden etter laslatelse, kan fengselet gi deg kortidspermisjon i tillegg til vanlig permisjonskvote. Dersom forberedelsene kan ordnes pa andre mater, tenger ikke fengselet a gi ekstra permisjon.
+
+Hvis du er under 18 ar skal fengselet saefig arbeide for kontakt med foreldre, barneverm og andre viktige personer for unge.
+
+
+## II Reiseutgifter ved loslatelse
+
+Forskriften til strgift. SS 3-40
+
+Nar du leslates skal fengselet som hovedregel dekke den billigste
+
+Retningslinjene til $ 41
+
+reisematen fra tengselet til dit du skal i Norge. De skal ogsa dekke
+
+nadvendig mat under reisen. <<Nadvendig> betyr at fengselet
+
+dekker utgifter til en normal mengde vanlig mat.
+
+Hvis du er utenlandsk statsborger som ikke er utvist, men som
+
+likevel skal reise ut av landet, betaler fengselet for reisen til dit
+
+i Norge hvor utenlandsreisen din starter. Hvis du for eksempel
+
+laslates og skal ta tog til hjemplandet fra Oslo S, betaler fengselet for reisen fra fengselet til Oslo S, men du ma selv betale for
+
+billetten fra Oslo S til hjemplandet.
+
+Det gjelder andre regler hvis du er utvist. Ofte blur du hentet av
+
+politiet og sendt ut av Norge. Du kan lese mer om utvinsning i
+
+kapittel 33.
+
+## III Klaer og annet utstyr til bruk ved loslatelsen
+
+Hvis du har behov for det skal fengselet hjelpe til med a skaffe klaer
+
+eller annet utstyr du trenger nar du laslates. Hovedregelen er at du
+
+selv skal betale for det du trenger. Hvis ikke dagpengene du tjener
+
+i fengsel eller penger du ellers har er nok, skal fengselet hjelpe deg
+
+med a kontakte sosialkontoret. Sosialtjenensten har ansvar for a
+
+dekke nadvendige utgifter til klaer og sko ved laslatelsen.
+
+Du kan lese mer om pravelaslatelse i kapittel 29.
+
+ 
+
+## Kapitel 29 Pravelslatelse og fremskutt lgslatelse
+
+Pravelslatelse betyr at du slipper ut av fengsel fer du har sonet straffen ferdig. Det er ferst mulig a f prevelaslatelse etter at du har sonet halvparten av dommen din (1/2-tid). Det mest vanliger et a fa prevelaslatelse etter a ha sonet to tredjedeler av dommen (2/3-tid). Det gar ogsa an a fa leslatelse kort tid for du ellers skulle blitt lgsalt, for eksempel i forbindelse med jua.
+
+Dette kapittelet handler om lgslatelse fer fulltid. Hvis du tenger hjelp til a sake om prevelslatelse kan du kontaktes Nussuss eller et av de andre rettshjelpstitakene. Du kan ogsa be kontaktebetenten din om hjelp.
+
+## I Lgslatelse pa 1/2-tid
+
+\begin{tabular}{l l} Straffejennomferingsloven (strgifl.) \$ 42 tredje led & Du kan leslates pa preve nar haludelen av fengselstraffen og minst \\
+60 dager fengsel er gjennomfert. Dagene du har sittet i varetekt \\ teller med i denne beregningen. Dette kalles leslatelse pa halutid. \\ \end{tabular}
+
+\begin{tabular}{l l} Det m avere \$aerlige grunners som tilisier at du skal loslates pa \\ halvtid. Dette betyr at soningen ma pa fareg deg eller din familie \\ ekstra store pakjeninger i forbid til det som er vanlig for innsatte. \\ Det skal svzert mye til for a bli leslatst sa tidlig. \\ \end{tabular}
+
+\begin{tabular}{l l} Retningslinene til \$ 42 & Det blir gjort en helntsvurdering i hvert tifelle. Nedern for star noen \\ purkt 42.6, 42.7 & av de forholtene som det blir lagt vekt pa: \\ \end{tabular}
+
+\begin{tabular}{l l} Om det er grunn til a tro at du vil bega nye straffbare handlinger \\ i prevetiden. Fengselet trenger ikke vere skre pa at du kommer \\ til a gjere noe straffbart. Det holder at de har en mistanke. \\ \end{tabular}
+
+\begin{tabular}{l l} Om overfaring til amnet fengsel eller institujson etter \$ 12 er \\ et bedre og disttrekkelig alternativ som kan lette situasjonen. \\ Fengselet skal alltid vurdere dette for de eventuelt gir halvtid. \\ \end{tabular}
+
+* Om frigang, straffawbruudd eller utvidet permisjonskvote kan bedre situasionen, eller om du kan gjennomfare straffen hjemme med eller uten fotlenke.
+* Hvor lang tid det er igien til laslatelse ellers skal skje, altsa nar det er foreventet at du er ferdig sonet.
+* Hva du er damt for, hensynet til formarede og <<den almininege rettsopftantig>>. Det bet betyr hva folk flest i samfunnet tenker om alvorligheiten av det du er damt for.
+* Om fortsatt soning vli pafare deg flere helseskader og det ikke er noe som tyder pa at heelsen din vli bli vesentig bedret i naemeste fremtid.
+* Om det at du soner i fengsel er veldig skadelig for familien din eller andre nerstaende. Det kan vaere pavirkning pa deres helse, okonomi eller sonsiale liv. Vurderingen skal seerlig ta hensyn til barna dine. Problemene ma veere mye starre enn det andre insante opplever. Det er ikke nok at soningen gar ut over familiaren ved at de far far farligere okonomi eller at barna blir mobbet fordi du sitter i fengsel.
+* Om hensynet til rehabilitering taler for det. Hvis du har fatt tilbud om arbeid, skole eller annon opfpalging fra en bestemt dato, kan det tale for halvid. Det er bare i veldig sjeldne tifeller at slike tilbud blir lagt vekt pa. Du ma derlor ha spesielle grunner, og det ma ikke vaere mulig a gjennomfare fra fengselet.
+
+For at du skal fa prvelaslatelse pa halvid ma det heller ikke vaere utilradelig>> a loslate deg. Les mer om dette under punkt VII. Det er svaert viktig at skknaden er godt begrunnet og dokumenter. Dokumentasjon kan for eksempel vaere atttester eller journaler fra lege eller psykolog, samt skriv fra betjenter eller andre som jobber i fengselet. Les mer om dette i kapittel 9 om seknader og klager.
+
+## II Loslatelse mellom 1/2-tid og 2/3-tid
+
+Strgift. SS 42 tredje leddFor leslatelse mellom 1/2-tid og 2/3-tid gjelder de samme reglene som for laslatelse pa halvid.
+
+### Loslatelse pa 2/3-tid
+
+Strgift. SS 42 ferste leddDu kan bli laslatt pa preve nar du har sonet 2/3 av straffen og har vaert minst 60 dager i fengsel. Dagene du har sittet i varetekt teller med i denne beregningen. Regelen om prevelaslatelse pa 2/3-tid gjelder ikke nar du soner en dom pa 73 dager eller mindre, eller hvis tiden frem til endt tid blir mindre enn 14 dager.
+
+ Det finnes et unntak fra tidsbegrennsingen: Hvis <<tungtveiende grunner>> taler for leslateles, kan du leslates selv om det er mindre enn 14 dager igjen til fulltid. <<Tungtveiende grunner>> betyr at du ma ha svaert gode grunner. Slike grunner kan for eksempel vaere vanskelige familieforholdt eller helessituasjonen din. Det skal mye til for a oppylle dette kravet.
+
+Domfelte som er damt i utlandet til fengsel i mer enn 30 ar og som er overfert til soning i Norge, kan leslates pa preve etter a ha vaert fengselt i minst 20 ar.
+
+For at du skal fa prevelislateles ma det ikke vaere <<utilradelig>> a leslate deg. Se mer om dette under punkt VII.
+
+Hvis du far avslag pa seknad om prevelislateles pa 2/3-tid skal fengselet fortipende vurdere prevelislateles pa nytt. Ny vurdering skal senest skje innn 3 maneder etter at du oppnadde 2/3-tid hvis du soner en dom pa under 5 ar. Hvis dommen er mellom 5 og 12 ar, skal vurderingen skje innn 6 maneder etter at du oppnadde 2/3-tid. Hvis du soner en dom pa mer enn 12 ar skal vurderingen skje pa nytt innn 1 ar.
+
+## IV Loslatelse kort tid for loslatelsen ellers skulle skje (fremskutt loslatelse)
+
+[1] Du kan leslates <<kort tid>> for leslatelse ellers skulle skje hvis <<searlige grunner>> tilsier det. Dette kalles ote fremskutt leslatelse. Det er en mulighet uansett hvor kort eller lang dommen din er, men gjelder ikke domfelte og betelagte som gjennomferer subsi-dier fengselstraft (betesoning). Det skal generett mye til for a fai keslatelse.
+
+Det er vanskeligere a fa fremskutt prevelislatelse fra korte dommer enn lange. Det ma vaere sserlige viktige personlige forhold som for eksempel arbeid, utdanning, familie eller boligforhold som tilsier at du skal leslateles tidligere. Et praktis tiffelle kan vaere at du har fatt tlibud om en jobb pa betingelsen av at du meter opp pa en bestemt dato som er rett for den egentlige loslatelessdatoen. Dette ber vaere godt dokumentert. Fremskutt leslatelse kan ogsa bli Aktuelt hvis leslatelsen skal skje pa en helligdag eller en offentlig fridag.
+
+ Nar loven viser til at du kan leslates <<kort tid>> for lislatelse ellers skulle skje, menes dett fa dager eller tuker fer opprinnelig laslatelsestidspunkt. Hvor mange dager tidligere du kan fa fremskutt laslatelse, avhenger av lengden pa dommen din. Fengselet kan innivige leslatelse 3 dager fer tiden pa dommer som er pa inntil 6 maneder. l sarlige tiffeller og ved lengre dommer kan du i utgangspunktet laslates inntil 7 dager fer laslatelse ellers skulle skje. Du kan aldri fa fremskutt leslatelse mer enn 3 uker fer du ellers skulle ha blitt laslat.
+
+## V. Juleamnesti
+
+Juleamnesti er en spesiell type fremskutt leslatelse (se punkt IV overnof). Juleamnesti betyr at du kan bli laslatt litt fur jul h ruis du eigentlig skal laslates en av de naermeste dagene for jul, under jula, eller de naermeste dagene etter jul. Reglene blir gitt av Kriminalomsorgsdirektoratet hvert ar. Du kan snakke med fengselet for a fa mer informasjon om dette. Du kan ogsa ta kontakt med Jussbuss.
+
+## VI. Loslatelse av innsatte med utenlandsk statsborgerskap
+
+Vilkaret for at utenlandske innsatte skal fa leslatelse pa 1/2-tid er det samme som for norske innsatte. Det skal svert mye til. Utenlandske innsatte kan ha andre argumenter for 1/2-tid enn det norske innsatte har. Du kan for eksempel ha en saeflig tung soning sammenlignet med nordmenn. Eksempler kan vaere at du ikke har fatt permisjoner eller besak, at sprakproblemer har medfert lite fellesskap eller at du har blitt isolert fra de andre innsatte. Problemene dine ma vaere mer tyngende enn det andre utenlandske innsatte opplever.
+
+Ogsa for lislatelse pa 2/3-tid gjelder de samme reglene som for norske innsatte. Akkurat som for 1/2-tid kan utenlandske innsatte ha andre grunner for pravelslatelse pa 2/3-tid. Det er viktig a forklare tydelig hvtor situasjonen din er spesiell nar du skal seke laslatelse. Fengselet kan ikke nekte deg prevelslatelse bare fordi du er utvist. At du er utvisst, er altsa ikke alene grun til a nekte deg 2/3-tid. Jussbuss kan veilede deg om hvordan du skriver en god seknad.
+
+Hvis du har endelig vedtak om utvising fra Norge og far pravels-punkt 42.12
+
+Se kapittel 33 om utvising
+
+Miteller vil du bli hentet av politiet og tvangsutsendt samtidig med Isslatelsen. Av og til kontakter fengselet politiet fer laslatelsesda-toen din settes, og avtaler med dem ogn har du skal transporteres ut. I noen tiffeller vi altsa uttransporteringen fa betyndning for tifradelighetsvurderingen fengselet skal foreta nar du saker om prevelaslatelse.
+
+## VII. Tilradelighetsvurderingen
+
+Strgfl. SS 42 femte ledd Du far ikke prevelaslatelse dersom fengselet etter en helhetsvurdering kommer from til at laslatelse er <<utilradelig>>. <<Utilradelig>> betyr at fengselet ikke mener at det er trygt eller forsvarlig a lesslate deg. Fengselet trenger ikke varee helt sikre eller ha mange bevis pa at laslatelse er utilradelig, det holder at de har mistanke.
+
+Rotningslinjene til SS 42
+
+punkt 42.10
+
+Jo fhere momenter som tyder pa at det er utrygt a lesslate deg, jo starre sannysnlighet er det for at du nektes prevelaslatelse. Fengselet legger vekt pa ulike ting i vurderingen, blant annet felgende momenter:
+
+Oppferselen din under soningen. Om du har begatt dokumenterte og gjentateeller alvorlige disiplinearbrudd er det nee som taler mot prevelaslatelse. Brudd begatt tidlig under soningen skal ha mindre vekt.
+
+Om det er samnsynlig at du kommer til a bega nye stratfbare handlinger hvis du far prevelaslatelse. Fengselet legger vekt pa om du er damt fhere ganger tidligere <<qjengangere>>, om du har begatt straffbare handlinger nar du har fatt provelaslatelse under soning av tidligere dom eller om du har gjort noe straffbart kort tid etter at du har gjennomfort en tidligere dom.
+
+Om du er anneldt eller siktet for nye straffbare handlinger.
+
+Om du mette opp til soning mer enn en uke for sent.
+
+Om du ikke selv ansker laslatelse, og nekteelsen har en akseptabel grunn. Hvis du har fatt et endelig vedtak om utvinsning, regnes det ikke som akseptabel grunn for a motesette seg pravelaslatelse.
+
+Om du har vist en vilig til a endre livsforsel. Det teller positivt hvis du har deltatt i ulike programmer i fengselet.
+
+Setv om vikarene for a nekte deg provelaslatelse er oppftv, kan du likevel laslates pa prove i noen tiffeller. Det kan vare hvis det er sserlige forhold som gjor det sterkt urimelig ikke a lesslate deg, eller hvis leslatelse etter en totalvurdering likevel fremstar som tifradelig. Dette er typisk nar det er noen helt spesielle forhold som ttisier at du bar leslates. Her ser fengselet pa de samme <<saerlige grunnene som kan vare grunn til laslatelse pa 1/2-tid. Det er viktig at du kan dokumentere og forklare i ssknaden din hvorfor kravene er oppftyt for deg. Eksempel pa dokumentasjon kan varere uttaleser eller journaler fra lege eller psykolog, skriv fra betienter eller fra arbeidsplassen din i fengselet.
+
+## VIII. Nar skal proveloslatelse vurderes?
+
+Retningslinjene til SS 42
+
+punkt 42.2
+
+Fengselet skal pa egenhand ta opp sparsmalet om provelaslatelse far endt tid. Tidspunktet for nar du skal laslates skal avklares sa tidlig som mulig og i good tid fer leslatelsen skal skje.
+
+Du kan lese mer i kapittel 9 om ssknader og klager.
+
+## IX. Hva betyr det at laslatelsen er pa prove?
+
+Nar du leslates fer endt tid (full tid), blir du leslatt pa prove. Tiden etter at du leslates og from til straffen din er helt ferdig kalles pravetiden. Pravetiden er ferdig nar du har endt tid.
+
+Det er alltid et vilkar for provavelaslatelse at du ikke begar nye straff-bare handlinger i pravetiden. Kriminalomsorgen kan ogsa sette andre vilkar hvis de mener at det er nadvendig.
+
+Et annet vanlig vilkar er at du skal ha jevnlige mater med friomsorgen i praveperioden (mateplikt). De kan ogsa bestemme at du har meteplikt med en kontaktperson som de har valgt. Hovedregelen er at meteplikt i pravetiden skjer ved oppmate til friomsorgen ved hjemstedtet ditt. Du m mate opp uten a vare pavirket av alkohol eller nvamidler. Det kan bli gjort kontroll av deg for a underseke dette, for eksempel urinprove. Andre vilkar kan vare at du skal jobbe eller bo et bestemt sted, falge behandling eller ikke mate bestemte personer.
+
+Du skal gjares kjent med og underskrive vilkarene fer leslatelsen. Vilkarene kan oppheves og endres i lpet av prevetiden, og det kan settes nye vilkar hvis Kriminalomsorgen mener det er nodvendig.
+
+ Kapittel 29 - Prevelslatelse og fremskutt leslatelse 237
+
+## X Brudd under preveloslatelse
+
+Ved farste gangs brudd pa vilkarene for preveloslatelse, vil du
+
+Forskritten $ 3-45
+
+Retningslinjene til $ 44
+
+punkt 44.2
+
+Det regnes som brudd hvis du brat vilkarene med vije. Det gjelder
+
+ogsa hvis du ikke brat vilkarene med vije, men hvis du matte eller
+
+burde forstatt at du brat vilkarene.
+
+Hvis du etter a ha hat innskjerpingssamtale eller fatt fastsatt
+
+nye vilkar, bryter vilkar pa nytt, kan regionen bringe saken inn
+
+foringretten, og be om at du skal settes inn i fengsel igjen. Hvis
+
+forste led bokstav c
+
+du riskerer a matte fulbybrde ubetinget frihestsstraff i mer enn 6
+
+manedeter etter brudd pa vilkarene for preveloslatelse, har du krav
+
+pa forsvarer - med mindre sakens art og forholdene ellers gjer at
+
+retten finner det ubetenkelig at du er uten forsvarer. Er det snakk
+
+om kortere fullypredes (under 6 maned), far man bare forsvarer
+
+hvis retten mener det foreligger sserlige grunner.
+
+Strgifl. $ 45 annet ledd
+
+Hvis du begar en my straffbar handling i prevetiden, er det politiet
+
+jf. straffeloven $ 52
+
+som forbereder saken for retten. Brudd pa vilkar kan fere til at den
+
+restitden du hade igjen av den gamle straffen ma sones i tillegg
+
+til den nye dommen. Det samme gjelder hvis du har en betinget
+
+dom i tillegg til den ubetingede dommen du har pravetid fra. Da
+
+kan du matte sone den betingede dommen sammen med resten
+
+av dommen du har prvetid fra.
+
+ 
+
+## Kapittel 30
+
+Varsel til fornearmede
+
+eller etterlatte
+
+Forvaltingsloven SS 13
+
+Straffejennomferingsloven
+
+(strgif.) SS 7 b
+
+Hovedregelen er at fengselet har taushetsplikt om de innsate.
+
+Dette kan du les meer om i kapitlet 10 om taushetsplikt. Pa tross av
+
+taushetsplikten kan fengselet gi enkelete opplyninger til fornearmede
+
+eller etterlatte ved visse anledninger nar du forlater fengselet.
+
+I dette kapittelet kan du lese om hvordan og nar det kan varsles.
+
+Du vil ogsa fa informasjon om hvrem som kan varsles, og om
+
+hvordan du kan klage pa beslutning om a varsle.
+
+### I. Generell om varsel
+
+Retningslijene til strgif.
+
+Formalet bak bestemmelsene om varsling er a gi fomaremrede
+
+SS 7 b punkt 7b.2
+
+eller etterlatte informasjon om anledninger der de kan mate pa
+
+deg. Dette kan oppleves belastende fornearmede, og disse skal
+
+gis mulighet til a innrette seg, slik at de kan unga a mate pa deg
+
+hvis de ikke ansker det.
+
+Retningslijene punkt 7b.5
+
+Bestlutningen om a varsle tas av det nivaet i Kriminalomsorgen
+
+(fengselet eller regionen) som invilger at du forlater fengselet.
+
+Du kan lese mer om hviket niva som treffer hvilke avgjereiser i
+
+kapitlene om de ulike avgjerelsene og i kapitlet 8 om fengseels-
+
+systemets opppysping. I dette kapittelet bruker vi fengselet som
+
+eksempel. De samme reglene gjelder hvis det er regionen som
+
+har bestemt at det skal varsles i saken din.
+
+Fengselet kan innhente informasjon til vurderingen fra politiet,
+
+socialitgenesten, barneverm og lignende institujener uten hinder av
+
+taushetsplikten. Fomermrede eller etterlatte kan ikke kontaktes for
+
+a uttale se seg fer etter at det bestemt at varsel skal gis.
+
+Gjennomferingen av varslingen stfar fengselet for. Varselet
+
+skal som hovedregel gis som brev eller som Digipost, men kan
+###### Abstract
+
+The _Fronzermede_ (Fronzermede) _ er fare for hevnaksjoner eller lignende. Hvis det er slik fare, skal det ikke varsles.
+
+Dersom varsel gis har dette ikke invnvirkning pa vurderingen av om det er skikerhetsmessig forsvarlig a invnivleg utgangen fra fengselet. Varsel kan ikke gjare at avgjerelser om at du kan foritate fengselet blir skikerhetsmessig forsvarlige. Sikkerhetsvurderingen skal gjares pa selvstendig grunnlag, uavhengig av varselvurderingen. Sikkerhetsvurderingen kan du lese mer om i kapittelet som handler om den type utgang som er aktuelt for deg.
+
+## II Hvem kan varsles
+
+Varsel kan kun gis til fornaermede eller etterlatte i den eller de
+
+uktuelle straffesakene du soner for na. Hvis du idammes forvaring for nye forhold fer en eller flee tidligere dommer er ferdig
+
+sonet, kan de fornaermede eller etterlatte i de tidligere sakene
+
+ogsa varsles. Fengselet vil da vurdere behovet for varsling pa det
+
+aktuelle tidspunktet.
+
+Fomaermede er den eller de som har vaert utsatt for en straffbar
+
+handling. Hvem som er fornaermet i din sak, fremgar som regel av
+
+dommen din. Du kan sparre advokaten din hvis du er usikker pa
+
+hvem som er fornaermet.
+
+Varsling av etterlatte er aktuelt nar noen har mistet livet i forbin-
+
+delse med det du er damt for. Med etterlatte menes avdedes
+
+ektefelle, samboer, barn, foreldre og sakken. Dersom det er flere
+
+eterlatte, skal fengselet konkret vurdere om det er nok a varsle en
+
+av de naermeste, eller om flere skal varsles.
+
+### Fornaermede og etterlatte under 18 ar
+
+Retningslinjene til SS 7 b
+
+punkt 7b.4 og 7b.5
+
+Personer under 18 ar kan ha et seerlig behov for varsling. Det skal
+
+vurderes s aerlig naye om varsel skal gis i disse situasjonene, selv
+
+om du soner for mindre alvorlige lovbrudd.
+
+Hvis fengselet beslutter at varsel skal gis til noen under 18 ar, skal
+
+forelder, foresatt eller verge motta varselet. Det samme gjelder
+
+hvis fornaermede eller etterlatte er under vergemal.
+
+ Kapittel 30 - Varsel til fornaermede eller etterlatte 241
+
+## III. Nar det kan varsles og varselets innhold
+
+\begin{tabular}{p{142.3pt} p{142.3pt}} Strgifl. § 7 b & Under folger en uttommende liste over hvilke anledninger det kan varsles ved. Dette betyr at det kike kan varsles ved andre anledninger enn de som er listet opp her, eksempelvis fremstillinger, overfaring til annet fengsel, soningsoverfaring til utlandet eller sykehusininleggelse og andre institujsopophold. \\ \end{tabular}
+
+\begin{tabular}{p{142.3pt}} Varsel kan gis ved: \\ \end{tabular}
+
+\begin{tabular}{p{142.3pt}} Frigang (du kan lese mer om frigang i kapittel 11) \\ \end{tabular}
+
+\begin{tabular}{p{142.3pt}} Permisjon (kapittel 14) \\ \end{tabular}
+
+\begin{tabular}{p{142.3pt}} Straffavbrud (kapittel 23) \\ \end{tabular}
+
+\begin{tabular}{p{142.3pt}} Gjennomfering av straft utenfor fengsel, bade ved fottenkesoning og hjemmesoning (kapittel 20) \\ \end{tabular}
+
+\begin{tabular}{p{142.3pt}} Unndragesle av fengselstaff, forvaring og strafferettslige saerreaksjoner (kapittel 16) \\ \end{tabular}
+
+\begin{tabular}{p{142.3pt}} Leslatelse fra fengselstaff (kapittel 29) \\ \end{tabular}
+
+\begin{tabular}{p{142.3pt}} Pravelslatelse av forvaringsdarne (kapittel 26) \\ \end{tabular}
+
+\begin{tabular}{p{142.3pt}} Retningslinjene punkt 7b.6 & Varselet skal inneholde tidspunkt for utgangen fra fengsel. Varselets innhold vil ellers variere med hvilken anledning det gleider, og hva som er grunnen til at du er ute av fengselet. Det kan eksempelvis ogsa inneholde hvor du vil befinne deg i perioden og eventuelle vilkar for utgangen fra fengselet, som angar fomaermede eller etterlatte direkte. \\ \end{tabular}
+
+\begin{tabular}{p{142.3pt}} Under kan du lese om varsel til fornaermede eller etterlatte knyttet til hver enkelt type vedtak, slik at du kan lese det som er relevant for deg. Hjemlene for varsel til pargrende eller formarmede er formulert veldig likt, men finnes pa ulike steder i loverket. \\ \end{tabular}
+
+\begin{tabular}{p{142.3pt}} Du kan lese mer om avgjorelsen om a varsle under punkt l nummer 1. Husk at terskelen er lav for a la kontakt med Jussbuss hvis du har sparsmal om noe som star her. \\ \end{tabular}
+
+\begin{tabular}{p{142.3pt}} Strgifl. § 20 siste ledd \\ \end{tabular}
+
+\begin{tabular}{p{142.3pt}} Fengselet skal varsle fornaermede eller etterlatte pa forhand om frigangen hvis det er av betynding for vedkommende a vite om dette. Hvis du far frigang vil fornaermede eller etterlatte varsles ved invnivlgelsen av frigangen. Fengselet kan varsle fornaermede hver gang du forlater fengselet, men mest praktis er kanskje at de varsler en gang om at du i en periode skal jobbe utenfor fengselet. \\ \end{tabular}
+
+ 
+
+## 2 Permision og strafravbrudd
+
+Fengselet skal varsle fomaermede eller etterlatte pa forhand
+
+gferde ledd
+
+Retningslijene til
+
+strigil. SS 7 b og SS 36
+
+Fengselet skal varsle fomaermede eller etterlatte pa forhand
+
+om permisjoner eller stratfavbrud hvis det er av betydning for
+
+vedkommende a vite om dette.
+
+Varselet skal ogsa inneholde informasjon om eventuelle vilkar
+
+om oppholdssted og vilkar om hvem du skal unnga a mete eller
+
+ta kontakt med. Dette gjelder nar disse vilkarene direkte angar
+
+formermede eller etterlatte.
+
+Du og fornaermede kan innga avtale om oppholdssted eller om
+
+a unnga a mete bestemte personer. Dette skal fengselet ta i
+
+betraktting nar varsel vurderes. Dette gjelder ikke hvis avtalen
+
+er urimelig for deg eller fomaermede. Det vli si dersom avtalen er
+
+veldig tyngende eller bydefull for deg eller fomaermede.
+
+Retningslijene til
+
+strigil. SS 7 b punkt 7b.7.2
+
+kan det ogsa varsles om at du far permisjon eller stratfavbrudd fra
+
+institusjonen. De samme vilkarene for varsling gjelder. Dersom
+
+vilkarene for varsling er oppytf og det skal varsles ved utgang
+
+fra institujsonen, skal dette fremga av vedtaket som inviliger
+
+SS 12-soningen din.
+
+**3. Giennomfering av straff uttenfor fengsel (fotlenke og. hiemmesoning)**
+
+Strgifl. SS 16
+
+Retningslijene til
+
+strgifl. SS 7 b
+
+Varselet skal ogsa inneholde informasjon om eventuelle vilkar
+
+om oppholdssted og vilkar om hvem du skal unnga a mete eller
+
+ta kontakt med. Dette gjelder nar disse vilkarene direkte angar
+
+fornaermede eller etterlatte.
+
+Du og fornaermede kan innga avtale om oppholdssted eller om
+
+a unnga a mete bestemte personer. Dette skal fengselet ta i
+
+betraktting nar varsel vurderes. Dette gjelder ikke hvis avtalen
+
+er urimelig for deg eller fomaermede. Det vli si dersom avtalen er
+
+veldig tyngende eller bydefull for deg eller fomaermede.
+
+
+
+## 4 Unndragelse av fengselsstraff, forvaring og strafferettslige
+
+sarreaksioner
+
+Fengselet skal varsle fornaermede eller etterlatte sa snart som
+
+mulig hvis det er av betydning for dem a vite at du har remt fra
+
+fengselet, eller pa annen mate unndrar deg fengselsstraff, forvaring eller strafferettslig searreaksioner.
+
+### Leslatelse fra fengselsstraff
+
+Fengselet skal varsle fornaermede eller etterlatte pa forhand om at
+
+syende led
+
+du leslates hvis det er av betydning for vedkommende a vite om
+
+dette. Dette gjelder bade hvis du leslates pa fulltid, og ved pree-
+
+leslatelse.
+
+Strgfl. SS 43 andre led
+
+bokstav d og e
+
+Varselet skal ogsa inneholde informasion om eventuelle vilkar
+
+om oppholdssted og vilkar om hvem du skal unga a mate eller
+
+ta kontakt med. Dette gjelder nar disse vilkarene direkte angar
+
+fornaermede eller etterlatte.
+
+Fotningslinjene til
+
+strgfl. SS 7 b punkt 7b.7.1
+
+marsel kan ogsa gis hvis du endrer adresse i lapet av provetiden,
+
+mens du har meteplikt. De samme vilkarene for varsling gjelder
+
+her. Prevetiden varer fra du leslates pa prove til tidspunktet for
+
+endt tid.
+
+### Proveelslatelse av forvaringsdemte
+
+Straffeloven SS 45
+
+siste led
+
+Fengselet skal varsle fornaermede eller etterlatte pa forhand om at
+
+du praveelslates fra forvaring hvis det er av betydning for vedkommende a vite om dette. Varselet skal ogsa inneholde vilkar som
+
+direkte gjelder de fornaermede eller etterlatte.
+
+Varsel kan ikke gis nar du leslates etter endt forvaringstid. Varsel
+
+kan heller ikke gis nvis du endrer adresse mens du er proveelslatt
+
+fra forvaring og har meteplikt.
+
+### Klage pa beslutning om at varsel skal gis
+
+Retningslinjene til
+
+du kan klage pa vedtak om varsel av fornaermede eller etterlatte.
+
+du kan leslee mer om den praktiske fremgangsmaten for a klage
+
+pa vedtak i kapittel 9 om seknad og klage. Du kan ta kontakt med
+
+Jussbuss for a fa veieldning og hjelp til a klage.
+
+I klagen ber du skrive om hvorfor du mener det kike vl varee av betydning for de foramermede eller eiterlatte a vite om utgangen din fra fengselet. Arsakene til hvorfor det ikke vl vaere av betydning for foramermede eller eitertatte vl variere fra sak til sak. Det er dorf vanskelig a si noe generell om dette. Ett moment kan for eksempel vaere at det kike er samnsynlig at du vl treffe de foramermede eller eitertatte. Det er viktig a fa frem i klagen hvorfor du mener det ikke er samnsynlig. Det kan for eksempel vaere at dere bor langt fra hverandre.
+
+En annen god grunn til a klage kan vaere hvis du mener din sikkerhet settes i fare pa grunn av varselet. Da er det viktig a skrive _hvorfor_ du eventuelt mener din sikkerhet settes i fare pa grunn av varselet.
+
+Klagefristen er normalt 7 dager, og dette vl fremga av vedtaket om at foramermede eller eitertatte skal varseles. Hvis det er mulig skal ikke foramermede eller eitertatte varsles for klagefristen har gatt ut, eller fer klagen er endelig avajort av klageorganet. Dette er for at du skal ha en reell muighet til a klage.
+
+Pa grunn av dette anbefaler vi deg pa generell grunnlag a seke om utganger fra fengselet til bestemte datoer i god tid, slik at du har tid til a klage pa et eventuelt vedtak om varsel.
+
+ 
+
+## Kapitel 31
+
+Gjenapning av straffesaker
+
+I. Generelt om gjenapning
+
+Straffeprosessloven (strpl.)
+
+Dommen du soner er normalt rettskraftig. Med det menes at
+
+$ 452 og $ 453
+
+dommen er endelig og bindende, fordi den er vedtatt, fristen for
+
+anke uttapt eller saken er avgjort av Hayesterett.
+
+Det er en viss adgang til a behandle saker som er rettskraftig
+
+avgjort pa nytt. Det kan vaere hvis det er grunnlag for a stille
+
+sparsmal ved om kravet til forsvarlig behandling er etterlevd, eller
+
+det er grunnlag for a stille spersmal ved om avgjerelsen er uriktig.
+
+Begrunnelsen for at dommer kan gjenapnes til gunst for den som
+
+er domfelt, er at man ikke ansker noen uskyldig damt og at enhver
+
+domfeltelse skal vaere et resultat av en forsvarlig behandling.
+
+Dommer kan ogsa gjenapnes til tittaltes ugunst. Begrunnelsen for
+
+det er at man ansker riktige avgjerelser og at behandlingen skal
+
+varere i trad med loven. Gjenapning til skade forekommer svaert
+
+sjelden og behandles ikke videre her.
+
+Gjenapning kan kreves for hele eller deler av avgjerelsen. Dersom
+
+man er demt for fleere straftbare forhold og er uskyldig i ett av dem,
+
+kan man be om at saken gjenapnes for det ene forholdet.
+
+Reglene om gjenapning finnes i straffeprosessloven kapittel 27.
+
+Loven inneholder regiler om hvem som behandler saker om gjenapning og angir ulike grunnlag som skal fere til gjenapning. Det
+
+gjelder ingen frist for a begjere gjenapning.
+
+## II Avgjorelser som kan gjenapnes
+
+Strrpl. SS 389 og $ 401
+
+Straffeprosessloven gir adgang til gjenapning av rettskraftige
+
+dommer og andre avgjerelsor som innebarer at en straffesak eller
+
+en selvstendig del av den avsluttes. Det vi l praksis si avgjerelser
+
+som omhandler konstatering av straffansvar og straffutmaling.
+
+* [34] Avgierelser som omhandler straffegjennomferingen har vart ansett a falle utenfor ordningen med gjenapning, ogsa selv om avgjerelsen avgiere Et sekretariat med fast ansatte utredere bistar kommisjonen med
+
+a undersake sakene. Utgangspunktet er at det er en av disse
+
+som vi l ha en avklarende samtale med deg, med mindre du
+
+benytter advokat.
+
+Strpl. SS 397 annet ledd
+
+Dersom det foreignger <<saerlige grunner>> kan den som begjaerer
+
+gjenapning fa opprevent forsvarer pa det offentliges bekostning.
+
+Dette er ferst og fremst praktisk for spesiekt kommisjonen skal innefor rampmen av det som skal behandles,
+
+sarge for at saken er sa godt opphyst som mulig. Herunder skal
+
+den etter omstendghetene inhente informasjon utover det som
+
+fremgar av begjaeringen og sakens dokumenter.
+
+Kommisjonen har en rekke midler til radighet for a fa opphyst
+
+saken. Den kan blant annet innkalle den som er domfelt og vitner
+
+til urromelle samtaler eller avhar, avholde muntige haringer,
+
+begjaere bevisopptak, og begjaere personundersekelse, obser-
+
+vasjon og bruk av tvangsmidler. Kommisjonen kan dessuten gi
+
+utleveringspalegg, opprevne sakkyndige og foreta gransking.
+
+## V Grunnlag for gjenapning
+
+### Nye bevis
+
+Du soner en dom fordi den dammende rett har vaert forelagt et
+
+bevismateriale og avajort med endelig virkning at det ikke er
+
+rimelig tvil om din skyld og omfanget av straffansvaret.
+
+Strpl. SS 391 nr. 3
+
+Dersom det kommer frem et <<nytt bevis>> som gir grunn til a stille
+
+sparsmal om avggierelsen er iktig, skal det fere til gjenapning.
+
+Denne bestemmelsen apner ikke for gjenapning hvis man mener
+
+retten ikke vurderte bevisene som forela under saken pa riktig
+
+mate, ettersom det ikke er er <<nytt>> bevis.
+
+Skal beviset anses <<nytt>>, ma det ikke ha vaert fremme tidligere,
+
+verken under den rettslige behandlingen eller ved behandlingen
+
+av en anke.
+
+Ogsa et bevis som du kjente til, men som ikke var fremme for retten
+
+vil anses som <<nytt>> og kan begrunne gjenapning. Det gjelder likevel
+
+ikke i mindre alvorlige saker hvor det ikke er idamt fengselsstraff.
+
+ Med enytt bevis>> forstas altsa ny informasjon om de sparsmal retten tok stilling til, men som ikke forela for den dommende rett og som derlor ikke kunne pavirke dommens innhold. Det kan for eksempel vare nye vitner, nye forklaringer fra den som har forklart seg for retten, eller reelle bevismidler.
+
+Ogsa ny kunnskap om hva som kan utledes av den informasjonen som retten hade tilgjengelig, er a anse som enytt bevis. Det kan for eksempel vare at en ny sakkyndig erklaering gir uttykk for ny kunnskap.
+
+Hvis et enytt bevis>> skal fere til gjenapning, ma det esynes egnet til a foree til trifinnelse eller avvising eller til anvendelse av en mildere strafferegel eller en vesentigl mildere rettsfalge>>.
+
+Det avgjerende er hvilken betydning det ville hatt om det nye beviset hadde vaert kjent da saken be behandlet, sett i sammen- heng med sakens avrige omstendigheter og bevis. esynes egnet>> er ikke et strengt krav, det betyt at det er tilstrekkelig med en rimelig mulighet.
+
+Med en vififinnelse>> skletes det til at man ikke har begatt handlingen eller at det ikke er tilstrekkelig bevis for at man har begatt den. Med exvising>> skletes det til at saken ikke skulle vaert tatt til behandling.
+
+Med en vimidere strafferegel>> menes for eksempel anvendelse av straffebestemmelsen tyveri istedenfor ran, eller uaktsomt istedenfor forsettling drap. Det er straffearammen, altsa hviken minimums- og maksimumsstraft lovbruddet kan medfere, som avgjer om en bestemmelse er mildere enn en annen.
+
+Med en avesentig mildere rettsfalge>> menes at straffeutmalingen ville blitt klart mildere hvis det nye beviset hade blitt tatt med i vurderingen, for eksempel at du i stedet for en ubetinget fengels- straff ville ha fatt betinget fengsel.
+
+## 2. Nye omstendigheter
+
+Hvis det er kommet fram at et forhold som ville hatt umiddelbar rettslig betydning ikke ble vurdert i saken mot deg, kan det anses som en eny omstendighet>> som skal fere til gjenapning. Det kan for eksempel vare sparsmal om tirgenelighet, straffbort fallsystemnen provokasjon eller konkrete forhold av betydning for straffutmalingen.
+
+Med <<ny omstendighe>> skites det ogsa til andre rettslige avgjen-reiser hvor det er tatt stilling til de samme spersmalene som i din sak, men hvor forholdene er bedamt annerledes og svarene derfor blir annerledes. Det kan for eksempel skje hvis flere or tiltalt i samme sak og blur domfelt i tingretten, ogo noen anker og blir trifutnnet av lagmannsretten.
+
+Derson det foreignger en <<ny omstendigheto>> skal det fare til gjenapning dersom omstendigheten <<synes egnet til a fere til frifinnelse eller avvising eller til anvendelse av en mildeere straffe-regel eller en vesentiglie mildere rettsfige>>. Se naermere om dette ovenfer om gjenapning pa grum av <<nytt bevis>>.
+
+### 3. Feil lovanvendelse
+
+I straffeproessoloven er det angitt to sserlige tiffeller hvor feil forstal eise av loven kan fere til gjenapning.
+
+Strpl. SS 392 forste ledd
+
+Det er for det ferste dersom dommen bygger pa en forstaelse av loven som Heyesteret har bygget pa og senere har endret. Det avgjerende for spersmalet om gjenapning pa dette grunnlaget, er om det vi virke stetende om dommen blir staende etter at Hayestetert har skittet kurs. Dette alternativet omfatter ogsa situasjoner der Hayesterett har fraveket en lovforstaelse pa grun av folkerettslige forpliktelser, og saken som begajeres gjenapnet, kan brings inn for et intermasjonalt konvensjonsorgan med konstating av konvensjonsbrudd som resultat.
+
+Strpl. SS 391 nr. 2 bokstav a
+
+Det andre tiffellet er hvis forstaelsen av loven er i strid med en folkeretslig regel som Norge er bundet av, og my behandling ma antas a burde fare til en annen avgjereles. Gjenapning etter dette alternativet forutsetter at et internasjonalt handhevingsorgan allerede har fastslatt at saken din er behandlet i strid med folkereteten.
+
+Strpl. SS 392 annet ledd
+
+I tilegg til disse to situasjonene kan en sak gjenapnes pa grun av feil forstaelse av loven.
+
+ 
+
+## 4 Feil saksbehandling
+
+Det gjelder en rekke saksbehandlingsreggler for behandlingen av stratfesaker, som skal skirc et betryggende rettslig og faktis beslutingsgrunnlag, og bidra til tilitlt. Dersom det er begatt feil i behandlingen av saken, kan det derfor veregrunn til a stille sparsmal ved om avgjerelsen bygger pa en riktig forstaelse av hendelsesforlegt i saken, eller ved om loven er korrekt anvendt.
+
+Strpl. SS 390
+
+En sak kan gjenapnes pa grunn av feil ved saksbehandlingen nar en dommer har vert utelukket fra dommerstillingen eller har veert inhabit. Det at noen er inhabile, vil si at vedkommende pa en eller annen mate har en tilknytring til forhold eller personer i saken med betydning for vedkommendes objektivitet. Det kan foreksempel vaere at en dommer er i slekt med formaermede eller har akonomiske interesser i utfallet av saken. Skal en slik feil fere til gjenapning ma den kunne hatt betydning for avgjerelsen, men det er tilistrekkelig med en liten mulighet for dette, noe som i loven blant annet er uttrykt som agrunn til a anta>.
+
+Strpl. SS 391 nr. 1
+
+Videre kan en sak gjenapnes dersom en akter i saken eller en som har bistatt en akter har begatt et straffbart forhold i forbindelse med saken, dersom et vtune har forklart seg uriktig, eller et dokument har veert forlalsket. Vurderingen av om det foreligger feil er objektiv, og innebaerer ikke i seg selv et krav om at saken er handert galt av mymdighetene ut fra forlusteningene pa behandlingstids-punktet. Ogsa forhold som ikke var kjent eller burde vaert kjent, kan begrunne gjenapning. Skal en slik feil gjenapning ma den kunne hatt betydning for avgjerelsen, men det er tilistrekkelig at <<det ikke kan utelukkes at dette har invriketp pa avgjerelsen.
+
+Strpl. SS 391 nr. 2 bokstav b
+
+En sak kan ogsa kreves gjenapnet dersom saksbehandlingen som ligger til grunn for avgjerelsen er i strid med en folkeretttslig regel som Norge er bundet av, hvis det er grunn til a anta at saksbehandlingsfeilen kan ha ininvriket pa avgjerelsens innhold, og gjenapning er nodvendig for a bete pa den skade som feilen har medfert. Gjenapning etter dette alternativet forusetter at et internasjonalt handhevingsorgan allerede har fastslatt at saken din er behandlet i strid med folkeretten.
+
+
+
+## 5 Searlage forhold
+
+Loven inneholder en sikkerhetsventil for gjenapning som kan benyttes dersom de evnige grunnlagene for gjenapning ikke ferer frem. Det er adgang til gjenapning nar vsaerlige forhold gjer det tulsomt om dommen er ktign, og attungtweende hensyn tlisier at spersmalet om siktedes skyd blir pravd pa nyn.
+
+Terskelen for a benytte denne bestemmelsen er hay, og som det fremgar er det avgjerelsen av spersmalet om skyd som skal vare tulsomt. Det avgjerende er om saken etter en totalvurdering stiller seg slik at sterke grunner tlisier ny praving. Det vii at hensynet til ktigge rettsaygierelser med styrke tlisier at det ber skje en my proving av saken. Ogsa feil bruk av loven kan fere til gjenapning etter dette alternativet.
+
+## VI Fornarmedes stilling
+
+Strpl. SS 397 femte led
+
+Fornaermede og etterlatte underrettes om at det er fremsatt en begjaering om gjenapning, med mindre begjaeringen forkastes som grunnlags. De har rett til dokumentinsyn, til a uttale seg skriftlig, til a be om a avgi forkaring for kommisjonen, og det kan oppnevnes bistandsadvkat.
+
+## VII Utfallet av saken
+
+Strpl. SS 400
+
+Hvis kommisjonen beslutter at saken skal gjenapnes skal saken henvises til ny fullstendig behandling ved en domstol som er sideordnet den som fersat avsa dom.
+
+Strpl. SS 397 tredje led
+
+og SS 399
+
+Beslutter kommisjonen ikke a gjenapne, er saken ferdig. Du kan begjaere gjenapning pa ny, men dersom du begjaerer saken gjenapnet pa ny med den samme grunnen som tidligere og pa det samme grunnlaget, viel begjaeringen normalt bli forkastet.
+
+Dersom man mener at kommisjonen har tatt feil av de generelle reglene om gjenapning emel ikke har fulgt grunnleggende regler for saksbehandlingen av begjaeringen, er det mulig a bringe kommisjonen s avgjerelse inn for domstolene. Domstolene vil imidertid ikke ta stilling til kommisjonen s konkrete rettsanvendelse eller bevisbedommelse.
+
+
+
+## Kapittel 32
+
+Benadning
+
+I. Hva er benadning
+
+A bli benadet betyr at du slipper a sone straffen din. Med andre ord far du fritak fra soningen. Benadning innebarer som oftest at straffen gjzres betinget, slik at du ikke ma sone den. Det vil som regel vaere en pravetid, men i noen tifeller slettes straffen din i sin helhet.
+
+Benadning betyr ikke at du er uskyddig damt. Dommen din vi fremdelees finnes. Hvis du mener at du er uskydlig eller det har kommet nye bevis som gjar at du bar slippe straff, ma du sake om a jenoppta straffesaken. Du kan lese mer om hvordan du kan gjenapne saken din i kapittel 31, og du finner kontakinformrasjon til gjenopptakelseskommisionen bakerst i boken.
+
+Benadning er en sikkerhetsventil i rettssystemet. Det skal sixke at man ikke ma sone en straff som er saezlig urimelig pa grunn av veldig spesiele omstendigheter som har skjedd etter at dommen falt, eller som retten ikke har visst om. Det er veldig fa som blir benadet. Terskelen er svaert hay. Det betyr at det skal veldig mye til for at du blir benadet. Her er noen tall pa hvor mange som ble benadet fra og med 2009 til og med 2017:
+
+Tall hentet fra Justis- og beredskapdepartementet, varen 2018Kapittel 32 - Benadning
+
+## II. Seknadsproessen
+
+Grunlioven SS 20
+
+Det er Kongen i statsrad, altsa rejeringen, som bestemmer om du far benadning. Det er dit du adresserer seknaden, men du kan levere den til lengselet. Forst behandles seknaden din av Justis- og beredskapsdepartementet. De kan si nei til at du blir benadet. Da sendes ikke saknaden din videre til behandling hos rejeringen. Du kan likevel kage til Kongen i statsrad. Hvis du far avslag av Kongen i statsrad, kan du ikke kage. Regieringen har ikke plikt til a gi begrunnelse for hvrorfor de gir eller avslar benadning. Du kan likevel forske a be om det.
+
+Pataleinstruksen SS 31-1
+
+Nar du seker om a bli benadet, ber du legge ved sa mye dokumentasjon som mulig. Det kan bli gjort avher av deg dersom myndigetene er usikre pa grunnlaget for hvrorfor du seker benadning. Saksbehandlingstiden for benadningsseknader er som regel veldig lang.
+
+### Seknad for soning
+
+Straffeproessloven SS 458
+
+Hvis du seker om a bli benadet for du starter a sone straffen, kan annet og tredje ledd
+
+du seke om a fheleller deler av straffen benadet. Det tar veldig lang tid a fak saknaden behandlet. I de aller fleste tifeller ma du starte soningen hvis du ikke har fatt svar pa benadningsseknaden.
+
+Se kapittel 6 om
+
+Det skal mye til for a fa soningsutsettelse kun fordi du har sekt
+
+banadning. Det finnes regler for hvordan politiet skal ga frem hvis
+
+du seker benadning for soning. Disse ber du snakke med advo- katen din om.
+
+## 2. Seknad under soning
+
+Hvis du skal seke benadning mens du sitter i fengsel, fortsetter soningen din som vanlig mens seknaden behandles.
+
+## III. Innholdet i benadningsseknaden
+
+Vurderingen som foretas nar du seker benadning er en konkret helthetsurdering. Det betyr at de som avgjar seknaden ser pa alle forholtene i saken din og din personlige situasjon. Hva du er demt for, hvor lang dom du har og om du er tidligere straffedemt vil ha betydning. De ser pa om de ulike momentene taler for eller mot at du benades.
+
+ Det skal veldig mye til for a bli benadet. En grunn til a bli benadet, kan vaere at du har fatt sa store helsemessige problemer at fortsatt soning blir en ekstraordinear pakjenning for deg. At pakjenningen er ekstraordinaer, betyr at den er mye verre og mer omflattene enn for andre innsatte med helseproblemer. Du bar derfort forklare svaert godt i seknaden hvorfor du ikke kan son resten av straffen din. Du bar legge ved sa mye dokumentasjon som mulig, for eksempel lege- og psychologerflaeringer, samt uttalesier fra ansatte i fengselet som forklarer hvorfor du ikke kan sone.
+
+Hvis du har begynt a sone nar du ssker benadning, skal fengselet straffejennomfringsloven av eget tiltak gi uttalelse om spersmal som antas a ha betydning for benadningssaken. De skal ogsa uttale seg om de anbefaler benadning eller ikke.
+
+En annen grunn til at man kan bli benadet, kan vaere dersom det har oppstatt en svaert spesiell og vanskelig situasjon i familien din. Som ovenfor, ma tiltelet veere ekstraordinaert. At du har store akonomiske problemer er som regel ikke en ekstraordinaer situasjon som gjier at du kan bli benadet. Hvis du har store beter som du snsker a fa slettet ved a seke benadning er det vaniligvis heller ikke en ekstraordinaer situasjon. Du kan likevel soke benadning ogsa for betestraffer, samtunnusstraffer og betingede dommer.
+
+At du har endret livstil og ansker et liv uten kriminalitet er ikke alene nok til a bli benadet. Du bar likevel skrive i seknaden din at det ikke er fare for ny kriminalitet hvis du benades. Hvis du har jobb pa utsiden eller andre tibud (for eksempel utdanning eller institujsonophold) som gjier at det er enklere for deg a leve uten kriminalitet, kan du ogsa skrive dette. Det ma likevel mye mer til enn motivasjon for et nytt og annerledes liv for a bli benadet.
+
+De rettslige vilkarene for a bli benadet er ikke sa ulike som vilkarene for a fa innivliget laslatelse pa havlid. Halvid er ogsa vanskelig a fa invilget, men i noen tifeller er det get godt alternativ til benadning. Fer du kan fa benadning skal myrdighetene vurdere om du kan leslates pa noen annen mate, for eksempel ved halvid eller 2/3-tid. Du kan lese om ulike former for loslatelse i kapittel 29.
+
+Jussbus kan veilede deg hvis du lurer pa hvordan du kan seke halvtid eller benadning. Vi kan ogsa skrive seknaden for deg i noen tifeller, for eksempel hvis du er veldig syk.
+
+ 
+
+## Kapitel 33 Utisning
+
+Ultendingsloven kapittel 8 Hvis du ikke er norsk statsborger og fengsles i Norge, kan du bli utvist. Da vil du fa et utvinsningsvectak, som betyr at du mister oppholdstillatelsen din. Du ma ogsa forlate landet, og du kan ikke komme tilbake fer etter et bestemt antall ar. Dette er som regel 2 ar, 5 ar, 10 ar eller varig (for alltid).
+
+Du kan bli utvist pa grunn av brudd pa utlendingsloven eller straffeloven. Dette kapittelet vi bare handle om utvinsing for brudd pa straffeloven. Hvis du har blitt utvist for brudd pa utlendingsloven har du krav pa fri rettshjelp og kan ta kontakt med en advokat. Du kan lese om advokathjelp i kapittel 7.
+
+Utwisning er noe annet enn bortvinsning. Bortvinsing betyr at du ma forlate landet, men du far ikke et forbud mot a komme tilbake.
+
+Utwisning er ogsa noe annet enn utreiseffisten. Hvis du har fatt en utreisefrist ma du forlate landet innen denne fristen. Utreisefristen alene betyr ikke at du far et forbud mot a komme tibake.
+
+Det er forskjellige regler for utvinsing av E$\varnothing$S-borgere og utvinsing av personer som kommer fra andre land (tredjelandsborgere). I dette kapittlelet vil vi ferst se pa utvinsing av tredjelandsborgere. Deretter ser vi pa personer som kommer fra E$\varnothing$S-land i punkt II.
+
+Dersom du ikke er norsk statsborger og heller ikke er vernet mot retur (punkt 1.4) kan du utvises hvis det finnes en utvinsingsgrunn, se punkt 1.1. Du kan likevel ikke utvises hvis en utvinsing vil vaere et oforholdsmessig littak, se punkt 1.2. Dette betyr at en forholdsmessighetsurdering kan fere til at utvinsing ikke kan skje, selv om du har brutt straffeloven eller utendingsloven.
+
+
+I. Utvisning av tredjelandsborgere
+
+1. Utvisningsgrunnene
+
+Tabellen under viser en oversikt over de vanligste utvisningsgrunnene ved brud på strafeloven. På neste side finner du en forkaring av tabelen.
+
+\begin{tabular}{|l|l|l|} \hline
+**Type oppholds-** & **Straff som kreves for à kunne utvises** \\
+**tillatelse i Norge** & **Straff i Norge** & **Straff i utlandet** \\ \hline
+**Uten** & Straffet for noe som kan fere til fengelsstraff, & Straffet for noe som \\
+**oppholdstillatelse** & seller for brudud på strafeloven & kan fere til fengsel \\  & § 323 (mindre tyveri), & etter norsk lov. \\  & § 326 (mindre underslag), & \\  & § 334 (mindre heleri), & Det må vare mindre \\  & § 339 (mindre hvtivasking), & enn 5 ar siden du \\  & § 362 (mindre dokumentflask), & sonet. \\  & § 373 (mindre bedrageri) & \\  & elier strafeloven kapittel 18. & \\ \hline
+**Midlertidig** & Straffearname på over 1 ar eller brud på strafeloven & Straffet for noe som \\
+**oppholdstillatelse** & § 182 ferate ledd (oppteyer), & etter norsk lov kan \\  & § 231 annet ledd (uaktsom narkotikaovertredelse), & fere til fengsel i mer \\  & § 237 fjerde ledd (grovt uaktsom smiteoverfaring), & enn 1 ar. \\  & § 262 ferate ledd (brud på etkeskapsloven), & \\  & § 263 (truster), & Det må vare mindre \\  & § 305 (seksuelt krenkende adferd mv. overfor barn & enn 5 ar siden du \\  & under 16 ar), & sonet. \\  & § 374 ferate alternativ (grovt uaktsomt bedrageri), & \\  & § 380 (grovt uaktsomt skattesvik). & \\ \hline
+**Det må vare mindre enn 1 ar siden du sonet.** & \\ \hline
+**Straffet for brud på strafeloven** & \\  & § 168 (brud på oppholds- og kontaktfortbud), & \\  & § 189 annet ledd (bearing av kniv eller lignende på \\  & offentlig sted), & \\  & § 271 ferate ledd (kroppskrenkelse) & \\  & elier har overtradt straffeloven kapittel 18. & \\ \hline
+**Permanent** & Straffearname p 
+
+### 1.1. Oppholdstillatelse i Norge
+
+Hva du kan utvises for, avhenger av hvilken oppholdstillatelse du hari i Norge. Nar du bruker tabellen, ma du ferst begynne i den oppholdstillatelsen du hari i ferste kolonne, og folge radon mot hayre for a se hva som kan vaere gunn til a utvise deg. Myndighetene skiller mellom tre forskjellige oppholdstillatelse:
+
+* Uten oppholdstillatelse: Kan for eksempel vaere visum, visumfrihet eller ulvolvig opphold.
+* Miderlidis oppholdstillatelse: Tilatelse gitt av utendingsym-dighetene, som du ma fornye med jevne mellomrom. Det kan for eksempel vaere pa grunnlag av beskyteles, familielejenforening, studier eller arbeid.
+* Permanent oppholdstillatelse: Tidsmessig ubegrenset oppholdstillatelse. Dette kan du fetter a ha hatt midertidig oppholdstillatelse sammenhengende i 3 ar og opppflyler de andre vilkarene for silk illatelse.
+
+### 1.2. Straff i Norge
+
+Hva som er en utvinsingsgrunn nar du har fatt straff i Norge, vises i andre kolonne. Brudd pa straffeloven eller andre lover kan fere til forskjellige straffereaksjoner, for eksempel ubetinget og betinget fengsel, twungent psykisk helesveern, twungen omsorg, forvaring eller beter.
+
+Med straffearmnenenes hvor streng staff du _kan_ fa for det du er damt for, og ikke hvor streng straff du faktisk har fatt.
+
+Det er i tillegg en tidsfrist for hvor lang tid etter straffebruddet du kan utvises. Denne er angitt i tabellen. Fristen begynner a lope nar straffegjenomorfangen avsluttes. Etter uttopet av denne fristen kan du ikke utvises.
+
+### 1.3. Straff i utlandet
+
+Du kan ogsa utvises fra Norge hvis du har blitt straffet i utlandet. Tredje kolonne viser hva slags straff i utlandet som kan vaere utvinsingsgrunn.
+
+
+## 2 Forholdsmessighetsvurderingen
+
+Ultendingsloven SS 70
+
+Hvis det finnes en utvisinggsrunn, vil det bli vurdert om det er
+
+_forholdsmessig_ a utvise deg. Dette betyr at det skal vaere en balanase mellom utvisinggsrunnen og hvordan en utvising vi
+
+ramme deg og din naermeste familie. Det er ikke lov a utvise deg
+
+hvis det er uforholdsmessig overfor deg selv eller dine narmeste
+
+familiaredlemmer.
+
+I forholdsmessighetsvurderingen vil forboldets alvor, altsa alvorligheten av den straffbare handlingen du er demt for, veies opp mot
+
+hvilken betydning en utvising vi fa for deg og eventuell familie.
+
+Vurderingen tar altsa utgangspunkt i tre momenter: Forholds
+
+alvor, hvordan utvising pavirker deg og hvordan utvisingen
+
+pavirker din familie.
+
+Under felger en mer detaljert beskrivelse av hva som kan ha
+
+betydning for vurderingen. Listen nedenfor viser bare noe av det
+
+ som kan vaere relevant.
+
+### Forholds alvor
+
+Her vurderes det hvor alvorlig lovbruddet du er demt for anses a
+
+vaere ut ifa forholdene i saken. Jo mer alvorlig lovbruddet anses,
+
+jo lettere er det a utvise deg. UDI ser blant annet pa:
+
+_Straffearammen:_ Hvor streng straff du _kunne_ fatt for det du er
+
+damt for, ikke hvor streng straff du faktisk har fatt. Straffearammen
+
+viser hvor alvorlig myndighetene ser pa den typen handling du er
+
+straffet for.
+
+_Faktisk utmait straff:_ Hvor streng straff du faktisk har fatt. Om
+
+straffen er lav i forhold til straffearammen, vil dette tilsi at handlingen ikke blir ansett som sa grov.
+
+_Tidligere straffbare forhold:_ Om du tidligere er demt for noe kriminelt, vil dette kunne tas med i vurderingen.
+
+_Nye straffbare forhold:_ Hvis du har begatt nye kriminelle
+
+handlinger etter forhandsvarsselet om utvising, kan ogsa dette
+
+tas med i vurderingen. Har du derimot ikke begatt nye straffbare
+
+handlinger, vil det kunne vise at du har endret deg, og at faren for at du vil begin nye lovbrudd er mindre. Dette kan tale for at behovet for a utvise deg er mindre.
+
+_Gjentakelsefare eller positiv utviking:_ Hvis det er fare for at du bryter loven pa nytt, kan det las med i vurderingen av om forholdet anses alvorlig. Hvis du har gjort noe med de tingene som bidro til lovbruddet, for eksempel ved a bryte med et kriminelt milje, ga pa skole eller bli tusfri, bar du fremheve dette. Det kan tyde pa at du ansker a endre oppfersel, og kan derfort tale for at fohldet ikke vil gjenta seg. Behovet for a utvise kan da veere mindre.
+
+_Alder da den kriminelle handlingen ble begatt:_ Hvis du var ung da handlingen du er damt for ble begatt, vil det kunne anses som ungdomksriminalitet. Dette kan bety at det skal mer til for a utvise deg.
+
+_Skjerpende eller formilende omstendigheter:_ Dette viser til de konkrete forholdene i saken din, og vil vaere de samme som de skjerpende eller formilende omstendigheterene i straffesaken. Disse vi veere omtalt i dommen du har fatt.
+
+_2.2 Betydning vedtaket har for deg_
+
+Vurderingen tar utgangspunkt i Ivor sterk tilknytning du har til Norge, og hvor sterk tilknytning du har til hjemplandet. Blant annet vil dette bil vurdert:
+
+_Alder da du kom til Norge:_ Dersom du var ung da du kom til Norge regnes du for a ha sterkere tilknytning til Norge enn dersom du var elde da du kom. Dette tilsier at det skal mer til a utvise deg.
+
+_Hvor lenge du har vavet i Norge:_ Hvis du har vavet i Norge i manage ar, tilsier dette at du har en sterk tilknytning til landet. Det skal i sa fall mer til for a utvise deg.
+
+_I hvor stor grad du har deltatt i samfunnet:_ Om du har gatt pa skole i Norge, jobbet, leart deg norsk og skapt et sosialt nettverk, tilsier dette at du er integert og har en sterkere tilknytning til Norge. Dette bety ogsa at det skal mer til for a utvise deg.
+
+_Familie:_ Om du har familie, ektefelle, samboer eller barn i Norge, vil dette i utgangspunktet bety at du anses for a ha en sterk tilknytning til landet. Hvor sterk denne tilknytningen er, vil avhenge av hvor lenge du har bodd sammen med familien og hvor mye kontakt dere har. Hvis du har barn vil det vurderes om du har forelderansvar og hvor lenge du har bodd sammen med bannet. Hvis dere ikke bor sammen vil det varee av betyndning hvor mye samvaer dere har. Jo tettere band eere har, jo mer skal det til for a utvise deg.
+
+Pa nuliket tidspunkt familien ble etablert: Hvis du etablerte et familieliv i Norge fer du foretok den straffbare handingen du er dant for, betyr dette at du star sterkere i forholdsmessighetsvurderingen enn hvis du ferst etablerte familien i etterkant.
+
+Aveining mot tikhvnting til hjemplandet: Den tilkvntingen du har til Norge vil avueies mot tilkvntingen du har til hjemplandet. Et utgangspunkt vl vaere hvor lenge du har veart borte fra hjemplandet. Selv om du har veart borte lenge, kan du anses for a ha tilkvnting til hjemplandet hvis du har reist dit mye, har familie og slekthinger der, snakker spraket eller har tatt uddannelsen din der. Hvis du ikke har noen tilkvnting til hjemplandet kan dette gjere at det skal mer til for a utvise deg.
+
+### Betyndning for familien din
+
+Hvis du blur utvist, kan det hende at du ma reise fra familien din. Nar myndighetene vurderer om du kan utvises, skal hensynet til familien din vektlegges. Blant annet vil dette bli vurdert:
+
+Hvor mye kontakt du har med familien i Norge: Jo mer kontakt dere har, jo verre vii det varee for familien din a miste kontakten ved at du blur utvist. Derfor viel det blant annet vurderes om du fortstatt er sammen med din ektefelle eller samboer. Hvis du har barn vil man se pa om du bor sammen med bannet, om du har forelderansvar og om du har delt osmorg med den andre forelderen. Hvis dere ikke bor sammen vil myndighetene se pa om du har mye samvaer med bannet. Dersom familien besoker deg i fengselet, bar du legge from besakslogg pa dette. Jo mer kontakt dere har, jo mer skal det til for at du kan utvises.
+
+Mulighet for a fortsette familieilivet i hjemplandet ditt: Myndighetene vil her se pa hvilken tilkvnting du og din familie har til ditt hjemplandet. De ser pa om familien din er fra samme land, om ektefellen din eller barma dine har veart pa besak i landet, om de kjenner kulturen, kan spraket, barnas alder og om de har hatt skolegang I Norge. Hvis dere ikke kan fortsette famililelivet i hjemlandet ditt skal det mer til for a utvise deg.
+
+Familiens helestistand: Noen ganger er det sykdom eller andre helseforhold som gjar at familiarien din er avhengig av a vaere sammen med deg. Det kan vaere at barna dine har spesilele behov, eller at den andre forelderen ikke kan ta vare pa barna alene. Hvis dette er tiffeltet i din situasjon, skal det mer til for a utvise deg.
+
+### Seerlig om barn
+
+Barnekonvensjonen
+
+Barnekonvensjonen
+
+Barnets beste skal vurderes i alle saker som bererer barn. Det er derfor wiktig at du sier ifra til utlendingsmyndighetene hvis du har barn i Norge. Du bar forklare hvordan barnet vil bli berent hvis du blir utvist. Hvis bamet er sierlig knvyttet til deg, har helsemessige utfordringer eller lignende kan det ogsa ha betydning. Barn som er 7 ar eller el elde har en rett til a uttale seg i saken. Du kan legge ved en uttalelse fra bama om hva de tenker om utvisingen.
+
+### Oppsummering
+
+Ale utvisingssaker er ulike. Derfor er det vanskelig a vite resultatet av en utvisingsvurdering. De momentene vi har listet opp, er blant de som vil bli vurdert. I en klage (se oppsett til klage under punkt V) er det viktig at du informerer om disse momentene, og annen informasjon du mener er viktig for saken din.
+
+Det er viktig at du skaffer relevant dokumentasjon, for eksempel fadelsaltest, legeerklazeringer, beseksjournal fra fengselet, dokumentasjon pa skolegang eller arbeidserfaring. Hvis noe endrer seg under saksgangen, er det ogsa viktig at du informerer utlendingsmyndighetene underveis. Hvis du ser i vedtaket fra UDI eller Uttendingsnemnda (UNE) at det er momenter som ikke har blitt vurdert, bar du si ifra om dette til utlendingsmyndighetene. Kontakt Jussbus hvis du ensker hjelp med utvisings-saken din.
+
+### Innreiseforbudets lengde
+
+Dersom UDI finner ut at det ikke er uforholdsmessig a utvise deg, fastsetter de et visst antall ar som ma ga fer du kan komme tilbake til Norge. Innreiseforbudets lengde kommer an pa hvor alvorlig lovbruuddet er og hvor sterk tiknytning du har til Norge. Du kan bruke de samme argumentene som nevnt under punkt l.2 for a argumentere for at du skal fa et kortee innreiseforbud. Hvis du har barn i Norge ma du ha gjort noe svaert alvorlig for a fa et innreiseforbud som varer for alltid.
+
+Innreiseforbudet beginner ikke a lape fer du har forlatt Norge.
+
+## 4 Kort om vern mot retur
+
+Ultendingsloven SS 73
+
+Hovedregelen er at du ikke kan utvises og sendes ut av landet hvis du er vernet mot retur. Du er vernet mot retur hvis du risikerer a bli sendt til et omrade hvor du har en velbegrunnet frykt for a bli forfulgt eller star i en reell fare for a miste livet eller bii utstatt for tortur, umenneskelig eller nedervdiagnende behandling eller straff. Det samme gjelder hvis myndigetene ansker a sende deg til et sted hvor det er fare for at du kan bli sendt videre til et slikt omrade.
+
+Dette vi vere en lignende vurdering som den som foretas i asylsaker. Det er situasjonen pa det tidspunktet du er planagt a bli sendt ut som er avgjerende.
+
+Hvis du mener at du vi bli utstatt for slike handlinger ved retur til et omrade, bar du preve a bevise faren for dette. Det kan vaere nyttig a ta kontakt med for eksempel Amnesty International, Norsk organisasjon for asyskere (NOAS) eller FNs haykommissaer for flyktringer (UNHCR). Kontaktiste finner du bakersti boken.
+
+## 5 Kort om Schengen informasjonssystem (SIS)
+
+SIS-loven SS 7
+
+Hvis du utvises fra Norge, vurderer utendingsmyndighetene om du ogsa skal registreres i et datasystem som heeter Schengen informasjonssystem (SIS). De som er registtert i SIS kan ikke reise inn i eller opphode seg i Schengen. Myndighetene i alle Schengen-landene kan siekke hvern som er registtert i SIS. Hovedregelen er at dersom du blur utvist fra Norge, blur du ogsa registtert i SIS. Hvis du blir inmmedt i SIS gjelder utvisingen for alle Schengen-landene. Det betyr at du ikke kan dra til noen av landene som er medem i Schengen. Du vi vare registtert like lenge som du er utvist fra Norge.
+
+ Har du en oppholdstillatelse i et Schengen-land, er det viktig at du sier ifra til uttendingsymdighetene om dette. Du kan risis- kere at tillatelsen blir trukket tibake, men dette er en vurdering som foretas av dette andre landet du har oppholdstillatelse i. I disse tifellene har du rett til a fa se hvilken informasjon som blir sendt fra norske myndigheter til det andre landet hvor du har oppholdstillatelse.
+
+Er du statsborger av et Schengen-land, kan du ikke meldes ini SIS. Schengen-landene er (oppodatert juni 2017): Belgia, Danmark, Estland, Finland, Frankrike, Hellas, Island, Italia, Latvia, Liechtenstein, Litauen, Luxembourg, Malta, Nederland, Norge, Polen, Portugal, Slovakia, Slovenia, Spania, Sveits, Sverige, Tsjekkia, Tyskland, Ungarn og $\O$sterrike. For oppodatert oversikt, kontakt UDI.
+
+## II Utvinsing av $\EOS$-borgere
+
+Ultendingsloven SS 110 til
+
+E$\O$S-borger er en statsborger av et EU- eller E$\O$S-land. Det er ikke nok a ha en oppholdstillatelse i et E$\O$S-land for a vare en E$\O$S-borger.
+
+E$\O$S-landene er (oppodatert juni 2017): Belgia, Bulgaria, Danmark, Estland, Finland, Frankrike, Hellas, Ireland, Island, Italia, Kroatia, Kypros, Latvia, Liechtenstein, Litauen, Luxembourg, Malta, Nederland, Norge, Polen, Portugal, Romania, Slovakia, Slovenia, Spania, Storbritannia, Sveits, Sverige, Tsjekkia, Tyskland, Ungarn og $\O$sterrike. For oppodatert oversikt, kontakt UDI.
+
+Det skal mer til for a tuvise en E$\O$S-borger enn en porger utenfor E$\O$S. For a kunne bli utvist fra Norge som E$\O$S-borger, er det tre vikkar som ma varee oppylt. Disse kaller vi grunnvilkaret, personlige forhold og forholdsmessighet. Alle disse vilkarene ma varee oppylt for at myndighetene skal kunne utvise deg.
+
+### Grunnvilkaret
+
+Ultendingsloven SS 122
+
+Grunnvilkaret for a kunne utvise E$\O$S-borgere er at $\alpha$hensynet til offentlig orden eller sikkerhet ttisier detg. Vilkaret er oppylt hvis du har gjort noe straffbart. Det er som regel i silke tifeller myndighetene vil vurdere utvinsing.
+
+ Nar det gjelder sparsmalet om du har gjort noe straffbart, ser UDI bare pa om du er damt for noe straffbart. De tar ikke hensyn til om du mener at du er uskyldig demt. Du kan lese om gjenapning av straffesaker i kapittel 31.
+
+I noen tiffeller kan det ogsa vare andre forhold som faller inn under hensynet til offentlig orden eller sikkerhet. Blant annet kan dette vere hvis myrdighetene mener at du er avhengig av narkotiiske stoffer eller at du lider av en alvorlig sinuslidese.
+
+Dette er bare et grunnlag for a utvise deg hvis du har vaert rusavhengig eller sinuslindende siden _fer_ du kom til Norge. Det er svaert sjelden at noen blir utvist pa grunn av at de er rusavhengige eller sinuslindende.
+
+Hvis du har varg oppholdsrett som EOS-borger kan du bare utvises dersom tungteviende hensyn til offentlig orden og sikkerhet ttisier det. Det skal altsa enda mer til. Videre er det enda vanskligere a utvise deg om du har bodd i Norge lovlig i 10 ar. Det er der for veldig viktig a fortele UDI om du har varg oppholdsrett og hvor lenge du har vaert i Norge lovlig.
+
+## 2 Personlige forhold
+
+UDI kan bare utvise deg hvis det er personlige forhold ved deg som innebaerer en <<tistekkelig alvorlig trussel mot grunnleggende samfunnhensnyns. Med dette mener de at det ma vaere fare for at du kan gjenta de handlingene de vurderer a utvise deg for. l tillegg ma handlingene vaere alvorlige nok til at det er nodvendig a utvise deg.
+
+Nar UDI vurderer dette, er det saerlig to ting de ser pa. Det ene er hvor mange ganger du er straffedamt. Det andre er hvor alvorlige lovbrudene er.
+
+Nar UDI bedammer hvor alvorlig et lovbrudd er, ser de farst og fremst pa hvor hay straff det er mulig a fa for et slikt lovbrudd, altsa det som kalles straffermann. Det er ogsa relevant hvor lang straff du faktisk fik. Hvis du bare har begatt ett eller noen fa lovbrudd med lav strafferamme, kan det hende at dette ikke er nok til a utvise deg.
+
+ For a vise at dette vilkaret ikke er oppfytl, ma du prove a fa frem alt som tilsier at lovbruudene du har begatt ikke var sa alvorlige. Hvis du fikk lav straff ma du papeke dette, og vise hvorfor du fikk lav straff.
+
+I tilegg ma du forske a vise at det ikke er samnsynlig at du kommer til a bega nye lovbruudd, for eksempel fordi du har endret after et a ha gatt pa kurs i fengselet, blitt rusfri eller lignende. I denne sammenhengen er det ogsa relevant om du for eksempel har brutt ut av et kriminetl milj som har v exert arsaken til de straffbare handlingene du har gjort. Hvis det er ferste gangen du er strafledemt er det viktig at du forteller om dette.
+
+Ved vurderingen av om hensynet til offentlig orden eller sikkerhet tilsier utvising, og om det foreligger personlige fornold ved deg som gjer utvising nadvendig, har det betydning hva slags oppholdsgrunnlag du har i Norge.
+
+Som EOS-borger kan du i utgangspunktet reise fritt inn i andre EOS-land og oppholde leg her i 3 maneder. Etter 3 maneder ma du arbeide, ta utdanning eller lignende her for a kunne fortsette a oppholde leg i landet. Jo lenger du har oppholdt deg lovig i Norge, jo bedre er det for utvisingsaken din. Hvis du har vargi oppholdsrett som EOS-borger skal det mer til for a utvise deg enn hvis du bare har en vanlig oppholdsrett. Hvis du har v exert i Norge i 10 ar eller mer skal det enda mer til. Gjelder noe av dette for deg, er det detfer viktig at du opplyser om det.
+
+## 3 Forholdsmessighetsvurderingen
+
+Veltendingsloven SS 122 Selv om grunnvikaret og vilkaret om personlige fornold er oppfytl, kan UDl likevel ikke utvise deg hvis det vil vaere <<uforholds-messig>>. Dette betyr at det skal vaere en balanse mellom utvisingsgunnen, hvordan en utvising vil ramme deg som vurdrees utvist, og din narmeste familie. Dette er den samme vurderingen for EOS-borgere som for tredjelandsborgere. Du kan derfor bruke de samme argumentene som er newt under utvising av tredjelandsborgere punkt 1.2.
+
+ Skjemaet pa forrige side viser kort gangen i en utvisningssak. Du vil allitti ta et forhandsvarsel far du blir utvist. Dette kan du sende kommentar til innen en gitt frist. Deretter vil UDl enten bestemme at du skal utvises, eller at de henlegger saken.
+
+Hvis UDI bestemmer seg for a utvise deg, og du klager pa dette vedtaket, skal UDI vurdere saken pa nytt. Hvis du kkle klager, blir vedtaket fra UDI endelig. Na r du klager kan UDl bestemme seg for ikke a utvise deg likevel. Da vil du $\mathrm{f}$ vedtak om dette. Hvis UDI fortsatt mener at det er 
+## IV Hvordan svare pa forhandsvarsel
+
+Det forste som skjer nar UDI vurderer a utvise deg er at du far et forhandsvarsel. Et forhandsvarsel betyr ikke at du er utvist, men at UDI vurderer a utvise deg. Dette gjer de for a be om informasjon fra deg for at de skal kunne vurdere saken din riktig. Det er viktig at UDI far denne informasjonen, fordi saken eilers bare vil bli vurdert ut fra de op opplysningene politiet har gitt. 1 forhandsvarsel selet far du en mulighet til a forklare din side av saken, og wise hvordan en utvising vil ramme deg og eventuelt din familie. Her kan du bruke momentene som star i punkt l.2 om forbidsmessighetsvurderingen.
+
+Nar du skal skrive svar til forhandsvarselet kan du bruke malen (guiden) for klage under neste punkt. Da bytter du ut <<Klage pa vedtak om utvising>> med <<Tlisvar til forhandsvarsel om utvising>>. 1 tillegg ma du vise til forhandsvarsalet istedenfor vedtak fra UDI.
+
+## V Hvordan skrive klage
+
+Som tidligere nevnt kan du klage pa et vedtak fra UDI om utvising. Under er et forslag til hvordan en klage kan se ut. 1 en klage ma du prove a vise hvorfor du mener utvisingen er feil og/eller hvorfor du mener at inneiseiforbudet er for langt. Det er lurt a tugangspunkt i det som star i punkt l.2 om forholdsmessighetsvurderingen. Du bar sende med dokumentasjon pa det du forklarer, for eksempel legeerklazeringer, attester fra tidligere arbeidsgivere, besokslog fra fengselet, vigelsaattest og fedsel-sattester. Det er ogsa viktig at du far med referansenummeret (DUF-rummeret) ditt i klagen. Dette nummeret vil du finne pa alle brev fra UDI.
+
+ 
+## VI Videre klagemuligheter
+
+### Organiering
+
+Forvaltingsloven SS 35
+
+Hvis UNE ikke endrer utvinsingen etter klagen, kan du senere be UNE om a omgjere vedtaket. Da seneder du im det som kalles omgjeringsbegjering. UNE vii i utgangspunktet bare endre pa utrvinsingen hvis du kommer med opplynsniger som ikke har vaert vurdert tidigere, eller hvis noe i din situasjon har endret seg siden fornige gang de vurderte saken.
+
+### Klage til Sivilombudsmannen
+
+Vedtak om utvinsing og inmelding i SIS kan paklages til Stortinggets ombudsmann for forvaltningen (Sivilombudsmannen). Dette kan du lese mer om i kaptitel 9 om seknader og klager.
+
+### Vrivat seksmal mot staten
+
+Hvis ikke en klage eller omgjeringsbegjering farer frem, har du en siste mulighet ved a fere privat seksmal mot staten. Utigiftene til dette kan bli store, og du ma som regel betale for dette selv. Det kan ogsa hende at du blir nadt til a betale for statens utgifter.
+
+Du kan finne en advokat pa www.advokatenhjeperdeg.no. Du kan lese om advokatthjelp i kaptitel 7.
+
+### VII. HWilken betydning har utvinsing for soningen?
+
+\begin{tabular}{l l} Straffejennomfringsloven & Lovverket om straffejennomfring gjelder for alle innsatte i \\ (strgif.) SS 1 & norske fengsler. Utgangspunktet er dorfor at du har de samme \\ \end{tabular} retighetene og pliktene som norske innsatte selv om du er utendalsk statsborger.
+
+Utvinsingsspersmalet kan likevel ha betydning for hvordan soningen din vli bli. Dette gjelder for eksempel for sparsmalet om du blir invnivlget permisjon, frigang, skole, fottenkesoning og prevelaslatelse, og om du far sone pa lavere sikkerhet. Disse tingene er ofte vanskeligere a fa hvis du er utvist. Noen ganger er det utleukket. Utvinsing kan ogsa ha betydning for sparsmal om soningsoverfaring til utlandet.
+
+ C. R. L. Read, and D. R. Smith. _Journal of Geophysical Research_, 19(1):100001, 2001.
+* [199] C. R. L. Read, and D. R. Smith. _Journal of Geophysical Research_, 19(1):100001, 2001.
+* [199] C. R.
+
+ Hvis du har sparsmal om utvising eller annen uttendingsrett, kan du sparre fengselet eller ta kontakt med Jussbus. Du kan ogsa ta kontakt med oss hvis du har sparsmal om hvordan oppholdsstatus pavirker soningen. Hvis du har fatt avslag pa en seknad pa grunn av at du er utvisit eller har fatt forhandsvarsel om utvising, kan vi veilede eller hijepe deg med a skrive en klage.
+
+ * [273] Kapittel 34
+
+Rett til sosialstanad
+
+og trydeytelser (NAV)
+
+I dette kapittelet skal vi se naermere pa rettighetene dine etter folketrygdloven og sosialtjenesteloven. Deretter kommer lift
+
+informasjon om den akonomiske stillingen til familiaren din mens
+
+du soner, og din egen situasjon ved loslatelse. Avsultningsvis
+
+behandles spersmal i forbindelse med seknads- og klagepro-
+
+sesser i NAV. De som motitar statte og lignende fra NAV, kalles
+
+ebrukere>>. Vi benytter der dette begrepet i kapittelet nar vi
+
+snakker om dine rettigheter overfor NAV.
+
+I. Kriminalomsorgens plikt til a ivareta dine
+
+rettigheter
+
+Strafgejennomfaringsloven
+
+Fengselet har plikt til a samarbeide med andre offentitige etater,
+
+(strgift.) SS 4
+
+for eksempel NAV, for at du skal fa tilgang pa de offentitige ytelser
+
+som du kan ha krav p. Som du vil se nedenfor, er dette blant
+
+annet aktuelt ved loslatelse ogt undanning under frigang. Fengselet
+
+skal opptre aktivt og formidle behovene dine videre til det offenti-
+
+lige hjelpeapparatet.
+
+## II. Nav
+
+NAV bestar av bade kommunale og stattige jenester. Som bruker
+
+i NAV-systemet, skal du i utgangspunktet forbnde deg til ett
+
+NAV-kontor. Dette kan vare annerledes for innsattle.
+
+Sosialtjenesteloven
+
+(sotil) SS 17
+
+Forvallingsloven (ft.) SS 11
+
+eksempel vaere spersmal knvyttet til invkte ytelser som kan vare
+
+aktuelle for deg, hvordan du klager pa vedtak, eller hvordan
+
+du seker pa en ytelse. Du kan ta kontakt med sosialkonsulent i
+
+fengselet eller ditt lokale NAV-kontor hvis du trenger hjelp.
+
+ 
+Under er det en figur som viser hvordan NAV er organisert. Det kan vareg greit a ha i bakhodet at det varierer hvem som har ansvaret for de ulike ordningene. Trygdesystemet i Norge er statlig stytt.
+
+Sosialsystemet er imidlertid et kommunalt ansvar. Dette kan vareg gunnen til at man kan ha forskjellige saksbehandlere hos NAV.
+
+## III. Hvilke trygdeytelser har du krav pa under soningen?
+
+Utbetalingen av trygdeytelser vil i mange tifeller endre seg nar du skal inn til soning. I dette kapittelet forklarer vi hva som endres i de mest sentrale ytelsene og hvordan du som bruker skal forblode deg til dette. Hvis du har sporsmal i ditt konkrete tifelle ma du ta kontakt med ditt NAV-kontor eller sosialkonsulenten i fengselet.
+
+ Kapittel 34 - Rett til sosialstenad og trygdeytesler (NAV) 275
+
+### 1. Hvilket NAV-kontor har ansvaret for trygdeyteslene under soning?
+
+Hvilket NAV-kontor man tiharer som inssatt endrer seg like nar det gjelder trygdeytesler. Du tiharer det NAV-kontort hvor du bodde far du ble innsatt. Dette bety at det er <<bostedskommunenen som har ansvaret for trygdeyteslene under soningen (se figuren i del Il punkt 1).
+
+### 2. Dagpenger. sykepenger og arbeidsavklaringspenger
+
+Folketrygdoven (ftr.)
+
+$ 4-21, $ 8-54 og $ 11-26
+
+ftrgeng kan retten til disse ytelsene likevel oppsta. Du kan ogsa ha krav pa sykepenger etter soning dersom du er arbeidsufer pa dette tidspunktet. Ta kontakt med NAV-kontort ditt eller sosialkonsulenten i fengselet for sparsmal vedrarende dette. Les mer om frigang i kapittel 11.
+
+### 3. Pensionsyteleser
+
+Fttl. SS 19-22
+
+Lopende pensjonsytelser faller ikke bort diet du settes i fengsel. Ytelsene gis uten reduksjon ut maneden etter innsettingen. Det vi si at lvis du blir satt inn i mai, far du statte ut juni. Etter dette faller ytelsene som hovedregel bort, men dette kan vaere annerledes hvis du forsarger barn og/eller ektefelle. Fra og med lastalestels- maneden ytes pensjonen pa samme mate som far du ble fengselet.
+
+### 4. Yrkesskade
+
+Fttl. kapittel 13
+
+Under arbeid i fengselet er du forsikret mot skade pafert pa grunn av arbeid. Dette innebaerer at dersom du padrar deg en skade under arbeid, pa arbeidsstedeller i arbeidstiden, vil du kunne ha krav pa utvidee rettigheter etter kapitletel om yrkesskader i folketrygdoven. Dette kan for eksempel vaere <<kt statte til helse- utgifter eller hayere pensjon. Skader som padras i fritden, er ikke a regne som yrkesskade. For eksempel vil du ikke fa godkjent en fotballskade som yrkesskade. Fengselet har plikt til a underrette folketrygden umiddelbart om skaden. Hvis fengselet likevel ikke skulle gjere det, er det viktig at du jjer det selv. Dersom skaden ikke er meldt til folketrygden innen 1 ar, vil kravet ditt pa yrkessska-dedekning kunne ga tapt.
+
+ 
+
+## 5 Helsetienester
+
+Ftrl. SS 2-17
+
+Soningen vil ikke begrense retten din til statte til heisetjenester
+
+etter folkettygdloven, slik som legehijp, ortopediske hjlepemidler,
+
+medisiner pa bla reset op s a videre. Selv om du ikke er medlem i
+
+folkettygden, for eksempel hvis du ikke har lovlig opphold i Norge,
+
+har du rett til statte til heiseljepl som om du var medlem s a lenge
+
+du sitter i fengsel. Du kan lese mer om heishejep i fengsel i
+
+kapittel 22.
+
+## 6 Melding til NAV
+
+Ftrl. SS 21-3 og SS 22-15
+
+I mange tifeller har soningen innurkning pa rettighetene dine etter folkettygdloven. Du ma derfor melde fra til NAV i bostedskommunen at du skal sone, slik at eventuelle reduksjoner i ytelsene
+
+dine skjer til rett tid. Enkeletengsler gir direkte melding til folketrygden om soningen. Det er imidertid du selv som er ansatzig for at folkettygden far beskjed. Det er viktig at du forskrer deg om at
+
+NAV far melding om at du soner.
+
+Hvis NAV ikke far beskjed om at du skal sone og fortsetter uttebalingen som far, risikerer du i ettertid a bli mott med et krav om a
+
+betale tibake de pengene du ikke skulle ha fatt.
+
+## 7 Klage
+
+Ftrl. SS 21-12
+
+Forvatningsloven
+
+kapittel VI
+
+Klagen skal rettes mot klageinstansen, men skal som regel
+
+sendes til instansen som fattet vedtaket, slik at de selv kan
+
+vurdere om vedtaket skal omgjares eller opprettholdes. Hvis
+
+vedtaket opprettholdes, sendes saken videre til vurdering i klageinstansen.
+
+Klageinstansen i ferste omgang er NAV Klageinstans, som da wil
+
+fatte vedtak i saken. Dersom du er unenig i vedtaket fattet av NAV
+
+Klageinstans, ma du klage videre til Trygderetten. Etter at saken
+
+er behandlet av Trygderetten, ma du eventuelt fremme seksmal
+
+for lagmannsretten hvis du ensker a ta saken videre.
+
+Kapittel 34 - Rett til sosialstenad og trygdeytelser (NAV) 277
+
+Hvis du lurer pa hvor du skal sende klagen pa et vedtak, kan du kontakte NAV, som har plikt til a veilede deg om dette. Opphysninger om hvor du skal sende klagen, vil ogsa ofte fremga av vedtaket selv.
+
+### Krav til vedtaket
+
+Forvallingsloven kapittel V
+
+Du har alltid krav pa a fa skriftlig vedtak i trygdesaker. I tillegg skal vedtaket som hovedregel beginunes. Vedtaket skal inneholde informaspion om reglene vedtaket bygger pa, og de faktiske forhold som ligger til grunn for avgjerelsen. Videre ma det oplyses om klagerett og klagetrist for vedtaket. Hvis du far et vedtak som ikke overholder disse kravene er det viktig at du far kontakt med NAV, sosialkonsulenten i fengselet, advokat, Jussbuss eller et annet rettshjelpstiltak.
+
+### Hielp under klageomgangen
+
+NAV, sosialkonsulenten i fengselet, advokater, Jussbuss eller et annet rettshjelpstiltak kan hjelpe deg med a vurdere avslaget (se adresseliste bak i boka). I enkele klagesaker vil du kunne ha krav pa fr rettshjelp. Du kan lese om advokathjelp i kapittel 7 og om klager i kapittel 9.
+
+## IV Socialstonad
+
+### Generelt om sosialstenad
+
+Ditt lokale NAV-kontor skal gi deg opplynsninger, rad og veiledning som kan bidra til a lese eller forebygge dine sosiale problemer. Du kan lese om hvilket NAV-kontor som regnes som ditt lokale NAV-kontor i punkt IV nr. 2. NAV kan hjelpe deg med a vurdere hvilke ytelser du bar seke pa. Likevel har du rett til a seke pa hvilke ytelser du vil fra NAV.
+
+Sosialtipenesten skal arbeide for a gjere brukeren selvhjulpen og (soti). SS 1
+
+bidra til sosial og ekonomisk trygghet. Videre skal sosialtipenesten arbeide for at brukeren far en meningsfytl og aktiv tlivaerelse etter forholdene. Dette skal legges til grunn ved behandlingen av hver seknad.
+
+ 
+
+### Subsidiear vetles
+
+Sosialstanad skiller seg fra de fleste andre offentige velferds-ordninger ved at det er en skalt subsidiear vetlese. Det betyr at du ikke far sosialstanad til utgifter som fengselet plikter a dekke. Du far heller ikke sosialstanad hvis du kan fa dekket utgiftene av folkettygden eller ved hjelp av egne midler. For a fa sosialstanad, ma du ogsa ha forsekt a fa hjelp av personer som har plikt til a forsarge deg. Dette kan vere ektefelle, eller forelde dersom du er under 18 ar. Hvis du er ugift og over 18 ar er det ingen som har forsergerplikt overfor deg.
+
+### Individual behandling
+
+Alle soknader om sosialstanad skal vurderes konkret. I motsetning til hva som er tiffelle med trygdeytelser, er ikke sosialstanad gienstand for nayaktige reguleringer som fastsetter sterreelsen pa hjelpen. Dette gjer at bade satsene og hva det yes hjelp til, vl kunne variere fra kommune til kommune, og fra sak til sak. Sosialstanad er sik set en skjannbsaspert ytelse. Det er likevel et krav etter loven at ytelsene som gis skal vere pa et forsvarlig niva. Dette gieider uansett hvor i landet sosialhjelpen gis. Det er sosialtijenesten som avajjar hvor mye du skal fa og hvor ofte du skal fa utbetalt sosialstanad. Denne vurderingen foretar sosialtijenesten i hver enkelt sak.
+
+### Hyliket NAV-kontor har ansvar for sosialhjelp under
+
+soning?
+
+### Mens man er innsatt og ved lgslatelse
+
+Sotjl. SS 3
+
+Det er den kommunen man oppholdt seg i far fengslingen som far ansvaret for sosialytelsene under fengselsoppholdet og ved laslatelse. Din oppholdskommune er den kommunen du oppholdt deg i far soning, enten dette var permanent eller midlertidig. Det kolae NAV-kontoret i kommunen har ansvar for bade det praktiske og akonomiske vedrarende sosialhjelpen din under soningen og ved laslatelse.
+
+### Etter leslatelse
+
+Etter leslatelsen er det den kommunen man etablerer seg i, bosetter seg i eller besoker midlertidig som far ansvaret for dine* [19] Vellefredsytelser. Oppholdskommunen for du ble fengslet er da ikke lenger det NAV-kontoret du skal foholde deg til. Du bar ta kontakt med ditt NAV-kontoreller sosialkonsulenten i fengselet for losisateles for a fa vite hvilket NAV-kontor som blur ditt lokale kontor.
+
+[MISSING_PAGE_POST]
+
+ stenad som er mest hensiktsmessig for a hijplee deg. Det skal sta i vedtaket hvilken stanadstorm som er benyttet. Hvis du mener at NAV har valigt feil stanadstorm for deg, kan du klage pa dette.
+
+**5. Uttaifter man kan seke sosialstenad for**
+
+Rundskriv til sojl. nr. 35
+
+Som nevnt overtor avhenger retten til sosialstenad av om du kan forsarge deg selv eller om andre har plikt til a forsarge deg. Nar du sitter i fengsel dekker i utgangspunktet Kriminalomsorgen store deeler av det som faller inn under livsoppholdet. Nederfor kommer det eskempler pa hva du kan og ikke kan seke sosialstenad for. Listen er ikke uttammende. Det betyr at andre tifeller enn de som star nedenfor ogsa kan bli dekket.
+
+**5.1 Gield**
+
+Sotjl. SS 19
+
+Rundskriv til sojl. nr. 35
+
+Det klare utgangspunkt er at sosialtienesten ikke gir statte til avdrag pa lan, verken boliglan eller andre typer lan. Stotte til betjening av gleld vil kun gis der det vi vare nadvendig for a skere et forsvarlig livsopphold for den enkelete. Det skal svaert mye til far dette vilkaret er oppyft. Begrumelsen for dette er at nedbetaling av gleid i denne sammenheng blir statte til dine kreditorer og ikke til deg selv. Det invilges derfor kun unntaksvis statte til nedbetaling av gleid. Du kan lese om handtering av gleid i kaptitel 35.
+
+**5.2 Husleie, renter og avdrag pa boliglan**
+
+Rundskriv l-11/2000
+
+Hvis du sitter pa varetekt og ikke kan dekke husleie eller renter og avdrag pa boliglan, vil NAV kunne dekke dette under varetekts-oppholdet. Dette avhenger av varetektens lengde. Laneavdrag dekkes veldig sjeldent og kun i het ekstraordinaere tifeller. Det er hensynet til den innsattes behov for a beholde boliglen som tisier at avdrag pa boliglan i enkelete tifeller kan dekkes. Du kan forsake avatale avdragsustetelse med banken, slik at sosialtjenesten kun dekker renter og eventuelle gebyrer i forbindelse med lanet.
+
+Soner du en lengre dom, vil som regel sosialtienesten palegge deg a leie ut eller selge boligen. Nar fengselet skal vurdere om du kan fa slippe ut etter 2/3-tid, legger de vekt pa om du har tligang pa bolig. Dette er et argument du kan bruke nar du seker om hjelp til a beholde boligen din. Vi anhefaler deg a seke veiledning og hjelp sa tidlig som mulig, slik at du unngar a komme pa etterskudd med betalingen til utleier/banken.
+
+ 
+
+### Kapittel 34 - Rett til sosialstenad og trygdeyteser (NAV)
+
+#### Kapittel 34 - Rett til sosialstenad og trygdeyteser (NAV)
+
+Forskritt til strgifl. $ 3-22 Utgangspunktet er at innsatte kan bruke private klarer i fengselet. Kriminalomsorgen har ikke ansvar for a skaffe deg private klarer, selv om du offe i praksis vil fa utdelt noen klesplag ved innkomst i fengselet. Alimnenleg klear faller inn under livsoppholdsbegrepet i sosialtipenesteloven. Hvis du ikke er i stand til a serge for klarer til deg selv pa annen mate, kan du seke om a fa dekket utgitter til dette av sosialtipenesten.
+
+#### 5.4 Toalettartikler m.m.
+
+Fengselet skal serge for det mest nadvendige av toalettartikler slik som sape, tannbarste, tannkrem, sjampo, harborste, deodorant mv. Artikler utover dette, for eksempel hudpleaertikler, kosmetikk osv. ma du betale for selv. Hvis du har spesiele behov pa grunn av sykdom og legen din rader deg a bruke spesiele toalettartikler av helsemessige arasker, skal dette dekkes av fengselet. Gjennom dette dekker fengselet de toalettartikler som ingair i livsoppholdsbegrepet. Det skal derfor mye til a kunne fa dette dekket av sosialtipenesten.
+
+#### 5.5 Harklipp
+
+Harklipp faller inn under livsoppholdsbegrepet etter sosialtipenesteloven. Sosialtipenesten plikter derlor a dekke utgiftene dine til dette hvis du ikke kan dekke dette med egene midler.
+
+#### 5.6 Nadvendiag legehieip og medisiner
+
+Rundskriv l-11/2000 Helsinkien i fengselet dekker medisiner som blir foreskrevet av legen fengselet benytter. Du vil derfor hverken ha behov eller mulighet for a fa dette dekket av sosialtipenesten. Du kan lese om legehjeip i kapittel 22.
+
+#### 5.7 Tannbehandling
+
+Fengselet plikter a serge for akutthehandling til alle innsatte. I tillegg plikter fengselet a serge for ordinar behandling til innsatte med en soningstid pa mer enn 3 maneder. Utgfilter til tannbehandling kan dekkes av sosialtipenesten. Du ma som regel aksepetere at sosialtipenesten kun dekker det rimeligste alternativet. Det betyr at du som regel ma motta behandling fra den tannlegenfengselet bruker. Rene kosmetiske inngrep vil sjelden bli dekket av sosialtijenesten.
+
+### Utigifter til sports- og frtitsaktiviteter
+
+Fengselet skal legge til rette for bade fysisk trening og unlike hobbyaktiviteter for de innsatte pa frtiden. I den forbndelse skal fengselet sarge for et rimelig utvalg av fellesutstyr som for eksempel vektaparater, sykler osv. Hvis du ikke har midler til a dekke nadvendige utgitter til personlig treningsutstyr, kan sosialtijenesten ha plikt til a dekke det. Eksempler pa slikt utstyr er treningsfrakt, shorts, treningssko og lignende. Slike utgitter omfattes av sosialtijenestelovens livsopholdsbegrep.
+
+Fengselet skal sarge for at du far tilgang pa baker, tidsskrifter, aviser og lignende. Videre skal fengselet sa langt det er mulig legge til rette for ulike felles hobbyaktiviteter vd a sarge for engende redskaper og hobbymaterialier. Hvis fengselet ikke har midler til a gi deg aktivitetsilbudet du behaver, kan du forsake a sosialtijenesten.
+
+### Utdanning
+
+Hvis du har utgitter i forbindelse med den undervisingen som gis ! fengselet, dekkes disse av fengselet. Fengselet har ikke akonomisk anvsar for a dekke utgitter til utdanning under frigang. Silk skolegang kan enten dekkes ved artebidsavklaringspenger fra folketrygden eller lan og stipend fra Lanekassen. NAV har som hovedregel ikke plikt til a dekke utgitter til hayskole- eller universitetsutdanning. Du har likeveel rett til a sake. Du kan begrunne seknaden med at utdanningen er viktig for at du skal kunne etablere en my tivaserelse etter endt soning.
+
+Stright. SS 4
+
+I forbindelse med frigang til skole, plikter fengselet a bista deg med a kontakte trygdekontor, Lanekassen, sosialkontor, utdanninginsinstitusjoner osv.
+
+### Telefonutgitter
+
+Forskir til strgill. SS 3-29
+
+Du ma som hovedregel bruke dagpengene du far i fengselet til a dekke telefonutgitter. Hvis du ikke har penger nok til a dekke nadvendige samtaler med for eksempel forsvareren din eller pargrende, skal fengselet dekke dette hvis samtalene er nadvendige.
+
+ Kapittel 34 - Rett til sosialstenad og trygdeytesler (NAV)
+
+Sotij. $ 19 Utgifter til telefonsamtraler som ikke anses nadvendige av fengselet, kan etter en individuell vurdering dekkes av sosialtipenesten. Du kan lese mer om telefon i kapittel 13.
+
+5.11 Saerlige hijlempidler
+
+Sotij. $ 19 I den grad du ikke far dekket utgifter til sserlige hijlempidler av folketrygden eller egene midier, vil sosialtipenesten kunne invulige stanad til dette. Dette kan for eksempel vaere briller, hareapparat, ontopedisk fotsty, proteser og lignende.
+
+5.12 Permisioner og fremstillager
+
+Forskrift til stgifl. $ 3-30 Utgifter i forbindelse med permision skal som hovedregel dekkes av private midler. Fengselectet kan yte bidrag til reiseutgiftene til og fra permisjonsstedet ved seerlige behov. Det samme gjelder utgifter til nadvendig kost og losij under reisen.
+
+Rundskriv l-11/2000
+
+Rundskriv l-11/2000
+
+Rundskriv l-11/2000 Utgifter til jule- eller fodeselsgaver til barn og familie kan bli dekket av sosialtipenesten. Ved vurdering av denne type saknader skal det legges saerlig vekt pa barnas behov.
+
+6. Klage
+
+Forsultningsloven $ 29 Uts du er uenig i et vedtak fra NAV om sosialstanad, kan du klage pa dette. Klagefristen er som regel 3 uker fra du mottok vedtaket. Det er svaert viktig at denne fristen overholdes, slik som i saker om folketrygdloven.
+
+Vedtak som er truffet etter sosialtipenesteloven kan paklages til fylkesmannen. Det skal fremga av vedtaket hvor du kan sende klagen.
+
+ 
+
+**Kapittel 35**
+
+H$\ddot{\rm a}$noltering av gjeld
+
+l dette kapittelet gis det en fremstilling av hvordan du kan fa oversikt og kontroll over okonomien din. Kapittelet er basert pa Jussbuss sin hosjyre om h$\ddot{\rm a}$ndering av gjeldsproblemer. Denne brosjynen kan du fa gratis av Jussbuss hvis du $\ddot{\rm a}$nsker mer informasjon. Bakerst i kapittelet finner du maler som gir eksempler pa hvordan du kan formulere brev og s$\ddot{\rm a}$sknader om h$\ddot{\rm a}$ndering av gjeld.
+
+**I. Gjeld i fengsel**
+
+At du havner i fengsel p$\ddot{\rm a}$virker i utgangspunktet ikke de okonomiske forpliktelsene du har. Det vii si at du fortsatt ma betale husleie, gjeld og andre faste utgifter. Kriminalomsorgen betaler heller ikke innsattes gjeld eller faste utgifter.
+
+Mange har ikke inntekt ut over dagpenger mens de soner i fengsel. Det gjar det vanskelig a h$\ddot{\rm a}$ndtere gjeld og faste utgifter. Det kan derfor v$\ddot{\rm a}$re lurt a fa noen enkle grep for a f$\ddot{\rm a}$f$\ddot{\rm a}$ndre at du har f$\ddot{\rm a}$tge utgifter ennadvendig. Det kan v$\ddot{\rm a}$ere lurt a si opp for eksempel telefon, internett, stram og andre abonnementer du ikke trenger. Hvis det er mulig kan du ogsa si opp eventuell leiebolig. Pa denne m$\ddot{\rm a}$nten reduserer du riskoen for at gjelden vokser mens du sitter inne. Det er ogsa lurt a lage en strategi for a h$\ddot{\rm a}$ndtere den gjelden du allrede har.
+
+Den du skylder penger kalles kreditor. Dersom du skylder penger $\ddot{\rm u}$tgangspunktet at kreditorene har rett til a kreve og drive inn pengene fra deg. Hvis du har betalingsproblemer er det viktig at du tar kontakt med kreditorene dine. N$\ddot{\rm a}$r man kontakter kreditor kan man preve a innga en avtale om hvordan gjelden skal h$\ddot{\rm a}$ndterees. Dersom du er uenig i at du skylder pengene bar du gj kreditor beskjed om dette. Det er viktig at du begrunner hvrorf du er uenig. Jo tidligere du tar kontakt med kreditor, desto bedre. Du kan henvende deg til kreditor b$\ddot{\rm a}$dte muntlig og skrifflig. I del Il av dette kapittelet ser vi pa hvordan du kan fa kontroll over gjelden.
+
+Kapittel 35 - Handtering av gjeld
+
+Sosialijeneseteloven (soifj).
+
+S 17
+
+Kommunene i Norge skal sa langt det lar seg gjere hjelpe de innsatte med ekonomisk radgivning. Dette skal ivaretas av sosialkonsulentene i fengslene. I fengsler som ikke har egne sois-alkonsulenter kan du sperre kontaktbetjenten din om hjelp med dette. Dersom du har behov for mer hjelp med handtering av din akonomi, kan du sake om a fa en ekonomisk radgiver fra NAV.
+
+Det er ikke mulig a sone i fengsel istendorf a betale gjelden sin. Unntaket fra dette er dersom gjelden er pa grunn av en bot der det er fastslatt at man ma sone dersom man ikke betaler. Dette kalles botesoning.
+
+## II. Hvordan skaffe kontroll over gjeld
+
+### 1. Ferste steg: Informalism om gjelden
+
+Ferste steg er a fa en fullstendig oversikt over hvem du skylder penger og hvor mye hver av dem krever av deg.
+
+For a fa oversikt over gjelden ber du tenke gjennom hvem du kan skylde penger. Har du mottatt inkassokrav? Kan det vare lepende regninger som strom, telefon, forsikring eller husleleie som ikke er betalt i tide? Det er viktig at du apner og tar vare pa all post, siden dette er en god kilde til informasjon om kravene og hvem du ber ta kontakt med.
+
+Hvis du er usikker pa om du skylder noen penger, eller ikke har full oversikt over hvor mye du skylder, kan du ringe eller sende brev til dem, og be om on oversikt over kravenes sterrelse. Pass pa a presisere at du ved a ta kontakt ikke godtar gjelden. Bakerst i dette kapittelet kan du se et eksempel pa et slikt brev, se <<Mal 1: Oversikt over gjeld>>.
+
+Hvis du ikke betaler, kan kreditor prave a drive inn gjelden ved hjelp av et inkassobyra. Inkassobyraer er selskaper som jobber med a kreve inn penger. Dersom kravet har gatt til inkasso, er det i utgangspunktet inkassogelskapet du ma kontakte.
+
+Du bar ogsa tenke gjennom om det offentige krever penger av deg. NAV Innkreving (NAVI) krever inn feilutbetalte ytelser fra NAV og underholdsbidrag, slik som barnebidrag. Statensinkrevingsentral (SI) krever inn penger pa vegne av staten. De krever blant annet inn bater, erstatningskrav, misligholdt studielan og kringkastingsavgift til NRK. Kemneren krever inn skatt.
+
+### 1.1 Foreldet gield
+
+Mange lurer pa om gjelden deres er foreldet. Foreldelse vil si at gjelden er for gammel til a bli krevd inn. Hvis du lurer pa om et krav er foreldet kan du kontakte Jussbuss.
+
+Foreldeleseloven
+
+Hovedregelen er at krav pa penger foreldes etter 3 ar. Hvis gjelden er knyttet til et gjeldsbrev eller pengelan er foreldelesestiden pa 10 ar. Dette gjelder ogsa hvis namsmannen har forsekt a kreve inn pengene pa vegne av kreditor eller det er avagt dom om kravet hos for eksempel forlksradet eller en domstol.
+
+Foreldelse avbrytes ved at man erkjenner eller betaler ned pa gjeldsposten. Da begynner foreldelesfristen a lope pa nytt. Derfor er det viktig at man i brev til kreditor ikke innremmer at man skylder ham penger, hvis man ikke er enig i kravet. Dette ungar man ved a skrive i brevet at man ikke godtar gjelden.
+
+Foreldelesesfristen avbrytes ogsa ved at kreditor tar rettslige skritt. Dette kan for eksempel vaere at det blir tatt ut forliksklage, eller at det blir begjaert tvangstullbrydelse, det wil si inkreving gjennom namsmyndighetene.
+
+## 2. Andre steq: Oversikt over gjelden
+
+Nar du har fatt tibakemelding fra dine kreditorer, kan det vaere lurt a settle opp en oversikt over gjelden. Der kan du notere hvem som er kreditor, hwiket inkassogelskap som forvafter kravet, saksnummer, og hva de krever. Skyldbelepet kan delees opp i hovedstol (det opprinnelige kravet), renter (det man betaler for a lane penger) og omkostninger (utgifter kreditor har hatt til a kreve inn pengene).
+
+Bakerst i dette kapittelet kan du se et eksempel pa et skjema for oversikt over gjeld, se <<Mal 2: Gjeldsoversikt>>.
+
+## 3. Tredje steg: Kontroll over gjelden
+
+Etter a ha fatt oversikt over dine kreditorer og deres krav, ma du ta stilling til om du er enig eller uenig i disse kravene. Vi skal ferst se * [14] P. A. B. Kraw, A. K. Kraw, A.
+
+ kreditor a bruke resurser pa a drive inn penger fra noen som ikke har mulighet til a betale. Det er viktig at du viser kreditor at du vil gjare opp for deg, men at din akonomiske situasjon gjer at dette ikke er mulig.
+
+#### 3.2.1 Betalingtsutsettelse og rentefrys
+
+Svaert mange har ikke mulighet til a betale det de skydder under soning. Hvis man ikke har mulighet til a betale, er det lurt a seke om rentefrys og betalingtsutsettelse i soningsperioden. Hvis du far betalingtsutsettelse og rentefrys, vokser ikke kravet mens du soner. Det er viktig a veere klar over at dette bare er en midertidig lesning pa problemet, siden betalingen bare utsettes for en periode.
+
+Bakerst i dette kapittelet kan du se et eksempel pa en forespersel om betalingtsutsettelse og rentefrys, se <<Mal 4: Forespersel om betalingtsutsettelse og rentefrys>>.
+
+Det er viktig at du legger en kopi av soningsbekreftelse ved foresperselen.
+
+#### 3.2.2 Nedbetalingsvatale
+
+Hvis du ikke betaler ned pa gjelden i tide vil det ofte medfare haye renter og kreditor vil kunne drive inn gjelden med tvang. Derfor kan det vare lurt a fa i stand en overkommelig nedbetalingsvatale.
+
+Fer du kan forhandle med kreditorene dine om en nedbetalingsvatale, ma du ha overskilt over gjelden din og hva du har rad til a betale hver maned. Nar du naermer deg endt soning, ber du lage et budsjett som inneholder hvor stor disponibel inntekt du har har du blur leslatt. Den disponible inntekten din er hele inntekten din minus alle faste utgifter. Ut fra dette overskuddet kan du komme med et forslag om nedbetaling til kreditorene dine. Et forslag til nebetalingsavatale bar omfatte alle kreditorene dine.
+
+Det er viktig at du kommer med et forslag du har mulighet til a overholde. Dersom du ikke overholder din egen nedbetalingsvatale, faller den vanligvis bort, og kreditorene kan vare mindre village til a innga en ny avale senere. Det kan ogsa palpe renter og andre kostnader.
+
+ Bakerst i dette kapittelet kan du se et eksempel pa et forslag om nedbetalingsvatale der hver av kreditorene far en forbidsmessig dekning, se <<Mal 5: Foresparsel om nedbetalingsvatale>>.
+
+Hvis du ansker en nedbetalingsvatale bar du sende et slikt brev til alle kreditorene dine. Sammen med brevet bar du legge ved gjeldsoversikten din, og eventuelt en kopi av din siste lemsslipp/ trygdeutbetaling.
+
+#### 3.2.3 Tilbud om endelig oppgjer
+
+Et alternativ til a inng an nedbetalingsvatale er a tilby kreditor et endelig oppgjer. Det vi offte t a mye tid og arbeid for kreditor a kreve inn gjelden. Derfor kan de i noen tifeller ga med pa en avtale om betaling av et engangsbelep, for a bli ferdig med kravet.
+
+Hvis du skylder kr. 10 000, kan det derfor vere mulig a tilby kreditor en lavere sum, for eksempel kr. 7 000. Du bar helst kunne betale hele summen du tilby samlet, men det er ogsa mulig a avtale at belapet detes opp. Et endelig oppgjer er speiselt aktuelt der kravet har vokst mye pa grunn av renter og indrivelseskost nader og du tidigere har vist betalingsvilje ved a betale ned pa gjelden.
+
+Du kan be om en nedbetalingsvatale pa et tilbud om et endelig oppgjer. En lesning kan for eksempel vaere at du betaler det du opprimenlig skyldte (hovedstolen) og far slettet renter og omkostninger, dersom du nedbetaler i hovedstolen henhold til avtalen. Dette avhenger av kreditors velvije, men det kan vaere verdt et forsek.
+
+### 4 Ettergivelse/sletting av gjeld
+
+Kreditor gar av og til med pa a ettergi jeld, det vi si a slette den, dersom man ber om dette. Det er likevel svaert sjeldent at dette skjer, med mindre kravet er veldig lite og din akonomiske situasjon er svaert vanskelig. Alle kreditorer er interessert i a fa tilbake pengene du skylder dem. Dersom kreditor ser at siansen for a fa pengene er liten, kan de veleg a slette kravet for a slippe utgitter til inkreving.
+
+Har du mange sma krav p a rundt kr. 1 000 kan du seke om ettergivelse av disse. Jo eldre og mindre kravene er i forhold til resten av gjelden din, desto starre er muligheten for a fa slettet kravet.
+
+ For krav fra privatpersoner og selskaper er det opp til kreditor om vedkommende ensker a ga med pa en silk avtale eller ikke.
+
+For krav som kreves inn av offentlige instanser, er det unlike regler for nar man kan fa ettergivelse.
+
+## III Gjeldsordning
+
+### Hva er en gjeldsordning?
+
+Gjeldsordning, ogsa kalt gjeldssanering, innebaerer at skydneren betaler sa mye som mulig til kreditorene i en bestemt idsperiode, normalt 5 ar. Som hovedregel slettes resten av gjelden etter periodens utep. Formalet med gjeldsordningen er a gi personer med alvorlige gjeldsproblemer en mulighet til a fa kontroll over sin egen akonomi. Ordningen skal sixre at skydneren opppfyler sine akonomiske forplikteser sa langt det er mulig.
+
+Gjeldsordning er en siste utvei for skydnere som ellers aldri kunne bilitt gjeldfre. Derfor er vilkarene for a fa gjeldsordning strenge, og man far sjelden gjeldsordning mer en en gang.
+
+Gjeldsordningsloven m man farst selv forskee a komme til en avtale om gjeldsordning med sine kreditorer, se punkt III.2.3. Dette kalles <<det egen forskekety. Dersom man ikke klare a inga en silk avtale kan man ta kontakt med sin lokale namsmann. Der kan man fa hjep til prosessen videre.
+
+Namsmannen har plikt til a veijede deg gjennom hele prosessen.
+
+### Vilkar for gjeldsordning
+
+Det er tre hovedvilkar for a fa gjeldsordning. Disse tre vilkarene er for det forste at man er <<varig ute av stand>> il a opppfylle sine akonomiske forplikteser, for det andre at det ikke er forhold som hindrer gjeldsordning og for det tredie at man har foretatt et <<eget forskev for a komme from til en gjeldsordning med sine kreditorer, eller i det minste har lagd en oversikt over sin akonomiske situasjon. Nedenfor folger en narmere forklaring av hvert vilkar.
+
+Vilkarene er skjennsmessige, sa det kan vaere vanskelig a vurdere konkret om man opppfyler hvert vilkar. Dersom du har fatt avslag pa en seknad om gjeldsordning kan du ta kontakt med Jussbuss.
+
+ 
+
+### Varie a vstandgelse av en gjeldsordning ikke ma stride mot allmenn moral og rettsfgelse. Her foretas det en helntsvurdering der flere ting kan spille inn. De falgende fohlodene kan regnes som statende:
+
+* Nylig stitte gjeld: Hvis mer enn halvapten av gjelden er stiftet i lapet av de 2 siste arene, anses dette ofte som statende. Forsvarslip laneopptak til refinansiering eller til nadvvendig bolig eller lignende medregnes ikke i denne sammenhengen.
+* Gjeld fra straffbare forhold: Hvis en betydelig del av gjelden er beter eller erstatingskrav som stammer fra straffbare forhold som du er damt for i lapet av de seneste 3 ar, kan det anses som statende.
+* Ornstelige disposisioner: Har du foretatt disposisioner som er omstetelig ved konkurs, vi dette tale mot gjeldsordning. Typiske ttfeller er at man gir bort verdier til familie, eller pa annen mate praver a unndra milder fra kreditorer. Du kan lese mer om hva som er omstetelig disposisionj i dekningslovens kapittel 5.
+* Manglede opprylleise av okonomiske forpliktelser: Har du kunnet betale, men latt vaere a gjare det, vil dette tale mot gjeldsordning.
+* Skatte- og avgiftsgjeld: Hvis en betydelig andel av den samlede gjelden er skatte- og avgiftsgjeld, skal det tillegges vekt dersom du kan klandres for a ha padratt deg denne gjelden.
+
+### Utenomettsliq gieldsordning. <<eget fors&k>
+
+Det tredje vilkaret er at man selv har fors&k a fti en frivillig gjeldsordning med kreditorene sine. Du ma altsa ferst selv fors&ke a forhandle med kreditorene dine. Dersom det er spesielle forhold som gjar at det er grunn til a tro at et eget fors&k like vl jkkes, kan namsmannen apne gjeldsforhandlinger uten at du har pravd selv. Hvis du kontakter namsmannen uten a ha snakket med kreditorene dine ferst, er det viktig at du har oversikt over gjelden din.
+
+Det egene fors&ket innebarer en plikt for deg til a fremsette et forslag til kreditorene dine til lwordan du kan nedbetale gjelden. Du ber fors&e a forklare kreditorene dine at en gjeldsordning er den eneste maten du kan fa orden pa gjeldsproblemene dine.
+
+Det egene fors&ket ber inneholde:
+
+* Opplysninger om livssituasjon (arbeidssituasjon, utdanning, sivilstatus, helsetlstand, barn med mer).
+* Arsaken til gjeldsproblemene dine.
+
+ * Framtidsutsikter (arbeid, inntekter, healse).
+* Oversikt over inntekter o ugtugitter, samt dokumentasjon pa dette.
+* Oversikt over totalgjelden, antall kreditorer og spesifikasjon over alle krav.
+
+Forslag til lesning ma omfatte alle kreditorer og alle krav, og ma vaere en rettterdig fordeling. Bidraggsjeld (barnebidrag) og gjeld som stammer fra straffbare forhold ma alltid betales futt ut. For naermere regler om fordeling mellom kreditorene, se gjeldsorningslovent SS 4-8.
+
+En gjeldsorning er kommet i stand dersom alle kreditorene gar med pa forslaget. Dersom en eller fleere av kreditorene ikke gar med pa forslaget ditt, kan du ga til namsmannen for a fa hjelp til a inga en gjeldsorning.
+
+## 3 Gjeldsforhandlinger
+
+Dersom namsmannen finner at vilkarene for gjeldsorning er til stede, starter en gjeldsforhandlingsperiede. Den varer i 4 maneder, og i den perioden ma kreditorene dine stanse inndrivelse av alle krav. Namsmannen praver i denne perioden a fa i stand en frivillig gjeldsorning.
+
+Hvis man ikke klarer a oppna enighet mellom kreditorene i gjeldsforhandlingsperieden, kan du sende begjaering om twungen gjeldsordining til namsmannen. En twungen gjeldsordining er en gjeldsordining mot kreditors vile. Begjaeringen ma sendes innen utepet av gjeldsforhandlingsperieden.
+
+Dersom du begjaerer twungen gjeldsordining, sender namsmann saken over til tingretten, som kan fastsette en gjeldsordining mot kreditors vilje. En twungen gjeldsordining ma folge reglene i gjeldsordiningsloven kapittet 5. Dersom du begjaerer twungen gjeldsordining, utvides gjeldsforhandlingsperieden med 2 maneder.
+
+### Okonomiske forpliktelser under gjeldsforhandlingene
+
+Kreditorene ma samtykke dersom du skal stiffe ny gjeld under gjeldsforhandlingene.
+
+Ved apning av gjeldsforhandling oppnar du en betalingsustettelse pa 4 maneder. I lapet av de 4 manedene skal forslaget til gjelds ordning utarbeides. Siden du slipper a betale dine kreditorer i
+
+denne perioden, palegger loven deg a avsette inntekt til handte-
+
+ring av gjelden. Normalt vil dette skje ved at namsmannen foretar
+
+lannstrekk.
+
+## 4 Okonomiske forpliktelser i gjeldsordningsperioden
+
+Under gjeldsordningen ma du oppfylle din del av avtalen. Det
+
+bety at du ma betale avdragene som er fastsatt. l praksis vi dette
+
+si at du ma nedbetale gjeld med alle ttigjengelige midler.
+
+### Inntekt
+
+Du kan beholde inntekter til dekning av tugifter til bolig. Dessuten
+
+vil du kunne beholde en manedlig sum til nadvrendig underhold
+
+av deg selv og dem du forserger. Utgangspunktet er at denne
+
+summen tilsvarer livsoppholdssastene som Barne- og likestillings-
+
+departementeftastsetter hvert ar. Namsmannen foretar likevel en
+
+konkret vurdening i hvert enkelt tiflele. Oppdatere satser far du
+
+ved a henvende deg til din lokale namsmann, eller pa netsidene
+
+til Bame- og likestillingsdepartementet (www.bld.dep.no).
+
+### Bolig
+
+Du kan risikere a matte selge boligen din dersom kreditorene far
+
+best dekning ved et salg, dersom boligens standard overstiger det
+
+som anses rimelig for deg og din familie. Hvis du ma selge boligen,
+
+har du krav pa a fa avsatt midler til a skaffe en egnet bolig.
+
+Dersom du far beholde egen bolig under gjeldsordningen, vil du
+
+bare kunne betale renter pa boiglalen under gjeldsordningen. Bolig-
+
+lanet bestar og slettes ikke ved uttap av gjeldsordningsperioden.
+
+### Endring av gjeldsordningen
+
+Hvis okonomien din blir darligere mens du har gjeldsordning og du
+
+far problemer med a oppfylle avtalen, for eksempel fordi du mister
+
+jobben, ma du ta kontakt med namsmannen og eventuelt sake om
+
+a endre gjeldsordningen.
+
+Skulle du fa bedre okonomi, har du ogsa plikt til a informere om
+
+dette. Dersom du ikke gjer det, kan tingretten oppheve gjeldsordningen.
+
+ 
+
+## 5 Etter gieldsordiningsperioden
+
+Hovedregelen ved en tvungen gjeldsordining er at hele eller deler av gjelden slettes etter at gjeldsordiningsperioden er over. Dette ulf ogsa i de fleste tifeller gjelde en frivillig gjeldsordining. Ved en -frvillig gjeldsordining avhenger det av hva som er avtalt.
+
+Dersom du innen 2 ar etter gjeldsordiningens uttap mottar av, gevinst eller lignende av betydelig omfang, kan gjeldsordiningen setttes helt eller dekvis til side hvis kreditor be om det.
+
+
+## IV Maler
+
+Mal 1: Oversikt over gield
+
+_Ditt navn_
+
+_Din adresse_
+
+_Postrummer og sted_
+
+Dato: dd.mm.aa
+
+_Kreditors navn_
+
+_Kreditors adresse_
+
+_Postrummer og sted_
+
+**Oversikt over gield**
+
+Personnummer:
+
+Referanse/saksnummer:
+
+Jeg ansker a fa en samlet oversikt over min gield. Dersom
+
+jeg har gjeld hos dere ber jeg om a fa oversendt opplyninger om gjeldsposten, herunder opplyninger om saldo,
+
+avtatile nedbetalingsvikar og ordinear rentesats. Kopi av
+
+gjeldsbrev, eller andre rettslige grunnlag for kravet, bes
+
+ogsa oversendt.
+
+Det er viktig for meg a fa en tilbakemelding pa denne
+
+henvendelsen snarest mulig.
+
+Dette brevet innebkaerer ingen erkjennelse/aksept av gjeld.
+
+Til orientering er likelydende brev sendt til samtlige av mine
+
+mulige kreditorer.
+
+Med vennlig hilsen
+
+_Dita Norddaser_
+
+_Ditt navn_ Kapittel 35 - Handtering av gjeld 299
+
+Ditt navn
+
+Din adresse
+
+Postnummer og sted
+
+Dato dd.mm.aa
+
+Kreditors navn
+
+Kreditors adresse
+
+Postnummer og sted
+
+Forespersel om betalingsutsettelse og rentefrys
+
+Personnummer:
+
+Referanse/saksnummer:
+
+Jeg, ... (_navn_) har gjeld hos dere pa ... (_belop_) kroner, som stammer fra... (_grunnlag for kravet_).
+
+Siden jeg for tiden soner en dom, er det vanskelig for meg a betjene mine betalingsforplikteser. Som innasatt far jeg kun utbetalt ...(_tfull inn din inntek_) kroner per dag.
+
+Dette er et beskjedent belop som skal dekke utgitter til daglig livsopphold under soning. Jeg har heller ingen annon inttekt eller formue.
+
+Slik situasjonen er na har jeg ingen mulighet til a innfi gjelden hos mine kreditorer.
+
+Jeg _ansker_ imidlertid a gjere opp gjelden min sa fort min betalingsevne bedres.
+
+Jeg ber derfor om betalingsutsettelse og rentefrys from til endt soningsperiode, som er...(_dato for endt soning. Her kan du eventuelt skive: from til 2/3 tid, som er...).
+
+Haper pa en positiv og snarlig tibakemelding.
+
+Til orientering er likelydende brev sendt til samtlige av mine kreditorer.
+
+Med vennlig hilsen
+
+Dit navn
+
+Vedlegg: Soningsbekreftelse Oversikten over viser at jeg har kr. 1.000,- disponibelt til fordeling hver maned. Jeg
+
+setter med dette frem et forslag om a fordele overskuddet forholdsmessig pa mine
+
+kreditorer.
+
+**Kreditor/**
+
+**Inkassobyra**
+
+**Kreditit AS**
+
+**Bank AS**
+
+**10 000,-**
+
+**25 %**
+
+**250,-**
+
+**Bank AS**
+
+**20 000,-**
+
+**50 %**
+
+**500,-**
+
+**Inkasso AS**
+
+**10 000,-**
+
+**25 %**
+
+**250,-**
+
+**Totalt**
+
+**40 000,-**
+
+Min gjeld til ... (_for eksempel Inkasso AS_) utgjar ... (_for eksempel 25 %_) av min totale
+
+gjeldsbyrde. Mitt forslag til en nedbetalingsavtale inneberer at jeg betaler ... (25
+
+%) av min disponibile inntekt til ... (_Inkasso AS_). (_Dette avsnittet er et eksempel pa_
+
+_hvordan du kunne fremsatt et forslag til kreditoren <<Inkasso AS_)._
+
+Forslaget til nedbetalingsavtale er sendt til alle mine kreditorer. Jeg haper at dere
+
+aksepterer mitt forslag, og at nedbetalingsavtalen innvilges. Jeg ber med dette om at
+
+dere sender ut giro pa kr ... (_for eksempel 250,-_) hver maned, fra ... (_dato for nedbetalingsavtalens start_).
+
+Haper pa rask og positiv tlibakemelding.
+
+Vennlig hilsen
+
+_Dia Nordease_
+
+_Ditt navn_
+
+Vedlegg:
+
+1) Gjeldsoversikt
+
+2) Bekreftelse for arbeidsledighet, legeattest eller annet
+
+3) Lennnsslipp/trygd, sosialstnadsvedtak eller lignende
+
+4) Leiekontrakt 302
+
+**Kapittel 36**
+
+Menneskeretitigheter
+
+og straffegienomorfaring
+
+I. Innledning
+
+Menneskeretitigheter er grunnleggende rettsregler som verner alle mennesker - ogsa straffedamte. Det menneskeretitstige vernet gir uttrykk for grunnleggende verdier i samfunnet, som viser seg ved at staten ma avsta fra inngrep overlor borgerne, eller er forpliktet til a iverksette tiltak for a verne borgerne.
+
+Grunnloven SS 92
+
+Grunnloven s 92
+
+*Statens myndigheter skal respektere og sixre menneskeretitig- hetene slik de er nedtelt i denne grunlov og i for Norge bindende traktater om menneskeretitigheter.
+
+Grunnloven SS 93 annet
+
+og tredje led
+
+Grunnloven SS 102
+
+Noen menneskeretitigheter er absolutte og kan aldri fravikes, for eksempel forbudet mot tortur. Andre rettigheter kan innskrenkes pa en bestemte mater og innenfor visse rammer, for eksempel retten til privativ.
+
+Norske lover og myndighetenes handlinger ma altsa ikke komme i konflikt med menneskeretitighetene. Derfor ma straffegiennom- feringsloven forstas i lys av menneskeretitighetene, og er det strid mellom loven og rettighetene, er det loven som ma vike.
+
+Menneskeretitighetene er mange og kan fa betydning pa ulike mater. Her er det ikke pass til a redegjere inngaende for alle rettigheter som kan fa betydning for straffegienomorfaringen. Det er heller ikke pass til a redegjere for menneskeretitigheter som angar straffefortaligning.
+
+ I det falgende redegjares det fersst for enkeltte hovedtrekk og sserlige fohold som er av betydning nar man skal forsta menneskeretitighetene. Deretter redegjares det for enkeltte sserskite rettigheter av betydning for straffejennomfaring, og til slutt kan du leese om enkeltte kontrollordinger som skal sikre at menneskeretitighetene etterleves.
+
+Vear klar over at andre rettigheter enn de som gjennomgas her kan vaere aktuelle for din sak. Du skal gis tligang til bestemmelsene om menneskeretitigheter i fengselet (det er en menneskerettl). Dersom du har spersmal om menneskeretitigheter kan du ta kontakt med advokaten din, Jussbuss, eller noen av de andre rettshijelstilakene.
+
+## II Generett
+
+### Kilder
+
+Menneskeretitighetene er forankret i Grunnloven og i unlike interna-sjonale konvensjoner. Dessuten er enkeltte sentrale konvensjoner gjort til norsk lov. Sentrale menneskeretstslige kilder av betydning for straffejennomfaring, er:
+
+* Norges Grunnlov
+* Den europeiske menneskeretitighetskonvensjon (EMK)
+* FNs konvensjon om sivile og politiske rettigheter (SP)
+* FNs konvensjon om okonomiske, sosiale og kulturele rettigheter ($\mathcal{DSK}$)
+* FNs barnekonvensjon
+* Menneskeretsloven
+* De europeiske fengselregelene (vedtatt av ministerkomiteen 11. januar 2006)
+
+Noen menneskeretsbesstemmelser retter seg direkte mot straffejennomfaring. En prinspielt meget viktig bestemmelse er artikkel 10 nr. 1 i FNs konvensjon om sivile og politiske rettigheter (SP):
+
+<<Ale som er berwet friheten, skal behandles humant, og med respekt for menneskets ibende verdighet>.
+
+\begin{tabular}{l l} General Comment No. 21, & Det nermere innholdet i denne bestemmelsen er utdypet av FNs \\
+10.04.92 & menneskeretitighetskomite, som har slatt fast at fanger ikke skal \\ forskjelsbhandles fra andre borgere, ut over det som knyfter seg \\ til det a vaere bervet friheten. Dette utgangspunktet er ogsa lagt \\ \end{tabular}
+
+ * [15] M.
+
+ vokesne>>. Denne delen av bestemmelsen har imidlertid Norge tatt forbehold om, sa den gjelder ikke for oss.
+
+Nar innholdet i menneskeretttighetene skal fastsettes, har praksis fra intermasjonale domstoler og andre handhevingsorganer stor praktisk betydning. Nar domstoler i enkeltsaker tar stilling til om det foreligger brudd pa menneskeretttighetene, tydeliggjer de samtidig innholdet i de uike rettighetene.
+
+Det a gjere seg kjent med menneskeretttighetene naermere imhold, og serlig grensespersmal, kan altsa vere en meget krevende oppaye. Det gjelder ikke bare for fanger, men for alle. Heldigvis finnes det enkelete beker som kan gi en viss oversikt.
+
+## III Enkelete rettigheter
+
+### Frihetsberevelse
+
+Grunnloven SS 94
+
+Grunnloven fastslar at alle som et utgangspunkt er frie: Ingen skal afengsles eller beraves friheten pa annen mate uten i lovbestemte tifeller og pa den mate som lovene foreskriver>>. Det samme falger av EMK, som gir en katalog over i hvilke situasjoner staten kan ta frhieten fra borgerne.
+
+Grunnlaget for straffejennomfering falger av EMK artikkel 5 nr. 1
+
+bokstav a, som apner for frihetsberevelse av den som er <<domfelt av en kompetent domstob>>. Denne bestemmelsen forutsetter at det ma veare sammenheng mellom dommen man soner og beginunelsen for at man holdes fengslet.
+
+Dette har blant annet betydning for ordningen med prevelaslatelse, fordi bestemmelsen innebarer at prvelaslatelse ikke kan nektes av andre grunner enn for a gjennomfere dommen. Man kan for eksempel ikke nekte prevelaslatelse for a slippe a matte varetektsengsle deg for nye forhold, og man kan ikke nekte utviste utendinger prevelaslatelse fordi man onsker a ha dem under kontroll from til de kan transporteres ut av landet.
+
+ 
+## 2 Umenneskeliag eller redverdigende behandling
+
+### Generekt
+
+Grunloven sjar fast at ingen skal utsettes for <<fortur eller annnen imenneskelig eller nederdigende behandling eller straff>>. Dette vernet falger ogsa av EMK og fleere andre internasionale konvensioner. Dette er en grunnelggende regel som det ikke kan gjeres untak fra: Vernet er absolutt.
+
+Med <<fortur>> siktes det til inngrep som ferer til sserlig sterk lidelse og som er pafert med illegitim hensikt. Terskelen for <<umenneskelig eller nederdigende behandling eller straff>> er lavere, men ogsa for a falle inn under dette alternativet kreves et sakalt eminimum av alvory.
+
+Smerten og ydmykelsen som kan falge av a sone en fenggelsstraff, er ikke i seg seg selv amenneskelig eller nedverdigende behandling>>. Likevel ma ikke soningen innebaere overdrevne pakjenninger for at soningsfonholene vaere forenlige med vernet. Dessuten ma fangenes helse og velefred bli tilfredsstilende ivarettatt.
+
+Bruk av fysisik makt som ikke er strengt nadvendig, kan i prinsppet innebaere brudd pa bestimmelsen. Sentralt er om tiltaket vrker ydmykende og er egnet til a skape en faelelse av frykt og mindreverdighet.
+
+ 
+
+### Isolasion
+
+Isolasjon er et meget inngripende tiltak med stort skadepotensial, og ber derfor som det klare utgangspunkt unngas. Ulike former for isolering er ansett som et legitime skikerhetstiltak under strafegjennomfaring, men noen former for isolasjon vil anses som <<fortur>> eller <<unnenskelig eller nedverdigende>> behandling.
+
+Total isolasjon - sensorisk og sosialt - er absolutt forbut. Relativ isolasjon - fraver av kontakt med andre insatte - er ikke i seg selv forbut, men adgangen til a benytte dette tiltaket vil bero pa formalet med tiltaket, graden av inngrep, varigheten og virkingene for den som isoleres. Det skal ogsa ses hen til avrige fornold under soningen, og om de forsterker eller svekker tiltakets karakter av unenneskelig eller nedverdigende behandling.
+
+Fer isolasjon kan benyttes skal man uansett ferst ga frem pa en mate som skirc er forsvarlig beslutingsgrunnlag. Behovet og virkingene skal vurderets forlappende, og isolasjonen skal opphare dersom ingrepet er <<torholdsmessig.
+
+### Andre fornold
+
+Andre fornold som hver for seg eller samlet kan innebare
+
+<<unnenskelig eller nedverdigende behandling>>, er manglende ivaretakelse av helse, begrenset glass, manglende ttigang pa lys og lutt, uubldbare temperaturer mv. Ogsa kroppslige undersa-
+
+kelser som gar ut over det nadvendige, kan etter omstendighetene innebare krenkelse.
+
+### Privatiliv og familileiv
+
+#### Generelt
+
+Grunloven $ 102 ferste ledt farste punkum
+
+emk artikkel 8
+
+Ottritykket <<privatitiv>> skal forstas vidt og innebarer blant annet et verom on personlig autonomi, personlig identiftet og selvfalelse, helse, relasjoner til andre mennesker og verdighet. Ogsa afamlielivo skal forstas vidt og er ikke begrenset til formelle familierelasjoner.
+
+* [15] Dette vernet strekker ogsa noksa langt under straffegjennomfering, for eksempel har det veert ansett som iningrep a bli nektet a han mer enn to familiariebilder pa cella. Det har ogsa veert ansett som iningrep a nekte en fange a motta en juridisk bok.
+* [16] Vernet er relativt. Dette fremgar ikke av teksten i Grunnloven SS 102, men i EMK artikkel 8 nr. 2 er det fastslatt at det kan gjeres iningrep
+* [17] *nar dette er i samsvar med loven og er nadvendig i et demokratisk samfunn av hensyn til den nasjonale sikkerhet, offentlige tryghet eller landets akonomiske velferd, for a forebygge uorden eller kriminalitet, for a beskytte heles eller moral, eller for a beskytte andres teftiheter og friheter.
+* [18] Dette innebaerer altsa at det kan vaere greit med visse iningrep i <<privattiv>>, afamlieliv>>, chiemm og/eller <<kommunikasjon>>, men at ikke et twiklet som helst iningrep aksepteres. Skal det gripes inn i rettighetene, ma titaket ha tilstrekelig rettslig grunnlag, forfalge et legitimt formal og veere forholdsmessig. I forholdsmessighests-vurderingen skal man balansere de interessene som rettighetene beskytter mot de opplistede samfunnspehovene.
+
+### Om sikkerhet
+
+Myndighetene skal gi deg reell sikkerhet i fengselet, og soningen din skal derfor legges op op pa en mate som sikrer mot fare for krenkelser. Oppstar det reell og umiddelbar risko, skal myndi-hetene mate denne med silke effektive titak som det ut fra situajonen er rimelig a forvente.
+
+### Om isolasion
+
+Se EMDs dom i Munjaz mot Storbritannia (2012) avsnitt 80, som gialdt en psychkatrisk institujson, men injer tiltgangen til fellesskapet i de fleste tifeller vaere et inngrep jr uttrykk for et generell utgangspunkt
+
+Isolasjon som ikke er cumenneskelig eller nedverdigende>>, og derfor faller utenfor vernet i Grunnloven SS 93, kan rammes av retten til eprivattiv>> etter Grunnloven SS 102. For eksempel vi begens-psykiatrisk institujson, men injer tiltgangen til fellesskapet i de fleste tifeller vaere et inngrep jr uttrykk for et generell
+
+i privatlitvet, fordi du har rett til a etablere og utkike relasjoner til andre mennesker. Skal denne adgangen begrenses, ma det vaere fordi myndighetene ved bruk av lov forfalger et legitimt hensyn, samtidig som inngrepet ma veere nadvendig og proporsjonalt.
+
+ 
+
+### 3.4 Om besek
+
+Det skal legges til rette for at man kan oppretholde kontakt med familie og venner under soningen. I tillegg til a vare en grunnleggende del av retten til eprivatilv og familileilv, anses slik kontakt a vare av den starste bebdrning for tilbakefringen til samfunnet.
+
+Besekene skal ha en viss kvalitet og varighet. Videre skal det for gjennomfaringen tas hensyn til sserlige behov. For eksempel skal det searlig legges til rette for at barn opplever besak i fengsel sa normalt som mulig.
+
+Se for eksempel EMDs dommer i Ciorap mot mda veere nodvendig og forholdsmessig. For eksempel kan sikker- hetsmessige grunner apne for at besek skal skje med bruk av glassvegg, men det skal mye til.
+
+### 3.5 Om valg av fengsel
+
+For a oppretholde kontakt med familie og venner under soningen, er det for mange avgjerende at man sitter i et fengsel i nerheten av hjemstedet. Hvis man plasseres i et fengsel med en geografisk glassering som ferer til praktiske problemer med a oppretholde kontakt, kan det vare et iningrep i retten til eprivatilv og familileilv. Terskelen for krenkelse pa dette grunnlaget er imidiertid noksa hey.
+
+Begrensninger i kontakten kan bare bestemmes gjennom lov og ma veere nodvendig og forholdsmessig. For eksempel kan sikkerhetsmessige grunner tilsi at man ikke far sone i et fengsel naer hijemstedet.
+
+### 3.6 Om kommunikasion
+
+Grumloven SS 102 Kommunikasjon er eksplisitt oppgitt som en del av vernet etter Grunnloven. Sammen med retten til privatilv vermes din rett til korrespondanase i form av brev, telefon, mobil, internet, e-post mv. Ogsa her vil det kunne vare begrensninger, for eksempel i form av kontroll for a skire hensynet til ro, orden og skkerhet i fengselet.
+
+### 3.7 Om permision
+
+Retten til eprivatilv og familileilv gir ikke i seg selv rett pa permision. Szerlige hendelser kan imidiertid utlose en slik rett. Foreksempel kan man ha krav pa permisjon for a delta under viktige begivenheter som fadesel eller begravelse.
+
+Selv om en generell rett til permisjon ikke er en menneskerett, er det sterke feringer pa at det skal vaere permisjonsordninger, noe som ma forstas i lys av det overordnede malet om at man skal tilbakefrees til samfunnet og at man snsker a verne om eprivativ og familieliv. De europeiske fengelssreglene fastslar: <<Som en fengelssreglene integgert del av det samede regimet for straffedemte insante skal punkt 103.6 det gis tibud om fengelspermisjoner>>.
+
+### Om helse
+
+De europeiske
+
+fengelsreglene punkt 40.3
+
+og fysiske helseeltstand, herunder stile med nodvendig og forsvarlig
+
+helsehejhelp. De europeiske fengelssreglene fastslar at <<|l|nsatte fengelsreglene punkt 46.1
+
+skal ha tilgang til de helestejenester som er tiligengelige i landet uten forskjellsbehandling [...]. Dette imbeaerer at manglende ressumer
+
+ikke skal resultete i et svakere helseeltbund, noe som ogsa kommer
+
+til uttryk ved at <<|s|jke insatte som har behov for spesialistbe-
+
+handling, skal overfrees til spesialisre institujoner eller til sivle
+
+sykenhus nar slik behandling ikke er tiligjengelig i fengsel>>.
+
+**4. Stringer, motta opphysninger m.m.**
+
+Grunnloven SS 100
+
+ZMK artikkel 10
+
+Ytringsfriheten er vernet i Grunnloven SS 100, og gjelder ogsa for fanger. Vernet falger ogsa av EMK artikkel 10, som tydeliggjer at det inneberer <<rhiret til a ha meninger og til a motta og meddele
+
+opplysinger og ideer uten inngrep av offentig myndighet og
+
+uten hensyn til grenser>>. Det skal titertelegges slik at fanger kan kommunisere med medier.
+
+Det kan gjaores inngrep i vernet. Av EMK artikkel 10 nr. 2 fremgar det at ytringsfriheten
+
+<<kan [...] bli undergitt [...] inskrenkninger [...] som er foreskrevet ved lov og som er nadvendige i et demokratisk samfunn av hensyn til den nasjonale sikkerhet, territoriale integritet eller offentileg trygghet, for a forebygge worden
+
+eller kriminalitet, for a beskytte helse eller moral [...].
+
+Det kan altsa gjares visse inngrep i <<ytringsfriheten>>, men ikke et hvilket som helst inngrep vil bli akseptert. Ogsa her gjelder det at dersom det skal gripes inn i rettighetene, ma tiltaket ha tiltstekkelig rettslig grunnlag, forfolge et legitim formal og vare forbidsmessig. Nar man vurderer om inngrepet er forbidsmessig, skal man balansere de interessene som rettighetene beskytter mot de opplistede samfunnsbehovene.
+
+Utgangspunktet er at terskelen for iningrep i ystringsfriheten er meget hey. Begatt kriminalitet og forholidene i fengselet kan imidertl begrunne begrensninger, noe som ma avgares konkret ut fra forbidene og de hensyn retten til ystringsfrihet skal sixre. For eksempel vil generelle uttalieser om forholidene i fengselet normalit ikke kunne forbys, mens det nok er aktuelt med iningrep dersom ystringene kun er av personlig art og vil skape ubehag hos ofre ford det straffbare forhold vedkommende soner for.
+
+EMDs dom i Jankovskis
+
+mot Litauen (2017)
+
+Ytringsfriheten inneberer ogsa rett til a emotta opplynsninger.
+
+Det er lagt til grunn at forbud mot tligang til internetsider kan innebare krenkelse som ikke kan anses forbidsmessig. Behovet for tligang til internet ma forstas iys av den store betydningen bruken av internet hat for meddelekse av informasion, og at andre fremgangsmater vi veere meget tungvint, ikke minst fra fengsel.
+
+For eksempel vi man kunne har rett til internettigang dersom man skal orientere seg i studieordninger og arbeidstilbud.
+
+## 5 Religion
+
+Grunnloven SS 16 fastslar at  I en viss utstrekning skal det imidlettid legges til rette for utovelse av tro under soningen. For eksempel kan man ha krav pa mat som er tliberedt i overensstemmelse med ens religigase overbevisning, noe som innebaerer at budthister skal tilbys vegetarmat, muslimer skal fa et alternativ til svinekjett og at jediske fanger skal fa servert mat som er kosher.
+
+## 6 Barn
+
+Grunnloven SS 104 annet ledd fastslar at <<|yled handlinger og avgjerelser som berarer barn, skal bamets beste veare et grunnleggende hensyn. Dette gjelder ogsa for avgjerelser som treffes under strafefeigennomfring. I FNs bamekonvension er det inntatt serskite bestemmelser om barn som gjennomferer straff og om bam som er parenende av domflet. Slike reguleringer finner man ogsa i De europeiske fengselreglene.
+
+Utgangspunktet er at det for avgjerelser som treffes under strafefeigennomfringen som angar barn, skal tas hensyn til ubamets bestev. Barn har ogsa etter naemere omstendigheter rett til a bli hert i saker som angar dem. Det bamet mener om saken skal tilegges vekt i overensstemmelse med deres alder og utwikling. Det at avgjerelser angar barn kan ogsa fa betydning for hvordan man skal praktisere de _avrige menneskeretitighetene_, saeflig retten til <<privattiv og famililetiv>>.
+
+## 7 Diskriminering
+
+Grunnloven SS 98 fastslar at ingen skal utsettes for usaklig eller unforholdsmessig forskjellsbehandling. Et skalt vern falger ogsa av EMK artikkel 14, som fastslar at ingen skal diskrimineres pa noe grunnlag ved utovelsen av rettigheter etter konvensjonen. Strafefjennomfringen skal tatsa gjennomfrees pa en mate som er i trad med prinsippet om ikke-diskriminering.
+
+Til grunn for vennet ligger en oppfatning om at like tifeller bar behandles likt. Hva som skal anses likt og ulikt, er et verdispersmal. I EMK artikkel 14 er det eksplisitt sagt at vi alle er like pa tvers av <<kjonn, rase, farge, sprak, religion, politisk eller annen oppfatning, nasional eller sosial opprinnelse, tilknything til en nasional minoritet, eiendom, fadesel eller annen status.
+
+ Utgangspunktet er altsa at man under straffejennomferingen har tilgang til de samme goder som alle andre. Men ikke alle er like, og det apner for at noen far sierskite goder som ikke andre far. For eksempel har personer med psykiske lidelser sserlige behov, og de vil i noen sammenhenger ha tilgang til goder som ikke andre far. Et annet eksempel er at det anses tiradelig a invnilge praveteslatelse til noen, men ikke til andre. Denne forskjellsbehandlingen kan finne sted fordi forhold kan tale for at det bare er den ene som ikke wil bega nye straffbare handlinger.
+
+## IV. Kontroll
+
+### 1. Generelt
+
+Bestemmelser om menneskeretttigheter er ikke tilstrekelig i seg selv for a verne om verdiene de uttrykker. Derfor finnes det en rekke ordninger for uavhengig kontroll med at myndighetene etterlever rettighetene.
+
+For det ferste skal menneskeretttighetene, som avrige rettsregler, tas hensyn til ved ordinar saksbehandling og kagebehandling etter straffegjennomfrangsloven. Reglene kan ogsa paberopes ved klage til Sivilombudsmannen og ved seksmal for domstolene.
+
+I tillegg er det etablert enklete sserlige kontrollordninger for menneskeretttigheter. Det gjelder klageordininger hvor det enklete individ kan klage over og fa konstatert brudd pa menneskeretttighetene. Det gjelder ogsa overvakningsordninger som undersoker om myndighetene etterlever menneskeretttighetene. I det felgende redegjores helt kort for enklete av disse.
+
+### 2.1 Den europeiske menneskeretttighetsdomstol
+
+Den europeiske menneskeretttighetskonvensjonen har hatt og har stor betydning for menneskeretttighetenes stilling i norsk rett. Konvensjonen er gjort til norsk lov og fhere av bestemmelsene i konvensjonen har tjent som model for bestemmelser i Grunnloven.
+
+En viktig grunn til at konvensjonen har fatt stor betydning, er at det finnes en individuelk klageordning. Enhver som mener at menneskeretttighetene er krenket kan klage til Den europeiske menneskeretttighetsdomstol.
+
+De ter en rekke vilkar som ma varee oppytft for at domstolen skal ta en klage til behandling. I det falgende jiennomgas enkele av disse:
+
+* Klagen ma gjelde deg selv. Det er ikke anledning til a klage pa vegne av en annen person. Ikke-statlige organisasjoner eller grupper av enkeltindoiuder har ogsa anledning til a klage saker inn for domstolen.
+* Alle nasionale rettsmidler ma varee utemmt. Dette bety at saken ma ha vaert behandlet hos domstolen pa et sa hyri niva som mulig. I Norge vil det i utgangspunktet innebere at saken er behandlet eller avivat av Hygesterett. Dette er fordi norske myndigheter sek skal ha mulighett til a rette opp i krenkelser fer EMD eventuelt avsier dom om krenkelse av konvensjonen.
+* Klagen ma fremmes til EMD for det har gatt 6 maneder. Tiden beginner a lope den dagen du blir informert Kapittel 36 - Menneskeretttigheter og straffejennomfering
+
+Straffeprosseloven SS 391
+
+nr. 2 bokstav b
+
+konvensjonskrenkelse er konstatert av EMD. Gjenapning pa dette
+
+grunnlag er saerskilt regulert i straffeproesseloven.
+
+Dessverre er saksebandlingstiden hos EMD lang, men det er
+
+mulig a be om hurtigbehandling dersom rask behandling er avgje-
+
+rende for a sixre teptibetene dine.
+
+### FNs menneskeretttighetskomite
+
+Se SP artikkel 28 fg.
+
+Til konvensjonen om sivile og politike rettigheter (SP) har FN
+
+etablert en kontrollprosedyre der FNs menneskeretttighetsko-
+
+mite mottar og behander klager fra Yysiske personer. Ingen av
+
+uttalesene komiteen gir, er rettslig bindende.
+
+Selv om uttalesler fra FNs menneskeretttighetskomite ikke er
+
+bindende, har de i praksis stor bedrding. For det ferste ser
+
+man at komiteen gjerne legger dem til grunn for egen toking av
+
+konvensjonen. For det andre vil Norge i praksis rette seg etter
+
+komiteens uttalesler.
+
+Valgtri protokolt til den
+
+internasjonale konvensjon
+
+om sivile og politike
+
+renneskeretttighetskomite, herunder at nasjonale rettsmider
+
+rettigheter artifket 1 fg.
+
+ma vere uttemt og at du ma klage pa egre vegne.
+
+### Overviewkningsordininger
+
+### Sivilombudsmannen
+
+Sivilombudsmannen behander klager fra enkeltpersoner pa
+
+sayjerelser i det offentifige, og har dessuten et saerskilt ansvar for
+
+a underseke hvordan frhetsbervedes rettigheter ivaretas og for a
+
+forebygge krenkelser.
+
+Hos Sivilombudsmannen er det dessuten en forebyggingsenhet
+
+mot tortur og umenneskelig behandling ved frhetsbervelse. Den
+
+besaker fengsler med og uten a varsle ferst. Da har den adgang
+
+til alle steder og fri tilgang til alle opplysninger av betydning for
+
+fangeforholdene.
+
+Ettter besekene i fengsel utarbeider forebyggingsenheten rapporter
+
+som beskriver funn og risikofaktorer. Det gis anbefalinger, hvorav
+
+noen er vage, mens andre er mer spesifikke, som for eksempel at de fysiske forholdene pa enkelete avdelinger ma bedres eller at det ma installeres lysdimmer i sikkerhetsceller. Beseksrapportene publiseres pa Sivilombudsmannens nettside og stedene gis en frist for a orientere ombudsmannen om sin oppfeling av anhefalingene. Disse svarbrevene skal ogsa publiseres pa nettsidene.
+
+### Den europeeiske torturforebyygingskomiteen
+
+Den europeeiske torturforebyygingskomiteen (European Committee for the Prevention of Torture and Inhuman or Degrading Treatment or Punishment - CPT) er er organ som har til formal a overvake europeiske stater for a forebygge bruk av tortur, umenneskeig eller nedverdjende behandling eller st staff. Komiteen foretar inspeksjoner og utgir rapporter, og har blant annet kritisert Norge for rutheniumessig bruk av isolasjon og bruken av brev- og beseks-retiriskjoner under varetektsfenggling.
+
+FNs torturkomite (The Committee Against Torture - CAT) har til formal a forbygge bruk av tortur og umenneskelig og nedverdjende behandling. Komiteen overvaker statene gjennom kontroll av rapporter fra statene og rapportering fra interesseorganisasjoner, og gir deretter sine anheglalinger. Det er ogsa mulig for enkeltpersoner a kage til komiteen, men det er en ordning som har vaert lite i bruk.
+
+### FNs menneskeretttighetskomite
+
+FNs menneskeretttighetskomite handnever FNs konvensjon om sivile og politiske rettigheter. I tillegg til a behandle klager fra individier, se ovenfor, baseres handhevingen pa generelle kommensentarer som de gir basert pa egen erfaring, rapporter fra statene og klager fra andre stater.
+
+### FNs barnekomite
+
+FNs barnekomite skal sixre at barnekonvensjonen blir etterlevd i landene som har rattisert den. Statene skal sende inn rapporter, og pa grunnlag av disse vl komiteen fremette forslag og gi gene-relle anhefalinger. Det finnes en ordning med individuell klagrett, men Norge er ikke en del av denne.
+
+ 
+
+## Kapitel 37
+
+Fengselspolitikk
+
+I. Hva er fengselspolitikk
+
+Kriminalpolitikken i Norge endrer seg stadig, og denne utviklingen kan du vaere med a ove innflytelse pa. Nar man jobber med a paviarke lover og juridiske regler, kaller man det erretspolitikk. I fengselssammenheng handler rettspolitikk ofte om hvordan vi kan endre lovene og prakissen som gjelder i fengselet.
+
+En av de viktigste oppgavene til Jussbuss er a jobbe rettspolitisk. Jussbuss reiser rundt i fengseler i Norge og tar imot saker fra innsatte. Noen ganger kan vi dessverre ikke hjelpe i en konkret sak. I slike tifeller tar vi alltid med oss den innsattes erfaringer og forsaker a endre forholdene i fengselet gjennom politisk pavirkning. Fordi vlehandler sa mange fengselssaker ser vi hvor urettferdige lovene og reglene som gjelder bak murene ote oppleves. Vi snsker a gjere noe med dette. Defor skriver vi aviser og andre medier, arrangerer debatter og mater politikere. For at vi kan jobbe rettspolitisk er det veldig nyttig at du forteller oss om negative hendelser eiler uheldige situasjoner i fengselet. Dine erfaringer i fengselet er viktig for vart arbeid.
+
+Som innsatt kan du ogsa delta i rettspolitisk arbeid pa eget initiativ. Ettersom du har ferstehandskjennskap til systemet, er perspektivet ditt sserlig viktig. Du har mulighet til a dele dine erfaringer om hva som fungerer og hva som ikke fungerer i fengelssysstemet. Ved a fa insattes opplevelser ut i samfunnsdebatten, kan man kjempe for endringer.
+
+Videre vi vi gi eksempler pa hvordan du som innsatt kan jobbe rettspolitisk gjennom arbeid i og utenfor fengselet og arbeid gjennom organisasjoner.
+
+
+## II Hvordan na politisk ut til samfunnet
+
+Det er mange mater du kan jobbe med rettspolitikk rettet mot samfunnet utenfor fengselet. Du kan for eksempel skrive leserinnlegg, ta kontakt med media om darlige soningsforhold eller sende brev til politikere.
+
+Jussbuss har sett mange eksempler pa insantes rettspolitiske arbeid:
+
+* En underskriftskampanje satt i gang av insnatte i Oslo fengsel fikk medieoppmerksomnet i 2004. Innsatte klaget pa at de ikke lenger fikk lov til a snakke morsmalet sitt nar de snakket i telefonen med familie og verner.
+* Innsatte i Bjorgvin fengsel utenfor Bergen fikk medieoppmerksomnet om fengselets lave matbudsjetti i 2010.
+* I en periode hadte Norge en leieavtale med mederlandske myndigheter slik at insnatte sonet i et mederlandsk fengsel, Norgerhaven. l 2015 skrev liertallet av insnatte i Norgerhaven under pa et opprop om soningsforholene i fengselet. De klaget pa misvisende informasjon i en eskrytefilmy som Kriminalomsrogen brukte for a rkruttere insnatte til Norgerhaven. De tok blant annet opp problemer med manglende tilgang til Skype, mangel pa adgang til fotball- og tennisbaner og et darligere skoletilbud en det som tilbys innsatte i lilsvarende fengseler i Norge. Leieavtalen var politisk omstridt, og en del innsatte gikk hardt ut i media mot avtalen.
+* Innsatte ved Ullersmo fengsel var misformayde med byggestoy, flystey og skadedyri t fengselet i 2017. De startet en underskriftskampanje, sendte en klage til Helseitsynet og fikk VG til a skrive om saken. Klagen ble ikke tatt til folge, men det var likevel viktig at de innsatte sa infra.
+
+Av erfaring vet Jussbuss at det er vanskelig a fa gjennomslag for initiative som underskriftskampanjer og klager i media, selv nar mange insnatte samarbeider i den aktuelle saken. Uftordingene nar man jobber rettspolitisk som insnatt er mange. Fengselet kan begrense rettspolitisk arbeid av skikerhetsmessige grunner. De kan ogsa sette vilkar for reportasjer som inneholder bidler og informasjon om fengselet. Retten til a la seg interjue kan derimot ikke avskjeres av skikerhetsmessige eller andre grunner. Selv om du mater utfordringer ved ditt rettspolitiske arbeid, oppfordrer Jusbuss deg til ikke a gi deg. Din stemme er viktig i arbeidet for en kriminalpolitisk endring i Norge.
+
+ Kapittel 37 - Fengselspolitikk 319
+
+## III. Hvordan arbeide rettspolitisk i fengselet
+
+Du kan ogsa preve a pavirke fengselet innenfra. Utgangspunktet er at du har en rettt til a jobbe rettspolitisk, ogsa i fengsel. Din
+
+grunnlovestestede rett til ystringsfirhet beskytter din adgang til a
+
+uttrykke meninger om forholdene i fengselet. Det er viktig a huske
+
+at fengselet i noen tifeller lovig kan innskrenke denne retten av
+
+hensyn til ro, orden og sikkerhet, for eksempel ved bruk av straffe-
+
+gjennomferingslovens bestemmelser om uttelukkelse fra felleskap.
+
+En mate a arbeide rettspolitisk i fengsel pa er a delta aktiv t i
+
+samarbeidsorgan i fengselet. Nar fiertallet av insnatte ansker
+
+det, skal fengselet forsake a tifrettelegge for samarbeidsorganer
+
+mellom de innsatte og ansatte i fengselet. I disse organene kan
+
+man diskutere generelle sparsmal som angar innsattes daglige
+
+liv. Her kan du forsake a fa endret ting du ikke er formeyd med.
+
+Adgangen til a delta i samarbeidsorganer kan i noen tifeller
+
+begrenses av sikkerheitsmessige grunner. Les mer om samarbeidsorganer i kapittel 8.
+
+Du kan ogsa kontakte uavhengige organer som Sivilombuds-
+
+mannen, Likestillings- og diskimineringsombudet og tilsynsradet
+
+hvis du opplever utiltfredsstillende forhold i fengsel.
+
+## IV. Hvordan arbeide rettspolitisk gjennom
+
+organisajoner
+
+Du kan ogsa jobbe rettspolitisk gjennom kontakt med eller
+
+medlemskap i foreminger som jobber for a forbedre forholdene i
+
+fengselet. Det finnes en rekke organisajoner som jobber rettspolitisk. To eksempler er Norsk forening for kriminalreform (KROM)
+
+og For Fangers Pararende (FFP). KROM jobber generelt for a
+
+endre den norske kriminalpolitisken til insattes fordel. FFP jobber
+
+spesifikt med a forbedre situasjonen for innsattes pararende.
+
+Retningslinjene til strgjfl.
+
+$\lx@sectionsign$ 33 punkt 33.10
+
+Det er i noen tifeller mulig a fa serskilt permisjon for a delta i
+
+rettspolitisk arbeid gjennom slike organisajoner. Les mer om
+
+dette i kapittel 14 om permisjon.
+
+Bakerst i boken finner du en oversikt over aktuelle organisajoner,
+
+samt kontaktiinformasjonen til disse. Du kan ogsa finne mer informasjon om ulike organisajoner i kapittel 39.
+
+ 
+
+## Kapittel 38
+
+Om Jussbuss
+
+I. Hva er Jussbuss?
+
+Jussbuss er et rettshjelpstitlak som drives av juststudenter fra Det jurdiskke fakultet ved Universitetet i Oslo. Jussbuss started som et forskningsprosjekt i 1971. En gruppe studenter dro med en buss til Oppsal i Oslo for a underseke i hvor stor grad befolkningen hadde ulaste juridiske problemer. Det viste seg at det var et stort behov blant folk fiest for jurdisk radginving, og som et resultat av dette fortsatte driften i Jussbuss. Jussbuss holder na til i kontorfolkaler i Skippergata 23 i Oslo sentrum. l dag arbeider det omtrent 35 studenter i Jussbuss.
+
+### 1. Hva jobber Jussbuss med?
+
+#### 1.1 Saksbehanding
+
+Jussbuss gir gratis rettshjelp i enkeltsaker. Vi kan hjelpe deg i form av muntlig eller skriftlig jurdisk radginving, og i noen tiffeller kan vi representere deg. Dette kan for eksempel varee overfor fengselet du sitter i, en kreditor eller utlendingsforvattningen. Jussbuss gir kun jurdisk rad og bistand innenfor enkele saksomrader. Hvis saken din faller utenfor det vi jobber med, vi vi grave a finne andre som kan hjelpe deg. Siden vi er studenter, kan vi ikke ta alle typer saker. Vi kan for eksempel ikke fere saker for retten.
+
+Saksomradene vi i dag jobber med er hovedskaelig utlendingsrett, fengselsrett, husleierett, gjeldsrett, sosialrett, trygderett og arbeidsrett. Grunnen til at vi har valgt ut nettopp disse omradene, er at vi mener dette or omrader hvor behovet for rettshjelp er stort, og hvor det ikke gis tilstrekkelig hjelp fra det offentlige.
+
+#### 1.2 Rettspolitikk og forskning
+
+Jussbuss har et mal om a bedre rettstilstanden i samfunnet for vare kliengrupper. Det gjor vi ved a arbeide for a forandrelovverket og pavirke politiske avgjaerelser. Dette kaller vi a arbeide rettspolitisk. Gjennom utspill i media, uttalelser ved forberedelsene av nye lover, deltakelse i debatter, kontakt med politikere og lignende prayer vi a endre rettstilstanden der vi mener den ikke er tifredsstillende. Eksempler pa slikt arbeid er nar fengelselsgruppa skriver haringsuttalelser til endringsforslag i straffejennomforringsloven eller andre lovforslag som angar vare klienter. Det er ikke allitd vi kan hijele til med generelle klager pa fengelselssystemet, men vi tar allitd med oss det vi harer videre i det rettspolitiske arbeidet. Vi jobber for a bedre fon holdene rundt soning og fengsel.
+
+## 2 Hvordan Jussbus jobber med sakene
+
+Medarbeiderne pa Jussbuss er inndelt i arbeidsgrupper som jobber med de enkelte saksfeltene.
+
+Hver medarbeider pa Jussbuss har sine egene saker, og hver klient hewender seg til sin eigen saksbehandler. Likevel jobber vi allitd med sakene i fellesskap innad i gruppene, og noen ganger pa tvers av dem. Alle gruppene pa Jussbuss har <<gruppemete" en gang i uka. Da bruker gruppene en hel dag pa a gq jennom alle sakene pa gruppa og diskutere dem sammen. Dette gjar vi for a forsikre oss om at radene vi gir er kitge. Det er allitd gruppemetet i fellesskap som bestemmer hvor langt vi kan ga i den enketle sak og som tar avgjaerelser i sakene. Gruppemetene og samarbeidet innad gir akt rettssikkerhet. Siden vi ikke er ferdig utdannede jurister, er det viktig for oss a jobbe pa en tryggest mulig mate for klientene vare.
+
+Siden alle sakene ma kontroleleres pa gruppemetet, ma du ofte vente litt pa a fa svar. Hvis du har en sak som haster, vi vi allitd prioritere a svare deg innen fristen.
+
+Ale medarbeiderne pa Jussbuss har taushetsplikt. Det er selvfelgelig allitd du som bestemmer hva du vil gjere i saken og hvordan.
+
+Vi holder deg ogsa allitd lepende orientert i saken.
+
+## 3 Gruppene - hvilke saker de kan hijele til med og hvordan
+
+### HOG: Husleie og gield
+
+HOG jobber med sparsmal knyttet til husleie, gjeld og kommunal bolig. HOG gir bade generell informasjon om rettstilstanden og yter bistand i enkeltsaker. HOG kan blant annet bista skydneren med bestridelse av uriktige krav, seknader om gjeldsordning eller hjelp i forbindelse med tvangsinndrivelse. HOG hijeler ikke kreditor, men kan likevel gi generell informasion om hvordan disse kan drive inn sin gjeld ved hjelp av gjeldsbrev og en pakravsmal. Du kan lese om handtering av gjeld i kapitel 35.
+
+I husleiesaker tar HOG kun saker for leietaker, og ikke for huseier/ utleier. HOG er behjelpelig med de fleste jurdiskke problemer som kan oppsta i et leiefonhold. Eksempler pa saker HOG tar er spersmal om leieekning, oppsigelse av leiefonhold, spersmal om depositum, fremleie, mangeelskrav, vedlikenhold og kontraktsinga- else, samt spersmal knytttet til kommunal bolig.
+
+3.2 SAG: Sosial-, tryqde- og arbeidsrett
+
+SAG arbeider med spersmal om sosialrett, trygderett og arbeids-rett. I spersmal om arbeidsrett hijeler SAG kun arbeidstakere, ikke arbeidsgivee eller selvstendige oppdragstakere. SAG kan hjelpe deg med de aller fleste jurdiskke problemer som kan oppsta i et arbeidsforhold. Eksempler pa saker gruppen tar er oppsigelse, utbetaling av lenn og ferieepenger, twist angaende fravaer og sparsmal vedrarende permisjoner. I sosial- og trygdesaker kan SAG hjelpe deg med a vurdere om et vedtak du har motatt er korrekt, og eventuelt skrive klage pa dine vegne. Du kan lese om retten til sosial- og trygdeytelser i kapitel 34.
+
+3.3 INNVA: Uttendingsrett
+
+INNVA arbeider med utendingsrett. INNVA kan hjelpe til med de fleste jurdiskke sparsmal nar det gjelder opphold i Norge for uttendinger. Gruppa tar for eksempel saker om utvinsning, familiejenforening, arbeids- og studietillatelse, visum, permanent oppholtstillatelse og statsborgerskap. INNVA kan ikke hjelpe til i asysaker. Du kan lese om utvinsning i kapitel 33.
+
+3.4 FEG: Fengelsrett
+
+3.4.1 Hvilke saker FEG tar
+
+FEG jobber med fengelssaker. FEG er behjelpelige med de fleste problemer som oppstar i forbindelse med soning av fengelsstraff. De tar for eksempel saker om soningsforholdene i fengselet, saknader om permisjon og fremstilling, overfaring mellom institu-sjoner, prevelaslatelse og klage pa reaksjoner.
+
+Siden alle medarbeiderne pa Jussbus er studenter, kan vi ikke fare saker for retten. FEG tar derfor ikke stratfesaker. Onsker du for eksempel a jenoppta saken din, kan vi gi informasion om gjenopptakelse og skaffe skknadsskjema, men vi kan ikke hjelpe deg med a fylle det ut.
+
+#### 3.4.2 Fengselsbesek
+
+Fengselsgruppa reiser hver uke til ulike fengsler pa estilands-omradet for a informere om Jussbuss og ta inn nye saker. Noen ganger dar vi ogsa til andre steder i landet. Det skal bli gitt beskjed i fengselet om nar Jusbuss kommer pa besek. Hvis du ansker a snakke med oss, kan du skrive deg opp pa besekslapp, og du vil bli klatt inn til oss nar vi kommer. Du kan ogsa fringe oss hver ukedag mellom klokken 10:00 og 15:00.
+
+Du kan sporre oss om generele ting, eiler legge fram en konkret sak du ansker hjelp til. Du kan sporre om alle rettsomradene Jussbuss jobber med. Hvis vi ikke jobber med det du lurer pa, finner vi noen andre som kan hjelpe deg.
+
+#### 3.4.3 Saerlig for klienter i fengsel
+
+Ofte kan fengselssystemet vere et frustrerende og lukket regime for deg som sitter i fengsel. Vi praver sa godt vi kan a forsta din situasjon som innsatt, og jobbe for dine rettigheter. Hvis vi for eksempel forteller deg at vi ikke kan hjelpe deg, betyr ikke det at vi er enig med fengselet om hvordan ting bar fungere. Jussbuss er nadt til a vare realistiske, og vurdere saken ut fra gjeldende rett. Vi ser mange svakheter med bade loverket og systemet, og prayer a arbeide for at innsatte skal fa en bedre hverdag. Du ma ikke nale med a ta kontakt med oss, selv om du frykter at du har en darlig sak. Gi oss gjeme beskjed hvis det er noe du synes vi ber arbeide med.
+
+Jussbuss vi alltid preve a gi deg best mulig veiledning og hjelp, men vi kan ikke gjere alt. I ferste omgang vi vi ofte veilede deg til a skrive en god seknad selv, og heller hjelpe deg med a klage dersom du far avslag. Hvis det er noen spesielle grunner til at du ikke kan skrive selv, forsoker vi a hjelpe deg. Det kan ogsa hende at vi rader deg till a vente en viss tid med a seke om ulike ting. Dette er i sa fall fordi vi mener det er det beste for saken din.
+
+Hvis du allerede har en advokat som jobber for deg, ma du gi oss beskjed om dette. Du ma jerne snakke med oss om saken din, men vi vi helst unga at bade advokaten din og Jussbus for eksempel skriver en seknad hver om akkurat det samme. Dette kan fare til uryddig saksbehandling, og er ikke til din fordel.
+
+Det varierer fra fengsel til fengsel om telefonsamtaler med Jussbus trekkes av dine ordaniere telefonkvoter. En del fengseler lar deg ringe til oss uten at det gar av ringeiden din.
+
+## 4 Kontakt med Jussbuss og andre rettshielpstitak
+
+### Saksmottak og apningstider
+
+Ale inssattate kan ringe til Jussbuss hver ukedag mellom klokken 10:00 og 15:00. Du kan ringe selv om du sitter i et fengsel Jussbuss ikke beseker. Hvis du $\mathfrak{ansker}$ a komme til vare kontorer nar du er pa permision eller frenstilling, kan du ogsa mate opp lver ukedag mellom klokken 10:00 og 15:00. Dersom du ikke sitter i fengsel, ma du ringe i vare ordaniere saksmottaksstider; mandager mellom klokken 17:00 og 20:00 eller tisdager mellom klokken 10:00 og 15:00. Du kan ogsa mate opp i vare kontorokaler til disse tidene. Grunnen til at innsattate kan ringe oss utenom de ordaniere saksmottakstidiene, er at det ofte er vanskeligere for innsatte a bruke telefonen akkurat nar det passer, eller a oppsake oss personlig. Telefonnummer og adresse til Jussbuss finner du bakerst i boken.
+
+Jussbuss holder stengt i julen og pasken. Vi forsoker a ha apent hele sommeren.
+
+### Andre studenttrevne rettshielpstitak
+
+Jussbuss holder til i Oslo, men tar inn saker fra hele landet via telefon. Det finnes ogsa studenttrevne rettshielpstitak andre steder i landet du kan fa hjelp fra, uansett hvor du bor eller soner. Alle gir gratis juridisk bistand. Disse rettshielpstitakene er: Jushielpa i Midd-Norge (Tromshe), Jusssijelpa i Nord-Norge (Tromse) og Jussformidingen (Bergen). F lere av disse titakene oppsoker fengseler i sin region. Det finnes ogsa et annet 
+
+[MISSING_PAGE_POST]
+
+ 
+
+## Kapittel 39 Organisasjoner
+
+I dette kapittelet star det om noen organisasjoner som kan vaere interessante for deg som sitter i fengsel eller nylig har blitt laslatt. Dette er organisasjoner som farst og fremst kan hjelpe deg med andre ting enn rettshjelp. Det er gratis a benytte seg av disse titlakene. Du finner adresser og kontaktiformasjon til organisasjonene bakerst i boka.
+
+## KROM - Norsk forening for kriminalreform
+
+KROM er en partipolitisk og religigast uavhengig freening. Foreningen arbeider for en hensiktsmessig og menneskeverdig kriminalpolitikk. KROM baserer seg pa frivilig arbeid.
+
+Foreningen har et tredett mal:
+
+Arbeide for a avskaffe straffesystemet sann som det er i dag, og motarbeide at nye fengselsignende systemer eller tvangsordninger oppstar.
+
+Reformere straffesystemet og fengselvesenet for a redusere skadevirkingene av frihestsberveelse.
+
+Vaere et talerer for navearende og tidligere innsatte, og jobbe for deres generele rettigheter og krav.
+
+Foreningen er apen for alle som vi statte deres formal. KROM har per 2018 ca. 500 medlemmer. Flere av medlemmene er navearende og tidligere innsatte.
+
+KROM svarer pa haringer som omhandler innsattes rettigheter, dettar i debatter i media og arrangerer meter og konferanser. De arrangerer blant annet den arlige KROM-konferansen, hvor flere innsatte pleier a delta. KROM beseker ogsa fengseler. I tillegg til dette driver KROM informasjonsarbeid pa skoler og i foreninger om hvordan stratfesystemet virker i praksis.
+
+Kapittel 39 - Organisasjaner 327
+
+## SON - Straffedes organisasjon i Norge
+
+SON arbeider for fangers retitigheter og for a hjelpe tidligere fanger med a frigjere seg fra sin kriminelle lepebane. Det er et vilkar at man er straffedamt for a veare medem i SON.
+
+Formaliet med SONs arbeid er at naveerende og tidligere innsatte skal ha et tilbud om et sted a veare der de kan ta tak i egene problemer og fa sosiale og kulturele impuser. SON forsoker a lase problemene som kan oppsta ved overgangen fra fengsel til samfun. SON har ogsa som mal a veare med i den kriminalpolitiske debatten.
+
+## FFP - For Fangers Parorende
+
+FFP er en landsdekkende organisasjon som tilbyr statte og radigving, og arbeider for a bedre situasjonen for parerende til innsatte. De samarbeider med Kriminalomsorgen for a bedre parorendes stilling i mate med fengslene og syniligjere parerendes situasjon gjennom prosjekt- og informasjonsarbeid. Det meste av kontakten med parerende foresar via telefon, e-post og ved individuelle samtler eller familiesamtaler i FFP sine lokaler. FFP har mye kunnskap om Kriminalomsorgen, og gir ut brosjver om para-rendes situasjon.
+
+FFP har ulike tilbud til pararende der man kan mate andre i en lignende situasjon. De arrangerer formiddags- og kveldstreff, kultur- og ferietilbud samt egne tilbud for barn og unge gjennom FFP Ung.
+
+FFPs radigvningstilbud er landsdekende pa telefon, brev og e-post. FFP har hovedkontor i Oslo og en lokalavdeling i Trondheim (FFP Trendelag).
+
+## Rode Kors' visitorljeneste
+
+Du kan fa jevnlig besok av en visitor fra Rode Kors i lpet av fengselsoppholdet. Rode Kors er en uavhengig organisasjon som er politisk og religigist naytral. Beskene er basert pa frivillighet og visitorene har taushetsplikt, ogsa overfor de fengselsansatte. Et visitorbesak kommer i tilleg til de private beskene du far, og visitorene kan ogsa besoke deg selv om du er ilagt besoksforbud.
+
+ Visitoren beseker deg regelmessig hvis du ansker det. Sammen kan dere snakke om dine interesser, hverdagsproblemer eller andre ting du gnsker a prate om.
+
+Tjenesten har ca. 450 frivillige visitorer knyttet til 34 fengsler over hele landet. Alle fengsler med hay sikkerhet er tilknyttet visitorordningen. Visitorene beseker innsatte i varetekt og pa dom. I tillegg til en-til-en-besak pa cella eller i beseksrom arrangerer visitorene en rekke fellesarrangementer i fengsel, som for eksempel pizzago spillekevelder, konserter, jule- og sommerfester.
+
+Hvis du vil ha besak av en visitor eller mer informasion om visitorijenesten, kan du gi beskjed til en ansatt i fengselet eller til fengselspresten.
+
+### Nettverk etter soning
+
+Rade Kors Nettverk etter soning (NES) er Norges sterste frivillige etterverstibud. Malgruppa er straffedamte som ensker a bryte med kriminalitet og eventuelt rus. Den klart starste avdelingen holder til ved Tilbakefaringssenteret i Oslo. For avrig finnes tilbudet i Bergen, Trondheim, Stavanger, Alesund og Ostfeld. Alle avdelinger tar utgangspunkt i at mange straffedamte tenger a etablere nye sosiale nettverk og nye friidsaktiviteter hvis de skal klare a na maliet sit om et liv uten kriminalitet og rus. Gjennom NES far du tilbud om kontakt med en frivillig som kan vaere en stattespiller i en vanskelig periode, samt mulighet for a vaere med pa fellesaktiviteter.
+
+I Oslo tilbys ogsa arbeidstrening i sykkelverksted, ved Oslo Bysykkel, eller i kafe. I tillegg kan du fa bistand med a komme i ordineert arbeid. Her er det gosa kurs og individuell oppfalging rundt okonomiske problemer, samt en egen satsing for de vngste. Pa og utenfor Tilbakefaringssenteret tilbys malitder, en rekke faste og sporadiske aktiviteter, og turer.
+
+De anndre NES-avdelingene har ulike tilbud - ta kontakt med dem hvis du har sparsmal om hva de tilbyr.
+
+ Kapittel 39 - Organisasjaner 329
+
+### WayBack
+
+WayBack, siftelsen Livet etter Soning, har som formal a statte leslatte i veien tibake til et liv uten rug gkrimailtet. De har tro pa at man jgennom kameratstette kan bli gode samfunsmsborgere. WayBack har derfer en fadderordning for tidisere innsatte og innsatte pa slutten av soningen.
+
+WayBacks faddere bruker kompetansen fra deres egene liv for a hijpe insatte som skal lasstates til en lettere overgang til samfunnet. Faddere har selv soningsbakgrunn, og bruker sin erfaring i arbeidet. Dette kalles a arbeide etter likeversonsprinsippet.
+
+Pa slutten av soningen innleder fadderne samarbeidet med innsatte som ansker en endring i livet etter soning. Behovene innen bolig, okonomi/gjeld, nettverk, jobb/studier og helse avklares med hver enkelt. Innsatte opplever vesentige mangler pa fleere av disse omradene. I samarbeid med offentlige instanser jobber medem og fadder malrettet sammen for at det skal bli lettere a fungere utenfor tengselet. Fadderne oppmunter og stetter medlemmene i de valg de tar for a na malene de selv har satt.
+
+WayBack finner du i Bergen, Oslo, Kristiansand, Trondheim og Tromse.
+
+### Stiftelsen Retretten
+
+Retretten er en ideell siftelse som er politisk- og livssynasytral. Stiftelsen er et nusfitt metested hvor nvismsbrukere, straffedamte og deres parrende er velkomne. Retretten ttibyr hjelp til viidere hjelp og kan bidra til a finne from til hjepetitlak som ikke koster penger. De tilbyr ogsa lazrings- og motivasjonskurs om avhenggibet og adferd (ANTA). I tillegg tilbyr de det litretelagte kursopplegget aveivalgebetv for innsatte i norsste fengsler. I regi av Retretten kan du ogsa fa NADAs akupunkturprogram.
+
+Retretten har hovedkontor i Oslo, men jobber ogsa andre steder i Norge, blant annet i Oslo fengsel, Ravneberget og Eidsberg fengsel. Hvis du soner andre steder ennt dette kan du ta kontakt med Retretten pa telefen. Retretten tar ogsa imot domfette som skal gjennomfare samfunnsstraff. Du tenger ikke timeavtale. Tilbudet koster ikke penger og du kan vaere helt anonym.
+
+ 
+FRI-prosjektene ved Kirkens Bymisjon
+
+FRI er et tilbud for straffedamte. Det er FRI-prosjekter i Stavanger, Vestfold og Drammen. De ulike prosjektene har litt ulike tilbud og uik malgruppe. Felles for alle tre er at de hijeler mennesker som har sonet en dom til a leve et liv uten rus og kriminalitet. FRI kan i samarbeid med andre virksomheter bidra til a gi tidigere innsatte et helnettig tilbud om hijep til boig, arbeid, fritidsaktiviteter og et postitvt, rusfritt nettverk.
+
+FRI Stavanger et tilbud til kvinner med soningserfaring som ensker hjep til a bygge opp er nustrit liv etter laslatelse. FRI Stavanger har oversikt over mange ulike tilbud innen ettervern. De jobber i fengselet for a bli kjent med den innsatte, og sammen med den innsatte lager de en aktivitetsplan som den innsatte forplikter seg til a folge etter laslatelse. Etter laslatelse har de tett veiledning og oppflaging av detkakrene i opptill 1 ar.
+
+FRI Vestfold er et tilbud ved laslatelse til alle straffedamte gjenggere som har bostedsadresse i Vestfold. Veiledere med tidligere soningserfaring stetter og motivereer innsatte i laslatelesprosessen og er resurspersoner i tiden etter laslatelse.
+
+FRI Drammen er et tilbud ved laslatelse til alle straffedamte som har lilknytning til Drammensdistriktet eller ensker a etablere seg der. FRI Drammen vil ogsa legge til rette for relasjonsbygging mellom deltaker i FRI og deres barn og familie, samt veilede og stette foreldre i foreldrerollen under soning og etter laslatelse.
+
+ Kontaktinformasjon
+
+**Advokatforeningens isolasjonsgruppe**
+
+Kristian Augustus gate 9
+
+0164 Oslo
+
+Tlf.: 22 03 50 50
+
+www.advokatforeningen.no
+
+**Advokathjelp**
+
+Du kan finne lister over advokater pa
+
+www.advokatenhjelperdeg.no
+
+**Antirasistisk senter**
+
+Postboks 244 Sentrum
+
+0103 Oslo
+
+Tlf.: 23 13 90 00
+
+www.antirasistisk-senter.no
+
+**Arbeidstisynet**
+
+Postboks 4720 Torgarden
+
+7468 Trondheim
+
+Tlf.: 73 19 97 00
+
+svartjenesten@arbeidstisynet.no
+
+**Soper fengselet eller Jussbus nvis du**
+
+_ansker kontaktinfo til ditt regionkontor._
+
+**Barnas Jurist**
+
+Skippergata 23
+
+0154 Oslo
+
+Tlf.: 22 41 22 40
+
+www.barnasjurist.no
+
+_Gatis rettshjelp til alle under 25 ar._
+
+**BUFFB - Barne-, ungdoms- og familiedi-rektoratet**
+
+Postboks 2233
+
+3103 Tensberg
+
+Tlf.: 46 61 50 00
+
+www.butfdir.no
+
+**Caritas Norge**
+
+Storgata 38
+
+0182 Oslo
+
+Tlf.: 23 33 43 60
+
+www.caritas.no
+
+_Informasjons- og ressurssenter for arbeids-innvandere i Oslo._
+
+**Datattisynet**
+
+Postboks 458 Sentrum
+
+0152 Oslo
+
+Tlf.: 22 39 69 00
+
+www.datatisynet.no
+
+**Disipliarenemden for advokatklager**
+
+**Advokatforeningen**
+
+Kristian Augustsqt. 9
+
+0164 OSLO
+
+Tlf.: 22 03 51 08
+
+**Diskrimineringsnemnda Postboks 208 Sentrum**
+
+**5804 Bergen**
+
+Tlf.: 90 93 31 25
+
+www.diskrimineringsnemnda.no
+
+_Behandler klager om diskminering og likestilling._
+
+**FFO - Funksjonshemmedes**
+
+**Fellesorganisasjon**
+
+Mariboesgate 13
+
+0183 Oslo
+
+Tlf.: 23 90 51 50
+
+Rettighetssenteret: 23 90 51 55
+
+www.fto.no * [332] Kontaktinformasjon
+
+FFP - For Fangers Parorende
+
+Oslo
+
+Postboks 6710 St. Olavs pass
+
+0130 Oslo
+
+Besaksadresse:
+
+Nordahl Brunsgt. 5, 2. eteg.
+
+0165 Oslo
+
+Tlf:: 22 11 41 30
+
+Faks: 22 11 46 55
+
+post@ffp.no
+
+www.ffp.no
+
+_Trendelag_
+
+Kippmansgata 23
+
+7010 Trondheim
+
+Tlf:: 73 51 19 29
+
+Mobil: 940 03 120
+
+tondelag@ffp.no
+
+**Frelsesarmeen**
+
+Postboks 6866 St. Olavs Plass
+
+0130 Oslo
+
+Besaksadresse:
+
+Kommander T.I. _Ogrims_ 4
+
+0165 Oslo
+
+Tlf:: 22 99 85 00
+
+Faks: 23 69 19 40
+
+post@frelsesarmeen.no
+
+**Fri rettshjelp - Oslo kommune, Oslo og**
+
+**Akershus (Kontoret for fri rettshjelp)**
+
+Storgt. 19, 2. eteg.
+
+0184 Oslo
+
+Tlf:: 23 48 79 00
+
+frirettshjelp@vel.oslo.kommune.no
+
+www.oslo.kommune.no/bolig-og-sosiale-je-nester/fri-rettshjelp
+
+**Fylkesmannen i Aust- og Vest-Agder**
+
+Postboks 788 Stoa
+
+4809 Arendal
+
+Tlf:: 37 01 75 00
+
+fmavpost@fylkesmannen.no
+
+**Fylkesmannen i Buskerud**
+
+Postboks 1604
+
+3007 Drammen
+
+Tlf:: 32 26 66 00
+
+Faks: 32 26 66 56
+
+fmbupost@fylkesmannen.no
+
+**Fylkesmannen i Finnmark**
+
+Damsveien 1
+
+9815 Vadse
+
+Tlf:: 78 95 03 00
+
+Faks: 78 95 03 07
+
+fmflipostmottak@fylkesmannen.no
+
+**Fylkesmannen i Hedmark**
+
+Postboks 4034
+
+2306 Hamar
+
+Tlf:: 62 55 10 00
+
+fmhepost@fylkesmannen.no
+
+**Fylkesmannen i Hordaland**
+
+Postboks 7310
+
+5020 Bergen
+
+Tlf:: 55 57 20 00
+
+Faks: 55 57 28 51
+
+fmhopostmottak@fylkesmannen.no
+
+**Fylkesmannen i Mere og Romsdal**
+
+Postboks 2520
+
+6404 Mole
+
+Tlf:: 71 25 84 00
+
+fmmpropostmottak@fylkesmannen.no
+
+**Fylkesmannen i Nordland**
+
+Postboks 1405
+
+8002 Bode
+
+Tlf:: 75 53 15 00
+
+Faks: 75 52 09 77
+
+fmnopost@fylkesmannen.no Fylkesmannen i Oppland Postboks 987 2604 Lillehammer Tlf.: 61 26 60 00 Faks: 61 26 61 67 fmppost@fylkesmannen.no &Fylkesmannen i Osio og Akershus
+
+&Fylkesmannen i Osio og Akershus
+
+&Fylkesmannen i Osto og Akershus
+
+&Fylkesmannen i Ostof
+
+&Fylkesmannen i Ostog Akershus
+
+&Fylkesmannen i Ostog Akershus
+ Stavanger:
+
+Kongsgaten 48
+
+4005 Stavanger
+
+Tlf.: 51 22 55 44
+
+_Tromse:_
+
+Postboks 492
+
+9255 Tromso
+
+Tlf.: 92 07 04 44
+
+post@gatejuristentromso.no
+
+_Trondheim:_
+
+Postboks 129 Sentrum
+
+7400 Trondheim
+
+Tlf.: 93 25 37 71 / 92 66 18 60
+
+_Gratis rettshjelp til navearende og tidligere_
+
+_rusavhengige. Gir ogsa okonomisk radgivning gjennom prosjektet Gatas Okonom._
+
+**Gjeldskrisetelefonen**
+
+Tlf.: 22 20 19 99
+
+_En gratis stattettelefon drevet av_
+
+_Gjeldsoffer-Alliansen for deg med alvorlige_
+
+_gjeldsproblemer._
+
+**Gjeldsoffer-Alliansen (GOA)**
+
+Pilestredet 17
+
+0164 Oslo
+
+Tlf.: 22 36 30 59
+
+_En organisasjon av gjeldsofre som arbeider_
+
+_for a hjelpe andre gjeldsofre gjennom a spre kunnskap._
+
+**Gjenopptakelseskommisjonen**
+
+Postboks 2097 Vika
+
+0125 Oslo
+
+Tlf.: 22 40 44 00
+
+Faks: 22 40 44 01
+
+www.gjenopptakelse.no
+
+_Kommisjonen for gjenopptakelse av_
+
+_straflesaker_
+
+**Helssenter for papirlese i Oslo**
+
+Tlf.: 48 89 05 60
+
+_Gratis heleshejelp til papirlese migranter._
+
+**HivNorge**
+
+Postboks 4615 Sofienberg
+
+0506 Oslo
+
+Tlf.: 21 31 45 80
+
+www.hivnorge.no
+
+**Inkassooversikt - Virke inkasso**
+
+www.inkasso.no
+
+_Nettside for a sende foresparsel til en del_
+
+_inkassobyraer i Norge for a fa oversikt over_
+
+_gjel._
+
+**Integrerings- og mangfoldsdirektoratet**
+
+**(IMDi)**
+
+Postboks 212, Sentrum
+
+0103 Oslo
+
+Tlf.: 24 16 88 00
+
+Faks: 24 16 88 01
+
+www.imdi.no
+
+**IOM - International Organization for Migration**
+
+Postboks 8927 Youngstorget
+
+0028 Oslo
+
+Besaksadresse:
+
+Skippergata 33, 2. etasje
+
+0154 Oslo
+
+Tlf.: 23 10 53 20
+
+Faks: 23 10 53 23
+
+www.iom.no
+
+**JURK - Juridisk radgivning for kvinner**
+
+Skippergata 23
+
+0154 Oslo
+
+Tlf.: 22 84 29 50
+
+Faks: 22 84 29 51
+
+www.jurk.no Jushjelpa i Midt-Norge
+
+Bispegata 9C
+
+7012 Trondheim
+
+Tlf.: 73 51 52 50
+
+Faks: 73 52 72 80
+
+www.jushjelpa.no
+
+Kriminalomsorgen region ser
+
+Dokumentsenter
+
+Postboks 694
+
+4302 Sandnes
+
+Tlefon: 33 20 70 00
+
+Telefaks: 33 33 35 72
+
+postmottak.region-sor@kriminalomsorg.no
+
+Kriminalomsorgen region servest
+
+Dokumentsenter
+
+Postboks 694
+
+4302 Sandnes
+
+Tlf.: 51 97 39 00
+
+Faks: 51 97 39 01
+
+sorvest@kriminalomsorg.no
+
+Kriminalomsorgen region vest
+
+Dokumentsenter
+
+Postboks 694
+
+4302 Sandnes
+
+Tlf.: 55 38 72 00
+
+Faks: 55 38 72 50
+
+postmottak.region-vest@kriminalomsorg.no
+
+Kriminalomsorgen region ost
+
+Dokumentsenter
+
+Postboks 694
+
+4302 Sandnes
+
+Tlf.: 55 38 72 00
+
+Faks: 55 38 72 50
+
+postmottak.region-vest@kriminalomsorg.no
+
+Kriminalomsorgen region ost
+
+Dokumentsenter
+
+Postboks 694
+
+4302 Sandnes
+
+Tlf.: 55 38 72 00
+
+Faks: 55 38 72 50
+
+postmottak.region-vest@kriminalomsorg.no
+
+Kriminalomsorgen region ost
+
+Dokumentsenter
+
+Postboks 694
+
+4302 Sandnes
+
+Tlf.: 55 38 72 00
+
+Faks: 55 38 72 50
+
+postmottak.region-vest@kriminalomsorg.no
+
+Kriminalomsorgen region ost
+
+Dokumentsenter
+
+Postboks 694
+
+4302 Sandnes
+
+Tlf.: 55 38 72 00
+
+Faks: 55 38 72 50
+
+postmottak.region-vest@kriminalomsorg.no
+
+Postboks 253
+
+9951 Vard$\acute{o}$
+
+Tlf.: 73 52 72 80
+
+postmottak.region-rost@kriminalomsorgen region ser
+
+Postboks 694
+
+4302 Sandnes
+
+Postboks 694
+
+4302 Sandnes
+
+Tlf.: 73 56 16 10
+
+region-nord@kriminalomsorg.no \\ \end{tabular}
+
+ _Trondheim:_
+
+Postboks 6043 Torgard
+
+7434 Trondheim
+
+Tlf.: 73 87 68 00
+
+Faks: 73 87 68 01
+
+_Tansberg, Re og Farder:_
+
+Postboks 2073
+
+3103 Tensberg
+
+Tlf.: 33 34 44 00
+
+Faks: 33 34 44 18
+
+_Alesund:_
+
+Postboks 96 Sentrum
+
+6001 Alesund
+
+Tlf.: 70 11 87 00
+
+_Hvis du trenger kontakinformmasjon til andre namsmenn, kan du spare fengselet eller Jussbuss._
+
+**Mental Helse Norge**
+
+Storgata 38
+
+0182 Oslo
+
+Hijelpetelefon: 11 61 23
+
+Sentralbord: 35 29 60 60
+
+www.mentalhelse.no
+
+**MiRA-Senteret**
+
+Postboks 1749 Vika
+
+0121 Oslo
+
+Besoksadresse:
+
+Storgata 53a
+
+0182 Oslo
+
+Tlf.: 22 11 69 20
+
+www.mirasenteret.no
+
+_Ressursenter for kvinner og jenter med minonitetsbakgrunn._
+
+**NAV Gjeldsradgiving**
+
+Tlf.: 55 55 33 39
+
+**NAV Servicesenter**
+
+Tlf.: 55 55 33 33
+
+**Nettverk etter soning**
+
+post@nettverkettersoning.no
+
+_Bergeen_
+
+Smastrandgaten 6
+
+5014 Bergen
+
+Tlf.: 55 30 79 79
+
+bergen@redcrosss.no
+
+_Oslo:_
+
+Grefserveien 26
+
+0482 Oslo
+
+Sentralbord: 22 05 40 00
+
+post@nettverkettersoning.no
+
+_Stavanger_
+
+ThiSBakken 3
+
+4010 Stavanger
+
+Tlf.: 51 52 38 50
+
+stavanger@redcrosss.no
+
+_Trondheim_
+
+Nardoveien 4 B
+
+7032 Trondheim
+
+Tlf.: 73 94 93 00
+
+post@tondheim-redcrosss.no
+
+_Alesund_
+
+Keiser Wilhelmsgt. 68
+
+6003 Alesund
+
+Tlf.: 90 26 73 20
+
+aalesund@rodekors.org
+
+**NOAS - Norsk organisasjon for aslyskere**
+
+Torggata 22, 2.Etg
+
+0183 Oslo
+
+Tlf.: 22 36 56 60
+
+Faks: 22 36 56 61
+
+www.noas.no * [338] Kontaktinformasjon
+
+**NOKUT - Nasjonalt organ for kvalitet i**
+
+**utdanning**
+
+Postboks 578
+
+1327 Lysaker
+
+Tf:: 21 02 18 00
+
+Faks.: 21 02 18 01
+
+www.nokut.no
+
+_Godkjenner utenlandsk utdannelse._
+
+**Norsk pasientforening**
+
+Postboks 376, Sentrum
+
+0102 Oslo
+
+Tf:: 22 00 74 00
+
+www.pasient.no
+
+**Norsk pasientkadeerstantning**
+
+Postboks 232 Skeyen
+
+0213 Oslo
+
+Besoksadresse:
+
+Wergelandsveien 1
+
+0167 Oslo
+
+Tlf:: 22 99 45 00
+
+www.npe.no
+
+_Behandler erstantingskrav fra pasienter_
+
+_som mener de har fatt en skade etter behandlingssvikt i heisetjenesten._
+
+**Opplynstigtensten i staten**
+
+Tf:: 80 03 03 00 (grant nummer)
+
+Tf:: + 47 57 65 50 60 (fra utland)
+
+www.norge.no
+
+_Veiviser til offentlige jenester i Norge._
+
+**Oslo Kriesenter**
+
+Tf:: 22 48 03 80
+
+Faks.: 22 48 03 81
+
+www.oslokrisesenter.no
+
+_Hieb til deg som er blitt utsatt for krinimnelle handlinger i Norge, saeirlg volt fra en partner, familie eller andre._ 
+
+**Pasient- og brukerombudet i Rogaland**
+
+Tlf:: 95 33 50 50
+
+rogaland@pasientogbrukerombudet.no
+
+**Pasient- og brukerombudet i Sogn og**
+
+**Fjordane**
+
+Tlf:: 57 82 11 00
+
+sf@pobo.no
+
+**Pasient- og brukerombudet i Telemark**
+
+Tlf:: 35 54 41 70
+
+telemark@pasientogbrukerombudet.no
+
+**Pasient- og brukerombudet i Troms**
+
+Tlf:: 77 75 10 00
+
+troms@pasientogbrukerombudet.no
+
+**Pasient- og brukerombudet i Trendelag**
+
+Tlf:: 73 53 51 00
+
+nordtordelag@pasientogbrukerombudet.no
+
+**Pasient- og brukerombudet i Vestfold**
+
+Tlf:: 33 34 77 90
+
+vestfold@pasientogbrukerombudet.no
+
+**Pasient- og brukerombudet i Ostfold**
+
+Tlf:: 69 20 90 90
+
+ostfold@pasientogbrukerombudet.no
+
+**PIO-senteret**
+
+Hammersborg Torg 3
+
+0179 Oslo
+
+Tlf:: 22 49 19 22
+
+post@piosenteret.no
+
+radgivningstelefonen@piosenteret.no
+
+www.piosenteret.no
+
+_Tilbyr statte og konkret hjelp til alle para-rende til en person som er syk eller har funksjonsnedsettlese._
+
+**Politiet**
+
+Tlf:: 02800 (ikke nendnummer)
+
+_Ring 02800 am du har sparsmal, eller_
+
+_ansker a varsle politiet om noe. Du kobles_
+
+_automatisk til sentralbordet eller operasionssentralen i ditt nermeste politidistrikt._
+
+**Politiets utendingsenhet (PU)**
+
+Postboks 8102 Dep.
+
+0032 Oslo
+
+Tlf:: 22 34 24 00
+
+politiets.utendingsenhet@politiet.no
+
+**Psykiatri- og rettsvernutvalget i**
+
+**ICJ-Norge, Pro Bono-gruppen**
+
+_c/o Advokatifmaet Sulland AS_
+
+CJ Hambros plass 5
+
+0164 Oslo
+
+probonogruppen@gmail.com
+
+_Tar prinsipielle menneskeretitighetssaker for_
+
+_de som har veert utsatt for tvang i psykisk_
+
+_helsevem._
+
+**REFORM - Ressurssenter for menn**
+
+Postboks 28 Sentrum
+
+0101 Oslo
+
+Besaksadresse:
+
+Akersgata 16
+
+0158 Oslo
+
+Tlf:: 22 34 09 60
+
+Faks: 22 34 09 61
+
+www.reform.no
+
+_Bistar menn i en vanskelig livssitusajon._
+
+**Rettshjelssentralen - Kirkens Bymisjon**
+
+Louises gate 30
+
+0169 Oslo
+
+Tlf.: 22 69 86 10
+
+www.kirkensbymisjon.no/rettshjelpsentralen/
+
+**Samordna opptak**
+
+Postboks 5883 Majorstuen
+
+0308 OSLO
+
+Tlf.: 21 49 56 09
+
+sokerinfo@samordnaopptak.no
+
+**Sebbelows stiftelse**
+
+Jens Bjelkesgate 75 B
+
+0652 Oslo
+
+Tlf.: 23 03 79 00
+
+Faks: 23 03 79 01
+
+www.sebbelow.no
+
+**Heldegnssenter der foreldrene selv har**
+
+_omsorgen for sine barn._
+
+**2nd Chance**
+
+Hoffsveien 16
+
+0275 Oslo
+
+Tlf.: 95 55 66 55
+
+**SEIF - Selvhjelp for innvandrere og**
+
+**flyktninger**
+
+www.seinfnorge.wordpress.com
+
+_Bergen:_
+
+Strandgaten 6
+
+5013 Bergen
+
+Tlf.: 55 56 09 00
+
+_Kristiansand:_
+
+Skippergata 2
+
+4610 Kristiansand
+
+Tlf.: 38 07 11 77
+
+Faks: 38 02 89 77
+
+**Den norske legeforening**
+
+Postboks 1152 Sentrum
+
+0107 OSLO
+
+Postboks 6856 St. Olavs Plass
+
+0130 Oslo
+
+Tlf.: 22 03 48 30
+
+Faks: 22 11 05 13Stavanger:
+
+Olve Holmegate 23
+
+4006 Stavanger
+
+Tlf.: 51 89 09 90
+
+Tf.: 51 89 09 90
+
+Tromse:
+
+Postboks 685
+
+9257 Tromse
+
+Tlf.: 46 86 50 00
+
+Trendheim:
+
+Kongensgt. 60
+
+7012 Trondheim
+
+Tlf.: 73 51 71 84
+
+Faks: 73 52 42 08
+
+_Alesund:_
+
+Tollbugata 6
+
+6002 Alesund
+
+Tlf.: 70 11 55 30
+
+Faks: 70 12 26 23
+
+Sivilombudsmannen
+
+Postboks 3, Sentrum
+
+0101 Oslo
+
+Tlf.: 22 82 85 00
+
+80 08 00 39 (grant nummer)
+
+www.sivilombudsmannen.no
+
+Skatteetaten
+
+Tlf.: 80 08 00 00
+
+**SON - Straffedes organisasjon i Norge**
+
+Hjelms gate 3
+
+0355 Oslo
+
+Tlf.: 93 80 45 04
+
+soni@online.no
+
+**Statens helestilisyn**
+
+Postboks 231 Skayen
+
+0213 Oslo
+
+Tlf.: 21 52 99 00
+
+www.helsetilsynet.no
+
+**Statens inkrevningssentral**
+
+Postboks 455
+
+8601 Mo i Rana
+
+Tlf.: 75 14 90 00
+
+Faks.: 75 15 55 02
+
+www.sismo.no
+
+_SI er underlagt Skatteetaten og sorger for_
+
+_inkreving, twangsinnkreving og regnskapsfering i saker fra Politiet._
+
+**Statens isvilrettsforvaltning**
+
+Postboks 8027 Dep.
+
+0030 Oslo
+
+Tlf.: 22 99 13 25
+
+www.sivilrett.no
+
+**Stiftelsen Retretten**
+
+Kristian Augusts gate 10
+
+0164 Oslo
+
+Tlf.: 22 20 93 92
+
+www.retretten.no
+
+_Gratis tilbud for tidligere alkoholikere,_
+
+_nvinsbrukere, LAR-pasienter og parrande._
+
+**Stiftelsen Rettferd for Taperne**
+
+Storgata 26
+
+2870 Dokka
+
+Tlf.: 61 11 89 90
+
+www.tapere.no
+
+_Jobber med de som opplever seg som_
+
+_tapere i samtunnet vart, og som har vart_
+
+_utsatt for: feilplessening i skolehjem, barnehjem og fosterhjem, manglende ingnripen,_
+
+_seksuelle overgrep, mangelfull skolegang_
+
+_og mobbing._ 24sju - Kirkens bymisjon
+
+Tollbugata 3
+
+0152 Oslo
+
+Tlf.: 23 68 98 98
+
+_Degnapent heles- og velferdstibul for de meset utsate nismidelavhengige i Oslo._
+
+**Trygderetten**
+
+Postboks 8022 Dep.
+
+0030 Oslo
+
+Tlf.: 23 15 95 50
+
+_Trygderetten er ankeinstans i saker om trygde- og pensjonspersmal._
+
+**UDI - Uttendingsdirektoratet**
+
+Postboks 8108 Dep.
+
+0032 Oslo
+
+Tlf.: 23 35 15 00
+
+www.udi.no
+
+**UNE - Uttendingsnemda**
+
+Postboks 8165 dep. 0034 Oslo
+
+Tlf.: 21 08 50 00
+
+postmottak@une.no
+
+www.une.no
+
+**UNHCR i Nord-Europa - United Nations**
+
+**High Commissioner for Refugees**
+
+Tlf.: + 46 84 57 48 80
+
+Faks.: + 46 84 57 48 87
+
+swest@unchr.org
+
+www.sverigeforunhcr.se
+
+**WayBack**
+
+_Bergen_
+
+Sigurds gate 8
+
+5015 Bergen
+
+Tlf.: 91 91 23 17
+
+roger@wayback.no
+
+_Kristiansand_
+
+Kronprinsensgate 10
+
+4608 Kristiansand
+
+Tlf.: 90 12 06 32
+
+kristiansand@wayback.no
+
+_Oslo:_
+
+Kristian Augusts gate 10, 3. etg.
+
+0164 Oslo
+
+Tlf.: 23 22 80 10
+
+johan@wayback.no
+
+_Trondheim:_
+
+Kongens gate 46
+
+7012 Trondheim
+
+Tlf.: 96 95 46 00
+
+trondeheim@wayback.no
+
+_Tromso:_
+
+Haakon den gamles gate 5
+
+9008 Tromso
+
+Tlf.: 95 27 25 00
+
+gro.lind-olsen@wayback.no
+
+**Okonimformidlingen**
+
+Lille Markeveien 13
+
+5005 Bergen
+
+Tlf.: 45 12 82 72
+
+www.okonimformidlingen.no
+
+_Studenter ved Norges Handelshayskole gir gratis akonomisk radginving._ Stikkord
+
+1/2-tid: se prevelaslatelse
+
+2/3-tid: se prevelaslatelse
+
+SS 12-soning: kap. 21, 76, 152, 209-210,
+
+213, 217-218, 242
+
+SS 16-soning: kap. 20, 76, 147, 270-272
+
+A Advokat: kap. 7, 29-30, 34, 42, 121-122,
+
+124-125, 126, 128, 225, 226, 227, 255,
+
+324, 331
+
+Akitwitetsplik: 101-102, 103, 106, 107, 304
+
+Alkohol: se rusmilder Ambassador: 122
+
+Annesty International: 262
+
+Anke: se klage
+
+Ankenektelse: 57-58
+
+Anstaltradet: 77, 79, 217
+
+Arbeid: kap. 11, 45, 227, 185-186, 190-191,
+
+218, 221, 227
+
+Arbeidsavklaringspenger (AAP): 275, 282
+
+Arbeidsavtale: 98, 110, 112-113
+
+Arbeidsmilja: 80, 98-99, 102-103
+
+Arbeidsmilja: 103
+
+Arbeidsrekt: 107-108, 175
+
+Arbeidsplikt: se aktivitetsplikt
+
+Arbeidstid: 102, 112
+
+Arbeidstilynet: 331
+
+Arrestasjon: kap. 2
+
+Avdrag: 280, 294
+
+Avlyting: 77, 78, 92, 127, 128, 146,
+
+226-227
+
+Avskjed: 69, 70, 99-100, 101
+
+Avslag: kap. 9, 95, 125, 142, 168-169, 170,
+
+188, 206, 222, 227, 233, 253, 272, 277,
+
+290, 323
+
+Bam: kap. 25, 33, 43, 48-49, 51-52,
+
+209-210, 261, 312, 316, 327, 331
+
+Bamebidrag: 285, 293
+
+Bamekomiteen: 316
+
+Bamekonvensjonen (BK): 261, 303, 312,
+
+316
+
+Bamevern: 33, 43, 48-49, 52, 72-73
+
+Begrunnelse: 57, 88-89
+
+Behandingsinstitusjon: se institusjon
+
+Benadning: kap. 32, 88, 91, 213-214
+
+Beslag: 33, 122, 125
+
+Besek: kap. 13, 38, 47, 211-212, 225, 226,
+
+309, 323, 327-328
+
+Besksforbud: 38, 47, 65, 67, 123, 126, 327
+
+Beseksleilighet (besekshus): 212
+
+Beskresnekt: 122-123
+
+Beskstid: 117-118
+
+Betalingustettelse: 287-288, 299
+
+Bevis: 33, 37, 38, 39, 40, 55, 153, 246,
+
+247-248
+
+Blodprove: 34, 120, 147-148, 186, 191
+
+Boliglan: 280, 294
+
+Brev: kap. 13, 38, 47, 226, 309, 316
+
+Briller: 283
+
+Brudd: se reaksjon pa brudd
+
+Beker: 104, 114, 282
+
+C
+
+Celle: 36, 76, 145-146, 165, 315
+
+D
+
+Dapenger:
+
+- Dapenger fra NAV: 275
+
+- Dapenger i fengsel: kap. 11, 151
+
+Dagpengesats: 107-108
+
+Datautstry: 105-106, 115, 125, 151, 172 
+
+[MISSING_PAGE_POST]
+
+ FULLMarkt: se fullmektig
+
+Fullmektig: 84-85
+
+Fylkeslege: 47
+
+Fylkesmannen: 69, 73, 201-202, 283
+
+G
+
+Ganggutt: se tilitsjobb
+
+Gaver: 118, 283
+
+Gjeld: kap. 35, 280, 322, 329, 334, 337
+
+Gjeldsordning: 290-295
+
+- frivillig: 292, 293, 295
+
+- tvungen: 293, 295
+
+Gjenopptakelse: se gjenapning
+
+Gjentaklesesare:
+
+- varetekstsfengsling: 38
+
+- ved utvising: 259
+
+Gjenapning: kap. 31, 58, 67, 313-315
+
+Glassvegg: 119-120, 226, 309
+
+Glattceille: 36
+
+Graviditet: 209-210, 214
+
+H
+
+Halv tid: se pravelslatelse
+
+Helsehjep: kap. 22, 276, 310
+
+- i varetekt: 46-47
+
+Helsepersonell: kap. 22, 46-47, 147-149,
+
+160, 162, 165
+
+Helsetieneste: kap. 22, 209, 276, 281, 310
+
+Hijepemilder: 156, 225, 276, 285
+
+Hjemmesoning: kap 20, 152, 217, 242
+
+Hobby: kap 12, 151, 152 282
+
+Hoveeforhandling: kap. 5, 29, 67
+
+Husele: 280, 284, 300, 320-322
+
+Heyesterett: 57, 66, 216, 245, 249, 314
+
+- ankeutvalget: 57, 216, 222
+
+Harklipp: 281
+
+I
+
+I drett: 114, 282
+
+Imm: 78, 311, 312-313
+
+Informasjonsplitk: 87
+
+Inhabil: 246, 250
+
+Inndragning: 52, 66, 67
+
+Innkalling til soning: kap. 6
+
+Innreise: 261-262, 268
+
+Innskrenkninger: kap. 17, kap. 36
+
+Innsynsrett: kap. 10, 251
+
+Institusjon:
+
+- $ 12-institusjon: kap. 21
+
+- for dem som har barn: 213
+
+- for gravide: 209-210
+
+Intermasjonal rett: kap. 19, kap. 36, 57-58,
+
+158-159
+
+Interme dokumenter: 95-96
+
+Intemett: 105-106, 115, 309, 310-311
+
+Irettesetelse: 150, 152, 219
+
+Isolasion: kap. 17, 38-41, 65, 75-76
+
+156-157, 219-220, 225, 307, 308
+
+- delvis: 40-41, 158, 162
+
+- fullstendig: 39-40, 158, 161, 219
+
+Juleamnesti: 234
+
+Justisdepartementet: 74, 178, 253
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+
+K
+K
+
+K
+
+K
+K
+
+K
+
+K
+K
+
+K
+K
+
+K
+K
+
+K
+K
+
+K
+K
+
+K
+K
+
+K
+K * ved avslag pa seknad om permision: 132
+* ved avslag pa seknad om prevelestalese: 236
+* ved urettmessig beslag: 33, 125
+* ved varetekt: 42-43, 45-46
+* Klagrefist: 89-90, 157, 165-166, 201, 244, 266, 276, 283
+* Klagerett: 45-46, 89-90, 169, 178
+* Klaer: 145, 148, 230, 279, 281
+* Kommisionen for gjenoptakelse av straflesaker: 246-247, 334
+* Kommunal bolig: 321-322
+* Konflikrad: 51-52, 63
+* Kongen i statsrad: 74, 252, 253
+* Konsulat: 122
+* Kontakbetjent: 44, 79
+* av brev: 123-125
+* av kropp: 34, 144-145, 147-149, 209, 225
+* av telefon: 127-128, 129, 130-131
+* ved besek: 119-122
+* Kortidspermisjon: 137-138, 140, 187,192, 220
+* Kreidtor: kap. 35, 322
+* eks. pa herwendelse til: 296
+* Kreidtorfhandling: 287
+* Kriminalomsorgsdirektoratet se KDI
+* Kroppsvisitere: se visitasjon
+* Kultur: 79, 260-261, 303, 327
+* Kvinner: kap. 24, 324-325, 330, 335, 338
+
+Lagmannsrett: 43, 53-54, 56-57, 58, 66, 216, 222
+
+Latvia: 177, 180-181, 263
+
+Llege: kap. 22, 46-47, 209, 276, 281
+* Litauen: 177, 180-181, 263
+* Livsopphold: 279, 280, 281, 282, 294
+* Livsysyn: 78
+* Lokalt niva: 74, 75
+
+Lenn: 98, 99, 100, 110-111, 112-113, 322
+
+Leslatelse:
+
+- forberedelse: kap. 28, 134, 172
+* tidspunkt: se prevelaslatelse
+
+Maktmisbruk: 34-35, 68
+* Mat: 44, 108, 110, 118, 141, 230, 279, 312
+* Meddommer: 54, 56-57
+* Media: 318-319, 326
+* Medisiner: 200, 276, 281
+* Meldeplikt: 38, 133
+* Menneskeretttigheter: kap. 36, 58, 125, 128
+* Merinnsyn: 96
+* Mobilteleon: 126, 172, 309
+* Medrehjem: se institujson og familiessenter
+
+N Narkotika: se rusmider
+
+NAV: kap. 34, 78, 82, 89, 93, 104, 185, 285
+* NAV-kontor: 273-275, 277-279
+* Nedbetalingsvatle: 287
+* Nedverdigende behandling: 262, 306-307, 316
+* Norden:
+
+- overferring mellom nordiske land: 179
+
+Omgjering: 91, 270
+
+Oppfelgningsklasser: 105
+
+Oppholdtstilatelse: 255, 257, 263, 322
+
+- midertidig: 256, 257
+
+- permanent: 256, 257
+
+Opphar av arbeidsforhold: 99
+
+Opplering: kap. 11, 45, 79, 221, 227, 229, 282
+
+Oppsigelse: 69, 70, 99-101, 322
+
+Overfering:
+
+- til annet fengsel: kap. 18, 46, 76, 155, 217-218
+
+- til institujson: kap. 21, 76, 209-210, 213, 217-218, 310 * til sykehus: kap 21, 76, 200, 310
+* til utlandet: kap. 19, 87, 270
+* Overgangsbolig: 62, 75, 172, 217-218
+* Oversharing: 47, 119-120, 121-122
+
+PC: se datautstyr
+
+Penger (egne penger): 47, 48, 108,
+
+110-111, 115-116, 128, 230
+
+Pensjon: 275
+
+Permisjon: kap. 14, 76,151, 187, 192,
+
+212-213, 309-310, 323
+
+- arbeid under soning: 101
+
+- deltakelse i kriminalpolitisk arbeid: 140
+
+- forvaring: 220-221
+
+- saeirig heyt sikkerhetsniva: 227
+
+- til utlandet: 140
+
+- utgitter til: 283
+
+- utvinsysedtak: 270
+
+- varetekt: 45
+
+Politi: kap. 1-2, 36, 37, 38, 42, 43, 46,
+
+47, 50, 51, 52, 60, 117, 134, 155, 230,
+
+234-235, 237, 267
+
+Politiavher: kap. 1, 34, 53-54
+
+Politisk pavirkning: se rettspolitisk
+
+Post: 123-125, 226
+
+Prest: 46, 78, 311
+
+Privatlav: 302, 307, 309, 312
+
+Program: 45, 101, 106, 227
+
+Preveloslatelse: kap. 28 og 29,155
+
+- av forvaringsdamte: 221, 243
+
+- mellom halvtid og 2/3-tid: 213, 231
+
+- nar man er utvist: 271
+
+- ved 2/3-tid: 232
+
+Psykolog: kap. 22, 46, 61, 106, 254
+
+Parerende: 32, 118, 211, 327
+
+Patalemyndigheten: kap. 3-7, kap. 26
+
+Pataleunlatelse: 50
+
+R
+
+Ransaking: 33 (se ogsa visitasjon)
+
+Reaksjon pa brudd: kap. 16, 89
+
+Refeselse: se reaksjon pa brudd
+
+Regionalt niva (regionene): kap. 8
+
+Regieringen: se Kongen i statsrad
+
+Reiseutgitfer:
+
+- ved frigang: 111
+
+- ved laslatelse: 230
+
+- ved permision: 141
+
+Religion: 78, 114, 226, 311
+
+Rentefrys: 288, 299
+
+Renter: kap. 35, 280
+
+Resttid: 237
+
+Rettingslinjene: 7, 97
+
+Rettskraftig: 56, 58, 59, 179, 222, 245
+
+Rettsmete: kap. 5, 143
+
+Rettspolitik: kap. 37, 320
+
+Retur: se verm not retur
+
+Ringetid: 68,126
+
+Romania: 177, 180-181, 263
+
+Rusmider:
+
+- behandling: kap. 21
+
+- undersokelse for: kap 15
+
+- ved fottenkesoning: 186
+
+- ved hjemmesoning: 191
+
+- ved permisjon: 133
+
+- ved prvaelslatelse: 236
+
+Ranning: 109,164,174, 224
+
+Saksbehandling: 56, 92, 176, 250, 320
+
+Samfunnstratff: 61, 63, 76, 179, 252, 329
+
+Sannysnlighetskrav: 37, 122, 126, 153, 161
+
+Schengen: 262
+
+Sedelighet: 143, 171
+
+Sensur: se ytringsfrihet
+
+Sikkerhetsniva: kap. 18, 62, 217
+
+- hayt: 62-63
+
+- lavt: 62-63
+
+- saeirig heyt: kap. 27, 169
+
+SIS (Schengen Information System): 262
+
+Sivilombudsmannen (SOM): 72, 92, 122,
+
+125, 128, 270, 313, 315
+
+Sjeleserger: 7 Sokrad: kap. 9
+
+Sohing: kap. 6
+
+Soningsavbrudd: se stratfavbrudd
+
+Soningsforhold: 208, 306, 318, 322
+
+Soningsoverfaring til utlandet: kap. 19
+
+Soningsudyktig: 61, 209, 221
+
+Soningsutsettlese: 60-62, 209
+
+Sosialhjep: se stenad
+
+Sosialkonsulent: 78, 106
+
+Sosialkontor: 48, 230
+
+Sosialktonad: se stenad
+
+Spesialtoaelt: 148, 209
+
+Sport: se idret
+
+Statens helestilsyn: 202, 318, 341
+
+Statsborgerskap: 234-235
+
+Straffavbrudd: kap. 23, 174, 221, 227, 242
+
+Straffbar handling: 155
+
+- i prevetiden: 222, 237
+
+- planlegging av: 122, 125, 126, 131, 173
+
+- som beginunelse for varetekts-
+
+fengsling: 37, 40
+
+- under permision eller avbrudd: 133, 204
+
+- under samfunnastraff: 64
+
+Straffearamme: 31, 248
+
+- i forbindelse med utvising: 256-258, 264
+
+Straffesak:
+
+- gjenopptakelse av: kap. 31, 334
+
+Straffeskyld: 28, 55
+
+Stanad:
+
+- i searige tilfeller: 279
+
+- til livsopphold: 279
+
+Stenadspenger: 107-108
+
+Svikfare:
+
+- ved frenstilling: 141
+
+- ved overfaring til lav sikkerhet: 171
+
+- ved permisjon: 133
+
+- ved stratfavbrudd: 204
+
+Sykehus: kap. 21, 62, 138, 197
+
+Sykepenger: 111, 275
+
+Sysselsetting: se arbeid
+
+Soknad: kap. 9
+
+Seksmal mot staten: 270
+
+Tanke-, samvitighets- og religionsfrihet: 311
+
+Tannbehanding (tannlege): 46, 281
+
+Taushetsplikt: kap. 10
+
+- for Jussbuss' medarbeitere: 321
+
+- for lege: 202
+
+- for tilsynradsmedlemmer: 77
+
+- for visitor: 327
+
+- generelt: kap. 10
+
+Telefon: kap. 13
+
+- til utlandet: 128
+
+- utgiter: 128
+
+Thailand: 180
+
+Tilknytring til hjemlandet: 260
+
+Tilknytring til Norge: 259
+
+Tillitsjobb: 151, 152
+
+Tilstaelsedom: 53, 67
+
+Tilsyn:
+
+- under besek: 128
+
+- ved bruk av sikkerhetscelle el. sikkerhetsseng: 165
+
+- ved undersokelse: 148
+
+- ved utleuklese: 162
+
+Tilysnradet: 77, 122, 125, 128, 319
+
+Tiltak (andre tiltak):
+
+- ved aktivitetsplikt: 45, 106, 227
+
+- ved bruk av tvangmilder: 164
+
+- ved fotlenkesoning: 190
+
+Tiltalebeslutning: 54
+
+Tingrett: 53-56, 66, 237, 293
+
+Toulettartikler: 108, 281
+
+Tolk: 29, 120, 129
+
+Tortur: se forbud mot tortur
+
+Trygd: kap. 34, 322
+
+TV: 45, 115, 151-152
+
+Tvangsoverfaring:
+
+- til annet fengsel: 173-176
+
+- til utlandet: 180-181
+
+Tungen gjeldsordining: se gjeldsordining
+
+Tvungen osmorg: 222, 257 Tvungent psykisk helesvem: 37, 222, 257
+
+V V 
+
+## Chapter 1 Introduction
+
+The _Planckian_ model of gravity is a very general theory of gravity, and it is a very general theory of gravity. The _Planckian_ model of gravity is a very general theory of gravity.
+
+
+
+## Chapter 1 Introduction
+
+The _Planckian_ model of gravity is a very general theory of gravity, and it is a very general theory of gravity. The _Planckian_ model of gravity is a very general theory of gravity.
+
+
+
+## Chapter 1 Introduction
+
+The _Planckian_ model of gravity is a very general theory of gravity, and it is a very general theory of gravity. The _Planckian_ model of gravity is a very general theory of gravity.
+
